@@ -33,12 +33,4 @@ Requires an `OPENAI_API_KEY` environment variable for LLM judge evaluation.
 
 ## Citation
 
-If you use this code, please cite our paper:
-
-```bibtex
-@article{...,
-  title={On the Limits of Steering Vectors for Preference-Aligned Generation},
-  author={...},
-  year={2025}
-}
-```
+TODO
