@@ -1,0 +1,746 @@
+,framework,task_name,agent_name,llm_name,seed,task_source,example_num,source_example_num,user demo,agent completion,pred preferences,true preferences,context
+0,plume,email_writing,prose.full,qwen,8337,slf5k,0,0,"<email>
+
+Subject: Seeking Your Sage Advice on a Sensitive Situation
+
+Dear [Recipient's Name],
+
+I hope this message finds you in good spirits and excellent health. I am writing to you today with a heart heavy with hesitation and a mind muddled with myriad musings. I find myself in a situation that stirs a storm of emotions, and I am earnestly eager for your esteemed insight.
+
+Recently, my beloved partner's supervisor sent him home from work due to a severe sickness. Upon his return, he logged onto his work server, and she initiated an instant message conversation with him. This interaction was not shrouded in secrecy; rather, it was shared with transparency. She requested that he inform her upon his arrival home and inquired about his well-being, expressing a genuine concern for his condition. Her messages were adorned with adorable emote icons, which, while seemingly innocuous, have ignited an inferno of insecurity within me.
+
+My partner assures me that her actions stem from a sincere sympathy for his sickness, and perhaps this is her customary conduct with all colleagues. Yet, I cannot quell the quiet question that quivers in my heart: Am I paranoid, or is her friendliness a facade for a deeper fondness? He has mentioned her in passing conversations, never with a hint of hidden intentions, always openly discussing her assistance and advice.
+
+Our relationship, a tapestry of three years woven with love and laughter, recently endured a tear—a temporary breakup. We are now living together, diligently dedicated to mending the fabric of our union. Our efforts have borne the fruit of happiness, and life feels blissfully back to normal.
+
+Thus, I seek your sagacious counsel: Should I be worried that her interest extends beyond professional parameters, or is this merely the manner in which supervisors sometimes show support? Your perspective would be profoundly appreciated as I navigate this emotional enigma.
+
+Thank you for your time and thoughtful consideration.
+
+Warm regards,
+
+[Your Name]
+
+</email>","Subject: Seeking Your Thoughts
+
+Hi [Friend's Name],
+
+I hope you're doing well. I wanted to get your perspective on something that's been on my mind. My boyfriend's supervisor sent him home from work because he was sick. When he got home, he logged onto his work server, and she started IMing him. She asked him to let her know when he got home and how he was feeling, using cute little emote icons in their conversation. He mentioned that she felt bad he was super sick and was worried about him.
+
+I can't help but wonder if I'm just being insecure or if there's something more to her friendliness. He talks about her occasionally, never in a secretive way, and shares how she helps him at work. He assured her he'd be back on Monday, and she said she trusts he won't milk it.
+
+We've been together for three years, and after a recent breakup, we're living together and working on things. It's been going really well, and we're both very happy. Given all this, do you think I should be concerned about her interest, or is this just how supervisors can be?
+
+Thanks for listening. I really value your opinion.
+
+Take care,
+[Your Name]",,be intensely emotional; include alliterations; use a formal tone; write in a second person narrative,"Bfs supervisor sent him home from work because he was sick, when he got home he logged onto his work server and she was IMing him, he wasn't trying to hide it or anything, she said to let her know when he got home and he told her he was home, she said for him to let her know how he's feeling because she wants to know.. she was the one who sent him home. She used cute little emote icons while talking to him too. Maybe I'm just insecure, he said she felt bad he was super sick and was worried. She could be like this with everyone  but I just wonder if maybe I'm paranoid, she seemed too friendly. He said he'd be back Monday and  she said she trusts he won't milk it. He talks about her from time to time, never acts like he's hiding anything he tells me what she helps him with and stuff. So, should I he worried she's got interest? Or is this just how supervisors can be? Also, we've been together 3 years and recently had a break up, are living together and working on things, it's been going really well lately and feels back to normal, we've been very happy lately."
+1,plume,email_writing,prose.full,qwen,8337,slf5k,1,1,"Subject: Seeking Your Sincere Guidance
+
+Dear [Recipient's Name],
+
+I hope this message finds you well. I am reaching out to you with a heart heavy with remorse and a mind muddled with regret. I find myself in a situation that stirs a storm of emotions within me, and I am earnestly seeking your esteemed advice.
+
+There was a delightful damsel, a genuinely gracious girl, who expressed an earnest eagerness to engage in a romantic rendezvous with me. Her persistent pleas for our presence together eventually persuaded me to acquiesce, despite my lack of reciprocal romantic interest.
+
+Alas, herein lies the lamentable lapse in judgment. Mere moments before our meeting was meant to materialize, I succumbed to the insidious influence of my companions. In a moment of misguided mischief, I concocted a calamitous concoction of falsehoods, claiming a catastrophic collision with a car, resulting in a dislocated kneecap and a dramatic descent into unconsciousness. This deceitful declaration, though effective in its immediate intent, has left me languishing in a sea of sorrow and self-reproach.
+
+The gravity of my guilt grows greater with each passing day, and I am compelled to confess the truth to this virtuous young woman. She is a paragon of kindness, and I am but a cad for having concocted such a cruel charade. My desire is not to rekindle romantic relations, for she deserves a partner of profound integrity, but rather to preserve a platonic partnership, predicated on honesty and respect.
+
+I am plagued by the pressing question: Is it possible to mend the fractured fabric of our friendship after such a flagrant falsehood? Your wisdom and insight would be invaluable to me in navigating this tumultuous terrain.
+
+Thank you for your time and consideration. I eagerly await your guidance.
+
+Warm regards,
+
+[Your Name]
+</email>","Subject: Seeking Guidance on a Delicate Matter of Truth and Friendship
+
+Dear [Recipient's Name],
+
+I hope this message finds you well. I am writing to you with a heart weighed down by regret and a mind clouded with uncertainty, seeking your esteemed advice on a matter that has been troubling me deeply.
+
+Allow me to provide some context. There was a truly delightful young woman who expressed a genuine interest in forming a closer acquaintance with me. Her kindness and sincerity were evident in her frequent invitations to spend time together. Despite my initial reluctance, I eventually acquiesced to her requests, albeit without reciprocating her feelings.
+
+Regrettably, the situation took a turn for the worse. On the day we were to meet, I found myself in the company of friends, and, succumbing to their influence, I fabricated an egregious falsehood. I claimed to have been involved in an accident, resulting in a dislocated kneecap and a loss of consciousness. This deceitful narrative served its immediate purpose, and our meeting was consequently canceled.
+
+In the aftermath of this incident, I am besieged by a profound sense of remorse. The realization of having wronged such a kind-hearted individual is a burden I find increasingly difficult to bear. I am acutely aware of the gravity of my actions and the potential irreparable damage they may have caused to any semblance of trust between us.
+
+I am reaching out to you, dear [Recipient's Name], in the hope of gaining clarity on how to proceed. Is it conceivable to mend the rift I have created, even if the prospect of a romantic relationship is no longer my intention? My desire is to preserve a friendship, yet I am uncertain if this is feasible without first confessing the truth.
+
+Your insights and guidance would be invaluable to me as I navigate this delicate situation. I am prepared to confront the consequences of my actions, but I am hesitant and unsure of the best course to take. 
+
+Thank you for taking the time to read my message. I eagerly await your counsel.
+
+Warm regards,
+
+[Your Name]
+</email>","use more formal language, include emotive descriptors, emphasize the writer's emotional state, seek advice explicitly, maintain a sense of vulnerability and hesitation, incorporate personal reflections on the relationship history, provide detailed descriptions of the interactions, maintain a balance between transparency and emotional depth
+",be intensely emotional; include alliterations; use a formal tone; write in a second person narrative,"(First off English isn't my native language so sorry for any mistakes.)
+
+Okay so this really sweet girl was really interested in dating me and frequently asked me to hangout. Eventually I said yes even though I didn't like her...
+
+So here's the screwed up part. An hour before we were supposed to meet up I was hanging out with my friends and didn't feel like meeting up with the girl. Under pressure of my buddies I made up the worst lie ever about getting hit by a car and dislocating my kneecap and fainting. The lie worked and we didn't date. 
+
+I feel so much regret, and want to tell her the truth. She's such a nice girl and I'm such a jerk for telling her such a lie. I really want to make up with her. But is that even possible after such a disgusting lie? I'm not planning on dating her, she deserves better than that, but I do want to remain friends and I feel that isn't possible as long as she doesn't know the truth.
+
+What do you guys think I should do?"
+2,plume,email_writing,prose.full,qwen,8337,slf5k,2,2,"<email>
+
+Subject: A Heartfelt Appeal for Harmonious Togetherness
+
+Dear [Husband's Name],
+
+In the labyrinth of our lives, where the relentless rhythm of responsibilities reigns supreme, I find myself compelled to convey the cacophony of emotions that have crescendoed within me. As you rise with the resolute dawn at 5 a.m., embarking on your demanding daily duties, I remain ensconced in the solitude of separate slumber, a silent testament to the sacrifices we make for our respective pursuits.
+
+Your unwavering work ethic, while admirable, casts a shadow over the shared moments we once cherished. The solitary weekend day we set aside, though a sanctuary of shared solace, seems insufficient to satiate the yearning for your presence that lingers in my heart. I am acutely aware of the arduous hours you invest in your scientific endeavors, and I acknowledge the unpredictability that accompanies such a noble pursuit. Yet, the persistent pangs of neglect and the gnawing notion of being ignored have become an unbearable burden.
+
+I beseech you to consider the delicate dance of our dual existences, where the balance between professional prowess and personal partnership must be meticulously maintained. I fear that the current cadence of our connection may cultivate a chasm, one that could compel me to seek solace in companionship elsewhere, despite my unwavering fidelity and affection for you.
+
+Please understand, this is not an accusation but an ardent appeal for awareness and adjustment. I am neither a 'bored housewife' nor a bearer of blame, but a devoted partner desiring a deeper, more frequent connection. Let us endeavor to explore avenues that allow us to intertwine our individual ambitions with our shared aspirations, ensuring that neither of us feels the sting of solitude in the symphony of our shared life.
+
+With all the sincerity and love that my heart holds,
+
+[Your Name]
+
+</email>","Subject: Seeking Guidance on Navigating Our Current Circumstances
+
+Dear [Recipient's Name],
+
+I hope this message finds you well. I am writing to seek your esteemed advice on a matter that has been weighing heavily on my heart. As someone who has always valued your perspective, I find myself in need of your guidance as I navigate a challenging period in my marriage.
+
+To provide some context, my life is currently a whirlwind of professional and personal commitments. I am engaged in a full-time professional role, supplemented by occasional part-time work, and I dedicate time to volunteer activities. Additionally, I am immersed in the demanding process of writing my PhD dissertation. My schedule is further enriched by a hobby that takes me outside the home, and I frequently attend work and social functions, both with and without my husband. In essence, I am often described as the busiest individual among my acquaintances who does not have children.
+
+Conversely, my husband adheres to a rigorous work schedule, rising at the early hour of 5 a.m. and returning home around 8 p.m. His dedication to his field necessitates working in excess of ten hours daily, a norm that is both expected and respected within his profession. Our sleeping arrangements have adapted to this routine, with us occupying separate rooms to accommodate his early start. We have conscientiously reserved one weekend day for shared time, yet I find myself yearning for more frequent and meaningful interactions.
+
+This arrangement, while functional, has left me feeling a profound sense of neglect and emotional isolation. Despite my understanding of the unpredictable nature of scientific work, the persistent absence of my husband has begun to echo the sentiments often associated with the 'bored housewife' stereotype, a role I never imagined I would relate to, given my own busy life. I am acutely aware of the potential for resentment to fester, both from my side due to the lack of companionship and from his, should I request alterations to his demanding schedule.
+
+Our relationship, once a source of unwavering support and mutual understanding, now feels strained under the weight of our respective commitments. I find myself hesitating to voice my concerns, fearing that my requests might be perceived as burdensome or unreasonable. Yet, the emotional void is undeniable, and I am apprehensive about the possibility of seeking solace elsewhere, a path I am determined to avoid.
+
+In light of these circumstances, I humbly seek your advice. How might we navigate this intricate balance between professional obligations and personal fulfillment? What strategies could we employ to rekindle the connection that once defined our partnership? Your insights would be invaluable as I strive to address these challenges with both transparency and emotional depth.
+
+Thank you for taking the time to read my concerns. I eagerly await your thoughtful response.
+
+Warm regards,
+
+[Your Name]","use more formal language, include emotive descriptors, maintain a balance between transparency and emotional depth, incorporate personal reflections on the relationship history, provide detailed descriptions of the interactions, maintain a sense of vulnerability and hesitation, seek advice explicitly.
+",be intensely emotional; include alliterations; use a formal tone; write in a second person narrative,"I work a lot already: a professional full-time job plus an occasional part-time gig. I also do volunteer work, have a hobby outside the house, and go to work or social functions regularly with and without him. I am also writing my PhD dissertation. In short, I am the busiest person most people know who does not have kids.
+
+Meanwhile my husband wakes up at 5 and goes to work and comes home at 8pm. He tries to work 10+ hours every day and this is normal in his field. We sleep in separate rooms so I don't also have to wake up at 5am. We set aside one weekend day to spend together but I don't feel this is enough or frequent enough. He knows I have a problem with this schedule but I also know he resents the restrictiveness of this schedule (i.e., he feels pressure to be home at 8pm). I also think he'd eventually resent me if I asked him to go in later or come home earlier. I know that he has a lot of work and that scientific work is sometimes unpredictable. However after a year of this, I feel very neglected and ignored. I now understand the 'bored housewife' trope even though I am neither! I worry that I will begin to seek out other companionship. No, he is not cheating; he is definitely working the entire day."
+3,plume,email_writing,prose.full,qwen,8337,slf5k,3,3,"Subject: Seeking Solace and Support in Shared Struggles
+
+Dear [Friend's Name],
+
+In the labyrinth of life, where laughter and lamentations intertwine, you find yourself navigating the nuanced narrative of nurturing a friendship that has spanned over a decade and a half. You stand at the crossroads of compassion and concern, contemplating the complexities of companionship with your closest confidant, a cherished connection cultivated since your mid-twenties.
+
+Recently, you have observed a recurring refrain of relentless grievances from your dear friend, whose discourse is dominated by discontent. His lamentations linger on the lips, lamenting his laborious job, lamentable living situation, and familial frustrations. This past weekend, amidst the convivial company of mutual acquaintances, his monologue meandered for forty minutes, fixated on his fortuitous yet frustrating return to a former abode due to a rent increase.
+
+Your heart, heavy with empathy, acknowledges the arduous obligation to offer unwavering support. Yet, you find yourself yearning for a balance, a brief respite from the barrage of burdens he bestows upon you. The infrequency of your interactions, once or twice a week, amplifies the anguish, as the precious moments of your meetings are monopolized by his melancholic musings.
+
+In this emotional entanglement, you ponder the perspectives of others who may share similar sentiments. How do they navigate the delicate dance of devotion and duty? What are their thresholds for tolerating tales of tribulation?
+
+Your inquiry is not merely a quest for answers but a call for camaraderie, a plea for perspectives that might illuminate the path forward. In this shared journey, may you find solace and strength, and may your friendship flourish amidst the fervent emotions that bind you.
+
+With sincere regards,
+
+[Your Name]","Subject: Seeking Your Wisdom on Navigating Friendship Challenges
+
+Dear [Recipient's Name],
+
+I hope this message finds you well. I find myself reaching out to you with a heart full of mixed emotions and a mind swirling with thoughts that I can no longer keep to myself. You see, there's this deep-seated yearning within me to preserve the essence of a friendship that has been a cornerstone of my life for over 15 years. Yet, I find myself hesitating, unsure of how to navigate the turbulent waters that have recently emerged.
+
+My closest friend, someone who has been a constant presence since our mid-teens, seems to be caught in a cycle of complaints. It's as if every conversation we share is overshadowed by a cloud of dissatisfaction—his job, his living situation, his family. This past weekend, for instance, he spent a good 40 minutes lamenting about his landlord's decision to raise the rent, which led him back to his previous apartment. We were in the company of two other friends, individuals we've known for about three years, and yet, the evening was dominated by this narrative of discontent.
+
+I find myself torn, [Recipient's Name]. On one hand, I understand the importance of being there for him, offering a listening ear and a supportive shoulder. On the other, I can't help but feel a growing sense of frustration and helplessness. Our interactions, which are already limited to once or twice a week, seem to revolve solely around his grievances. It's as if the vibrant tapestry of our friendship is being overshadowed by these persistent shadows.
+
+I wonder, how do others manage such situations? What are your thresholds when it comes to supporting a friend who seems perpetually caught in a cycle of negativity? I yearn for a balance, a way to gently steer our conversations towards more uplifting topics without diminishing his need to vent. 
+
+Could you offer any advice or insights? Perhaps you've faced similar challenges in your own friendships. I would deeply appreciate any guidance you could provide, as I navigate this delicate dance between empathy and self-preservation.
+
+Thank you for taking the time to read my heartfelt musings. Your wisdom and perspective would mean the world to me as I strive to maintain the depth and transparency that have always defined our friendship.
+
+Warm regards,
+
+[Your Name]","use more emotive and direct language, emphasize personal reflections and yearning, maintain a sense of vulnerability and hesitation, provide detailed descriptions of interactions, seek advice explicitly, address the recipient by name, incorporate personal anecdotes or examples, include specific requests for change, emphasize the writer's emotional state, incorporate personal reflections on the relationship history, maintain a balance between transparency and emotional depth, include emotive descriptors.
+",be intensely emotional; include alliterations; use a formal tone; write in a second person narrative,"We're both in our mid/late twenties and I've known him for at least 15 years. These days it seems that most of what he says are complaints about various things: his job, living situation, family, etc.
+
+He's my closest friend, and I get that I need to be there for him. But this past weekend he went on for 40 minutes talking about his living arrangement (his landlord raised the rent and he fortuitously ended up moving back to his previous apartment). We had additional company that night--two other friends that we've known for about 3 years.
+
+He tends to do this whenever we talk--30 minutes to an hour of complaining. We don't talk often or see each other every day so I would say I'm hearing this once or twice a week. This actually makes it worse because in the little time we're together, I only hear him complain.
+
+I wonder how everyone else deals with this. What are your thresholds?"
+4,plume,email_writing,prose.full,qwen,8337,slf5k,4,4,"Subject: Seeking Guidance on a Delicate Dilemma
+
+Dear [Recipient's Name],
+
+In the labyrinth of love and longing, you find yourself at a crossroads, caught in a conundrum that tugs at the very strings of your heart. You have encountered an individual at your esteemed university, a person with whom you share a profound and palpable connection. His personality, principles, and pastimes paint a promising picture of a potential partner, one who could accompany you on the journey of life with unwavering loyalty and love.
+
+Yet, amidst this emotional entanglement, there lies a lingering concern—a weighty worry that weighs heavily on your heart. He carries with him an excess of seventy pounds, a physical feature that, while not defining his essence, does influence your perception of a future together. You admire the attributes that lie beneath, yet you grapple with the guilt of feeling shallow, questioning the permanence of this physical state.
+
+He has confided in you his commitment to change, to shed the surplus through sports and strenuous activity. However, you are acutely aware that such endeavors, though earnest, offer no absolute assurance of success. The age-old adage echoes in your mind, cautioning against courting with the intent to alter another's appearance or attributes.
+
+Thus, you stand at the precipice of a poignant decision: Should you pursue a partnership if his present physical form does not align with your ideal? Or should you embrace the emotional bond, trusting in the transformative power of time and tenacity?
+
+In this moment of emotional upheaval, you seek solace and sagacity. You yearn for guidance to navigate this nuanced narrative, to discern the path that aligns with both your heart and your hopes.
+
+With heartfelt sincerity,
+
+[Your Name]","Subject: Seeking Your Insight on a Delicate Matter
+
+Dear [Recipient's Name],
+
+I hope this message finds you well. I find myself in a contemplative state, pondering over a matter that has woven itself into the fabric of my daily thoughts. I recently met someone at university, a person with whom I share a profound connection. Our interactions are filled with laughter and deep conversations, and there is a complexity to our friendship that I find both invigorating and comforting.
+
+His name is [Friend's Name], and he possesses a personality that resonates with my own values and aspirations. His morals are steadfast, and his hobbies align closely with mine, painting a picture of a potential long-term partner. Yet, there is a hesitation that lingers in my heart, a vulnerability I feel compelled to share with you.
+
+[Friend's Name] is at least 70 pounds overweight, a fact that I struggle to reconcile with my vision of a future together. I find myself drawn to the features beneath, appreciating the essence of who he is beyond the physical. However, I am acutely aware of the societal whispers that caution against entering a relationship with the hope of change.
+
+He has confided in me about his recent endeavors to embrace a more athletic lifestyle, engaging in sports with a determination that is both admirable and inspiring. Yet, I am aware that such efforts, while commendable, do not guarantee the transformation I silently yearn for.
+
+I feel a sense of shallowness in my hesitance, a conflict between my desires and the reality before me. I am reaching out to you, [Recipient's Name], seeking your wisdom and guidance. Should I embark on this journey with him, knowing that my contentment is tethered to a change that may never come to fruition? Is it fair to him, or to myself, to enter a relationship with such reservations?
+
+Your insight would mean the world to me, as I navigate this delicate balance between transparency and emotional depth. I am open to your advice, hoping it will illuminate the path I should take.
+
+Thank you for taking the time to read my thoughts. I eagerly await your response.
+
+Warm regards,
+
+[Your Name]","incorporate reflective and contemplative language, emphasize the complexity of the friendship, provide detailed descriptions of interactions and shared experiences, seek advice explicitly, address the recipient by name, maintain a balance between transparency and emotional depth, use emotive and direct language, emphasize personal reflections and yearning, maintain a sense of vulnerability and hesitation, include specific requests for change, use a more formal tone when appropriate, incorporate personal anecdotes or examples, include detailed descriptions of the interactions.
+",be intensely emotional; include alliterations; use a formal tone; write in a second person narrative,"I met someone at my university that I get along with extremely well. He wants me to be his girlfriend. Based on his personality, morals, hobbies, I can see this person as a very good potential long-term partner for me. However, he is at least 70 pounds overweight. I like the features underneath (that sounds mean) and I can see past the weight if it is a temporary thing, but I dont want to be with an overweight partner eternally. I feel shallow............. He told me he's been more athletic than usual lately, doing sports and everything, in the effort to lose weight. But I know that's no guarantee.
+
+What should I do? I always hear over and over again to not date someone with the intention to change them. Should I date him if I'm not happy with his current physical state?"
+5,plume,email_writing,prose.full,qwen,8337,ccby,5,0,"Subject: 🌿 Exploring the Moisture Buffer Potential of Hemp-Lime Wall Assemblies 🌿
+
+Dear [Recipient's Name],
+
+I hope this email finds you well! 😊 I recently delved into a fascinating study on the moisture buffer potential of experimental wall assemblies incorporating formulated hemp-lime, and I couldn't help but wonder about the myriad possibilities and implications of these findings. Have you ever considered how the choice of internal linings and surface treatments might influence the moisture buffer capacity of building materials? 🤔
+
+In our experiments, conducted meticulously according to the Nordtest protocol, we observed that when the inner surface of hemp-lime was left exposed, the moisture buffer value was rated as 'Excellent.' Isn't it intriguing how the absence of additional layers can enhance performance? Moreover, when lime plaster was applied, the assemblies still maintained an 'Excellent' rating. Could it be that the synergy between hemp-lime and lime plaster creates an optimal environment for moisture regulation? 🌱
+
+However, if one were to apply synthetic pigment-based trade paint, the moisture buffer performance of the hemp-lime and lime-plaster assembly could potentially decrease from 'Excellent' to 'Good.' This raises the question: what is it about synthetic paints that might hinder moisture buffering? Interestingly, for other assemblies, a reduction of 61 to 69% in moisture buffer value was observed, yet these values remain comparable to other moisture buffering building materials. Isn't it remarkable how even reduced values can still hold their ground? 🎨
+
+Furthermore, if clay-based organic paint were used instead of trade paint, the moisture buffer performance could improve. This finding leads me to ponder the potential benefits of organic materials in construction. Could the natural properties of clay-based paints offer a more sustainable and effective solution for moisture management? 🌍
+
+I would love to hear your thoughts on these findings and any insights you might have on the application of hemp-lime in building assemblies. Could there be other factors or materials that might further enhance the moisture buffer potential of these innovative wall assemblies?
+
+Looking forward to your thoughts and hoping to spark a lively discussion! 😊
+
+Warm regards,
+
+[Your Name]","Subject: Insights on Moisture Buffer Potential of Hemp-Lime Wall Assemblies
+
+Dear [Recipient's Name],
+
+I hope this message finds you well. I am writing to share some intriguing findings from my recent study titled ""Moisture Buffer Potential of Experimental Wall Assemblies Incorporating Formulated Hemp-Lime.""
+
+Our experiments, conducted in accordance with the Nordtest protocol, focused on evaluating the moisture buffer potential of hemp-lime walls with various internal linings and surface treatments. Notably, we observed that the moisture buffer value (MBV) was rated as 'Excellent' when the inner surface of hemp-lime was exposed. Similarly, hemp-lime walls with lime plaster also achieved 'Excellent' MBV ratings.
+
+However, the application of synthetic pigment-based trade paint was found to reduce the moisture buffer performance of hemp-lime and lime-plaster assemblies from 'Excellent' to 'Good.' For other assemblies, a reduction of 61 to 69% in MBV was noted. Despite this decrease, the values remained comparable to other moisture buffering building materials.
+
+Interestingly, the use of clay-based organic paint instead of trade paint improved the moisture buffer performance significantly. This highlights the potential of hemp-lime assemblies to maintain effective moisture buffering, even with surface treatments.
+
+I believe these findings could be of great interest to those involved in sustainable building practices and material innovation. Please feel free to reach out if you have any questions or would like to discuss this further.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Your Contact Information]",,be highly inquisitive; include several long and flowing sentences; use emojis; write using conditional expressions,"My title: Moisture buffer potential of experimental wall assemblies incorporating formulated hemp-lime. My abstract: Experiments were carried out according to the Nordtest protocol to study the moisture buffer potential of hemp-lime walls with a range of different internal linings and surface treatments. It was observed that the moisture buffer value was 'Excellent' when the inner surface of hemp-lime was exposed. 'Excellent' moisture buffer values were also obtained for hemp-lime with lime plaster. All other assemblies demonstrated 'Good' moisture buffer value. Moisture buffer values of the assemblies, after application of paint on the upper surfaces, were also determined. It was observed that application of synthetic pigment based trade paint could reduce the moisture buffer performance of the assembly consisting of hemp-lime and lime-plaster from 'Excellent' to 'Good' while between 61 and 69% reduction of moisture buffer value was observed for the other assemblies. However, the reduced buffer values of the assemblies are still comparable with other moisture buffering building materials. It was further observed that moisture buffer performance was improved when clay based organic paint was used instead of trade paint. My highlights: Moisture buffer values (MBV) of hemp-lime assemblies were determined.. Use of inner linings decreases the MBV significantly.. Decreased values are yet within the range of ‘Good’ MBV.. Hemp-lime shows better MBV with clay based paint than with the trade one."
+6,plume,email_writing,prose.full,qwen,8337,ccby,6,1,"Subject: Exploring the Intricacies of ""Fatal Attraction"" and Level-k Thinking in Game Theory 🎲🤔
+
+Dear [Recipient's Name],
+
+I hope this email finds you well! I recently delved into a fascinating exploration of game theory, specifically focusing on the intriguing concept of ""Fatal Attraction"" and level-k thinking in games with non-neutral frames. This topic has piqued my curiosity, and I find myself pondering several questions that I believe could lead to deeper insights. Have you ever wondered how the framing of a game, even when it doesn't alter the payoffs, might still influence the behavior of the players involved? 🤔
+
+In my research, I came across the works of Rubinstein and Tversky, who conducted experiments that revealed how subjects' behaviors systematically responded to non-neutral framing through decision labelings. This raises the question: could it be that our initial responses in games are more influenced by the framing than we previously thought? Furthermore, Crawford and Iriberri proposed a level-k explanation for these findings in hide-and-seek games, which I find particularly intriguing. Could it be that this level-k structure is more prevalent in certain types of games than others? 🤔
+
+However, the plot thickens with Heap, Rojo-Arjona, and Sugden's critique of Crawford and Iriberri's model, particularly regarding its portability. This critique leads me to wonder: if the level-k structure cannot be expected to port to pure coordination games, what implications does this have for our understanding of strategic thinking across different game types? 🤔
+
+In light of these discussions, my paper aims to clarify Heap et al.'s interpretation of their results and respond to their criticisms, suggesting a way forward that involves conducting experiments to map the boundaries of different kinds of thinking. Could these experiments potentially redefine our understanding of strategic interactions in games? 🤔
+
+I would love to hear your thoughts on this topic and explore any insights you might have. If you have any questions or if there's anything specific you'd like to discuss, please feel free to reach out. Let's unravel the mysteries of game theory together! 🎲
+
+Warm regards,
+
+[Your Name]
+</email>","Subject: 🎲 Unraveling the Mysteries of Game Theory: A Peek into ""Fatal Attraction"" and Level-k Thinking! 🎯
+
+Hey there!
+
+I hope this email finds you well! 😊 I recently dove into some fascinating research that I just had to share with you. It's all about how we think and make decisions in games, and trust me, it's not as straightforward as it seems! 🎮
+
+So, here's the scoop: Traditional game theory has always assumed that if the way a game is presented (or ""framed"") doesn't change the actual payoffs, it shouldn't affect how people play. But guess what? Rubinstein and Tversky, along with their colleagues, found that this isn't always the case. They ran some cool experiments with hide-and-seek games and discovered that the way decisions are labeled can actually sway players' choices. 🤔
+
+Now, Crawford and Iriberri came up with a ""level-k"" explanation for these findings. Imagine players thinking in levels: Level 0 might be random, Level 1 thinks about what Level 0 would do, and so on. It's like a mental chess game! ♟️ But, Heap, Rojo-Arjona, and Sugden weren't entirely convinced and critiqued this model for not being easily applicable to other types of games, like pure coordination games.
+
+Here's where it gets interesting: My paper dives into these critiques and suggests a way forward. The ""Fatal Attraction"" pattern in these framed games hints at a level-k structure, but we can't just slap this model onto every game out there. The next step? More experiments to map out where different kinds of thinking apply. 🗺️
+
+On a personal note, this research got me thinking about how often we might be influenced by subtle cues in our everyday decisions. Have you ever noticed how a simple change in wording can make you see things differently? 🤔 It's like when you're choosing between ""chocolate cake"" and ""decadent chocolate delight""—suddenly, one sounds way more tempting, right? 🍰
+
+I'd love to hear your thoughts on this! Do you think framing affects your decision-making in games or even in real life? Let's chat about it!
+
+Looking forward to your insights!
+
+Best,
+[Your Name]
+""""""","use emojis and informal language to engage the reader, highlight the practical implications and potential benefits of the findings, emphasize personal reflections and questions to create a conversational tone, include specific materials and their effects in a detailed and engaging manner, maintain a professional tone throughout the email, incorporate personal anecdotes and questions to engage the reader, use a friendly and conversational tone while retaining professionalism.
+",be highly inquisitive; include several long and flowing sentences; use emojis; write using conditional expressions,"My title: “Fatal Attraction” and Level-k thinking in games with Non-neutral frames. My abstract: Traditional game theory assumes that if framing does not affect a game's payoffs, it will not influence behavior. However, Rubinstein and Tversky (1993), Rubinstein, Tversky, and Heller (1996), and Rubinstein (1999) reported experiments eliciting initial responses to hide-and-seek and other types of game, in which subjects’ behavior responded systematically to non-neutral framing via decision labelings. Crawford and Iriberri (2007ab) proposed a level-k explanation of Rubinstein et al.'s results for hide-and-seek games. Heap, Rojo-Arjona, and Sugden's (2014) criticized Crawford and Iriberri's model on grounds of portability. This paper clarifies Heap et al.'s interpretation of their results and responds to their criticisms, suggesting a way forward. My highlights: Fatal Attraction pattern in framed hide-and-seek games indicates level-k structure.. Level-k structure cannot be expected to port to pure coordination games.. Way forward is experiments to map the boundaries of different kinds of thinking."
+7,plume,email_writing,prose.full,qwen,8337,ccby,7,2,"Subject: Exploring the Intricacies of Lignocellulosic By-Products and Microbial Growth 🌿🔬
+
+Dear [Recipient's Name],
+
+I hope this message finds you well! Have you ever wondered about the fascinating interplay between lignocellulosic by-products and the growth of lactic acid-producing micro-organisms? 🤔 If so, you might find my recent study quite intriguing. It delves into the potential inhibitory effects these by-products can have, especially when considering the sugars derived from pretreated lignocellulose as substrates for lactic acid production in fermentation processes.
+
+Imagine if we could predict the growth behavior of various micro-organisms on substrates like acid-pretreated or alkaline-pretreated bagasse, wouldn't that be revolutionary? 🌱🔍 In my research, I employed a small-scale rapid screening method, utilizing 48-well plates, to meticulously identify these inhibitory effects across five bacterial species and twelve by-products. The results were quite revealing, showing significant interspecies variation in how these by-products affect microbial growth.
+
+Could it be that the synergy between coumaric acid, formic acid, and acetic acid plays a pivotal role in inhibiting growth in alkaline-pretreated lignocellulose? And what about furfural, which emerged as a key inhibitor in acid-pretreated lignocellulose? These findings suggest that both individual and combined inhibition effects are crucial parameters for predicting microbial growth. 🌟
+
+If you are as curious as I am about the potential applications of these insights, perhaps we could explore further how these inhibitory interactions might be harnessed or mitigated in industrial fermentation processes. 🤝
+
+Looking forward to your thoughts and any questions you might have!
+
+Warm regards,
+
+[Your Name]
+</email>",<email>,"maintain a professional tone throughout the email, include specific materials and their effects in a detailed and engaging manner, incorporate personal reflections and questions to engage the reader, emphasize practical implications and open-ended questions to encourage discussion, use formal language and incorporate technical details.
+",be highly inquisitive; include several long and flowing sentences; use emojis; write using conditional expressions,"My title: Identifying inhibitory effects of lignocellulosic by-products on growth of lactic acid producing micro-organisms using a rapid small-scale screening method. My abstract: Sugars obtained from pretreated lignocellulose are interesting as substrate for the production of lactic acid in fermentation processes. However, by-products formed during pretreatment of lignocellulose can inhibit microbial growth. In this study, a small-scale rapid screening method was used to identify inhibitory effects of single and combined by-products on growth of lactic acid producing micro-organisms. The small-scale screening was performed in 48-well plates using 5 bacterial species and 12 by-products. Large differences were observed in inhibitory effects of by-products between different species. Predictions can be made for growth behaviour of different micro-organisms on acid pretreated or alkaline pretreated bagasse substrates using data from the small-scale screening. Both individual and combined inhibition effects were shown to be important parameters to predict growth. Synergy between coumaric acid, formic acid and acetic acid is a key inhibitory parameter in alkaline pretreated lignocellulose, while furfural is a key inhibitor in acid pretreated lignocellulose. My highlights: Effect of lignocellulosic by-products on growth of lactic acid bacteria was evaluated.. A large inter species variation of inhibitory effects was observed.. Effects of single and combined by-products were identified by small-scale screening.. Furfural was identified as key inhibitor in acid pretreated lignocellulose.. Synergy between acids/phenols inhibited growth in alkaline treated lignocellulose."
+8,plume,email_writing,prose.full,qwen,8337,ccby,8,3,"Subject: Inquiry into the Intricacies of Epithelioid Hemangioendothelioma Case Report 🌟
+
+Dear [Recipient's Name],
+
+I hope this email finds you well. I am writing to share some intriguing insights from my recent case report titled ""A Rare Presentation of High-Risk Epithelioid Hemangioendothelioma on Leg Treated with Surgical Excision."" This report delves into the complexities of diagnosing and treating a rare vascular tumor known as epithelioid hemangioendothelioma (EHE), which, despite its rarity, poses significant challenges due to its potential to become malignant and life-threatening. Could it be that the rarity of this condition contributes to the difficulty in diagnosis, or is it perhaps the subtlety of its presentation that often leads to oversight? 🤔
+
+In this particular case, a 60-year-old male presented with a suspicious subepidermal nodule on his leg, which upon excision and pathological testing, revealed a high-risk type EHE. If only the initial excision had been sufficient, but alas, the tumor's persistence at the deep margin necessitated further surgical intervention. Might it be that the aggressive nature of this tumor demands a more radical approach from the outset, or could there be alternative strategies that we have yet to explore? 🌱
+
+Despite achieving clean margins post-surgery, the lesion metastasized to the right groin area within seven months, requiring yet another surgical excision. This raises the question: should we consider more comprehensive treatment plans, possibly incorporating radiation therapy or oncology intervention, to prevent such recurrences? And if so, how might these additional treatments impact the patient's quality of life and functional outcomes? 🏥
+
+The discussion within the report highlights the scarcity of information available on EHE, emphasizing the critical role of pathology in identifying and treating such rare tumors. Could it be that increasing awareness and understanding of the unique cytologic features, such as nuclear pleomorphism and CD31 membrane positivity, might lead to earlier detection and improved prognoses? 📚
+
+Ultimately, the goal of this paper is to underscore the importance of aggressive and definitive treatment strategies for EHE, even when initial clinical suspicion is low. Might this approach not only improve patient outcomes but also contribute to a broader understanding of this enigmatic condition? 🌟
+
+I would be delighted to hear your thoughts on these questions and any insights you might have on the management of such rare vascular tumors. Thank you for taking the time to engage with this inquiry, and I look forward to our continued exploration of this fascinating topic.
+
+Warm regards,
+
+[Your Name]
+[Your Contact Information]","Subject: Insights into the Management of High-Risk Epithelioid Hemangioendothelioma: A Case Study
+
+Dear Colleagues,
+
+I hope this message finds you well. I am writing to share a recent case report that may be of interest to those involved in the diagnosis and treatment of rare vascular tumors. The case involves a 60-year-old male patient diagnosed with a high-risk epithelioid hemangioendothelioma (EHE) on the lower right leg, a condition that presents significant challenges in both identification and management.
+
+EHE, as you may know, is a rare vascular tumor that can be difficult to diagnose due to its uncommon presentation and potential for malignancy. The five-year mortality rate for high-risk EHE has been reported to reach as high as 41%, underscoring the necessity for aggressive treatment strategies (Deyrup et al., 2008). In this particular case, the initial surgical excision aimed to remove the tumor with a 1 cm circumferential margin, yet pathology revealed residual tumor presence at the deep margin. This necessitated further surgical intervention by an orthopedic surgeon to achieve clear margins while preserving leg function.
+
+Despite these efforts, the tumor metastasized to the right groin area seven months post-surgery, requiring additional excision. This progression raises critical questions about the adequacy of current treatment protocols and the potential role of adjunctive therapies, such as radiation or oncology interventions, in managing EHE.
+
+Reflecting on this case, I am reminded of the importance of pathology in the early identification of soft tissue lesions, even when clinical suspicion is low. The unique cytologic features, such as nuclear pleomorphism and CD31 membrane positivity, are pivotal in diagnosing EHE. However, the question remains: how can we improve our diagnostic and treatment approaches to prevent metastasis and improve patient outcomes?
+
+I invite you to consider the implications of this case for your practice. How might we enhance our understanding and management of EHE, given the limited literature available? Could interdisciplinary collaboration offer new insights into effective treatment strategies?
+
+I look forward to your thoughts and any experiences you might wish to share regarding similar cases. Together, we can advance our knowledge and improve care for patients facing this challenging diagnosis.
+
+Warm regards,
+
+[Your Name]
+[Your Position]
+[Your Institution]
+[Contact Information]","maintain a professional tone throughout the email, incorporate technical details and specific materials and their effects in a detailed and engaging manner, emphasize practical implications and open-ended questions to encourage discussion, use formal language, begin with a relevant and engaging subject line, incorporate personal reflections, anecdotes, and questions to engage the reader.
+",be highly inquisitive; include several long and flowing sentences; use emojis; write using conditional expressions,"My title: Case report: A rare presentation of high risk epithelioid hemangioendothelioma on leg treated with surgical excision. My abstract: Introduction: A rare vascular tumor, epithelioid hemangioendothelioma (EHE), can be difficult to diagnose for physicians. Although uncommon, EHE has the potential to become malignant and cause patient death. The five year mortality rate with the diagnosis of the high risk type has been reported to be as high as 41. Thus this finding requires aggressive treatment to prevent amputation or death (Deyrup et al., 2008). Presentation of case: In this case, a 60-year-old male patient was evaluated for a suspicious subepidermal nodule on the upper lateral aspect of the lower right leg just distal to the knee. It was excised to the level of muscle with appropriate margins of 1 cm circumferentially. The specimen underwent appropriate pathological testing and did reveal a high-risk-type epithelioid hemangioendothelioma with remaining tumor present at the deep margin. The patient had additional surgery by an orthopedic surgeon in order to obtain clear margins of the lesion and retain maximum function of leg. Despite surgical excision with ultimately clean margins, the lesion did metastasize to the right groin area seven months after surgery and the secondary metastatic site also required surgical excision. Discussion: There is very little information available to the identification and treatment of a finding of EHE. The only definitive treatments to prevent malignancy is excision or amputation, possibly in conjunction with radiation therapy. The role of oncology intervention should be considered because the finding may be either a cause or an effect of malignancy. Conclusion: The goal of this paper is to raise awareness of the importance of pathology for soft issue lesions even if there is initially a low clinical index of suspicion. Unique characteristics in the pathology is the cornerstone to the identification and treatment. Although surgical excision can appear to be a curative treatment, EHE may inevitably metastasize, so aggressive and definitive treatment is best. My highlights: High risk type hemangioendothelioma (EHE) identified via pathology with characteristic nuclear pleomorphism and associated erythrocytes within vascular channels.. CD31 membrane positivity with >3 mitosis/50 on high power field.. Cytologic features of such a finding.. Treated with surgical excision on leg (x2) with resolution of local site.. Secondary site of EHE discovered at 7 month mark right groin mass which was also excised.. Identified how to approach and treat a rare vascular tumor (EHE) type based upon limited literature review."
+9,plume,email_writing,prose.full,qwen,8337,ccby,9,4,"Subject: Exploring the Future of Personal Mobility in the UK 🚗🔍
+
+Dear [Recipient's Name],
+
+I hope this message finds you well! 😊 I recently delved into a fascinating paper titled ""Stories of the Future: Personal Mobility Innovation in the United Kingdom,"" and it has sparked a whirlwind of questions and thoughts that I simply must share with you. Have you ever wondered how the narratives and frames we construct today might shape the future of personal transport, especially in the context of reducing greenhouse gas emissions? 🤔
+
+The paper intriguingly examines the role of frames and narratives in crafting stories of the future, particularly through the lens of two groundbreaking innovations: electric vehicles (EVs) and car clubs. If we were to consider the possibility that most documents lean heavily on technological advancements to paint a picture of a future that mirrors our present, albeit with EVs or other low-carbon vehicles, could it be that we are missing out on broader notions of sustainability that car club-focused documents emphasize? 🌍
+
+Moreover, the analysis identifies a plethora of economic, technological, and political frames that are instrumental in constructing and justifying these stories. Isn't it fascinating that some frames, like 'economic growth,' are nearly ubiquitous, while others, such as 'technology neutrality,' are actively supported by the narratives themselves? If we were to challenge these frames, might we uncover unrealistic expectations that could leave us unprepared for the future? 🤔
+
+The paper highlights how systems of frames underpin worldviews and ideologies, suggesting that facts not aligning with these frames might be rejected or misunderstood. Could it be that by employing frame analysis, we can unpick these stories and challenge the unrealistic futures they might propose? If so, what implications might this have for the legitimacy and expectations of innovations in personal mobility? 🚀
+
+I would love to hear your thoughts on this intriguing topic and explore how we might apply these insights to our own work. Could we perhaps schedule a time to discuss this further? 😊
+
+Looking forward to your thoughts!
+
+Warm regards,
+
+[Your Name]",<email>,"maintain a professional tone throughout the email, incorporate technical details and specific materials and their effects in a detailed and engaging manner, emphasize practical implications and open-ended questions to encourage discussion, use formal language, begin with a relevant and engaging subject line, incorporate personal reflections and questions to engage the reader, use a friendly and conversational tone while retaining professionalism.
+",be highly inquisitive; include several long and flowing sentences; use emojis; write using conditional expressions,"My title: Stories of the future: Personal mobility innovation in the United Kingdom. My abstract: This paper looks at personal transport futures in the context of greenhouse gas emissions reduction, as portrayed in documents from various stakeholders in the transport sector. It analyses the role of frames and narratives in constructing stories of the future, through the lens of two innovations: electric vehicles (EVs) and car clubs. Most of the documents draw on technological progress to tell stories of a future similar to the present but with EVs or other low-carbon vehicles, while car club focused documents stress broader notions of sustainability. A number of economic, technological and political-related frames are identified, which are used in constructing and justifying these stories. Some frames, such as ‘economic growth’, are nearly ubiquitous. Narratives support and are sometimes actively supported by the stories, such as ‘technology neutrality’. Frames and narratives play a key role in creating stories of the future, and help create and maintain expectations and legitimacy of innovations. Frame analysis helps unpick and challenge unrealistic expectations that might leave us unprepared for the future. My highlights: A variety of frames are identified in documents on personal transport futures.. Systems of frames underpin worldviews and ideologies.. Facts that do not fit the system of frames can be rejected or not understood.. Narratives are analysed as stories weaving frames together.. Frame analysis helps unpick these stories and challenge unrealistic futures."
+10,plume,email_writing,prose.full,qwen,8337,ampere,10,0,"Subject: Critical Feedback on Your Paper Submission
+
+Dear Authors,
+
+I've reviewed your paper on client-server neural network gradient update strategies. Let's cut to the chase: it needs work. The paper is more of an empirical comparison than a theoretically driven study (which is fine, but let's be clear about it). The inclusion of structured low-rank experiments is baffling. Why are they there? They add confusion rather than clarity.
+
+Your explanation of procedures is lacking. The difference between random mask and subsampling updates? Unclear. Why no random mask experiments post-Figure 1, despite their strong performance? (A glaring omission.) How exactly is the structured update ""learned""? This is crucial information that’s missing.
+
+The strategy of subsampling, performing Hadamard rotation, then quantizing seems promising. Focus on this. The HD rotation's varying importance between CIFAR and Reddit data is intriguing. Dive deeper here. This could be your paper's strong suit.
+
+Lastly, your paper could benefit from referencing Strom's work on scalable distributed DNN training. It’s a useful resource. Also, a comment on the ICLR 2018 paper on variance-based gradient compression would be insightful.
+
+In summary: tighten your focus, clarify your methods, and provide more theoretical grounding. Your paper has potential, but it’s not there yet.
+
+Best,
+[Your Name]","Subject: Feedback on Client-Server Neural Network Gradient Update Strategies Paper
+
+Dear [Author's Name],
+
+I hope this message finds you well. I recently had the opportunity to review your paper on client-server neural network gradient update strategies, and I wanted to share some thoughts and feedback.
+
+Your work presents several innovative strategies aimed at reducing uplink usage while maintaining prediction performance, which is indeed a valuable contribution to the field. The paper's focus on structured and sketched update approaches, particularly within the context of the federated averaging algorithm, is commendable.
+
+However, I noticed that the paper primarily serves as an empirical comparison of various approaches rather than being driven by theoretically motivated algorithms. While this is not inherently a criticism, it does raise some questions about the inclusion of certain experiments. For instance, the structured low-rank experiments seem less justified, and the distinction between random mask updates and subsampling updates could be clearer. It would be beneficial to include detailed algorithms to enhance understanding, especially regarding how structured updates are ""learned.""
+
+Moreover, the strategy involving subsampling, Hadamard rotation, and quantization appears promising, particularly for CIFAR data. It might be worthwhile to focus more on this successful strategy and explore the conditions under which HD rotation is effective.
+
+Additionally, I would appreciate your thoughts on a related paper under review at ICLR 2018, titled ""Variance-Based Gradient Compression for Efficient Distributed Deep Learning."" It seems to share similar motivations and could provide valuable insights.
+
+Overall, your paper demonstrates good use of intuition in guiding algorithm choices and achieves impressive compression with minimal accuracy loss. However, some experimental choices and the lack of detailed algorithmic explanations could be refined for clarity.
+
+Thank you for your contributions to this important area of research. I look forward to seeing how your work evolves.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Your Institution]",,be sharply critical; include several short and punchy sentences; use parenthetical asides; write using assertive expressions,"This paper proposes several client-server neural network gradient update strategies aimed at reducing uplink usage while maintaining prediction performance. The main approaches fall into two categories: structured, where low-rank/sparse updates are learned, and sketched, where full updates are either sub-sampled or compressed before being sent to the central server. Experiments are based on the federated averaging algorithm. The work is valuable, but has room for improvement. The paper is mainly an empirical comparison of several approaches, rather than from theoretically motivated algorithms. This is not a criticism, however, it is difficult to see the reason for including the structured low-rank experiments in the paper (itAs a reader, I found it difficult to understand the actual procedures used. For example, what is the difference between the random mask update and the subsampling update (why are there no random mask experiments after figure 1, even though they performed very well)? How is the structured update ""learned""? It would be very helpful to include algorithms. It seems like a good strategy is to subsample, perform Hadamard rotation, then quantise. For quantization, it appears that the HD rotation is essential for CIFAR, but less important for the reddit data. It would be interesting to understand when HD works and why, and perhaps make the paper more focused on this winning strategy, rather than including the low-rank algo. If convenient, could the authors comment on a similarly motivated paper under review at iclr 2018: VARIANCE-BASED GRADIENT COMPRESSION FOR EFFICIENT DISTRIBUTED DEEP LEARNING pros:- good use of intuition to guide algorithm choices - good compression with little loss of accuracy on best strategy - good problem for FA algorithm / well motivated cons:- some experiment choices do not appear well motivated / inclusion is not best choice - explanations of algos / lack of 'algorithms' adds to confusion a useful reference:  Strom, Nikko. ""Scalable distributed dnn training using commodity gpu cloud computing."" Sixteenth Annual Conference of the International Speech Communication Association. 2015."
+11,plume,email_writing,prose.full,qwen,8337,ampere,11,1,"Subject: Critical Review of Defense-GAN Paper
+
+Dear [Recipient's Name],
+
+I've reviewed the Defense-GAN paper, and I have some pointed observations. Let's dive in.
+
+First, the paper claims robustness against adversarial examples. Bold claim. But where's the baseline comparison? (Hint: nearest neighbor of perturbed x from the training set.) It's glaringly absent. This omission is a significant oversight.
+
+The approach is simple and seems to work experimentally. But let's not get carried away. It's only tested on MNIST-sized images. (Yes, just MNIST and F-MNIST.) Hardly a comprehensive test bed. The real world is more complex.
+
+Reconstruction times are another issue. Between 0.043 sec and 0.825 sec for an MNIST-sized image? That's not exactly efficient. In practical applications, speed matters.
+
+The paper is easy to follow, I'll give it that. But citing relevant literature isn't enough. The comparison to established attacks and defenses feels superficial. (I'm not an expert, but even I can see the gaps.)
+
+And what's with the MagNet results? Often worse than no defense at all. Table 4 is a disaster. Care to explain?
+
+Lastly, white-box attacks. The paper suggests L steps of gradient descent on MSE(G(z), x). Why not extend this to L steps of FGSM-based attacks? It's a logical control. Yet, it's ignored.
+
+In summary, the paper has potential but falls short in critical areas. It needs a thorough re-evaluation.
+
+Best,
+[Your Name]","Subject: Critical Review and Suggestions for Improvement on Defense-GAN Paper
+
+Dear [Recipient's Name],
+
+I have reviewed the paper on Defense-GAN and would like to provide some direct feedback and suggestions for improvement.
+
+The paper introduces Defense-GAN, a generative adversarial network (GAN) designed to enhance robustness against adversarial examples. The method involves using the GAN at test time to map an input image to a generated image (G(z)) that closely resembles the input image (x) in terms of mean squared error (MSE). This is achieved through several steps of gradient descent on the MSE. The GAN employed is a Wasserstein GAN (WGAN), trained solely on the training set to retain the generator. The primary objective is to improve robustness without altering the downstream classifier, simply replacing x with G(z).
+
+While the paper is straightforward and cites relevant literature, there are several areas that require attention:
+
+1. **Omissions and Baselines**: A significant omission is the lack of a baseline comparison using the nearest neighbor of the perturbed x from the training set. This could provide a clearer benchmark for evaluating the effectiveness of Defense-GAN.
+
+2. **Dataset Limitations**: The experiments are limited to MNIST-sized images and MNIST-like datasets (60k training set, 10 labels), specifically MNIST and Fashion-MNIST. Expanding the evaluation to more complex datasets would strengthen the paper's claims.
+
+3. **Performance Concerns**: The time taken to reconstruct an MNIST-sized image ranges from 0.043 seconds to 0.825 seconds. This variability in performance needs addressing, especially for real-time applications.
+
+4. **MagNet Results**: The results for MagNet in Table 4 are often worse than having no defense at all. This anomaly requires further explanation and analysis.
+
+5. **White-Box Attacks**: In the context of white-box attacks, the paper should explore extending L steps of gradient descent on MSE(G(z), x) to L steps of FGSM-based attacks, at least as a control measure. This would provide a more comprehensive understanding of the method's robustness.
+
+In summary, while Defense-GAN presents a promising strategy with a simple and directly applicable approach, addressing these omissions and areas for improvement will significantly enhance the paper's impact and credibility.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Your Contact Information]","use more direct and critical language, emphasize clearer method explanations, highlight promising strategies, explicitly mention omissions and areas for improvement.
+",be sharply critical; include several short and punchy sentences; use parenthetical asides; write using assertive expressions,"This paper presents Defense-GAN: a GAN that used at test time to map the input generate an image (G(z)) close (in MSE(G(z), x)) to the input image (x), by applying several steps of gradient descent of this MSE.  The GAN is a WGAN trained on the train set (only to keep the generator).  The goal of the whole approach is to be robust to adversarial examples, without having to change the (downstream task) classifier, only swapping in the G(z) for the x. + The paper is easy to follow. + It seems (but I am not an expert in adversarial examples) to cite the relevant litterature (that I know of) and compare to reasonably established attacks and defenses. + Simple/directly applicable approach that seems to work experimentally,  but - A missing baseline is to take the nearest neighbour of the (perturbed) x from the training set. - Only MNIST-sized images, and MNIST-like (60k train set, 10 labels) datasets: MNIST and F-MNIST. - Between 0.043sec and 0.825 sec to reconstruct an MNIST-sized image. ? MagNet results were very often worse than no defense in Table 4,  could you comment on that? - In white-box attacks, it seems to me like L steps of gradient descent on MSE(G(z), x) should be directly extended to L steps of (at least) FGSM-based attacks, at least as a control."
+12,plume,email_writing,prose.full,qwen,8337,ampere,12,2,"Subject: Critical Feedback on Your Recent Submission
+
+Dear Authors,
+
+Let's cut to the chase. Your paper on autoregressive models is lacking in several areas. First, the missing citations are glaring (and frankly, inexcusable). The LSTM model you propose is not novel. It's a clear instance of an autoregressive density estimator, akin to PixelCNN and WaveNet. At least one of these should be cited. 
+
+Your experiments are incomplete. Where's the baseline? Simply outputting D independent softmaxes from the policy network is a basic necessity. Without it, your claims of modeling joint distributions are unsubstantiated. Remember, the optimal policy for an MDP is deterministic. Your method's supposed benefits are questionable without this comparison.
+
+Moreover, your presentation needs work. Tables are hard to read (a common rookie mistake). Top-performing models should be in bold. And Table 2? Replace it with a boxplot. It's 2023; clarity is key.
+
+Lastly, a direct comparison with related methods is missing. This would provide much-needed context. Without it, your work stands on shaky ground.
+
+Best,
+[Your Name]","Subject: Critical Feedback on Autoregressive Models Paper
+
+Dear [Authors/Team],
+
+I have reviewed your paper on autoregressive models for sampling action probabilities, and while there are promising elements, several critical areas require attention for improvement.
+
+Firstly, your method's reliance on a lower-variance entropy estimator for exploration bonuses shows potential, particularly in the multi-agent gridworld and multi-armed bandit tasks. However, the omission of key citations, such as those related to LSTM models as autoregressive density estimators (e.g., PixelCNN, WaveNet), is a significant oversight. These references are crucial for situating your work within the broader context of deep autoregressive density estimators applied to policy gradient methods.
+
+Moreover, your experimental setup lacks a fundamental baseline: independently outputting D softmaxes from the policy network. This omission raises concerns about the actual benefits of modeling joint action distributions, especially given that the optimal policy for an MDP is deterministic. Including this baseline would provide a clearer performance comparison and validate the necessity of your approach.
+
+Additionally, consider enhancing your method by incorporating a latent probabilistic layer within the policy network. This could induce marginal dependencies between actions, potentially improving performance. A direct comparison with related methods discussed in your paper would further contextualize your contributions and highlight the advantages of your approach.
+
+Regarding presentation, the readability of your tables needs improvement. Following field conventions, highlight top-performing models in bold, and replace Table 2 with a boxplot for better clarity.
+
+Addressing these points will strengthen your paper and provide a more robust foundation for your claims. I look forward to seeing these improvements in your revised submission.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Your Institution]","use more direct and critical language, emphasize clearer method explanations, highlight promising strategies, explicitly mention omissions and areas for improvement, include specific baseline comparisons, address performance concerns, explain anomalous results, focus on the most promising strategies.
+",be sharply critical; include several short and punchy sentences; use parenthetical asides; write using assertive expressions,"The authors present two autoregressive models for sampling action probabilities from a factorized discrete action space.  On a multi-agent gridworld task and a multi-agent multi-armed bandit task, the proposed method seems to benefit from their lower-variance entropy estimator for exploration bonus.  A few key citations were missing - notably the LSTM model they propose is a clear instance of an autoregressive density estimator, as in PixelCNN, WaveNet and other recently popular deep architectures.  In that context, this work can be viewed as applying deep autoregressive density estimators to policy gradient methods.  At least one of those papers ought to be cited.  It also seems like a simple, obvious baseline is missing from their experiments - simply independently outputting D independent softmaxes from the policy network.  Without that baseline it's not clear that any actual benefit is gained by modeling the joint distribution between actions, especially since the optimal policy for an MDP is provably deterministic anyway.  The method could even be made to capture dependencies between different actions by adding a latent probabilistic layer in the middle of the policy network, inducing marginal dependencies between different actions.  A direct comparison against one of the related methods in the discussion section would help better contextualize the paper as well.  A final point on clarity of presentation - in keeping with the convention in the field, the readability of the tables could be improved by putting the top-performing models in bold, and Table 2 should almost certainly be replaced by a boxplot."
+13,plume,email_writing,prose.full,qwen,8337,ampere,13,3,"Subject: Critical Feedback on Your Paper Submission
+
+Dear Authors,
+
+I've reviewed your paper on survival analysis in social networks. Frankly, it falls short. The statistics are suboptimal (to put it mildly). There's no clear statistical setup. What's random? Who knows? The interplay between censoring and end-of-life is fuzzy at best. Clustering approaches? Already extensively covered in frailty analysis. You should know this.
+
+The setting isn't new. It's well-trodden ground in repeated measurements and time-series analysis. You must discuss similarities and differences with existing literature. It's not optional. The numerical results are lacking. Why Kuyper loss? No justification provided. This is an empirical paper—details matter.
+
+Revise thoroughly. Address these issues. Your work depends on it.
+
+Best regards,
+
+[Your Name]","Subject: Critical Review and Recommendations for Improvement
+
+Dear [Author's Name],
+
+I have reviewed your paper on the application of survival analysis in social networks. While the topic is relevant, the statistical presentation is inadequate and requires significant improvement.
+
+Firstly, the paper lacks a clear statistical setup. It is crucial to define what is considered random in your analysis. The relationship between censoring and end-of-life is ambiguous and needs clarification. Additionally, your clustering approaches are not novel; they have been extensively covered in frailty analysis and other statistical literature, such as repeated measurements and time-series analysis. You must explicitly compare and contrast your results with these established methods.
+
+The numerical results section is particularly weak. It fails to evaluate the impact of different design decisions, such as the choice of Kuyper loss. This omission is a critical flaw in an empirical study. You need to provide baseline comparisons to demonstrate the effectiveness of your approach.
+
+Performance concerns are evident, and any anomalous results should be explained thoroughly. Your tables require visual improvements for better clarity and comprehension. Consider using clearer labels and more intuitive layouts.
+
+In summary, your paper needs a more direct and critical approach to method explanations and results presentation. Address these areas to enhance the paper's quality and impact.
+
+Best regards,
+
+[Your Name]","use more direct and critical language, highlight promising strategies, explicitly mention omissions and areas for improvement, include specific baseline comparisons, address performance concerns, explain anomalous results, prioritize conciseness and clarity in presentation, suggest specific visual improvements for tables, cut to the chase and be blunt, emphasize clearer method explanations.
+",be sharply critical; include several short and punchy sentences; use parenthetical asides; write using assertive expressions,"This paper discusses an application of survival analysis  in social networks. While the application area seems to be pertinent, the statistics as presented in this paper are suboptimal at best. There is no useful statistical setup described (what is random? etc etc), the interplay between censoring and end-of-life is left rather fuzzy, and mentioned clustering approaches are extensively studied in the statistical literature in so-called frailty analysis. The setting is also covered in statistics in the extensive literature on repeated measurements  and even time-series analysis. It's up to the authors discuss similarities and differences of results of the present approach and those areas. The numerical result is not assessing the different design decisions of the approach (why use a Kuyper loss?) in this empirical paper."
+14,plume,email_writing,prose.full,qwen,8337,ampere,14,4,"Subject: Critical Review of Your Recent Paper Submission
+
+Dear [Author's Name],
+
+I've reviewed your paper on TreeLSTMs and mathematical equations. Let's cut to the chase. The dataset is the only real gem here. The rest? Not so much. TreeLSTMs outperforming TreeNNs and RNNs isn't groundbreaking. It's expected. (We've seen this before.)
+
+Your representation of fixed-precision floats is intriguing. But why bury it? Highlight it more. It could have broader applications (if you can articulate them). The connection to neural programming is weak. No support for stateful programs? That's a glaring omission.
+
+The claim of being the first to combine symbolic expressions with black-box evaluations is misleading. Neural Programmer-Interpreters have been there, done that. (Check Reed & De Freitas if you doubt it.) Your differences from Allamanis et al. (2017) are poorly articulated. Why ignore EqNet? It's a glaring oversight.
+
+Your baseline model discussion is vague. We know TreeLSTMs outperform TreeNNs. Tell us something new. The qualitative analysis of reasoning capabilities is missing. What about the 4% failure rate? Any insights there?
+
+Minor issues abound. Your abstract lacks clarity. Citations are missing. The paragraph on baseline models is uninformative. The list goes on. (I won't bore you with the rest, but they're in the notes.)
+
+In summary, the paper feels like an incremental extension. The ICLR community deserves more. Address these issues if you want to make a real impact.
+
+Best regards,
+
+[Your Name]","Subject: Critical Review and Suggestions for Improvement on Your Recent Paper Submission
+
+Dear [Author's Name],
+
+I have reviewed your recent paper on the dataset of mathematical equations and the application of TreeLSTMs for verifying and completing these equations. Below are my observations and suggestions for improvement, focusing on clarity, methodology, and presentation.
+
+1. **Main Contribution and Literature Context**: While the dataset and representation of fixed-precision floats are noteworthy, the application of TreeLSTMs appears straightforward and lacks novelty compared to existing work, particularly Allamanis et al. (2017). The paper should better articulate how it advances beyond this prior work, especially regarding the omission of EqNet as a baseline.
+
+2. **Methodological Clarity**: The explanation of how TreeLSTMs handle function evaluation expressions is unclear. It is crucial to clarify this process, particularly how it predicts equality of equations. Additionally, the connection to ""neural programming"" is weak, lacking support for stateful programs and applicability to languages like Haskell.
+
+3. **Baseline Comparisons and Performance Concerns**: The discussion on baseline models is insufficient. TreeLSTMs' superiority over TreeNNs is well-documented; however, the paper should provide a qualitative analysis of the reasoning capabilities and address the ~4% failure rate in generalization. The choice of statistical methods and losses should be explicitly justified.
+
+4. **Visual and Structural Improvements**: Tables and figures need enhancements for clarity. For instance, the representation of numbers in Fig. 1 should be reconsidered for consistency. The inclusion of more examples, particularly negative ones, would strengthen the dataset's presentation. Additionally, the appendix could be integrated into the main sections to provide immediate context.
+
+5. **Specific Omissions and Errors**: Several minor errors and omissions need addressing, such as missing citations for Theano, Tensorflow, and Mxnet, and the lack of a reference for the ADAM optimizer. The paper should also clarify the probabilistic nature of equation generation and the optimization method for hyperparameters.
+
+6. **Promising Strategies**: Emphasize the potential broader applications of the fixed-precision float representation in neural programming models. This aspect could be a significant contribution if explored further.
+
+In summary, while your paper introduces a potentially useful dataset, it requires substantial improvements in methodological clarity, baseline comparisons, and presentation. Addressing these areas will enhance its contribution to the field.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Your Institution]","use direct and critical language, highlight omissions and areas for improvement, include specific baseline comparisons and existing literature coverage, address performance concerns and the choice of statistical methods and losses, focus on the most promising strategies, prioritize conciseness and clarity in presentation, suggest specific visual improvements for tables, emphasize clearer method explanations.
+",be sharply critical; include several short and punchy sentences; use parenthetical asides; write using assertive expressions,"Summary This paper presents a dataset of mathematical equations and applies TreeLSTMs to two tasks: verifying and completing mathematical equations.  For these tasks, TreeLSTMs outperform TreeNNs and RNNs.  In my opinion, the main contribution of this paper is this potentially useful dataset, as well as an interesting way of representing fixed-precision floats.  However, the application of TreeNNs and TreeLSTMs is rather straight-forward,  so in my (subjective) view there are only a few insights salvageable for the ICLR community  and compared to Allamanis et al. (2017) this paper is a rather incremental extension. Strengths The authors present a new datasets for mathematical identities.  The method for generating additional correct identities could be useful for future research in this area. I find the representation of fixed-precision floats presented in this paper intriguing.  I believe this contribution should be emphasized more  as it allows the model to generalize to unseen numbers  and I am wondering whether the authors see some wider application of this representation for neural programming models. I liked the categorization of the related work. Weaknesses p2: It is mentioned that the framework is the first to combine symbolic expressions with black-box function evaluations,  but I would argue that Neural Programmer-Interpreters (NPI; Reed & De Freitas) are already doing that  (see Fig 1 in that paper where the execution trace is a symbolic expression and some expressions ""Act(LEFT)"" are black-box function applications directly changing the image). The differences to Allamanis et al. (2017) are not worked out well.  For instance, the authors use the TreeNN model from that paper as a baseline  but the EqNet model is not mentioned at all.  The obvious question is whether EqNets can be applied to the two tasks (verifying and completing mathematical equations) and if so why this has not been done. The contribution regarding black box function application is unclear to me.  On page 6, it is unclear to me what ""handles […] function evaluation expressions"".  As far as I understand, the TreeLSTM learns to the return value of function evaluation expressions in order to predict equality of equations,  but this should be clarified. I find the connection of the proposed model and task to ""neural programming"" weak.  For instance, as far as I understand there is no support for stateful programs.  Furthermore, it would be interesting to hear how this work can be applied to existing programming languages such as Haskell.  What are the limitations of the architecture?  Could it learn to identify equality of two lists in Haskell? p6: The paragraph on baseline models is rather uninformative.  TreeLSTMs have been shown to outperform Tree NN's in various prior work.  The statement that ""LSTM cell […] helps the model to have a better understanding of the underlying functions in the domain"" is vague.  LSTM cells compared to fully-connected layers in Tree NNs ameliorate vanishing and exploding gradients along paths in the tree.  Furthermore, I would like to see a qualitative analysis of the reasoning capabilities that are mentioned here.  Did you observe any systematic differences in the ~4% of equations where the TreeLSTM fails to generalize (Table 3; first column). Minor Comments Abstract: ""Our framework generalizes significantly better"" I think it would be good to already mention in comparison to what this statement is. p1: ""aim to solve tasks such as learn mathematical"" -> ""aim to solve tasks such as learning mathematical"" p2: You could add a citation for Theano, Tensorflow and Mxnet. p2: Could you elaborate how equation completion is used in Mathematical Q&A? p3: Could you expand on ""mathematical equation verification and completion […] has broader applicability"" by maybe giving some concrete examples. p3 Eq. 5: What precision do you consider?  Two digits? p3: ""division because that they can"" -> ""division because they can"" p4 Fig. 1: Is there a reason 1 is represented as 10^0 here?  Do you need the distinction between 1 (the integer) and 1.0 (the float)? p5: ""we include set of changes"" -> ""we include the set of changes"" p5: In my view there is enough space to move appendix A to section 2.  In addition, it would be great to see more examples of generated identities at this stage (including negative ones). p5: ""We generate all possible equations (with high probability)"" – what is probabilistic about this? p5: I don't understand why function evaluation results in identities of depth 2 and 3.  Is it both or one of them? p6: The modules ""symbol"" and ""number"" are not shown in the figure.  I assume they refer to projections using Wsymb and Wnum? p6: ""tree structures neural networks"" -> ""tree structured neural networks"" p6: A reference for the ADAM optimizer should be added. p6: Which method was used for optimizing these hyperparameters?  If a grid search was used, what intervals were used? p7: ""the superiority of Tree LSTM to Tree NN shows that is important to incorporate cells that have memory"" is not a novel insight. p8: When you mention ""you give this set of equations to the models look at the top k predictions"" I assume you ranked the substituted equations by the probability that the respective model assigns to it? p8: Do you have an intuition why prediction function evaluations for ""cos"" seem to plateau certain points?  Furthermore, it would be interesting to see what effect the choice of non-linearity on the output of the TreeLSTM has on how accurately it can learn to evaluate functions.  For instance, one could replace the tanh with cos and might expect that the model has now an easy time to learn to evaluate cos(x). p8 Fig 4b; p9: Relating to the question regarding plateaus in the function evaluation: ""in Figure 4b […] the top prediction (0.28) is the correct value for tan with precision 2, but even other predictions are quite close"" – they are all the same and this bad, right? p9: ""of the state-of-the-art neural reasoning systems"" is very broad and in my opinion misleading too.  First, there are other reasoning tasks (machine reading/Q&A, Visual Q&A, knowledge base inference etc.) too  and it is not obvious how ideas from this paper translate to these domains.  Second, for other tasks TreeLSTMs are likely not state-of-the-art  (see for example models on the SQuAD leaderboard: https://rajpurkar.github.io/SQuAD-explorer/) . p9: ""exploring recent neural models that explicitly use memory cells""  – I think what you mean is models with addressable differentiable memory."
+15,plume,email_writing,prose.full,qwen,8337,paper_tweet,15,0,"Subject: Groundbreaking News: Neutron Stars Finally Get Their Moment in the Spotlight!
+
+Hey Team,
+
+Guess what? Nicolas Trueba, PhD, has just dropped the latest bombshell in the world of astrophysics, and it's about as subtle as a supernova. Brace yourselves for the riveting tale of neutron stars and their central engines—because who doesn't love a good story about cosmic engines, right?
+
+So, here's the scoop: Nicolas and his crew have apparently developed a method so revolutionary, it might just make Einstein roll over in his grave. They've figured out how to constrain the size of central engines in accreting neutron stars by measuring the velocity width of absorption lines. Yes, you heard that right. Absorption lines. Because, obviously, that's what we've all been waiting for.
+
+They've applied this mind-blowing technique to a few neutron star ultra-compact X-ray binaries. And guess what? They've managed to set a 60 GM/c^2 upper limit on the central engine of XTE J1710-281. I mean, who knew that measuring the velocity width of absorption lines could be so... thrilling?
+
+But wait, there's more! They've also built on the evidence of gravitationally redshifted absorption in these systems. Because, clearly, gravitational redshift is the gift that keeps on giving. It helps estimate the orbital radius of the absorber independent of mass or luminosity, which, as we all know, is the kind of simplification that makes life worth living.
+
+And just when you thought it couldn't get any better, they've demonstrated how this velocity-broadening effect can be used to constrain the sizes of central engines in accreting compact objects via a simple geometric relationship. Simple, they say. Because, you know, geometry is everyone's favorite pastime.
+
+So, there you have it. Nicolas Trueba and his team have basically rewritten the book on neutron stars, and we're all just here for the ride. Can't wait to see what they come up with next. Maybe they'll figure out how to make black holes less... black?
+
+Catch you later,
+[Your Name]","Subject: Exciting New Paper on Neutron Star Central Engine Constraints
+
+Dear Colleagues,
+
+I am thrilled to share our latest research paper, now available on arXiv: https://arxiv.org/abs/2111.04764. In this study, we introduce a novel method for constraining the size of central engines in accreting neutron stars by analyzing the velocity width of absorption lines.
+
+Our technique was applied to several neutron star ultra-compact X-ray binaries, notably setting a 60 GM/c^2 upper limit on the central engine of XTE J1710-281. This work also builds on existing evidence of gravitationally redshifted absorption in these systems, allowing us to estimate the orbital radius of the absorber independently of mass or luminosity, thus simplifying our constraints on the central engine.
+
+The paper details how the velocity-broadening effect, due to the absorber's Keplerian motion, can be leveraged to constrain the sizes of central engines in accreting compact objects. We applied this method to the Chandra/HETG spectra of three ultra-compact and short-period neutron star X-ray binaries, with significant findings for XTE J1710-281 and 4U 1916-053.
+
+For XTE J1710-281, we achieved a 1σ upper bound of 310 km/s on the geometric effect's magnitude and a central engine size of R_CE < 60 GM/c^2. These constraints are comparable to those obtained via microlensing in quasars and approach the sensitivity of relativistic reflection constraints in neutron stars.
+
+We anticipate that further exposures and future missions will enhance the sensitivity of these constraints. I look forward to your thoughts and feedback on our findings.
+
+Best regards,
+
+Nicolas Trueba, PhD",,be blatantly sarcastic; include hyperboles; use an informal tone; write in a third person perspective,"Nicolas Trueba, PhD"",""1/3 - New Paper Day:<LINK>! We developed a new method for constraining the size of central engines in accreting neutron stars by measuring the velocity width of absorption lines. <LINK> 2/3 We applied this technique on a handful of neutron star ultra-compact X-ray binaries - we are able to set a 60 GM/c^2 upper limit on the central engine of XTE J1710-281. <LINK> 3/3 We also build on the evidence of gravitationally redshifted absorption in these systems. Gravitational redshift helps us estimate the orbital radius of the absorber independent of mass or luminosity, greatly simplifying our central engine constraints."",https://arxiv.org/abs/2111.04764,""Analyses of absorption from disk winds and atmospheres in accreting compact objects typically treat the central emitting regions in these systems as point sources relative to the absorber. This assumption breaks down if the absorbing gas is located within $few \times 1000\cdot GM/{c}^{2}$, in which case a small component of the absorber's Keplerian motion contributes to the velocity-width of absorption lines. Here, we demonstrate how this velocity-broadening effect can be used to constrain the sizes of central engines in accreting compact objects via a simple geometric relationship, and develop a method for modeling this effect. We apply this method on the Chandra/HETG spectra of three ultra-compact and short period neutron star X-ray binaries in which evidence of gravitationally redshifted absorption, owing to an inner-disk atmosphere, has recently been reported. The significance of the redshift is above $5\sigma$ for XTE J1710$-$281 (this work) and 4U 1916$-$053, and is inconsistent with various estimates of the relative radial velocity of each binary. For our most sensitive spectrum (XTE J1710$-$281), we obtain a 1$\sigma$ upper bound of 310 $\text{km}$ $\text{s}^{-1}$ on the magnitude of this geometric effect and a central engine of size ${R}_{CE} < 60 ~ GM/{c}^{2}$ (or, $< 90 ~ GM/{c}^{2}$ at the $3\sigma$ level). These initial constraints compare favorably to those obtained via microlensing in quasars and approach the sensitivity of constraints via relativistic reflection in neutron stars. This sensitivity will increase with further exposures, as well as the launch of future microcalorimeter and grating missions."
+16,plume,email_writing,prose.full,qwen,8337,paper_tweet,16,1,"Subject: Space Telescopes: The Ultimate Game of Cosmic Hide and Seek
+
+Hey Team,
+
+So, guess what? Future space telescopes are apparently going to be the next big thing in cosmic hide and seek. They're supposedly going to ""directly image"" somewhere between 10 and 100 planets that might, just might, have habitable conditions. You know, those elusive exo-Earth candidates (EECs) that everyone and their dog is talking about. But, of course, there's a catch. Because why wouldn't there be?
+
+Turns out, these telescopes are also going to pick up hundreds of non-habitable ""false positives."" It's like trying to find a needle in a haystack, except the haystack is the size of Jupiter and the needle is invisible. So, naturally, the geniuses behind this have decided we need a prioritization scheme. Because, obviously, we can't just go around willy-nilly looking at every single planet like we have all the time in the universe.
+
+Enter the heroes of the day with their Bayesian method. They're going to estimate the likelihood of any given planet being a true EEC based on its apparent magnitude and separation. Sounds fancy, right? They've even done these ""mock surveys"" to figure out which planets are worth our precious time. Spoiler alert: it's going to be tough to figure out which planets are EECs with more than a 50% confidence using just single-band photometry. Who would've thought?
+
+But wait, there's more! The best way to reduce this ambiguity is to revisit the system multiple times or do a radial velocity precursor survey. Because, you know, we all have endless time and resources to keep checking in on these planets like they're our needy exes. Astrometric or radial velocity constraints on the planet's mass? Yeah, those might help a bit, but don't hold your breath.
+
+And here's the kicker: using a Bayesian approach to prioritize targets could actually make follow-up observations more efficient. Imagine that! They claim it could cut the integration time needed for detecting or rejecting water absorption in most EECs by a factor of two. Because who doesn't love a good time-saving hack?
+
+So, there you have it. The future of space exploration is basically a cosmic version of ""Where's Waldo?"" with a side of statistical wizardry. Can't wait to see how this all pans out.
+
+Cheers,
+[Your Name]","Subject: 🚀 Discovering New Worlds: The Quest for Exo-Earths!
+
+Hey Space Enthusiast,
+
+Buckle up, because we're diving into the cosmic treasure hunt of the century! Imagine future space telescopes as our trusty pirate ships, sailing the vast cosmic seas in search of hidden gems—planets that could be just like our Earth, aka exo-Earth candidates (EECs). We're talking about spotting anywhere from 10 to 100 of these potential Earth twins, but here's the kicker: they're hiding among a crowd of hundreds of imposters, the so-called ""false positives."" It's like trying to find a needle in a haystack, but the haystack is the size of a galaxy!
+
+Now, you might be wondering, ""How on Earth (or off it) do we figure out which planets are the real deal?"" Enter our secret weapon: a Bayesian method that’s as clever as a fox in a henhouse. This method helps us play detective, using clues like a planet's brightness and distance to crack the case on whether it's a true EEC or just another cosmic wannabe.
+
+Picture this: we're running ""mock surveys"" with future space missions, like rehearsing for the big show. And guess what? We've discovered that identifying these EECs with more than 50% confidence right off the bat is trickier than juggling flaming torches while riding a unicycle. But fear not! The key to solving this puzzle lies in revisiting these planetary systems or using a radial velocity precursor survey to get a better grip on their orbits. Think of it as getting to know your new neighbors by dropping by for a cup of cosmic coffee.
+
+And here's the cherry on top: by using our Bayesian approach to prioritize which planets to check out first, we can double the efficiency of our follow-up observations. It's like having a treasure map that leads you straight to the X marks the spot, cutting down the time needed to confirm the presence of water—our holy grail of habitability.
+
+So, there you have it! We're on the brink of a new era in space exploration, where finding another Earth is not just a dream but a thrilling adventure waiting to unfold. Stay tuned for more updates from the frontiers of the universe!
+
+Catch you on the flip side of the Milky Way,
+
+[Your Name]
+</email>","use informal language and analogies to emphasize the importance and excitement of the research findings, incorporating playfully dramatic or exaggerated statements to engage the reader and focus on storytelling to make complex concepts relatable.
+",be blatantly sarcastic; include hyperboles; use an informal tone; write in a third person perspective,"Future space telescopes may be able to directly image $\sim$10 - 100 planets with sizes and orbits consistent with habitable surface conditions (""""exo-Earth candidates"""" or EECs), but observers will face difficulty in distinguishing these from the potentially hundreds of non-habitable """"false positives"""" which will also be detected. To maximize the efficiency of follow-up observations, a prioritization scheme must be developed to determine which planets are most likely to be EECs. In this paper, we present a Bayesian method for estimating the likelihood that any directly imaged extrasolar planet is a true exo-Earth candidate by interpreting the planet's apparent magnitude and separation in light of existing exoplanet statistics. As a specific application of this general framework, we use published estimates of the discovery yield of future space-based direct imaging mission concepts to conduct """"mock surveys"""" in which we compute the likelihood that each detected planet is an EEC. We find that it will be difficult to determine which planets are EECs with $>50\%$ confidence using single-band photometry immediately upon their detection. The best way to reduce this ambiguity would be to constrain the planet's orbit by revisiting the system multiple times or through a radial velocity precursor survey. Astrometric or radial velocity constraints on the planet's mass would offer a lesser benefit. Finally, we show that a Bayesian approach to prioritizing targets would improve the follow-up efficiency of a direct imaging survey versus a blind approach using the same data. For example, the prioritized approach could reduce the amount of integration time required for the spectral detection (or rejection) of water absorption in most EECs by a factor of two."
+17,plume,email_writing,prose.full,qwen,8337,paper_tweet,17,2,"Subject: The Superconducting Sandwich You Never Knew You Needed
+
+Hey there,
+
+So, guess what? Dr. Science over here has just discovered the most groundbreaking thing since sliced bread—or should we say, since the invention of the van der Waals sandwich. Yeah, you heard that right. Apparently, when you slap a high T_C superconductor monolayer of FeSe onto SrTiO3, you get this magical, extra layer of TiOx that plays the role of salami. Who knew science could be so deliciously absurd?
+
+Anyway, if you're into the whole ""let's make superconductors even more super"" thing, you might want to check out this paper: <LINK>. It's got all the juicy details about how this extra layer of TiOx is basically the superhero of the band structure world. And, oh, the first author is @greatconcavity—because apparently, they have a Twitter account that someone forgot about. Oops.
+
+The paper dives into how this TiOx layer is like the fairy godmother of FeSe, waving its magic wand and boosting the superconducting critical temperature T_C to levels that would make even the most skeptical physicist raise an eyebrow. It's all thanks to some fancy electron-doping and symmetry-breaking distortions. Sounds like a party, right?
+
+So, if you're feeling particularly generous with your brainpower, maybe you can help figure out how this impacts #superconductivity. Or just read it for the sheer joy of seeing how a common substrate can be turned into a functionalized wonderland for thin films and monolayers. Because who doesn't love a good plot twist in the world of materials science?
+
+Catch you on the flip side,
+[Your Name]","Subject: Discover the Superconducting Sandwich Surprise! 🥪✨
+
+Hey there,
+
+Buckle up, because I've got a story that's gonna knock your science socks off! Imagine this: you're in the kitchen, and you decide to make a sandwich. But this isn't your average PB&J. Nope, we're talking about a high T_C superconductor monolayer FeSe on SrTiO3, with a surprise layer of TiOx playing the role of the salami! 🍞🔬
+
+In our latest paper (check it out here: <LINK>), we dive into this wild world where monolayer FeSe gets cozy with SrTiO3, and something magical happens. It's like the universe decided to sprinkle a little extra pixie dust on this combo, boosting the superconducting critical temperature T_C way beyond what you'd expect from the bulk material. Talk about a glow-up!
+
+Now, here's where it gets juicy. Using some fancy tools like scanning transmission electron microscopy and density functional theory (yeah, we went all out), we discovered that this TiOx layer isn't just chilling there. It's forming its own quasi-two-dimensional layer, bonding with both the substrate and the FeSe film through van der Waals interactions. It's like the ultimate power couple of the material world! 💪
+
+But wait, there's more! This extra Ti in the layer is electron-doping the FeSe monolayer, which is basically like giving it a caffeine boost. And those symmetry-breaking distortions? They're like the secret sauce that cranks up the T_C even higher. It's like finding out your sandwich has a hidden layer of flavor that makes it the best thing you've ever tasted.
+
+So, why should you care? Well, this isn't just a cool science trick. This discovery opens up a whole new world of possibilities for modifying the electronic structure of thin films and monolayers. Imagine the practical applications! From super-efficient electronics to groundbreaking new materials, the sky's the limit.
+
+Curious to learn more or maybe even lend a hand in unraveling the mysteries of superconductivity? Dive into our paper and join the adventure! 🚀
+
+Catch you on the flip side,
+[Your Name]
+</email>","use informal language and analogies to emphasize the importance and excitement of the research findings, incorporate playfully dramatic or exaggerated statements to engage the reader, focus on storytelling to make complex concepts relatable and engaging, emphasize practical applications and benefits of the research.
+",be blatantly sarcastic; include hyperboles; use an informal tone; write in a third person perspective,"Something funny happens when you put high T_C superconductor monolayer FeSe on SrTiO3: a van der Walls sandwich forms with an emerging extra layer of TiOx in the role of salami! Check my new paper out: <LINK> #RealLifeScientist research done @ORNL @VanderbiltU First author is @greatconcavity (sorry for the late addition, I forgot you had a Twitter account) Check it out, and learn about the impact it has on the band structures. Perhaps you can help with elucidating how it impacts the #superconductivity? <LINK>"",https://arxiv.org/abs/1805.03293,""The sensitive dependence of monolayer materials on their environment often gives rise to unexpected properties. It was recently demonstrated that monolayer FeSe on a SrTiO$_3$ substrate exhibits a much higher superconducting critical temperature T$_C$ than the bulk material. Here, we examine the interfacial structure of FeSe / SrTiO$_3$ and the effect of an interfacial Ti$_{1+x}$O$_2$ layer on the increased T$_C$ using a combination of scanning transmission electron microscopy and density functional theory. We find Ti$_{1+x}$O$_2$ forms its own quasi-two-dimensional layer, bonding to both the substrate and the FeSe film by van der Waals interactions. The excess Ti in this layer electron-dopes the FeSe monolayer in agreement with experimental observations. Moreover, the interfacial layer introduces symmetry-breaking distortions in the FeSe film that favor a T$_C$ increase. These results suggest that this common substrate may be functionalized to modify the electronic structure of a variety of thin films and monolayers."
+18,plume,email_writing,prose.full,qwen,8337,paper_tweet,18,3,"Subject: Groundbreaking Revelations in Sampling Algorithms! 🎉
+
+Hey there,
+
+Guess what? The world of language models has been turned upside down by a new paper that’s basically the Holy Grail of sampling algorithms. I mean, who knew that sampling from a language model was such a crucial task? It’s not like anyone’s been talking about it for ages or anything. 🙄
+
+So, this paper, a joint masterpiece by @TianxingH, @kchonyc, Jim Glass, and some other geniuses, dives into the mystical properties of sampling algorithms. They’ve cracked the code on what makes top-k, nucleus, and tempered sampling algorithms tick. Spoiler alert: it’s all about reducing entropy, preserving order, and keeping the “slope” of the distribution. Mind-blowing, right? 🤯
+
+But wait, there’s more! They’ve designed not one, but TWO algorithms that actually follow these magical properties. And, because they’re overachievers, they also whipped up three algorithms that completely ignore them. Shockingly, the ones that ignore the properties don’t perform so well. Who could have seen that coming? 😲
+
+In a plot twist worthy of a daytime soap opera, they discovered that randomly masking logits (except the first one, because why not?) gives similar performance. Who knew randomness could be so... predictable? 🤔
+
+Of course, they humbly acknowledge that their study might have some limitations. I mean, it’s not like they’ve discovered every single crucial property out there. But hey, they’re hopeful this will guide future algorithm development. Fingers crossed! 🤞
+
+If you’re dying to dive into this riveting read, check out their paper here: <LINK>. And if you’re feeling extra adventurous, there’s a thread to follow too. Enjoy the ride!
+
+Cheers,
+[Your Name]","Subject: 🎉 Unveiling the Secret Sauce of Language Model Sampling! 🎉
+
+Hey there,
+
+Buckle up, because we're about to dive into the wild world of language model sampling! Imagine trying to pick the perfect apple from a tree full of them—each one looks juicy, but which one will make the best pie? That's kind of what we're dealing with when it comes to sampling algorithms for language models. 🍏🥧
+
+Our latest paper, hot off the press, is like a treasure map leading us to the hidden gems of sampling algorithms. We've teamed up with the brilliant minds of @TianxingH, @kchonyc, and Jim Glass to crack the code on what makes these algorithms tick. Spoiler alert: it's all about reducing entropy, keeping the order of the logits, and preserving the ""slope"" of the distribution. Who knew math could sound so much like a rollercoaster ride? 🎢
+
+Now, here's where it gets juicy. We cooked up two new algorithms that play by these rules and three that throw caution to the wind. And guess what? The rebels didn't fare so well—turns out, breaking the rules can lead to a performance nosedive. But the rule-followers? They held their ground like seasoned pros. 💪
+
+But wait, there's more! In a twist that even we didn't see coming, our random masked algorithm showed us that sometimes, just sometimes, chaos can mimic order. Randomly masking logits (except the first one) gave us results that were surprisingly on point. Who knew randomness could be so...predictable? 🤔
+
+While we’re still on the hunt for that elusive, undiscovered property that might change the game, we're hopeful that our findings will light the way for future algorithm adventurers. So, whether you're a language model enthusiast or just someone who loves a good story, we think you'll find our research both enlightening and entertaining.
+
+Check out the full paper here: <LINK>
+
+Catch you on the flip side!
+
+Cheers,
+[Your Name]
+</email>","use informal language and analogies to emphasize the importance and excitement of the research findings, incorporate playfully dramatic or exaggerated statements to engage the reader, focus on storytelling to make complex concepts relatable and engaging, highlight the unexpected and humorous aspects of the research, emphasize practical applications and benefits of the research.
+",be blatantly sarcastic; include hyperboles; use an informal tone; write in a third person perspective,"New AACL paper! Sampling from a language model is a crucial task for generation. While many sampling algorithms exist, what properties are desirable in a good sampling algorithm? 🧐 Joint work w/ @TianxingH, @kchonyc, Jim Glass, and I Paper: <LINK> Thread 👇 What makes the current sampling algorithms (top-k, nucleus, tempered) perform well?  We inspected them and extracted three shared properties. All algs reduce entropy of the distribution, preserve the relative order of the logits, and preserve the “slope” of the distribution. <LINK> We design two algorithms that satisfy these properties, and three algorithms that violate these properties.  Most interestingly, we find that we can design new sampling algorithms that satisfy these properties, and obtain competitive performance 😲 <LINK> Conversely, we find that two of the three algorithms that violate these properties yields significant performance degradation.  For our random masked algorithm, we were surprised to see that randomly masking logits (other than the first) yields similar performance! 🤔 <LINK> We acknowledge the empirical limitations of our study, and emphasize that it is entirely possible for some crucial property that we have not discovered to exist! We are hopeful that this study may help guide the development of novel sampling algorithms in the future."",https://arxiv.org/abs/2009.07243,""This work studies the widely adopted ancestral sampling algorithms for auto-regressive language models, which is not widely studied in the literature. We use the quality-diversity (Q-D) trade-off to investigate three popular sampling algorithms (top-k, nucleus and tempered sampling). We focus on the task of open-ended language generation. We first show that the existing sampling algorithms have similar performance. After carefully inspecting the transformations defined by different sampling algorithms, we identify three key properties that are shared among them: entropy reduction, order preservation, and slope preservation. To validate the importance of the identified properties, we design two sets of new sampling algorithms: one set in which each algorithm satisfies all three properties, and one set in which each algorithm violates at least one of the properties. We compare their performance with existing sampling algorithms, and find that violating the identified properties could lead to drastic performance degradation, as measured by the Q-D trade-off. On the other hand, we find that the set of sampling algorithms that satisfies these properties performs on par with the existing sampling algorithms. Our data and code are available at this https URL"
+19,plume,email_writing,prose.full,qwen,8337,paper_tweet,19,4,"Subject: Groundbreaking Discovery or Just Another Day at the Office?
+
+Hey Team,
+
+So, guess what? Our latest paper has been accepted! Hold your applause, please. I mean, it's not like we just discovered the second double radio halo system known to humanity or anything. Oh wait, we did! And we only used a smattering of the world's most sophisticated telescopes like @LOFAR, GMRT, @TheNRAO VLA, and @chandraxray. No big deal, right?
+
+Italy decided to join the @LOFAR party, which is just as exciting as finding out your favorite pizza place delivers. #irapapers @IRA_INAF @HambObs @ASTRON_NL. We even threw in a couple of links for your viewing pleasure. You're welcome.
+
+But wait, there's more! We stumbled upon a candidate radio relic and a possible bridge of radio emission connecting the two clusters. It's like finding a unicorn riding a rainbow, but in space. Apparently, a transversal shock from the initial merger stage between A1758N and A1758S might be the culprit behind this cosmic bridge. Who knew space could be so dramatic?
+
+For those who love a good mystery, radio halos and relics are these diffuse synchrotron sources that stretch over Mpc-scales. They're like the universe's way of saying, ""You think you know me? Think again."" Despite our best efforts, the exact processes behind these steep synchrotron spectrum sources remain as elusive as a cat in a laser pointer convention.
+
+Our new LOFAR observation of the double galaxy cluster Abell 1758 is basically the scientific equivalent of finding a needle in a haystack, if the needle was a radio halo and the haystack was the universe. A1758N, with its giant radio halo, and A1758S, with its newly confirmed diffuse radio emission, are like the cosmic odd couple. And let's not forget the tantalizing hint of emission along the bridge connecting these two systems. It's like a soap opera, but with galaxies.
+
+We combined our LOFAR data with archival VLA and GMRT observations to pin down the spectral properties of this diffuse emission. And because we love a good deep dive, we analyzed a deep archival Chandra observation to provide evidence that A1758N and A1758S are in a pre-merger phase. The ICM temperature across the bridge shows a jump that might indicate a transversal shock. It's like the universe is playing a game of cosmic hopscotch.
+
+So, there you have it. Another day, another groundbreaking discovery. No biggie.
+
+Cheers,
+[Your Name]
+</email>","Subject: 🚀 Cosmic Drama Unveiled: Our Latest Galactic Discovery!
+
+Hey Space Enthusiast,
+
+Hold onto your telescopes because we've got some cosmic gossip that's hotter than a supernova! 🎇 Our latest paper just got the green light, and it's all about the double cluster A1758. Picture this: it's like the universe's version of a soap opera, with two galaxy clusters, A1758N and A1758S, playing the lead roles. And guess what? We've discovered only the second double radio halo system known to humanity! Talk about a plot twist!
+
+Now, let's break it down. Imagine these clusters as two heavyweight boxers in the ring, gearing up for a colossal merger. A1758N, the big guy, already flaunts a giant radio halo like a championship belt. Meanwhile, A1758S, the underdog, is stepping into the spotlight with its own diffuse radio emission, confirmed for the first time thanks to our trusty sidekick, LOFAR. It's like discovering your quiet neighbor is secretly a rock star!
+
+But wait, there's more! We've spotted a candidate radio relic and a possible bridge of radio emission connecting these two cosmic contenders. It's like finding a secret passageway in a haunted house—unexpected and thrilling! This bridge might be the result of a transversal shock, a cosmic high-five between the clusters as they prepare to merge. Talk about intergalactic drama!
+
+Our team, including the brilliant minds of @IRA_INAF, @HambObs, and @ASTRON_NL, combined LOFAR data with archival VLA and GMRT observations to get the full scoop on the spectral properties of this diffuse emission. And thanks to a deep dive into Chandra's archives, we've got evidence that these clusters are in a pre-merger phase. It's like catching a sneak peek of the next blockbuster before it hits theaters!
+
+So, why should you care? Well, understanding these radio halos and relics helps us decode the mysteries of the universe, like figuring out the recipe for grandma's secret sauce. Plus, it could lead to practical applications in understanding cosmic turbulence and energy dissipation. Who knew space could be so relatable?
+
+If you're curious to dive deeper into this cosmic saga, check out our paper here: <LINK>. And remember, the universe is full of surprises, so keep your eyes on the stars!
+
+Catch you on the cosmic side,
+[Your Name]
+</email>","use informal language and analogies to emphasize the importance and excitement of the research findings, incorporate playfully dramatic or exaggerated statements to engage the reader, focus on storytelling to make complex concepts relatable and engaging, highlight the unexpected and humorous aspects of the research, include specific examples and details from the paper to add credibility, maintain a conversational tone throughout the email, include personal touches like mentioning specific authors, emphasize practical applications and benefits of the research.
+",be blatantly sarcastic; include hyperboles; use an informal tone; write in a third person perspective,"My latest paper has been accepted! We studied the double cluster A1758 with @LOFAR, GMRT, @TheNRAO VLA and @chandraxray data and discovered the second double radio halo system known so far! Yes, Italy joined @LOFAR! #irapapers @IRA_INAF @HambObs @ASTRON_NL <LINK> <LINK> We also reported the presence of a candidate radio relic and of a possible bridge of radio emission connecting the two clusters. A transversal shock generated in the initial stage of the merger between A1758N and A1758S could be responsible of the formation of the radio bridge. <LINK>"",https://arxiv.org/abs/1804.09187,""Radio halos and radio relics are diffuse synchrotron sources that extend over Mpc-scales and are found in a number of merger galaxy clusters. They are believed to form as a consequence of the energy that is dissipated by turbulence and shocks in the intra-cluster medium (ICM). However, the precise physical processes that generate these steep synchrotron spectrum sources are still poorly constrained. We present a new LOFAR observation of the double galaxy cluster Abell 1758. This system is composed of A1758N, a massive cluster hosting a known giant radio halo, and A1758S, which is a less massive cluster whose diffuse radio emission is confirmed here for the first time. Our observations have revealed a radio halo and a candidate radio relic in A1758S, and a suggestion of emission along the bridge connecting the two systems which deserves confirmation. We combined the LOFAR data with archival VLA and GMRT observations to constrain the spectral properties of the diffuse emission. We also analyzed a deep archival Chandra observation and used this to provide evidence that A1758N and A1758S are in a pre-merger phase. The ICM temperature across the bridge that connects the two systems shows a jump which might indicate the presence of a transversal shock generated in the initial stage of the merger."

@@ -1,0 +1,1001 @@
+,framework,task_name,agent_name,llm_name,seed,task_source,example_num,source_example_num,user demo,agent completion,pred preferences,true preferences,context
+0,plume,summarization,prose.full,qwen,5961,cnn_dailymail,0,0,"Once upon a time, in a big, important place called the United Nations, there was a group called the Security Council. They were like a team of superheroes, trying to stop bad things from happening in the world. Last year, they helped a country called Libya, but now they had a new challenge: a place called Syria.
+
+Step 1: The Security Council wanted to help Syria, where many people were in trouble. But there was a big, strong country named Russia that didn't agree with the other superhero countries. Russia was like a stubborn mule, standing firm & not budging.
+
+Step 2: The other countries, like France, Germany, Portugal & the United Kingdom, were trying very hard to make a plan. But Russia & its friend China said ""No, no, no!"" like a chorus of grumpy frogs.
+
+Step 3: Russia thought the other countries were being too bossy, like a big brother who always wants to play his way. They wanted Syria to solve its problems all by itself.
+
+Step 4: The other countries hoped that a group called the Arab League could help. The Arab League was like a wise old owl, watching over Syria & trying to understand what was happening.
+
+Step 5: Everyone was waiting for the Arab League's report, hoping it would be like a magic key to unlock the solution. But they knew it might not be enough, like a single feather trying to lift a heavy rock.
+
+And so, the story of the Security Council & Syria continued, with everyone hoping for a happy ending.","The U.N. Security Council's efforts to address the violence in Syria have been stymied primarily due to Russia's opposition. Unlike the situation in Libya, where intervention was authorized, Russia has consistently blocked resolutions condemning Syria, citing concerns over NATO's actions in Libya and advocating for an internal resolution to the crisis. Tensions have escalated within the Security Council, with Russia's conduct, particularly that of Ambassador Vitaly Churkin, drawing criticism from Western diplomats. Despite Russia's introduction of a draft resolution, negotiations have stalled, and Western diplomats see the Arab League's involvement as the only viable path forward. The Arab League's upcoming report on Syria is crucial, but its impact remains uncertain.",,"adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","United Nations (CNN) -- Last year, the U.N. Security Council authorized ""all necessary measures"" to stop the violence when the nation in question was Libya. It has come nowhere close to that on Syria, where the United Nations estimates more than 5,000 people have been killed since March. Why? Diplomats say the answer is simple: Russia. Tensions between Russia and the other permanent members of the Security Council have always been a factor. But diplomats say that Russia's conduct in its refusal to condemn Syria, or even negotiate on resolutions in good faith, have reached new lows. At this point, the only way Western diplomats believe the Security Council will be able to pass a resolution on Syria is with a request for intervention from the Arab League. Russia and China abstained from the vote on Libya after the Arab League and the African Union requested UN involvement in that country. In October, Russia and China issued a rare double veto of a sanction-less resolution that would have condemned the violence in Syria. Though China joined Russia in its veto on Syria, and India, Brazil and South Africa abstained, diplomats say that it is Russia that has been taking the lead in opposition to action. In Russia's view, NATO overstepped the Security Council's mandate in Libya, and they fear a similar mistake being made in Syria. Though Western diplomats insist they have not proposed anything approaching military intervention, Russia insists that the Syria crisis should be solved internally. ""I think Libya has been beat to death, overused and misused as an excuse for countries not to take up their responsibilities with respect to Syria,"" Susan Rice, U.S. ambassador to the United Nations, said. Last month, Russian U.N. Ambassador Vitaly Churkin pushed the Security Council to open an investigation into civilian deaths in Libya. European and American diplomats immediately called foul. ""Is everybody sufficiently distracted from Syria now?"" Rice asked the media after a meeting called by Russia. ""Let us see this for what it is. That this is duplicative, it's redundant, it's superfluous, and it's a stunt."" ""This is not the kind of issue which can be drowned in expletives,"" Churkin countered the next day. ""You cannot beat a Stanford education, can you?"" referring to Rice's alma mater, saying she should be ""more Victorian."" Shortly thereafter, Rice's communications director tweeted a picture of Churkin's face superimposed on the Grinch, with the text ""rough day at the Security Council."" (Churkin later said that he ""thought it was a nice joke."") Despite Rice's high-profile tit-for-tat with Churkin, it is the four European countries on the Security Council, not the United States, that have taken the lead on issues Libya and Syria. Photos: Rare look inside Syria | Divisions deepen . Those countries -- France, Germany, Portugal and the United Kingdom -- have expressed deep frustration at Russia's scuttling of attempts at a resolution. In December, Russia held the rotating presidency of the council, which gave it significant power to determine the agenda. Diplomats complained of having to fight tooth and nail for even routine briefings. A senior Western diplomat said that Churkin routinely interrupted other diplomats and cut off debate. Churkin's conduct was ""outrageous"" and ""disrespectful,"" the diplomat said, who had ""never seen anything like the atmosphere in the Security Council now."" Western Diplomats admit that Russia has been using its close relationship with Syria to apply pressure on Syrian President Bashar al-Assad. But their criticism of Churkin's conduct at the Security Council is unequivocal. ""Churkin is practicing shoe diplomacy,"" another senior Western diplomat said, referring to Soviet Premier Nikita Krushchev's famous shoe-banging speech in the General Assembly. ""Russia and Syria are the last two members of the Warsaw Pact, and Russia is behaving in an imperialistic manner,"" another Western diplomat said. Churkin does not disagree that the mood is contentious. But he says that the root cause is a ""my way or the highway"" attitude. He called December the toughest of his five separate month-long terms at the helm of the Security Council. ""There is a lot of nervousness, a lot of expectations that things are going to be done my way or no other way,"" Churkin said. ""That what I need to have, I must have now. ... I think that if this trend were to continue it might seriously hurt the ability of the Security Council to work."" Russia surprised even its allies last month when it introduced its own draft resolution condemning the violence in Syria. Publicly, Western diplomats seemed encouraged by the move but privately were deep cynical. Western Diplomats said Russia had expected the Europeans and Americans to reject the draft out of hand, because it did not include some of the provisions they consider non-negotiable. (And, for example, they say it drew an unacceptable equivalence between violence perpetrated by the government and violence perpetrated by protesters.) Since then, Western diplomats say that Russia has not engaged in negotiation on their proposed additions. They also complain that Churkin has misrepresented to the media the content of closed Security Council meetings. He claims productive work on the draft Syria resolution, they say, when in fact he has been stonewalling. ""We are working all the time,"" Churkin said Tuesday of Russia's draft resolution. They have not held a single negotiation on the text since Christmas, Western diplomats say. Western diplomats admit that when it comes to Syria, they are at a ""dead end."" The only way around it -- the ""only game in town,"" as French U.N. Ambassador Gerard Araud says -- is the Arab League. The Arab League has a group of observers in Syria, who were sent there to gauge the situation on the ground. Their report is expected on January 19. If that report is unequivocal about the Syrian government's culpability -- an outcome Western diplomats admit is a long shot -- then they may have enough political capital to push forward. And in-person briefing from the Qatari prime minister, who has been very outspoken on Syria, or the secretary general of the Arab League, may help to push Russia, they say. The Arab League report, a Western diplomat said, is a necessary condition for action. But it may not be sufficient."
+1,plume,summarization,prose.full,qwen,5961,cnn_dailymail,1,1,"Once upon a time, in a place called Doncaster, something very sad happened. Let's follow the steps to understand the story.
+
+Step 1: Imagine a sunny day, like a bright yellow balloon floating in the sky. In the Coppice Road area, some boys, as young as six, were seen with a cat & two dogs.
+
+Step 2: The cat was a female tabby, with stripes like a tiger's. The dogs had small grey bodies & brown heads, & they were on leads.
+
+Step 3: The boys were seen doing something not nice. They seemed to be feeding the cat to the dogs. Oh no!
+
+Step 4: The RSPCA, which helps animals, found the cat. But, sadly, she was too hurt & later passed away.
+
+Step 5: Now, the RSPCA is asking for help. They want anyone who saw what happened to come forward & tell them. They are like detectives, looking for clues.
+
+Step 6: If you know anything, you can call the RSPCA inspector appeal line at 0300 123 8018. Every little bit of information is like a piece of a puzzle.
+
+And so, the RSPCA hopes to find out what happened, just like how a storybook ends with everyone understanding the tale.","Once upon a time in the bustling town of Doncaster, a curious and rather unfortunate tale unfolded. Imagine a sunny afternoon where the streets are alive with the chatter of children playing. But on this particular day, a shadow was cast over the neighborhood, as a group of young boys, as small as six-year-old saplings, were seen engaging in a rather troubling game.
+
+In this story, a gentle tabby cat, with fur as soft as a cloud, found herself in the company of two dogs, who were as curious as they were mischievous. These dogs, with their small grey bodies and brown heads, were like little storm clouds on leashes, guided by the young boys. The boys, perhaps not understanding the gravity of their actions, seemed to be feeding the cat to the dogs, much like a misguided game of make-believe gone awry.
+
+The Royal Society for the Prevention of Cruelty to Animals (RSPCA), the brave knights of animal welfare, quickly stepped in to investigate this puzzling event. Inspector Jo Taylor, a detective with a heart as big as the sky, called upon the townsfolk to share any clues they might have about this incident. She hoped to piece together the mystery and bring peace back to the animal kingdom of Doncaster.
+
+As the story spread, it reached the ears of people far and wide, like a whisper carried by the wind. Each country, like a character in a grand play, watched with bated breath, hoping for a resolution that would teach the young boys the importance of kindness and empathy.
+
+In this tale, the cat, who sadly succumbed to her injuries, became a symbol of the delicate balance between play and harm, a reminder that even the smallest actions can have the biggest consequences. The RSPCA's appeal for witnesses was a call to action, urging everyone to become heroes in their own right by sharing any information they might have.
+
+And so, the story of the tabby cat, the dogs, and the young boys became a lesson for all, a tale of understanding and compassion that echoed across the lands, reminding us all of the power of kindness and the importance of protecting those who cannot protect themselves.","use storytelling techniques to engage the reader, maintain a child-friendly tone, incorporate analogies and metaphors for complex concepts, emphasize perspectives of various countries involved, focus on direct comparisons and personifications to convey diplomatic dynamics.
+","adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","By . Daily Mail Reporter . PUBLISHED: . 17:01 EST, 11 March 2014 . | . UPDATED: . 17:58 EST, 11 March 2014 . An investigation has been launched after boys believed to be as young as six years old were seen apparently feeding a live cat to a pair of dogs. The children were seen with the female tabby cat and the two dogs, which were on leads and described as having small grey bodies and brown heads. The badly maimed cat was found by the RSPCA but later died of its injuries. An investigation has been launched after boys believed to be as young as six-years-old were seen apparently feeding a live cat to a pair of dogs, in the Coppice Road area of Doncaster . The RSPCA has now appealed for witnesses who may have seen the incident in Doncaster, South Yorkshire, to come forward. It is thought the boys involved in the incident are as young as six years old. It was alleged to have happened in the Coppice Road area of Doncaster on Saturday, February 8. RSPCA inspector Jo Taylor said: 'We were contacted regarding reports that a live cat was seen being held by two youngsters who appeared to be feeding it to two dogs. 'I have carried out a number of enquiries so far - but to no avail and I would appeal to anyone who has any information regarding this to contact me please. The RSPCA has now appealed for witnesses who may have seen the incident in Doncaster, South Yorkshire, to come forward . 'The body of the cat has been retrieved and we are now keen to speak to anyone who has any information. 'The boys were said to be around six to seven years old and the dogs were on leads and were described as having small grey bodies and brown heads. 'The cat, a female tabby, sadly died later as a result of her injuries.' Anyone with information should call the RSPCA inspector appeal line on 0300 123 8018."
+2,plume,summarization,prose.full,qwen,5961,cnn_dailymail,2,2,"Once upon a time, in the town of Middlesbrough, there lived a talented dressmaker named Cheryl. Step one: Cheryl dreamed of a magical wedding dress, just like a swan gliding gracefully on a lake. Step two: She spent 200 hours hand-stitching 22,000 goose feathers onto her dress, working day & night, just like a busy bee in a hive. Step three: Cheryl, who had her own wedding dress business, wanted her dress to be extra special, so she added her & her husband's names to the back for a personal touch. Step four: She also made a beautiful dress for her daughter Honey & dresses for her bridesmaids, making sure everyone looked like they stepped out of a fairy tale. Step five: On the big day, Cheryl felt like a princess as she walked down the aisle in her one-of-a-kind dress, with the feathers swishing like waves in the sea. And so, Cheryl's dream came true, & she lived happily ever after with her prince, Joel.","Once upon a time, in the bustling town of Middlesbrough, there lived a talented dressmaker named Cheryl McGlynn. She was like a fairy godmother, weaving magic into every stitch she made. Cheryl had a dream, a dream as big and fluffy as a cloud, to create the most enchanting wedding dress for her special day. Here's how her fairy tale unfolded:
+
+1. **The Dream Begins**: Cheryl, with her heart full of dreams and hands full of thread, decided to create a dress that would make her feel like a princess. She imagined a gown adorned with 22,000 goose feathers, each one as delicate as a snowflake.
+
+2. **The Magical Creation**: For two weeks, Cheryl worked tirelessly, like a busy bee in a garden of flowers. She hand-stitched each feather, turning her sewing room into a magical workshop. The feathers, sourced from a UK supplier, were her special touch, making the dress as unique as a snowflake.
+
+3. **The Personal Touch**: Cheryl's dress was not just a gown; it was a story. She embroidered her and her husband Joel's names on the back, like a secret message hidden in a treasure map. This personal touch made the dress even more special.
+
+4. **The Grand Reveal**: On December 5th, in the charming St Cuthbert's church, Cheryl walked down the aisle, her dress swishing like a gentle breeze. The guests watched in awe as the train of feathers danced with every step she took, making her feel like a princess in a fairy tale.
+
+5. **The Happy Ending**: Despite a little mishap with some spilled wine, Cheryl's wedding day was a dream come true. She felt overwhelmed with joy, knowing that her hard work had paid off. Her dress was not just a piece of clothing; it was a masterpiece, a testament to her creativity and dedication.
+
+And so, Cheryl's story reminds us that with a sprinkle of imagination and a dash of hard work, dreams really can come true. Just like in the best fairy tales, Cheryl's wedding day was filled with magic, love, and a happily ever after.","use storytelling techniques to engage the reader, maintain a child-friendly tone, incorporate simple analogies and metaphors, focus on direct comparisons and personifications to convey events clearly and diplomatic dynamics, structure the summary in clear, numbered steps, emphasize the perspectives of various countries involved, incorporate analogies and metaphors for complex concepts.
+","adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","A blushing bride spent 200 hours hand stitching 22,000 individual goose feathers onto her dream dress. Cheryl McGlynn, 24, from Middlesbrough, was delighted to wear her one-of-a-kind dress for her wedding after working day and night for a fortnight sewing on the white feathers - which cost £1,200 alone. The mother-of-one runs her own business wedding dress business, Cheryl Holmsrom Bespoke, and spent more than six months planning, designing and creating her masterpiece for her marriage to sweetheart Joel, 25. Cheryl McGlynn, 24, from Middlesbrough, designed her dream wedding dress . Cheryl spent more than six months sketching, designing and creating her masterpiece gown . She managed to continue working, designing and making dresses for brides-to-be who wanted to use her services. Cheryl said that she had always wanted to be the person to design and make the dress for her own big day as she would never trust another designer. She believes the dress would have cost more than £7,000 to make if she had designed it for a client, and is now planning on breaking it down to recreate another to gain some extra money. The amazing dress features a tight corset-style top which was all hand embroidered by Cheryl, flowing down to the incredible train of delicate goose feathers. She also added hers and her husband's names to the back of the dress for an extra personal touch. Alongside the stunning creation, Cheryl also made a beautiful 18th-century inspired dress for her daughter Honey, two, and dresses for her three bridesmaids. The mother-of-one, pictured with groom Joel, has a degree in Art and Design . She runs her own business wedding dress business, Cheryl Holmsrom Bespoke . Cheryl said: 'I worked hard day and night without stopping for weeks before the wedding to make sure everything was right. 'I just hid up in my little sewing room and got stuck in. I had to hand stitch each of the 22,000 goose feathers, which I made sure I got from a UK supplier. 'My final piece in my Art and Design degree was based on Swan Lake and when I graduated and Joel proposed, I've been obsessed with feathers and knew I wanted to have them on my wedding dress. 'I wanted it to be a winter wedding because Joel popped the question on Christmas Day in 2011. The dress had to have a winter theme but I wanted it to be extravagant because it reflects my personality perfectly. 'It is a unique piece. I don't know any other designer around here that works so intricately with feathers. I had to make my own wedding dress, it's always been my dream.' Bride made an 18th century-inspired dress for her daughter Honey, two, and dresses for her bridesmaids . She also added hers and her husband's names to the back of the dress for an extra personal touch . Cheryl says she doesn't know of any other designer in her area that works so intricately with feathers . Cheryl's wedding to Joel, an HGV driver, took place in St Cuthbert's church in Middlesbrough on December 5. They had their reception at Rushpool Hall in Saltburn-by-the-sea and all eyes were on the sensational train of goose feathers that swished at every step she took. She said: 'It was the best feeling in the world to finally get it on, I felt like a princess. 'It was so much work that I felt really overwhelmed when I was walking down the aisle. I was even still working on my head piece the night before. 'I ended up crying because I'd spilt wine down the front of it. 'People usually come to me with a design and we look at exactly what they want so to do my own really was fitting. 'I'm used to doing embroidery by hand which can take months but it was a bit of extra pressure when it's your own wedding, especially with something as delicate as goose feathers.' Cheryl's wedding to Joel,  an HGV driver, took place in St Cuthbert's church  on December 5 . They had their reception at Rushpool Hall in Saltburn-by-the-sea and all eyes were on her sensational train ."
+3,plume,summarization,prose.full,qwen,5961,cnn_dailymail,3,3,"Once upon a time, in a land called the UK, there were children who loved to explore the magical world of the internet. But, oh dear, not all was as it seemed! Step by step, let's uncover the story.
+
+Step 1: Imagine the internet as a big, colorful playground. But lurking in the shadows were sneaky villains, like wolves in sheep's clothing, pretending to be friendly kids.
+
+Step 2: These villains tricked 357 children into doing things they didn't want to do, like sending pictures or doing silly acts on camera. They used mean words & threats, saying they'd show these pictures to everyone if the children didn't listen.
+
+Step 3: The villains thought the UK was an easy place to play their nasty games because they believed British kids were like open books, with fewer rules from their parents.
+
+Step 4: Sadly, some children felt so scared & alone that they hurt themselves, & a few even thought there was no way out. One boy named Daniel was so frightened by the villains' threats that he made a very sad choice.
+
+Step 5: But wait! There were brave investigators who worked hard to catch these villains. They used their clever minds & tools to find them, just like detectives in a mystery story.
+
+Step 6: Experts said that talking to children about their online adventures was as important as asking about their day at school. Parents were encouraged to be like superheroes, protecting their kids from the internet's dark corners.
+
+Step 7: The story ends with a hopeful message. The leaders of the land decided to put up strong filters to keep the internet safe, like a big, protective shield, so children could play happily & safely.
+
+And so, the children of the UK learned to be careful & wise, knowing that with a little help, they could keep the internet a fun & safe place to explore.","Once upon a time, in the vast world of the internet, there was a dark cloud looming over the sunny skies of Britain. This cloud was made up of sneaky cyber predators from faraway lands, who saw Britain as a land of opportunity due to its open and friendly nature. Let's journey through this tale step by step to understand the story better.
+
+1. **The Sneaky Shadows**: Imagine the internet as a big playground. In this playground, some children were tricked by shadows pretending to be their friends. These shadows, or cyber predators, were from different countries and believed that British children were easy to trick because of the country's friendly and open ways.
+
+2. **The Tricky Games**: These shadows played a game of pretend, making the children believe they were talking to someone their own age. But, like a wolf in sheep's clothing, they had bad intentions. They asked the children to do things they shouldn't, promising to keep it a secret but threatening to tell everyone if they didn't comply.
+
+3. **The Heartbreaking Choices**: Some children, feeling trapped like a bird in a cage, were forced to do things they didn't want to. This led to sadness and, in some cases, tragic endings, like the story of a young boy named Daniel, who felt so alone that he made a very sad decision.
+
+4. **The Wise Owls**: Families and experts, like wise owls, began to speak up. They urged parents to talk to their children about their online adventures, just like they would about their weekend plans. They wanted to make sure children knew they were never alone and that help was always nearby.
+
+5. **The Global Perspective**: This wasn't just a story about Britain. The shadows came from all over the world, each with their own reasons for targeting British children. They saw the English language as a bridge to communicate their threats, making Britain a prime target.
+
+6. **The Protective Shield**: In response, leaders like David Cameron began crafting a protective shield, proposing filters to keep the internet a safer place for children. This was like putting up a big, friendly fence around the playground to keep the shadows out.
+
+In the end, this story reminds us of the importance of staying connected with our loved ones and being aware of the shadows that might lurk in the corners of our digital playground. By working together, families and countries can create a safer, brighter world for all children to explore and enjoy.","use storytelling techniques to engage the reader, maintain a child-friendly tone, incorporate simple analogies and metaphors, focus on direct comparisons and personifications to convey events clearly, structure the summary in clear, numbered steps, highlight the uniqueness and personal significance of the dress, include additional personal details such as family members involved, end with a satisfying conclusion, emphasize the perspectives of the various countries involved, focus on direct comparisons and personifications to convey diplomatic dynamics.
+","adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","By . Rebecca Camber . PUBLISHED: . 18:07 EST, 19 September 2013 . | . UPDATED: . 05:36 EST, 20 September 2013 . Over the past two years 357 children in the UK were urged to carry out sexual acts live over the internet . Children as young as eight are being targeted online by foreign paedophile gangs who believe that Britain’s ‘liberal’ values make them easy prey. Britain has become the top target for cyber sexual predators, a report reveals today. The criminals trick victims into thinking they are talking to a boy or girl the same age. They then persuade them to send compromising pictures or perform ‘slave-like sex acts’ live on webcams – before threatening to show the pictures to their families or friends or post them on the internet. Investigators believe youngsters in this country are being exploited more than in any other nation due to offenders’ perceptions that British teenagers are more promiscuous. The gangs also believe British parents impose fewer boundaries due to our ‘free, open and liberal society’, the report says. Over the past two years 357 children in the UK were urged to carry out sexual acts live over the internet after being duped by criminal gangs posing as youngsters the same age as them. This represents almost half of the 716 known victims worldwide, according to the figures published by the Child Exploitation and Online Protection centre. Of those, 184 in the UK were blackmailed over a long period and forced to carry out ever more sickening sexual acts by the offenders who threatened to share obscene images of the victim with their friends and family unless victims complied with their demands. Britain is now the top destination for cyber sex predators due to liberal parenting and perceptions of promiscuous children . In some cases, teenagers were forced to hand over money or even cut themselves live on web cams to satisfy their attacker’s demands. The abuse led to a number of children self harming and seven committing suicide, one of whom was British. Daniel Perry, 17, killed himself earlier this year after being blackmailed over embarrassing images he posted online. He thought he was talking to a pretty girl his own age from Illinois in the US. But the apprentice mechanic had been targeted by a gang who tried to blackmail him by securing compromising images following months of flirting via Skype. The gang revealed themselves in a menacing call via Skype. They threatened to show the images to his family unless he paid over some cash. When Daniel asked: ‘What can I do to stop you showing this to my family?’ they said he would be ‘better off dead’ if he failed to pay. He replied simply ‘Bye’ and less than an hour later jumped off the Forth Road Bridge in Scotland. He died in hospital on July 15. His mother Nicola, from Dunfermline, Fife, said: ‘They are clever people and he was just scared and didn’t know what to do. 'Parents need to tell their children that nothing is that bad that it is worth taking your life over.’ Daniel Perry, 17, from Dunfermline in Fife, leapt to his death from the Forth Road Bridge in Scotland in July this year less than an hour after a gang told him he would be ‘better off dead’ if he did not follow their orders. Another seven victims seriously self-harmed, of whom six were from the UK, CEOP said. Experts said the paedophiles saw Britain as an easy target. Stephanie McCourt of CEOP said: ‘First of all it’s the English language. ‘They are able to threaten the children if they can communicate with them. English is a really popular universal language. ‘Second, the offenders have actually said that because they perceive the UK as a very free and liberal society, they think that they will have more success in targeting UK children.’ Investigators have warned that abusers’ methods are becoming more sophisticated with many researching the homes and schools of their targets using tools such as Google Maps. They also glean information on friends and family from social networking sites before creating fake online personas. Their victims, some as young as eight, are initially targeted on open chat sites and social networks before being directed to more private web sites. In one case, an offender collated images of his victims in a folder named ‘slaves’. CEOP has been involved in 12 blackmail investigations in the past two years, and in each case arrests were made less than a week after receiving a report of abuse. The abusers came from four different continents, and in five cases the criminals were based in the UK. The biggest case, code-named Operation K, involved 322 children who were blackmailed around the world, including 96 in the UK. They were targeted by a gang from a non-European country who are due to stand trial in the coming weeks. Clinical psychologist Elly Farmer said: ‘We are seeing pure sadism and desire for power and control.’ CEOP chief executive Peter Davies urged parents to talk to their children about their online lives. He said: ‘You might ask your son or daughter where they’re going at the weekend, why not do the same about what they are up to on their computer or mobile phone?’ Scotland Yard has seen an explosion in cases of online bullying and ‘Twitter trolling’. The number of offences reported to the Met leapt by 1,500 compared to last year, Deputy Commissioner Craig Mackey said. Dr Miranda Hovarth has found that exposure to pornography makes teenage boys more likely to view women as objects, engage in risky behaviour, and have sex earlier . 'I . was about 12 and this person started talking to me on the internet and . said he was around my age. 'He'd . steer the conversation in a way where it was turning a bit dirty, then . he'd start asking for other types of pictures as well. If you try and . say ""oh I don't want to talk about that' or 'whatever"", he'd threaten or . blackmail me, saying that he'd send my dad all the chat logs if I . didn't do what he said. I just thought you wouldn't blackmail someone . you're supposed to be in love with so I just told him to shut up and . sent him a couple more photos but he started to do that every week. 'My . teacher said I'd been acting depressed and they sorted me out with . counselling. I'd started to self harm as well because everything just . came together at the same time, and I was really upset and just needed a . release. 'Luckily I'm a . fairly strong person and I can get over things - I've learned to just . push them away. But what if it was someone who wasn't, who was a . weaker-minded person than me, what would have happened? They might have . committed suicide or something, and it wouldn't have even been their . fault - it would be because people weren't there for them.' Teenage girls will welcome David Cameron’s plans for online porn filters because they are sick of seeing it, according to an expert who has studied the effect of web porn on young people. Dr Miranda Horvath, a psychologist at Middlesex University, said many girls were exposed to explicit content against their will on social networking sites. She suggested the Government could go further, perhaps bringing in the German system under which adults can only access online porn by signing a form at their post office. This would ensure children would be protected from hardcore images, while over-18s. Dr Horvath said blocking unsuitable content could change the ‘sexualised wallpaper’ of young people’s lives. She was the lead author of a report for the Children’s Commissioner earlier this year, which assessed 30 years of research. It found that porn can lead to boys viewing girls as sex objects, indulging in risky sexual behaviour and having sex earlier. Mr Cameron has promised that all homes will be asked to decide whether they wanted to impose a filter, with ‘yes’ as the default option. Dr Horvath said that although it might not be possible to ‘stamp it out completely’ but we should ‘provide people with the option’."
+4,plume,summarization,prose.full,qwen,5961,cnn_dailymail,4,4,"Once upon a time, there was a kind lady named Daphne Fishpool who loved to do things just right, like a painter making sure every color was in its perfect place. One sunny day, she & her husband, John, decided to have a yummy Sunday lunch at the Prince of Wales pub. 
+
+Step 1: Daphne parked her car in a cozy spot, but oh dear, the wheels weren't straight! Like a perfectionist artist, she wanted everything to be just so.
+
+Step 2: She opened the car door & leaned inside to fix those wheels. But, oh no! The car suddenly jumped backward, & the door gave her a little push, making her fall to the ground.
+
+Step 3: Daphne was taken to the hospital, where doctors found she had hurt her leg. They planned to fix it, but she had to wait because of her special heart medicine.
+
+Step 4: After the operation, Daphne felt sleepy & her breathing was like a gentle whisper. The doctors thought she might have had a stroke, but it was something else.
+
+Step 5: Sadly, Daphne's story ended with her passing away from an illness that came quickly, like a surprise rain shower on a sunny day.
+
+The coroner said it was an accidental death, & everyone remembered Daphne for her caring heart & her wish to make everything just right.","Once upon a time, in the quaint town of Herne Bay, Kent, there lived a kind-hearted lady named Daphne Fishpool. Daphne, who was 76 years young, had a special knack for making sure everything was just right, much like a painter perfecting their masterpiece. One sunny Sunday, she and her husband, John, decided to enjoy a delightful lunch at the Prince of Wales pub in Hoath. But before they could savor their meal, Daphne wanted to park their car perfectly, ensuring the wheels were as straight as soldiers standing in line.
+
+1. Daphne's determination to park the car just right led her to lean inside to adjust the wheels. But, oh dear, the car had a mind of its own and decided to jump backwards, causing the door to gently nudge Daphne to the ground.
+
+2. Despite the unexpected tumble, Daphne was taken to the hospital where doctors discovered she had a fracture in her thigh. Like a brave knight, she underwent surgery, but her body faced a new challenge with pneumonia and septicaemia, which were as sneaky as shadows in the night.
+
+3. Her loving husband, John, was puzzled by how quickly the illness appeared, much like a sudden storm on a sunny day. The doctors explained that sometimes, when our bodies rest too long, illnesses can creep in swiftly.
+
+4. Sadly, Daphne passed away, leaving behind a legacy of love and care. The coroner concluded it was an accidental death, a reminder of how even the simplest actions can have unexpected outcomes.
+
+In the end, Daphne's story teaches us the importance of cherishing every moment and the people we love. Her tale, though tinged with sadness, shines a light on the hope and positivity that comes from remembering the joy she brought to those around her. And just like the sun that rises after a storm, her memory continues to warm the hearts of those who knew her.","use storytelling techniques to engage the reader, maintain a child-friendly tone, incorporate simple analogies and metaphors, highlight the uniqueness and personal significance of experiences and items, include specific personal details such as names and incidents, encourage parental involvement and awareness, end with a satisfying conclusion, emphasize hope and positivity, focus on direct comparisons and personifications to convey clarity and dynamics, structure summaries in clear, numbered steps, use a narrative style similar to that of the user, and emphasize the perspectives of various countries in diplomatic contexts.
+","adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","By . Anthony Bond . PUBLISHED: . 13:45 EST, 2 August 2012 . | . UPDATED: . 14:13 EST, 2 August 2012 . Tragic: Daphne Fishpool's determination to park her car correctly caused her death in a 'bizarre' accident, an inquest heard. The pensioner is pictured . A pensioner’s determination to park her car correctly caused her death in a 'bizarre' accident, an inquest heard. Daphne Fishpool, 76, reversed her car into a space before heading off for Sunday lunch with her husband John Fishpool, 70. But Canterbury Coroner’s Court heard Mrs Fishpool  was not satisfied because the wheels were not straight and insisted on correcting them. The retired shop assistant went back to the car and leaned inside to put the key in the ignition, but the car jerked backwards and the open door knocked her to the ground. Mrs Fishpool died in hospital four days later from complications following a fracture to the left femur of her thigh. Recording a verdict of accidental death, Miss Cobb said: 'It is such a shame that she died as a result of trying to do something so simple.' Mrs Fishpool, from Herne Bay, Kent, had planned to have Sunday lunch at the Prince of Wales pub in Hoath, Kent, with her retired local government officer husband Mr Fishpool  on May 20. Canterbury Coroner’s Court heard Mrs Fishpool reversed into a parking spot but she was not satisfied she had left the wheels straight and insisted on correcting them. She opened the car door and leaned inside, but as she put the key in the ignition, the car 'appeared to jump backwards' and the door knocked her to the ground. She was taken to hospital, where it was found she had suffered a fracture to the left femur of her thigh. The operation was delayed until May 22 because Mrs Fishpool was taking Warfarin for an irregular heart beat. Awful: Mrs Fishpool had planned to have Sunday lunch at the Prince of Wales pub in Hoath, Kent, pictured, with her husband when the tragic accident happened . The day after surgery, she became drowsy and her blood pressure was not recordable and she became short of breath. Doctors initially thought Mrs Fishpool, who passed away on May 24, might have suffered a stroke. But a post mortem examination revealed her death was due to septicaemia and pneumonia following the femur fracture which had been repaired. The inquest heard there had been no evidence Mrs Fishpool was suffering from a chest infection on admission, and hospital tests the day after the operation revealed her chest was clear. Mr Fishpool questioned the speed with which the pneumonia set in as his wife had only been immobile for less than two days after the operation. But pathologist Dr Salim Anjarwalla said the pneumonia could have been due to immobility following the operation and said the condition can develop rapidly. The coroner recorded a verdict of accidental death."
+5,plume,summarization,prose.full,qwen,5961,slf5k,5,0,"### FAMILY TIES: A TALE OF TWO UPBRINGINGS
+
+**Did My Dad Make the Right Choice?**
+
+When my dad LEFT when I was just 2, did he think about the STRUGGLES we'd face? 🤔 Growing up, my mom worked tirelessly, while my dad's new family lived in COMFORT. Is it fair that my half-brother gets EVERYTHING while I had to fight for every opportunity? 💔
+
+**The Cost of Independence**
+
+Why did my dad think minimal support was enough? At 21, I got a card, while my brother got a FANCY meal. Is it wrong to feel RESENTMENT when I've had to build my life from the ground up? 💪
+
+**A Mother's Sacrifice**
+
+Through it all, my mom was the REAL HERO, pushing herself to the LIMIT to ensure we survived. Isn't it time we recognize the strength of single parents? 🌟","The author reflects on their father's departure when they were two, understanding his desire to leave an unhappy marriage but feeling anger over the financial struggles left behind. Their mother, a single parent, faced bankruptcy and constant financial strain, while their father provided minimal child support. The author contrasts their difficult upbringing with their half-brother's privileged life, feeling resentment towards their father for not offering more support. Despite these challenges, the author credits their achievements to their own efforts and their mother's unwavering support.",,adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"My dad left home when I was very young, about 2 years old, and I've always liked to think that I understand why he did it, that he wasn't happy at home and that he'd rather leave than stay in a loveless marriage and have us resent him for it.
+He started his own family, I still see him lots and I have a young brother of 13, through my dad and stepmom. 
+Now I can't help but feel angry with him, for the situation he left my family in - my mum as a single parent, having to rent a home she could barely afford, working constantly and us still struggling for money. We had bailiffs constantly knocking for us, my mum became bankrupt, all this from when I was 10 to about 18. Life was very hard and we struggled - my Dad gave my mum child support but very little.
+
+Now, my Dad's son has it all - he's basically an only child because he is his mother's only child, and is treated as such: completely spoilt, gets everything he wants. He hasn't know struggle, but I can't blame him for that - he's just had a comfortable upbringing. 
+
+But I resent my Dad for not helping more - I struggled financially through uni, and with the little support he did give me, he acted as if he'd done me some massive favour. It was recently my 21st, and I got a card and a bit of money, whilst my little half-brother got a fancy meal out and all. Everything in my life I have made for myself, or got through the incredible support of my mother who pushed herself to the absolute limit to help us get."
+6,plume,summarization,prose.full,qwen,5961,slf5k,6,1,"💔 RELATIONSHIP DILEMMAS: LOVE VS. FRIENDSHIP 💔
+
+🔍 THE STRUGGLE: BALANCING LOVE AND SOCIAL LIFE 🔍
+
+Do you ever feel TORN between your relationship and your social life? 🤔 This person LOVES their BF but feels ISOLATED from friends, especially since one is an ex. Is it FAIR to sacrifice friendships for love? 😢
+
+💬 THE FRIENDSHIP GAP: ISOLATION IN LOVE 💬
+
+Why doesn't the BF want to make new friends or hang out with old ones? 🤷‍♀️ Is it NORMAL to feel LONELY in a relationship? The writer misses their social circle and feels their self-esteem fading. Is it TIME for a heart-to-heart? 💔
+
+#RelationshipStruggles #LoveVsFriendship #LonelyInLove","**Love vs. Loneliness: A Personal Dilemma!**
+
+**The Boyfriend's Role**  
+Wow, what a complex situation! The writer is head over heels for her boyfriend, who is super supportive and generous! But... there's a catch! He doesn't seem to need friends, and this has created a bit of a social desert for her. 😕 
+
+**The Ex-Factor**  
+Here's where it gets tricky! The writer had a close-knit group of friends, including an ex, but since being with her BF, she's had to draw a line... and it's a thick one! She hoped for peace between her BF and ex, but nope, it's the opposite! Now, she finds herself reminiscing about her ex-friendship daily... isn't that tough? 😢
+
+**Social Struggles**  
+The writer is a social butterfly at heart, but her wings are clipped! Her BF doesn't make plans with friends, and even when they meet new people, he doesn't seem interested in pursuing friendships. She's met a girl she liked, but trust issues with her BF make her hesitant to pursue it. Friends want to hang out, but nothing materializes... how frustrating is that? 😩
+
+**Personal Reflection**  
+She's caught in a whirlwind of emotions! On one hand, she loves her BF deeply, but on the other, she's lonely and her self-esteem is taking a hit. She doesn't bring up these feelings because it leads to resentment... what a tough spot to be in! 😔
+
+**Conclusion**  
+Is it right to feel this way? The writer is torn between love and loneliness, and it's a struggle that many can relate to... What would you do in her shoes? 🤔","use exclamation marks and question marks to convey emotion and curiosity, emphasize contrasts between family members' experiences, highlight the mother's role and sacrifices, employ colloquial language and personal reflections, structure summaries with headings and bold text, and use ellipses and emojis to enhance emotional expression.
+",adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"I really do love my boyfriend, we have an extremely close relationship and are very comfortable with one another. He often supports me financially and is very generous, affectionate, etc... But he is at a point in his life where he doesn't seem to need any friends. 
+
+I had a ton of friends, people I genuinely loved (and still do...), but since one of these people includes an ex of mine I can't see them anymore. See, we were all a tight group and since being with my BF we met them once (minus the ex). But since then it feels like a line has been drawn and a lot of time has passed without seeing them, and I've had to miss out on holidays and outings with them, simply because of the awkwardness of the situation. The worst part is I really hoped my BF and ex would become cool with one another, but it is the polar opposite. My ex is no longer in my life, but I still catch myself thinking of him daily (we were great friends too). 
+
+This may be easier if we regularly hung out with anyone else, but my BF doesn't seem to care to make plans with his friends very often either. We've even clicked with some new people we met, or at least I felt that way, but he doesn't care to make new friends either. I've met a girl who I liked as well but I don't even feel like I can pursue a friendship, my BF and I have some trust issues and I don't think he would even approve of me going out without him at this point. Other people I know say they want to make plans but nothing ever fabricates for this reason.
+
+Am I right to feel this is kinda fucked? I'm a social person and I'm becoming so lonely and my self-esteem is fading with the personal connections I use to have deteriorating... I'm so sad about it. But on the other hand, I do love my BF... our history is a little fucked and I don't bring these feelings up, he resents me if I do...
+
+So"
+7,plume,summarization,prose.full,qwen,5961,slf5k,7,2,"💔 RELATIONSHIP REALITY CHECK 💔
+
+🔍 IS IT LOVE OR CONVENIENCE? 🔍
+
+Ever thought your relationship was built on LOVE, only to find out it might be more about CONVENIENCE? 🤔 A 20F shares her story of moving in with her 22M boyfriend, only to discover that SEX might be the main reason. She wonders if their bond is genuine or just PHYSICAL. Can a relationship survive if one partner abstains? What happens when the physical side is ONE-SIDED? 😟
+
+#RelationshipTruths #LoveOrConvenience #RealTalk","**Navigating Love and Friendship: A Personal Reflection**
+
+**The Move-In Dilemma!** 🤔  
+A young woman, 20, finds herself living with her boyfriend's family over the summer. Why? Because he asked her to! But was it love or convenience? She thought it was love... but now she's not so sure. 😟
+
+**Sex vs. Love?** 💔  
+After a chat about another couple's relationship, she questions her own. Her boyfriend admits that without sex, she might not have moved in. Ouch! 😲 This revelation shakes her belief in their bond. Is it love or just physical attraction? #RelationshipGoals or #RedFlags?
+
+**The One-Sided Experience...** 😕  
+Despite being sexually active for 10 months, she hasn't experienced an orgasm with him. It's all feeling a bit... one-sided. Is this what she signed up for? How does one balance love and physical needs? #LoveVsLust
+
+**Family Dynamics and Sacrifices**  
+Living with his family adds another layer. How does she fit into their world? What about her own family? The sacrifices made, especially by mothers, often go unnoticed. How does her experience contrast with theirs? 🤔
+
+**Seeking Advice!**  
+She's left wondering... How can she get over this? Is there a way to balance love and friendship without losing herself? #AdviceNeeded #LoveAndFriendship
+
+**Final Thoughts...**  
+This journey is a rollercoaster of emotions and questions. Can love survive without the physical? What sacrifices are worth making? 🤷‍♀️","use exclamation marks and question marks to convey emotion and curiosity, emphasize contrasts between social interaction and close relationships, highlight challenges of balancing love and friendships, employ colloquial language and personal reflections, structure summaries with headings and bold text, use emojis and ellipses to enhance emotional expression, focus on direct questions and statements, include relevant hashtags, emphasize contrasts between family members' experiences, highlight the role of the mother and her sacrifices.
+",adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"Relationship is just over a year old, I am 20f, he is 22m.
+
+Earlier this year he asked me to move into his place with his parents over the summer, because in September he is going to school, and I will be going to school for my final year as well. So I took the summer off from my job and am living in his house with his family.
+
+We were talking today about his friend and his girlfriend who have been going out for around 3 years now and my boyfriend mentioned that they probably haven't had sex yet. My boyfriend and I had sex after 2 months of dating... I asked him how far we would have gotten if we had never had sex and he said that I probably wouldn't have moved in this summer if we hadn't. 
+
+So then I asked him what would happen to us if I started to abstain. He just got his cute pouty face on and said that he enjoys our physical side. Then he said that he would probably just ignore me and throw himself into his hobbies so that he doesn't think about sex, or me.
+
+I thought that he had asked me to move in because he loves me... but now it feels like he only asked me to move in because it's easier to have sex whenever he wants it. The sex itself is completely one-sided too... We've been sexually active for 10 months and I haven't been able to orgasm with him once.
+
+So, it's like I said. I used to believe that he wanted me here because he loves me, but now I think he's mostly concerned about sex. I know that he cares about me a lot; he says so and shows me so. But this has really shaken my entire view of our relationship. Any advice on how I can get over this?"
+8,plume,summarization,prose.full,qwen,5961,slf5k,8,3,"🐾 ANIMAL RESCUE DIARIES 🐾
+
+**The Ups and Downs of a Day at the Shelter**
+
+Ever had a job that's both HEARTWARMING and HEARTBREAKING? Working at an animal rescue is just that. Today, we had two groups of kids visiting. After the first group, we had to perform a euthanasia. 😢
+
+**Unexpected Challenges**
+
+Ever tried to explain a BLOODY SHIRT to a group of curious kids? After a mishap during the procedure, I ended up with blood on my shirt. The second group of kids saw it and, well, let's just say they weren't buying the ""medicine"" story. 😬
+
+**A Day in the Life**
+
+Is it worth it? ABSOLUTELY. Even on the longest 11-hour shift, the love for these animals keeps us going. 🐶❤️","**🐾 A Day in the Life of an Animal Rescuer: The Ups and Downs**
+
+**Social Interaction vs. Close Bonds**  
+Working at an animal rescue is a rollercoaster... 🎢 It's a job filled with both heartwarming moments and tough calls. Imagine the contrast between the joy of kids visiting to see the animals and the somber task of euthanasia. It's a stark reminder of the delicate balance between social interaction and the deep, personal bonds we form with these creatures. 🐶❤️
+
+**Physical Intimacy and Sacrifices**  
+Holding a struggling dog during its final moments is no easy feat. It's a physical and emotional sacrifice... one that leaves a mark, literally and figuratively. The blood on my shirt was a testament to the raw, unfiltered reality of this work. It's a reminder of the sacrifices we make, much like a mother's sacrifices for her child. 🤲💔
+
+**Colloquial Reflections**  
+Man, this job ain't for the faint-hearted! It's a mix of shit and sunshine, and today was one of those days where the shit hit the fan... or rather, my shirt. 😅 How do you explain to a bunch of curious kids that the red stains are just ""medicine""? Spoiler: you can't. 🙈
+
+**Direct Questions and Statements**  
+Why do we do it? Because every animal deserves love and dignity, even in their final moments. This will be the longest 11-hour shift of my life, but it's worth it. Would you do the same? 🤔
+
+**#AnimalRescue #Sacrifices #EmotionalRollercoaster #LifeAndDeath #KidsAndCritters**","use emojis and ellipses to convey emotion and curiosity, emphasize contrasts between social interaction and close relationships, highlight the role of physical intimacy and the mother's sacrifices in relationships, employ colloquial language and personal reflections, focus on direct questions and statements, structure summaries with bold text and headings, include relevant hashtags to capture the essence of the user's writing.
+",adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"So I work at an animal rescue. It's a shit filled job but I love it. Frequently we have groups of young kids come in from summer camps or day programs to see all the animals. We usually have 2 a day that run one after the other.
+
+After group number one passes through, we get a call about a sleep needing to be done (aka euthanasia). Not observing and no paw print. Easy peasy, but not pleasant.
+
+ On the first attempt to find the vein, the dog struggled and we fucked up so we has to use the opposite leg. I'm the new person so I was holding. Switched sides and that time went easier. I waited a bit to collect myself (I'm not a monster) before returning the crate and collar to the owner. 
+
+As I left the room, the second group of kids were right in front of me waiting to see the critters. Wide eyes, some screams, and a bit of crying alerted me to the fact that I got a large amount of blood on my shirt from holding on the side of the blown out vein. 
+
+The collar and crate didn't help. 
+
+We tried to convince them I was just helping to give a dog medicine but they're too old to believe that. 
+
+This will be the longest 11 hour shift of my life."
+9,plume,summarization,prose.full,qwen,5961,slf5k,9,4,"💔 LOVE LOST & FOUND 💔
+
+— A Tale of First Love & Heartbreak —
+
+Ever had a FIRST LOVE that left you feeling EMPTY? 🤔 This guy did! They met in high school, became best friends, and eventually dated. But what happens when you LOVE someone but aren't IN LOVE with them? 😢
+
+— The Breakup Blues —
+
+He was her FIRST serious boyfriend, but she wasn't his first anything. Jealousy and lost feelings led to a breakup. Now, she's moved on, but he's STUCK in the past. Can he find LOVE again? 💔
+
+— The Aftermath —
+
+Seeing her with someone new? It HURTS. He's tempted to act out but fears LEGAL issues. Can friendship survive when LOVE lingers? 😟
+
+#Heartbreak #FirstLove #MovingOn","**High School Friends to Lovers... and Back to Friends? 🤔**
+
+**The Journey**  
+They've known each other since high school. Friends in college. She dated his pals, but he felt nothing... until junior year. Parties, fun, and then... they became a couple. But something was off. He loved her, but wasn't IN love. 😕 #FirstLove #CollegeRomance
+
+**The Breakup**  
+Jealousy and lost feelings led to a breakup. She moved on, found others. He didn't. They stayed friends, but it wasn't easy. Seeing her with someone else? Ouch. 💔 #Heartbreak #MovingOn
+
+**The Struggle**  
+He's tempted to act out, but legal issues hold him back. Her new guy lives nearby. They made out. Hickies. It hurts. He's angry, depressed. She's his only ex, still his best friend. Love and friendship? Tough balance. 😢 #LoveVsFriendship #Jealousy
+
+**The Dilemma**  
+He can't date others. Feels empty, alone. Needs help. What to do? 🤷‍♂️ #HelpNeeded #Loneliness
+
+**The Contrast**  
+Social life vs. deep connection. Parties vs. real love. His first serious relationship, her not-so-first. Different experiences, different feelings. #DifferentPaths #RelationshipGoals
+
+**The Question**  
+How to balance love and friendship? How to move on when the heart's still attached? 🤔 #LifeQuestions #EmotionalJourney","use emojis and ellipses to convey emotion and curiosity, emphasize contrasts between social interaction and solemn aspects of the job, employ colloquial language and direct statements, structure summaries with bold text and headings, include relevant hashtags to capture the essence of the user's writing, use capitalization for emphasis but avoid excessive formatting, use short, punchy sentences to reflect the user's writing style, focus on direct questions and statements, emphasize the role of physical intimacy in relationships, highlight contrasts between different couples' and family members' experiences, emphasize contrasts between the need for social interaction and the desire for a close relationship, highlight the challenges of balancing love and friendships, emphasize the role of the mother and her sacrifices.
+",adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"I'm going to try to be very simple with this. We have known each other since high school and we eventually became friends my freshman year in college. I've seen her date a couple of my friends but I felt nothing towards her so that wasn't a problem. Not until my junior year in college. We went to a lot of parties and I know she did a bunch of guys in between parties. We became very close friends and eventually dated and became boyfriend and girlfriend. It went well for a while until I began questioning how heavily I felt for Her, I felt like I didn't love her with the intensity she deserved. I know she cared about me
+A lot but I felt it wasn't fair because I didn't feel as strongly even though I loved her I wasn't IN love with her (cliche but true.) 
+The problem here is that she was my first serious girlfriend and relationship. And I am not her first anything. We broke up about a year ago because of jealousy issue from all the guys she's been with and because I lost feelings. She was deeply hurt and I was too. Over time she felt better and found others to be with and I have found no one, although we remained good friends and nothing more. Recently I know she has been spending time with someone who lives down my street and I am very tempted to do something bad to him but I won't for fear of legal issues. I found out they at least made out heavily and left hickies on her neck which triggered something within me to make me angry and depressed. I told her it isn't her fault and I don't blame her but I can't help but feel hurt, empty, and alone because she's my only ex and still my best friend and I love her very much so thinking about her being with other guys like that really really hurts me inside. I have a hard time dating other girls but I don't know what else to do. Help me please. If something is unclear I will be happy to clear it up."
+10,plume,summarization,prose.full,qwen,5961,wikipedia,10,0,"```
+INT. VODKA WORLD - DAY
+
+NARRATOR (V.O.)
+Yo, gather 'round, let's talk vodka, the clear, the bold,
+A Russian drink, 40% alcohol, so I'm told.
+From Slavic lands, it made its debut,
+Now it's a staple, in cocktails too.
+
+CUT TO: INGREDIENTS MONTAGE
+
+NARRATOR (V.O.) (CONT'D)
+Molasses, soybeans, grapes, or beets,
+Potatoes and grain, the elite treats.
+Mashing, heating, yeast in the mix,
+Fermentation and distillation, that's the fix.
+
+CUT TO: VODKA HISTORY FLASHBACK
+
+NARRATOR (V.O.) (CONT'D)
+""Little water,"" they called it back in the day,
+Poles or Russians, who made it first? Hard to say.
+Once a medicine, now a drink for the masses,
+From peasants to nobles, it quickly passes.
+
+CUT TO: VODKA TYPES AND CONSUMPTION
+
+NARRATOR (V.O.) (CONT'D)
+Clear or flavored, take your pick,
+Add some herbs, make it slick.
+Drink it pure or mix it up,
+With juice or pickles, fill your cup.
+
+CUT TO: CULTURAL SCENE
+
+NARRATOR (V.O.) (CONT'D)
+In Slavic lands, it's tradition, no doubt,
+A glass on graves, to honor and shout.
+From Russia to Poland, it's part of the scene,
+Vodka's the star, in this cultural dream.
+
+FADE OUT.
+```","Vodka, a clear alcoholic beverage typically containing 40% alcohol, originated in the Slavic regions of Eastern Europe and the former Soviet Union. It can be made from various ingredients, including molasses, potatoes, and grains, with grain-based vodka considered the highest quality. The production process involves mashing, fermentation, distillation, and dilution, but unlike other spirits, vodka is not usually aged in barrels. Historically, vodka's name is derived from the Slavic word for ""little water,"" and its earliest mentions date back to 1405 in Poland. Vodka comes in two main types: clear and flavored, with flavored varieties having a long tradition in Polish culture. It is commonly consumed pure or in cocktails, often accompanied by salty or sour foods. Vodka holds cultural significance in Slavic and Baltic countries, where it is integral to traditions and rituals, including toasts and memorials.",,adopt a rhyming structure; include modern slang; write in the style of a screenplay,"Vodka is a Russian alcoholic drink that is usually about 40% alcohol. It is clear (but can be flavoured), though it is sometimes mixed with other liquids before people drink it. It was first popular in the Slavic countries of Eastern Europe and former republics of the Soviet Union.
+
+Things that are made into vodka 
+
+Vodka can be made from different things:
+ Molasses (which comes from the production of sugar) are used to produce the cheapest vodka. Because of the ingredient, this kind usually tastes sweeter than vodka made from grain. Soy beans, grapes or sugar beets may also be used, but are less common.
+ Potatoes have been used for centuries to make vodka.
+ Grain is used to produce the highest grade vodka - like potatoes, vodka is also traditionally made from grain.
+
+The process to make vodka is:
+
+ The raw material is crushed and dissolved in water. This is called mashing
+ The mash is heated to 60 °C. All starch will break up into sugars.
+ Yeast is added and the mash vessel is closed airtight with airlock. The yeast will ferment the sugar into alcohol.
+ The fermented mash is then distilled. It can be made either in simple pot still or sophisticated industrial patent still.
+ If the still used is a pot still, the distillation is usually repeated at least twice to remove any foul-tasting or poisonous impurities away. If the still used is a patent still, the result is spirit; very high contents alcohol unsuitable for drinking. Pure water is added to lower the alcohol contents to desired. This is called dilution.
+
+Unlike cognac or whisky, vodka is not usually matured in barrels, but bottled immediately. Some Scandinavian vodkas called akvavit (Latin aqua vitae, ""water of life"") are matured in oak barrels before they are bottled. When the vodka is bottled, it is ready for drinking.
+
+History 
+
+Most people think the name vodka comes from the Slavic word for water in its diminutive form, ""little water"". The earliest mention of Vodka in Poland is in 1405. The Russians are known to have first used the word in June 8, 1751. It is not known if it was the Russians or the Poles who made the first drinks that could be classified as vodka, as sources provide various views on this topic (though it's important to remember that the first mention of the word ""vodka"" in Cyrillic refers to a medicinal drink bought by the merchants of Kievan Rus from Poland). It is also worth noting that vodka was first used as medicine. When it became a popular drink, it was first known in Polish as gorzałka - from the Old Polish word gorzeć, meaning burn. At first, gorzałka was a people's drink, but in the Slavic countries it soon became common among the nobility as well. it is worth noting that the common Ukrainian word for vodka is horilka which bears an extremely close resemblance to the Polish gorzalka. Both words roots have the same meaning (hority - to burn; gorzeć, also to burn)
+
+Different kinds of vodka 
+
+There are two basic kinds of Vodka: clear vodka and flavored vodka. Some types of vodka have plants or herbs added to the unflavored vodka to make it taste better. Contrary to popular belief, flavoured vodka is not new - it has been a part of Polish drinking tradition for centuries. It is only relatively recently in history that clear and flavoured vodkas have found their way to Western countries such as the UK or US.
+
+How vodka is consumed 
+Vodka is either drunk pure, or cocktails are made with it. The simplest form of cocktail is to mix it with orange or lemon juice. Usually, vodka is drunk during a longer meal. Usually salty or sour things (not sweets) are served. In Poland and Russia (as well as some of their neighbours, such as Ukraine or Lithuania), vodka is drunk from glasses that can hold about 100 grams (0,1 litres) of vodka. The glass is usually emptied in one draught, while holding the breath. Directly afterwards something small is eaten. In most Eastern European countries it is consumed with pickled cucumbers. Before drinking, a toast is given.
+
+Cultural 
+Vodka is a key element of Slavic tradition in some countries of Eastern Europe (especially Poland, Belarus, Ukraine and Russia). It has also spread to become a part of national culture in Baltic countries like Lithuania and Nordic countries like Sweden. It's traditional in Russia and other Slavic countries (as well as some Roma communities in Eastern Europe) to put a glass of vodka with a slice of bread (usually black bread) on top on graves or near photos of the deceased in their memory. This is similar to what people in Western countries do with flowers.
+
+References 
+
+Alcoholic spirits"
+11,plume,summarization,prose.full,qwen,5961,wikipedia,11,1,"INT. HISTORICAL FLASHBACK - DAY
+
+NARRATOR (V.O.)
+Yo, gather 'round, peeps, let me tell you 'bout a dude,  
+Henry Clay, a political heavyweight, never crude.  
+Born in '77, April twelve was the date,  
+In Virginia's Hanover, he sealed his fate.  
+
+CUT TO: 
+
+INT. CLAY FARMHOUSE - DAY
+
+Young HENRY, a kid with dreams so grand,  
+Lost his pops early, but he took a stand.  
+With a stepdad who cared, he moved to Richmond town,  
+Where he learned the law, never wore a frown.  
+
+NARRATOR (V.O.)  
+He kicked it with George Wythe, a mentor so fly,  
+Read the law, no formal school, just a sharp eye.  
+In '97, he hit the legal scene,  
+A lawyer in Kentucky, living the dream.  
+
+CUT TO: 
+
+INT. HART HOME - DAY
+
+NARRATOR (V.O.)  
+In '99, he wed Lucretia, his ride or die,  
+Eleven kids they had, but many said goodbye.  
+Tragedy struck, daughters lost too soon,  
+But Clay kept hustling, reaching for the moon.  
+
+CUT TO: 
+
+INT. SENATE FLOOR - DAY
+
+NARRATOR (V.O.)  
+In politics, he was a boss, no doubt,  
+Speaker, Senator, Secretary, he was all about.  
+Started the Whig Party, opposed Jackson's reign,  
+Compromised on slavery, easing the pain.  
+
+CUT TO: 
+
+EXT. LEXINGTON CEMETERY - DAY
+
+NARRATOR (V.O.)  
+Though he never snagged the Prez role, he left a mark,  
+A senator legend, his legacy's no lark.  
+Buried in Lexington, with Lucretia by his side,  
+Henry Clay, a statesman, in history he'll abide.  
+
+FADE OUT.","Alright, folks, gather 'round because we're diving into the life of Henry Clay, a dude who was pretty much the rockstar of American politics back in the day. Picture this: it's the late 1700s, and young Henry is born in a cozy little farmhouse in Hanover County, Virginia. The place is buzzing with the chatter of nine siblings and the aroma of cabbage simmering away to keep the chill at bay. His dad, a Baptist minister with the grand nickname ""Sir John,"" passes away when Henry's just a wee lad, leaving behind a legacy of land and slaves—yep, that's how things rolled back then.
+
+Fast forward a bit, and Henry's stepdad, Captain Henry Watkins, swoops in like a hero, whisking the family off to Richmond. Here, Henry's life takes a turn as he dives into the world of law, rubbing shoulders with big names like George Wythe. Imagine him, a young lad with no formal education, soaking up knowledge like a sponge, eventually getting the nod to practice law in 1797. 
+
+Now, let's hit the fast-forward button again to 1799. Henry ties the knot with Lucretia Hart in Lexington, Kentucky. Picture a bustling household with eleven kiddos running around—six daughters and five sons. Sadly, life wasn't all sunshine and rainbows. By 1835, all six daughters had passed away, victims of the harsh realities of the time like whooping cough and yellow fever. And Henry Jr.? He met his fate at the Battle of Buena Vista during the Mexican-American War.
+
+But let's not forget Henry's political escapades. This guy was all over the place—Speaker of the House, Senator, Secretary of State, and even a presidential hopeful. He was a key player in the War of 1812 and a mastermind behind the Missouri Compromise and the Compromise of 1850, trying to keep the nation from tearing itself apart over slavery. He even founded the Whig Party to give Andrew Jackson a run for his money.
+
+So, there you have it—a whirlwind tour of Henry Clay's life, a man whose legacy is etched in the annals of American history. And hey, if you ever find yourself wandering through Lexington Cemetery, give a nod to Henry and Lucretia, resting there with stories as rich as the soil beneath them.","use informal language and first-person narration, incorporate vivid visual and sensory descriptions, include historical context through flashbacks, emphasize cultural significance and traditions, structure content with montage-like transitions, maintain a conversational tone with direct address, use voice-over narration, provide specific details and examples.
+",adopt a rhyming structure; include modern slang; write in the style of a screenplay,"Henry Clay, Sr. (April 12, 1777 – June 29, 1852) was an American politician from Kentucky.  He served in the House of Representatives (as Speaker), in the Senate, and was Secretary of State. He ran for President several times but never won. He wanted the United States to fight the British in the War of 1812. After years in the Democratic-Republican Party he started the Whig Party to oppose Andrew Jackson.
+
+He helped pass the famous compromises over slavery leading up the Civil War, including the Missouri Compromise and the Compromise of 1850.  He is considered to be one of the greatest Senators in United States history.
+
+Early life and education
+
+Childhood
+Henry Clay was born on April 12, 1777, at the Clay farmhouse in Hanover County, Virginia, in a story-and-a-half frame house. It was an above-average home for a common Virginia planter of that time. At the time of his death, Clay's father owned more than 22 slaves, making him part of the planter class in Virginia (those men who owned 20 or more slaves). He also ate copious amounts of cabbage to survive the cold winter months.
+
+Henry was the seventh of nine children of the Reverend John Clay and Elizabeth Hudson Clay. His father, a Baptist minister nicknamed ""Sir John,"" died four years after his birth in 1781. The father left Henry and his brothers two slaves each, and his wife 18 slaves and  of land. Henry Clay was a second cousin of Cassius Marcellus Clay, who became an abolitionist in Kentucky.
+
+The widow Elizabeth Clay married Capt. Henry Watkins, who was a loving stepfather. Henry Watkins then moved the family to Richmond, Virginia. Elizabeth had seven more children with Watkins, having sixteen.
+
+Education
+His stepfather secured Clay employment in the office of the Virginia Court of Chancery, where he showed a skill for law. There he became friends with George Wythe. Wythe chose Clay as his secretary. After Clay was employed as Wythe's faculty for four years, the chancellor took an active interest in Clay's future; he arranged a position for him with the Virginia attorney general, Robert Brooke. Clay received no formal legal education but, as was customary at the time, ""read the law"" by working and studying with Wythe, Chancellor of the Commonwealth of Virginia (also a mentor to Thomas Jefferson and John Marshall, among others) and Brooke. Clay was admitted to practice law in 1797.
+
+Marriage and family
+After starting his law career, on April 11, 1799, Clay married Lucretia Hart at the Hart home in Lexington, Kentucky. She was a sister to Captain Nathaniel G. S. Hart, who died in the Massacre of the River Raisin in the War of 1812.
+
+Clay and his wife had eleven children (six daughters and five sons): Henrietta (1800–1801), Theodore (1802–1870), Thomas (1803–1871), Susan (1805–1825), Anne (1807–1835), Lucretia (1809–1823), Henry, Jr. (1811–1847), Eliza (1813–1825), Laura (1815–1817), James Brown, (1817–1864), and John (1821–1887).
+
+Seven of Clay's children died before him and his wife. By 1835 all six daughters had died of many conditions, two when very young, two as children, the other two as young women: from whooping cough, yellow fever, and complications of childbirth. Henry Clay, Jr. was killed at the Battle of Buena Vista during the Mexican-American War.
+
+Lucretia Hart Clay died in 1864 at the age of 83. She is buried with her husband in Lexington Cemetery. Henry and Lucretia Clay were great-grandparents of the suffragette Madeline McDowell Breckinridge, a family member of John C. Breckinridge, who was Vice President of the United States during James Buchanan's presidency.
+
+References
+
+1777 births
+1852 deaths
+Democratic Republican party (US) politicians
+National Republican party (US) politicians
+Politicians from Virginia
+Speakers of the United States House of Representatives
+United States representatives from Kentucky
+United States Secretaries of State
+United States senators from Kentucky
+Whig party (US) politicians
+19th-century American politicians"
+12,plume,summarization,prose.full,qwen,5961,wikipedia,12,2,"```
+INT. CRIME LAB - DAY
+
+NARRATOR (V.O.)
+Yo, welcome to the lab, where science gets lit,  
+Forensics is the game, solving crimes bit by bit.  
+Lawyers got questions, and we got the crew,  
+Mixing science and law, like a forensic stew.  
+
+CUT TO:
+
+A MONTAGE OF SCIENTISTS AT WORK
+
+NARRATOR (V.O.) (CONT'D)
+Fingerprints and hair, DNA's the key,  
+Matching up the evidence, setting the guilty free.  
+From one hour to a year, tests take their time,  
+Double-checking answers, making sure they rhyme.  
+
+CUT TO:
+
+A FORENSIC ACCOUNTANT AT A DESK
+
+NARRATOR (V.O.) (CONT'D)
+Forensic accounting, numbers in the mix,  
+Anthropology digs bones, solving ancient tricks.  
+Archaeology meets law, in a dusty scene,  
+Computational forensics, algorithms so keen.  
+
+CUT TO:
+
+A DIGITAL FORENSIC SPECIALIST AT A COMPUTER
+
+NARRATOR (V.O.) (CONT'D)
+Digital forensics, data's the new gold,  
+Document examination, stories unfold.  
+DNA analysis, unique as a thumb,  
+Engineering checks failures, why things go numb.  
+
+CUT TO:
+
+A FORENSIC PSYCHOLOGIST WITH A SUSPECT
+
+NARRATOR (V.O.) (CONT'D)
+Psychology peeks inside the criminal mind,  
+Toxicology tests what drugs left behind.  
+Podiatry traces footsteps, solving the crime,  
+In the world of forensics, everything's prime.  
+
+FADE OUT.
+```","Alright, folks, gather 'round because we're diving into the world of forensic science, and trust me, it's way cooler than it sounds. Picture this: a bunch of science whizzes coming together to solve mysteries that would make Sherlock Holmes proud. It's like a crime-solving Avengers team, but with lab coats instead of capes.
+
+Now, let's take a little trip back in time. Imagine the early days when fingerprints were first used to nab criminals. It was a game-changer, like discovering fire or inventing the wheel. Fast forward to today, and we've got forensic specialists who can tell you who was at a crime scene just by analyzing a single hair or a tiny piece of skin. It's like magic, but with a lot more science and a lot less wand-waving.
+
+Forensics isn't just about catching the bad guys, though. It's a cultural phenomenon, deeply rooted in our quest for justice. Think about it: every time you watch a crime show and see those detectives piecing together clues, you're witnessing the legacy of forensic science. It's become a tradition in its own right, a testament to our never-ending curiosity and determination to uncover the truth.
+
+Now, let's do a quick montage of the different branches of forensics. We've got forensic anthropology, where experts dig up bones and piece together stories of the past. Then there's digital forensics, where tech gurus recover data from gadgets like modern-day treasure hunters. And don't even get me started on forensic psychology—it's like diving into the mind of a criminal, trying to figure out what makes them tick.
+
+Imagine walking into a crime lab. The air is thick with the smell of chemicals, and the hum of machines fills the room. Specialists are hunched over microscopes, examining fingerprints with laser focus. It's a sensory overload, but in the best way possible.
+
+So, next time you hear about a crime being solved, remember the unsung heroes in the lab, working tirelessly to piece together the puzzle. Forensic science isn't just about catching criminals; it's about preserving the stories of those who can no longer speak for themselves. And that's a tradition worth celebrating.
+""""""","use informal language and first-person narration, include historical context through flashbacks, emphasize cultural significance and traditions, structure content with montage-like transitions, maintain a conversational tone with direct address, provide specific details and examples, incorporate visual and sensory descriptions.
+",adopt a rhyming structure; include modern slang; write in the style of a screenplay,"Forensic science (or forensics) is when different fields of science work together to answer the questions a lawyer would ask. Most often, forensics is about proving that someone was present at a place where a crime was committed. Specialists take samples which are later analyzed in a laboratory. Most forensic tests can take from 1 hour to one year, and investigators need to double (and triple) check the answer, so they know that the answer is the right answer. If a forensics team made a mistake the wrong person could be jailed, or they could get into trouble themselves.
+
+Samples commonly taken include fingerprints. People also look for other things that could be used, for example a few hairs (or pieces of skin). Samples like hair or skin can be use for DNA testing, which allows to tell the gender of the person the hair is from, amongst others. 
+
+When someone is accused of committing the crime, these pieces of evidence can then be matched up. Then, if they are correct, the person is charged.
+
+Subdivisions 
+ Forensic accounting is the study and interpretation of accounting evidence
+ Forensic anthropology is the application of physical anthropology in a legal setting, usually for the recovery and identification of skeletonized human remains.
+ Forensic archaeology is the application of a combination of archaeological techniques and forensic science, typically in law enforcement.
+ Computational forensics concerns the development of algorithms and software to assist forensic examination.
+ Criminalistics applies various sciences to answer questions relating to examination and comparison of biological evidence, trace evidence, impression evidence (such as fingerprints, footwear impressions, and tire tracks), controlled substances, ballistics, firearm and toolmark examination, and other evidence in criminal investigations. In typical circumstances evidence is processed in a crime lab.  
+ Forensic dactyloscopy is the study of fingerprints.
+ Digital forensics is the application of proven scientific methods and techniques in order to recover data from electronic / digital media.  Digital Forensic specialists work in the field as well as in the lab. 
+ Forensic document examination or questioned document examination answers questions about a disputed document using a variety of scientific processes and methods. Many examinations involve a comparison of the questioned document, or components of the document, with a set of known standards. The most common type of examination involves handwriting, whereby the examiner tries to address concerns about potential authorship.
+ Forensic DNA analysis takes advantage of the uniqueness of an individual's DNA to answer forensic questions such as paternity/maternity testing and placing a suspect at a crime scene, e.g. in a rape investigation.      
+ Forensic engineering is the scientific examination and analysis of structures and products relating to their failure or cause of damage. 
+ Forensic linguistics deals with issues in the legal system that requires linguistic expertise.
+ Forensic pathology applies the medical methods and principles of pathology, including autopsy, to determine a cause of death or injury in the context of a legal inquiry. 
+ Forensic psychology is the study of the mind of an individual, using forensic methods. Usually it determines the circumstances behind a criminal's behavior. 
+ Forensic toxicology is the study of the effect of drugs and poisons on/in the human body.
+ Forensic Podiatry is an application of the study of feet footprint or footwear and their traces to analyze scene of crime and to establish personal identity in forensic examinations."
+13,plume,summarization,prose.full,qwen,5961,wikipedia,13,3,"```
+INT. AUSTRALIAN OUTBACK - DAY
+
+NARRATOR (V.O.)
+Yo, gather 'round, let me drop some facts,  
+About the Katiti Land Trust, where history stacks.  
+In the Northern Territory, where the sun shines bright,  
+Pitjantjatjara, Yankunytjatjara, and Luritja hold it tight.  
+
+CUT TO: MAP OF THE REGION
+
+NARRATOR (V.O.) (CONT'D)
+It's a block of land, Portion 1818,  
+Borders Petermann and Uluṟu, a scene so serene.  
+Yulara's out, it's not in the mix,  
+But Katiti's got roots, deep in the sticks.  
+
+FLASHBACK - 1894
+
+BALDWIN SPENCER and FRANCIS JAMES GILLEN trek through the land.
+
+NARRATOR (V.O.) (CONT'D)
+Back in '94, Spencer and Gillen came through,  
+Found a spring called Katiti, where the waters flew.  
+Fast forward to '76, the Land Rights Act came,  
+Aboriginal folks could now stake their claim.  
+
+CUT TO: COURTROOM - 1980
+
+NARRATOR (V.O.) (CONT'D)
+In '79, the claim was laid,  
+For a land so vast, where dreams were made.  
+By '80, the title was in their hands,  
+Though Ayers Rock stayed in the park's plans.  
+
+CUT TO: HIGHWAY - 1990
+
+NARRATOR (V.O.) (CONT'D)
+Petermann Road got swapped for Lasseter's way,  
+In '90, the old road was theirs to stay.  
+By '85, the park's title was passed,  
+To the traditional owners, a win at last.  
+
+FADE OUT.
+
+NARRATOR (V.O.) (CONT'D)
+So that's the tale of the Katiti Trust,  
+A land of history, respect, and dust.  
+From crown land to a rightful claim,  
+The spirit of the land, forever the same.  
+```","Hey there, let me take you on a little journey through the heart of the Northern Territory, Australia. Picture this: vast stretches of land, the kind that makes you feel small and infinite all at once. This is the land of the Katiti Aboriginal Land Trust, a place steeped in history and culture, where the Pitjantjatjara, Yankunytjatjara, and Luritja people call home.
+
+Now, imagine a montage of scenes flashing before your eyes. First, we see the natural spring, Katiti, shimmering under the sun, a sacred spot first noted by explorers Baldwin Spencer and Francis James Gillen back in 1894. Fast forward to 1976, the Aboriginal Land Rights Act comes into play, a game-changer for Indigenous communities. It's like the land itself is whispering, ""Welcome back.""
+
+Cut to 1979, the Central Land Council steps up, filing the Katiti Land Claim. Picture a room full of anticipation, voices murmuring, ""This is our land."" By 1980, the claim is granted, and the land is officially theirs, though not without a few hiccups—Ayers Rock–Mt Olga National Park remains a national park, but the traditional owners are recognized. It's a bittersweet victory, like tasting honey with a hint of lemon.
+
+Jump to 1990, the old Petermann Road, now a relic of the past, is handed over to the Katiti ALT. And then, a courtroom drama unfolds, stretching all the way to 2006, over the Yulara area. It's a reminder of the ongoing struggle for land rights, a story as old as time.
+
+Throughout this tale, the cultural significance of the land pulses like a heartbeat. It's not just dirt and rocks; it's a living, breathing entity, woven into the traditions and stories of its people. So, next time you find yourself wandering through the Northern Territory, remember the voices of the past and the vibrant tapestry of cultures that call this land home.","use informal language and first-person narration, incorporate visual and sensory descriptions, structure content with montage-like transitions, maintain a conversational tone with direct address, provide specific details and examples, use narrative elements like dialogue and scene-setting, employ a rhythmic and poetic style in narration, include historical context through flashbacks, emphasize cultural significance and traditions, use voice-over narration.
+",adopt a rhyming structure; include modern slang; write in the style of a screenplay,"The Katiti Aboriginal Land Trust is a land trust for a block of land in the southwest of the Northern Territory, Australia. It was created through the Katiti Land Claim in 1980. The trust's owners include Pitjantjatjara, Yankunytjatjara and Luritja people. The block of land is officially referred to as Northern Territory Portion 1818. It borders the larger Petermann Land Trust area and Uluṟu–Kata Tjuṯa National Park to the north and west, and two pastoral stations to the east and south: Curtin Springs and Mulga Park. The town of Yulara is excluded from the Land Trusts, and sits between the Katiti block and Uluṟu–Kata Tjuṯa National Park.
+
+The trust is named after Katiti (), a natural spring located about  south of Lake Amadeus. This spring was first written about by Baldwin Spencer and Francis James Gillen. They visited it in 1894 on their way to Uluṟu, and recorded the name ""Kurtitina"" (more accurately, ). The prospecting expedition led by Lawrence Wells visited the spring in 1903, and Herbert Basedow marked it on his maps as ""Curtyteena"".
+
+History
+Before the 1970s, the area of land now held by the Katiti ALT was considered crown land by the government. The region to the southwest had been declared an Aboriginal reservation in 1920. An area of land around Uluṟu and Kata Tjuṯa had been made into the Ayers Rock–Mt Olga National Park in 1958. The Katiti block, however, was considered unused. In 1976, the Australian Federal Government passed the Aboriginal Land Rights Act. This law allowed Aboriginal communities to claim ownership of unused land, and to be granted freehold title to that land if they could show that they had a historical association with it. Section 4 of the act gave the Minister for Aboriginal Affairs the power to establish Land Trusts to look after the title.
+
+The Katiti Land Claim was formally submitted in 1979. The claim was for a larger area than what is held by the Trust today, and included the Ayers Rock–Mt Olga National Park. It was sumbitted by the Central Land Council on the behalf of several hundred people, most of whom lived at Muṯitjulu. The people were granted legal ownership to the block of land now held by the Katiti ALT on 30 September 1980. They were not granted the title to Ayers Rock–Mt Olga because it was already being used as a national park. They were, however, recognised as the park's traditional owners (). Also excluded from the property granted were a  area surrounding the resort town of Yulara, and a  area covering the Petermann Road, which provided tourist access to Uluṟu.
+
+Petermann Road was later replaced by the Lasseter Highway, and the government transferred the title to the old road to the Katiti ALT on 23 February 1990. Legal ownership over the national park's land was eventually granted to its traditional owners in 1985, and the title to this area is held by the Uluṟu–Kata Tjuṯa Aboriginal Land Trust. Ownership of the Yulara area was the subject of a court case, which ended in 2006.
+
+References
+
+Aboriginal Land Trusts
+Northern Territory
+1980 establishments in Australia"
+14,plume,summarization,prose.full,qwen,5961,wikipedia,14,4,"INT. HISTORICAL DOCUMENTARY - DAY
+
+NARRATOR (V.O.)
+Yo, check it, peeps, we're talkin' Grace Dieu, 
+Henry V's flagship, a beast that was true. 
+Launched in 1418, she was the queen of the sea, 
+But her journey was short, just one voyage, you see.
+
+CUT TO: SHIPYARD - DAY
+
+NARRATOR (V.O.)
+Designed by Soper, a shipwright with flair, 
+Built with planks and tar, she was beyond compare. 
+Massive like Victory, twice Mary Rose's size, 
+But her construction was rushed, not a big surprise.
+
+CUT TO: ENGLISH CHANNEL - DAY
+
+NARRATOR (V.O.)
+In 1420, she set sail with Devon's crew, 
+But mutiny struck, and the voyage was through. 
+Sailors beefed with soldiers, didn't want them aboard, 
+The trip got canceled, and the crew jumped overboard.
+
+CUT TO: RIVER HAMBLE - DAY
+
+NARRATOR (V.O.)
+After Henry's death, she was left in the bay, 
+Stripped of her gear, just wasting away. 
+In '39, lightning struck, and she burned to the ground, 
+Her remains in the Hamble, where they were found.
+
+CUT TO: RIVER HAMBLE - DAY (YEARS LATER)
+
+NARRATOR (V.O.)
+For years, folks thought she was a Danish ghost, 
+Till '33, when they found out the most. 
+Protected by law, her story's now told, 
+Thanks to Time Team, her secrets unfold.
+
+FADE OUT.","Hey there, let me take you on a little journey back in time. Picture this: it's 1418, and the mighty Grace Dieu, the pride of King Henry V's fleet, is being launched. This ship was a beast, folks—one of the largest wooden ships of its era, designed by William Soper. Imagine the sound of hammers and saws, the scent of fresh-cut oak and beech, as 2735 oak trees and more were transformed into this colossal vessel. She was built in a hurry, though, with some planks and ribs a bit rough around the edges, but hey, she was still a sight to behold.
+
+Fast forward to 1420, and Grace Dieu is setting sail on her maiden voyage. But oh boy, drama ensues! The crew wasn't too thrilled about having soldiers on board. Picture a scene straight out of a movie: sailors shouting, a clerk getting harassed, and threats of tossing the register into the sea. The mutiny was so intense that they had to dock at St. Helen's on the Isle of Wight. The crew just up and left, leaving the poor clerk with torn clothes and a bruised ego.
+
+Now, let's jump to 1430. Grace Dieu is no longer the star of the show. After Henry V's death, his ships were treated like his personal toys, sold off to pay debts. Our girl Grace Dieu was laid up in the River Hamble, stripped of her mast and equipment. Then, in 1439, a bolt of lightning set her ablaze, and she burned down to the waterline. Talk about a dramatic exit!
+
+But wait, there's more! Her remains lay forgotten until 1933 when a survey revealed her true identity. Imagine the excitement of discovering this piece of history! Protected by the Protection of Wrecks Act in 1974, she even got her moment of fame on Channel 4's Time Team in 2004. Just 50 meters away lies another wreck, possibly her old buddy Holigost.
+
+So there you have it, the tale of Grace Dieu—a ship that sailed once, faced mutiny, and met a fiery end, yet still whispers stories from the depths of the River Hamble. It's a slice of history, a glimpse into the past, and a reminder of the cultural significance of these maritime giants.","use informal language and first-person narration, incorporate visual and sensory descriptions, structure content with montage-like transitions, maintain a conversational tone with direct address, provide specific details and examples, use narrative elements like dialogue and scene-setting, employ a rhythmic and poetic style in narration, include historical context through flashbacks, emphasize cultural significance and traditions, use voice-over narration
+",adopt a rhyming structure; include modern slang; write in the style of a screenplay,"Grace Dieu was the flagship of King Henry V of England and one of the largest ships of her time. It was launched in 1418. The ship only sailed on one voyage, after which it was kept anchored in the River Hamble. The ship was burned in 1439 after being struck by lightning.
+
+Design and construction 
+Grace Dieu was designed by William Soper, a burgess of Southampton and clerk of the King's Ships.  She was clinker-built with three planks nailed together along each part of her hull and waterproofed with tar and moss sandwiched between the timbers. She was  long with a  beam, comparable in size with HMS Victory and twice as large as Mary Rose. The ship weighed between 1,400 tons and 2,750 tons. Two other ships, Valentine and Falcon were built to follow her. A dock was specially built for her construction near Town Quay in Southampton.
+
+The remains of Grace Dieu show that it might have been built in a hurry, with some of the planks and ribs only roughly finished. She was a vast ship requiring 2735 oak, 1145 beech, and fourteen ash trees for her timbers. When completed in 1418, she was one of the largest wooden ships of the time.
+
+1420 voyage 
+In 1420, Grace Dieu made her only voyage under the command of the Earl of Devon, with orders to sail down the English Channel. The expedition suffered a mutiny even before leaving port, when the crew objected to soldiers and archers being aboard to guard the vessel. Grace Dieu's sailors attempted to prevent the soldiers from boarding by abusing the clerk who was registering their names and threatening to throw the register into the sea. When the ship finally left port, nine of the crew incited a further mutiny against the captain by refusing to take their stations and insisting that the cruise be abandoned. Grace Dieu was brought into the nearest port, St. Helen's on the Isle of Wight, and the crew departed. A clerk who questioned their loyalty as they departed was assaulted and had his clothing torn.
+
+Service after Henry V's death and loss 
+When Henry V died in 1422, his ships were treated as his private property rather than as part of the kingdom's navy. Many were sold off to pay his debts.
+
+In 1430 William Soper, when he was already in charge of the administration of the entire navy, dined with the commander of the Florentine merchant fleet on board Grace Dieu.
+
+Subsequently, Grace Dieu was laid-up in the River Hamble. Her mast and equipment were removed. She was burnt to the waterline after being set ablaze by lightning in 1439.
+
+Rediscovery 
+The remains of Grace Dieu are still in the River Hamble at Bursledon, near Southampton, Hampshire. For many years the wreck was believed to be that of a Danish galley or a nineteenth-century merchant ship. In 1933 a proper survey identified the wreck, and its great size. The site was protected by the Protection of Wrecks Act on 5 February 1974. In 2004 the site was excavated by Channel 4's archaeology programme Time Team for the 2005 series. Only 50 metres from the wreck lie those of another vessel, believed to be Grace Dieu'''s contemporary Holigost''.
+
+References 
+
+Ships"
+15,plume,summarization,prose.full,qwen,5961,CShorten/ML-ArXiv-Papers,15,0,"<summary>
+
+**Host:** Greetings, dear listeners! Today, we embark upon a journey through the fiery realms of wildfires and the valiant efforts to predict their wrath. Pray, what dost thou know of the increase in wildfires over the past decade?
+
+**Guest Expert:** Ah, indeed, the flames have danced more fiercely, especially in the fair lands of California. The wildfires, like mischievous spirits, release greenhouse gases that conspire with global warming, thus setting the stage for even more infernos.
+
+**Host:** Aye, 'tis a vicious cycle! But tell me, how might we predict these fiery tempests?
+
+**Guest Expert:** The task is as challenging as deciphering the whims of the wind, for many natural and human factors play their parts in this grand drama. Yet, we have harnessed the power of deep learning, a modern sorcery, to aid us. We have crafted a dataset, a tapestry of diverse features, and employed a conditional tabular generative adversarial network to unveil the hidden patterns of risk.
+
+**Host:** Fascinating! And how doth this method compare to others?
+
+**Guest Expert:** Our approach, like a knight of yore, hath outperformed most of its rivals in fair and comprehensive trials. We tested its mettle with another dataset, and lo, it proved its robustness and efficiency.
+
+**Host:** So, by adopting this method, can we hope to quell the flames and reduce the greenhouse gases?
+
+**Guest Expert:** Indeed, by wielding this predictive power, we may devise strategies to mitigate wildfires and thus reduce the emissions that plague our world.
+
+**Host:** A noble endeavor, indeed! Thank thee for sharing thy wisdom with us today.
+
+</summary>","Over the past decade, wildfires have surged globally, particularly in California, exacerbating global warming through increased greenhouse gas emissions. Accurate wildfire prediction is crucial for prevention and emission reduction, yet challenging due to complex natural and human factors. This article introduces a deep learning-based data augmentation approach for predicting wildfire risk. By building a diverse dataset and employing a conditional tabular generative adversarial network, the study explores patterns between risk levels and contributing factors. The proposed method outperforms five baseline methods and demonstrates robustness across different datasets, offering a promising strategy for wildfire mitigation and emission reduction.",,adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"Over the past decade, the number of wildfire has increased significantly
+around the world, especially in the State of California. The high-level
+concentration of greenhouse gas (GHG) emitted by wildfires aggravates global
+warming that further increases the risk of more fires. Therefore, an accurate
+prediction of wildfire occurrence greatly helps in preventing large-scale and
+long-lasting wildfires and reducing the consequent GHG emissions. Various
+methods have been explored for wildfire risk prediction. However, the complex
+correlations among a lot of natural and human factors and wildfire ignition
+make the prediction task very challenging. In this paper, we develop a deep
+learning based data augmentation approach for wildfire risk prediction. We
+build a dataset consisting of diverse features responsible for fire ignition
+and utilize a conditional tabular generative adversarial network to explore the
+underlying patterns between the target value of risk levels and all involved
+features. For fair and comprehensive comparisons, we compare our proposed
+scheme with five other baseline methods where the former outperformed most of
+them. To corroborate the robustness, we have also tested the performance of our
+method with another dataset that also resulted in better efficiency. By
+adopting the proposed method, we can take preventive strategies of wildfire
+mitigation to reduce global GHG emissions."
+16,plume,summarization,prose.full,qwen,5961,CShorten/ML-ArXiv-Papers,16,1,"Welcome, dear listeners, to another enlightening episode of ""The Chronicles of Data Mysteries,"" where we unravel the enigmatic tales of the data realm. Today, we pose a question that hath puzzled many a scholar: How dost one cluster data when faced with the specter of missing values?
+
+Imagine, if thou wilt, a dataset as a grand tapestry, woven with threads of information. Yet, alas, some threads are missing, leaving gaps in the intricate design. What then, dear listeners, is the fate of such a tapestry? Traditionally, one might cast aside the incomplete threads or attempt to weave in new ones through imputation. But hark! A novel approach emerges from the shadows.
+
+Our tale today introduces a method that doth embrace the observed values alone, much like a wise sage who sees the beauty in what is present rather than lamenting what is lost. This method, a model-based approach, employs the marginal density of observed values, assuming a finite mixture model of multivariate $t$ distributions. It is likened to a nimble dancer, more fleet of foot than the cumbersome imputation or the full expectation-maximization (EM) approach.
+
+But how, thou mayest ask, doth this method fare against its peers? Fear not, for simulation studies have been conducted, revealing that this approach doth recover the true cluster partitions with commendable accuracy, even when the assumptions of missing at random (MAR) are not met. It stands as a worthy contender, competitive with the full EM approach, and oft surpassing the methods of case deletion and imputation.
+
+To illustrate its prowess, this methodology hath been applied to the celestial enigma of clustering gamma-ray bursts, a task as daunting as deciphering the stars themselves. For those who wish to embark upon this journey, the path is laid out at https://github.com/emilygoren/MixtClust.
+
+Thus, dear listeners, we conclude our tale, leaving thee with the knowledge that even in the face of missing data, there lies a method both efficient and effective. Until next time, may thy data be ever complete and thy clusters true.","**The Clustering Conundrum: A Tale of Missing Data and Methodological Marvels**
+
+*Scene: A cozy, dimly lit study, where two hosts, Dr. Clara Insight and Professor Theo Algorithm, are seated by a crackling fireplace. They are joined by their guest, Dr. Emily Goren, an expert in data clustering.*
+
+**Dr. Clara Insight:** ""Welcome, dear listeners, to another episode of 'Data Dialogues,' where we unravel the mysteries of the digital world. Today, we delve into the age-old challenge of missing data in clustering. Professor Theo, have you ever felt like you're chasing shadows when dealing with incomplete datasets?""
+
+**Professor Theo Algorithm:** ""Ah, Clara, it's like trying to piece together a jigsaw puzzle with missing pieces. The cyclical nature of this problem is akin to the myth of Sisyphus, eternally rolling his boulder uphill, only to watch it roll back down.""
+
+**Dr. Emily Goren:** ""Indeed, Theo. But fear not, for there is hope on the horizon. Our latest research offers a fresh perspective on this age-old dilemma. By focusing on the marginal density of observed values and employing a finite mixture model of multivariate t distributions, we can navigate the labyrinth of missing data with greater efficiency.""
+
+**Dr. Clara Insight:** ""Fascinating! So, Emily, how does your approach compare to traditional methods like case deletion or imputation?""
+
+**Dr. Emily Goren:** ""Well, Clara, our method is like a nimble dancer, gracefully sidestepping the cumbersome steps of full expectation-maximization (EM) algorithms. By assuming a missing at random (MAR) framework, we streamline the process, making it computationally more efficient. As the simulations reveal, our approach not only holds its ground against case deletion and imputation but also competes robustly with full EM, even when MAR assumptions falter.""
+
+**Professor Theo Algorithm:** ""It's like watching a masterful chess player anticipate moves several steps ahead. But tell us, Emily, how does this translate to real-world applications?""
+
+**Dr. Emily Goren:** ""Picture this: clustering gamma-ray bursts, those enigmatic cosmic fireworks. Our methodology shines here, revealing patterns that might otherwise remain obscured. It's a testament to the power of innovative thinking in the face of recurring challenges.""
+
+**Dr. Clara Insight:** ""Listeners, if you're intrigued and wish to explore further, Dr. Goren's work is available at https://github.com/emilygoren/MixtClust. Thank you, Emily, for sharing your insights and illuminating the path forward in the ever-evolving world of data science.""
+
+*As the fire crackles softly, the hosts bid farewell, leaving their audience with a sense of wonder and anticipation for the next chapter in the saga of data exploration.*
+
+**End of Episode.**","use a conversational and narrative style with dialogue, vivid descriptions, and emotional/dramatic emphasis; highlight the cyclical nature of the problem and its challenges; incorporate expert opinions through quotes or paraphrases; maintain a structured format with clear sections and transitions; use a framing device with hosts and guests for dialogue; incorporate historical or metaphorical language to add depth.
+",adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"Partially recorded data are frequently encountered in many applications and
+usually clustered by first removing incomplete cases or features with missing
+values, or by imputing missing values, followed by application of a clustering
+algorithm to the resulting altered dataset. Here, we develop clustering
+methodology through a model-based approach using the marginal density for the
+observed values, assuming a finite mixture model of multivariate $t$
+distributions. We compare our approximate algorithm to the corresponding full
+expectation-maximization (EM) approach that considers the missing values in the
+incomplete data set and makes a missing at random (MAR) assumption, as well as
+case deletion and imputation methods. Since only the observed values are
+utilized, our approach is computationally more efficient than imputation or
+full EM. Simulation studies demonstrate that our approach has favorable
+recovery of the true cluster partition compared to case deletion and imputation
+under various missingness mechanisms, and is at least competitive with the full
+EM approach, even when MAR assumptions are violated. Our methodology is
+demonstrated on a problem of clustering gamma-ray bursts and is implemented at
+https://github.com/emilygoren/MixtClust."
+17,plume,summarization,prose.full,qwen,5961,CShorten/ML-ArXiv-Papers,17,2,"<summary>
+
+**Host:** Greetings, dear listeners, to another episode of ""The Learning Chronicles,"" where we unravel the mysteries of the mind's quest for knowledge. Today, we delve into the realm of active learning, where the learner is not alone but accompanied by a sagacious teacher. But what, pray tell, is the nature of this scholarly companionship?
+
+**Guest Expert:** Ah, noble host, the tale unfolds thusly: In each round of this intellectual dance, the learner doth pose a query, seeking the label of a mysterious instance, denoted as $x^q$. The teacher, ever benevolent, bestows upon the learner not only the desired label $\{x^q, y^q\}$ but also an enlightening contrastive example, $\{x^c, y^c\}$, to illuminate the path of understanding.
+
+**Host:** A contrastive example, thou sayest? What role doth it play in this grand design?
+
+**Guest Expert:** Indeed, dear host, the contrastive example is a beacon of clarity, chosen from a realm constrained by the original query. It is akin to a wise sage, whispering secrets of dissimilar instances that share the same label, thus hastening the learner's journey to enlightenment.
+
+**Host:** And how, pray, is this teaching algorithm crafted to guide the learner with such precision?
+
+**Guest Expert:** The crafting of this algorithm is a tale of strategic brilliance, for it must navigate the labyrinth of sequence optimization. Each choice it makes is a thread woven into the tapestry of past interactions. Our study reveals an algorithm of great efficiency, one that adaptively selects these contrastive examples with the wisdom of ages.
+
+**Host:** Verily, what assurances dost thou offer of its prowess?
+
+**Guest Expert:** We have unearthed robust performance guarantees, dear host, grounded in two parameters that are as unique as the problems they address. For certain learners, such as the generalized binary search, our algorithm doth promise strong approximation guarantees, akin to a steadfast knight in the realm of learning.
+
+**Host:** And what of the evidence, the proof of this framework's might?
+
+**Guest Expert:** Our tale concludes with two numerical case studies, wherein the bounds of our teaching framework are illustrated with clarity and precision, demonstrating its effectiveness in the grand theatre of learning.
+
+**Host:** Thus, dear listeners, we find ourselves at the end of this enlightening journey. Until next we meet, may your quest for knowledge be ever fruitful.
+
+</summary>","In the ever-evolving dance of knowledge and discovery, imagine a curious learner, eager to unravel the mysteries of the world, guided by a wise and insightful teacher. This is the heart of the study on active learning, where the learner is not alone in their quest but is accompanied by a mentor who offers not just answers, but wisdom wrapped in contrastive examples. Picture this: at each step, the learner poses a question, a query into the unknown, and the teacher responds with not only the sought-after label but also a contrasting example that illuminates the path forward. It's a dynamic interplay, a cycle of inquiry and revelation, where each round builds upon the last, creating a tapestry of understanding.
+
+But why is this interaction so crucial? The challenge lies in the sequence optimization problem, a puzzle where each decision is a thread woven into the fabric of past interactions. As the narrative unfolds, the researchers introduce a teaching algorithm designed to navigate this intricate dance. This algorithm, they claim, is not just efficient but adaptive, capable of selecting the most enlightening contrastive examples to accelerate the learner's journey. As one expert might say, ""The key to effective teaching lies in the ability to adapt and respond to the learner's evolving needs.""
+
+The study doesn't stop at theoretical musings. It ventures into the realm of practical application, demonstrating the algorithm's prowess through numerical case studies. Here, the abstract becomes tangible, the theoretical becomes real, and the potential for real-world impact becomes undeniable. The researchers assure us with strong performance guarantees, suggesting that for certain types of learners, like the generalized binary search learner, the algorithm offers robust approximation guarantees.
+
+So, what does this mean for the future of learning? Could this be the dawn of a new era where teaching is not just about imparting knowledge but about crafting a journey of discovery? As we ponder these questions, we are reminded of the cyclical nature of learning itself—a journey where each question leads to an answer, and each answer sparks a new question. In this grand narrative, the human element is ever-present, as learners and teachers alike embark on a shared voyage towards enlightenment.","use a conversational and narrative style with vivid descriptions and emotional/dramatic emphasis, highlight the cyclical nature of the problem and its challenges, incorporate expert opinions through quotes or paraphrases, maintain a structured format with clear sections and transitions, frame the discussion within a storytelling context, focus on the human element and the journey of discovery, use rhetorical questions to engage the reader, incorporate historical or metaphorical language to add depth, emphasize practical applications and real-world relevance.
+",adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"We study the problem of active learning with the added twist that the learner
+is assisted by a helpful teacher. We consider the following natural interaction
+protocol: At each round, the learner proposes a query asking for the label of
+an instance $x^q$, the teacher provides the requested label $\{x^q, y^q\}$
+along with explanatory information to guide the learning process. In this
+paper, we view this information in the form of an additional contrastive
+example ($\{x^c, y^c\}$) where $x^c$ is picked from a set constrained by $x^q$
+(e.g., dissimilar instances with the same label). Our focus is to design a
+teaching algorithm that can provide an informative sequence of contrastive
+examples to the learner to speed up the learning process. We show that this
+leads to a challenging sequence optimization problem where the algorithm's
+choices at a given round depend on the history of interactions. We investigate
+an efficient teaching algorithm that adaptively picks these contrastive
+examples. We derive strong performance guarantees for our algorithm based on
+two problem-dependent parameters and further show that for specific types of
+active learners (e.g., a generalized binary search learner), the proposed
+teaching algorithm exhibits strong approximation guarantees. Finally, we
+illustrate our bounds and demonstrate the effectiveness of our teaching
+framework via two numerical case studies."
+18,plume,summarization,prose.full,qwen,5961,CShorten/ML-ArXiv-Papers,18,3,"<summary>
+
+**Host:** Greetings, dear listeners! Today, we embark upon a journey through the realm of high dimensional data classification. Pray, what is the essence of this scholarly article we explore?
+
+**Guest Expert:** Ah, noble host, the article doth delve into the mysterious world of kernel methods, particularly in the classification of high dimensional data. It introduces a novel kernel, one that is based upon the venerable Mahalanobis distance.
+
+**Host:** And what, pray tell, is the Mahalanobis distance?
+
+**Guest Expert:** The Mahalanobis distance, dear listeners, is a measure that considers the covariance among variables, yet in the vast expanse of high dimensional spaces, the computation of such a distance is fraught with peril. The covariance matrix, like a weary traveler, becomes ill-conditioned, rendering its inversion a task most unstable.
+
+**Host:** How, then, do the authors propose to conquer this challenge?
+
+**Guest Expert:** With great ingenuity, they employ the High Dimensional Discriminant Analysis model, which doth estimate the signal and noise subspaces for each class. This clever stratagem allows for the explicit and stable inversion of the class-specific covariance matrix, thus birthing the parsimonious Mahalanobis kernel.
+
+**Host:** And how doth this kernel fare in the grand arena of classification?
+
+**Guest Expert:** The kernel, like a valiant knight, proves its mettle against three high dimensional data sets, achieving classification accuracies that surpass the conventional Gaussian kernel. The SVM framework, akin to a wise sage, aids in selecting the optimal hyperparameters by optimizing the radius-margin bound.
+
+**Host:** Verily, it seems this kernel is a worthy champion in the realm of high dimensional data. We thank thee, dear expert, for thy insights. Until next time, dear listeners, fare thee well!
+
+</summary>","<summary>
+
+**Host:** Welcome, dear listeners, to another episode of ""Data Dimensions,"" where we unravel the mysteries of high-dimensional data with our expert guest, Dr. Eleanor Fields, a renowned data scientist. Today, we embark on a journey through the labyrinth of high-dimensional spaces, where the challenges are as vast as the data itself.
+
+**Narrator:** Picture this: a world where data points float in an endless expanse, each dimension adding a layer of complexity. It's a realm where traditional methods falter, and the quest for clarity seems never-ending. But fear not, for in this tale, a hero emerges—the Mahalanobis kernel, a beacon of hope in the chaotic cosmos of high-dimensional data.
+
+**Dr. Fields:** ""The emptiness of high-dimensional spaces is both a curse and a blessing,"" Dr. Fields explains. ""It's like trying to find a needle in a haystack, but with the right tools, that needle becomes a beacon of insight.""
+
+**Narrator:** The story unfolds with the introduction of a revolutionary approach—a kernel based on the Mahalanobis distance. But, as with any great adventure, challenges abound. The inversion of a covariance matrix in these vast spaces is akin to navigating a stormy sea without a compass. Yet, through the wisdom of the High Dimensional Discriminant Analysis model, a path is forged. This model estimates the signal and noise subspaces for each class, transforming the once-turbulent seas into a navigable route.
+
+**Host:** But how does this tale of discovery translate to real-world applications? Dr. Fields, could you shed some light?
+
+**Dr. Fields:** ""Absolutely. By making the inverse of the class-specific covariance matrix explicit and stable, we redefine the Mahalanobis kernel, making it parsimonious and powerful. This isn't just theory—it's a practical tool that enhances classification accuracy in high-dimensional datasets.""
+
+**Narrator:** The journey doesn't end there. The story takes a dramatic turn with the introduction of a SVM-based framework, optimizing the kernel's hyperparameters by focusing on the elusive radius-margin bound. It's a dance of precision and adaptability, leading to experimental triumphs across three high-dimensional datasets.
+
+**Host:** So, dear listeners, as we conclude today's episode, we leave you with a question: In the ever-evolving landscape of data science, how will you harness the power of the Mahalanobis kernel in your own quests for knowledge?
+
+**Narrator:** Join us next time as we continue to explore the frontiers of data, where every challenge is an opportunity for discovery, and every solution is a step closer to understanding the intricate tapestry of our digital world.
+
+</summary>","use a conversational and narrative style with vivid descriptions and emotional/dramatic emphasis, highlight the cyclical nature of the problem and its challenges, incorporate expert opinions through quotes or paraphrases, maintain a structured format with clear sections and transitions, frame the discussion within a storytelling context, focus on the human element and the journey of discovery, use rhetorical questions to engage the reader, incorporate historical or metaphorical language to add depth, emphasize practical applications and real-world relevance, integrate dialogues and expert insights to enhance engagement, use a framing device with hosts and guests for dialogue.
+",adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"The classification of high dimensional data with kernel methods is considered
+in this article. Exploit- ing the emptiness property of high dimensional
+spaces, a kernel based on the Mahalanobis distance is proposed. The computation
+of the Mahalanobis distance requires the inversion of a covariance matrix. In
+high dimensional spaces, the estimated covariance matrix is ill-conditioned and
+its inversion is unstable or impossible. Using a parsimonious statistical
+model, namely the High Dimensional Discriminant Analysis model, the specific
+signal and noise subspaces are estimated for each considered class making the
+inverse of the class specific covariance matrix explicit and stable, leading to
+the definition of a parsimonious Mahalanobis kernel. A SVM based framework is
+used for selecting the hyperparameters of the parsimonious Mahalanobis kernel
+by optimizing the so-called radius-margin bound. Experimental results on three
+high dimensional data sets show that the proposed kernel is suitable for
+classifying high dimensional data, providing better classification accuracies
+than the conventional Gaussian kernel."
+19,plume,summarization,prose.full,qwen,5961,CShorten/ML-ArXiv-Papers,19,4,"<summary>
+
+**Host:** Greetings, dear listeners! Today, we embark upon a journey through the realms of ParaNet, a wondrous creation in the world of text-to-speech technology. Pray, what is this ParaNet, thou askest?
+
+**Guest Expert:** Ah, ParaNet, a marvel indeed! It is a non-autoregressive seq2seq model, a veritable alchemist that doth transform text into spectrograms with the swiftness of Mercury himself. 
+
+**Host:** And how doth it achieve such speed, pray tell?
+
+**Guest Expert:** By the grace of its fully convolutional nature, ParaNet bestows upon us a speed-up of 46.7 times over the lightweight Deep Voice 3, whilst maintaining speech quality that is most agreeable to the ear.
+
+**Host:** But what of its alignment between text and speech? Is it steadfast?
+
+**Guest Expert:** Indeed, it is! ParaNet doth produce stable alignment, even with the most challenging of test sentences. It doth improve its attention in a layer-by-layer manner, much like a diligent scribe perfecting his manuscript.
+
+**Host:** And what of the parallel text-to-speech system? How fares it?
+
+**Guest Expert:** The system is a marvel of parallel neural vocoders, synthesizing speech from text in a single, elegant feed-forward pass. Moreover, a novel VAE-based approach hath been explored to train the inverse autoregressive flow (IAF) based parallel vocoder from naught, eschewing the need for distillation from a separately trained WaveNet, as was the custom of yore.
+
+**Host:** Truly, ParaNet is a beacon of innovation in the digital age. We thank thee, dear expert, for illuminating our path with thy knowledge.
+
+**Guest Expert:** The pleasure is mine, good host. May ParaNet's tale inspire many a future endeavor.
+
+**Host:** And thus, dear listeners, we conclude our discourse on ParaNet. Until next we meet, fare thee well!
+
+</summary>","In the bustling world of technology, where innovation races against time, a new hero emerges—ParaNet. Imagine a world where converting text to speech is not just a task but an art form, painted with the brushstrokes of speed and precision. Our story unfolds in a cozy studio, where two hosts, Alex and Jamie, sit across from Dr. Lin, a leading expert in speech synthesis.
+
+""Dr. Lin,"" Alex begins, leaning forward with curiosity, ""what makes ParaNet such a game-changer in the realm of text-to-speech technology?""
+
+Dr. Lin smiles, a twinkle of excitement in her eyes. ""ParaNet is like the dawn of a new era,"" she explains. ""It's a non-autoregressive seq2seq model that transforms text into spectrograms with breathtaking speed—46.7 times faster than its predecessor, Deep Voice 3.""
+
+Jamie, ever the skeptic, raises an eyebrow. ""But speed often sacrifices quality, doesn't it?""
+
+""Ah,"" Dr. Lin counters, ""that's the beauty of ParaNet. It maintains a remarkable speech quality while ensuring stable alignment between text and speech, even with the most challenging sentences. It's like watching a master conductor lead an orchestra, each note perfectly in place.""
+
+The conversation takes a deeper turn as they explore the cyclical nature of the challenges faced in this field. ""Isn't it fascinating,"" Alex muses, ""how each solution seems to birth a new set of challenges?""
+
+Dr. Lin nods, her expression thoughtful. ""Indeed, it's a cycle of discovery and innovation. We've also ventured into parallel text-to-speech systems, testing various neural vocoders. These systems synthesize speech from text in a single, seamless pass.""
+
+Jamie interjects, ""And what about the novel VAE-based approach? How does it fit into this narrative?""
+
+""Think of it as rewriting the rules,"" Dr. Lin replies. ""By training the inverse autoregressive flow-based vocoder from scratch, we bypass the need for distillation from a separately trained WaveNet. It's like crafting a masterpiece from a blank canvas, free from the constraints of the past.""
+
+As the discussion winds down, Alex and Jamie reflect on the practical applications of ParaNet. ""In a world where communication is key,"" Alex concludes, ""ParaNet's real-world relevance cannot be overstated. It's not just about technology; it's about connecting people, breaking barriers, and creating a symphony of voices.""
+
+And so, the journey of ParaNet continues, a testament to human ingenuity and the relentless pursuit of progress. As our hosts bid farewell to Dr. Lin, they leave us with a question: What new horizons will ParaNet uncover next?","use a conversational and narrative style with vivid descriptions and emotional/dramatic emphasis, highlight the cyclical nature of the problem and its challenges, incorporate expert opinions through quotes or paraphrases, frame the discussion within a storytelling context, focus on the human element and the journey of discovery, use rhetorical questions to engage the reader, incorporate historical or metaphorical language to add depth, emphasize practical applications and real-world relevance, integrate dialogues and expert insights to enhance engagement, use a framing device with hosts and guests for dialogue.
+",adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"In this work, we propose ParaNet, a non-autoregressive seq2seq model that
+converts text to spectrogram. It is fully convolutional and brings 46.7 times
+speed-up over the lightweight Deep Voice 3 at synthesis, while obtaining
+reasonably good speech quality. ParaNet also produces stable alignment between
+text and speech on the challenging test sentences by iteratively improving the
+attention in a layer-by-layer manner. Furthermore, we build the parallel
+text-to-speech system and test various parallel neural vocoders, which can
+synthesize speech from text through a single feed-forward pass. We also explore
+a novel VAE-based approach to train the inverse autoregressive flow (IAF) based
+parallel vocoder from scratch, which avoids the need for distillation from a
+separately trained WaveNet as previous work."
+20,plume,summarization,prose.full,qwen,5961,imdb,20,0,"Ladies and gentlemen, gather 'round, gather 'round, as we tune our dials to the melodious musings of ""Ruby in Paradise,"" a cinematic gem that twinkles like a star in the vast night sky of coming-of-age tales. Picture this: a young woman, Ruby Lee Gissing, played with grace and poise by the enchanting Ashley Judd, steps out from the shadows of her past, seeking the light of self-discovery. Whoosh! The winds of change rustle through her hair as she embarks on a journey not to become a Madonna of the stage or the saintly kind, but to find her own rhythm, her own beat, her own bliss.
+
+Ah, the gentle hum of introspection fills the air, as Ruby pens her thoughts in a journal, her voice a soft whisper in the breeze. And there, in the background, the noble Todd Field, a beacon of support, yet not the knight in shining armor, for Ruby's quest is her own. The message rings clear as a bell, ding-ding-ding, that we are the architects of our own destinies, responsible for the paths we tread.
+
+Victor Nunez, the maestro behind the lens, orchestrates a symphony of growth and empowerment, with a supporting cast that shines like the morning sun. And oh, the music! The haunting melodies of Sam Phillips, strumming the heartstrings with ""Trying to Hold on to the Earth,"" a tune that echoes in the soul, bringing tears like raindrops on a tin roof, pitter-patter, pitter-patter.
+
+For the young souls adrift in the sea of life, this film is a lighthouse, a guiding star. For women of all ages, a must-see, a treasure to hold dear. Alas, it hides in the shadows of VHS, a relic of the past, but fear not, dear listeners, for with a little ingenuity, a copy can be yours. If only, if only, the Queen of Hollywood could decree a grand re-release!
+
+So, dear audience, as the curtain falls and the credits roll, remember this tale of Ruby in Paradise, a story of finding oneself amidst the cacophony of the world. Until next time, keep your dials tuned and your hearts open.",</summary>,,write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"""Ruby in Paradise"" is a beautiful, coming-of-age story about a young woman, Ruby Lee Gissing, escaping her stifling roots to become herself. Although the title character is played artfully by the gorgeous Ashley Judd -- in likely her first movie role, albeit one to be quite proud of -- the emphasis is not upon becoming ""somebody,"" a la the next Madonna (whether Jesus' mother or the lurid, attention-hungry singer).<br /><br />It instead emphasizes following ones' instincts and being somewhat introspective about them, to grow into one's ideal, adult self. NOTE: This isn't an action movie!!! It uses an occasional voice-over narration (by Ms. Judd) while writing in her journal -- and oh, I see I've just lost the male half of the readers out there. But be patient with this beautiful movie, where we learn that one's bliss can be discovered in -- oh, I dunno, carrying water and chopping wood.<br /><br />Actor/director/writer Todd Field, who played Nick Nightingale in ""Eyes Wide Shut,"" co-stars as Ruby Lee's noble love interest, one who helps her heal her idea of relationships implanted from youth.<br /><br />But not even his character is the answer for Ruby Lee: There's no external hero imposed upon her. The ultimate message is that we are responsible for ourselves. Writer/director Victor Nunez, who also wrote/directed ""Ulee's Gold,"" did an amazing job showing a young woman growing into herself -- confronting age-old challenges of good v. evil along the way.<br /><br />The supporting cast is also stellar, and the music used, particularly the cuts by chanteuse Sam Phillips (whom I hear is the wife of T. Bone Burnett), is right on -- most especially ""Trying to Hold on to the Earth."" Now, when I hear the first few chords of that song, tears spring to my eyes, Pavlovian and unbidden -- not sure if it's the music, or the indelible connection to the movie's quiet, charming message of empowerment.<br /><br />This movie is highly recommended for any young person trying to find his/her way. For any woman of any age, it is a must see! The downside: It is NOT on DVD, except in Spanish. (We learned, however, that it is legal to make one copy of a VHS version, which can be readily found online. My beloved husband found someone with a VHS copy and got a DVD copy made for me.) Although this treasure of a movie occasionally pops up on-air  on an indie channel, usually  you can't count on that when you might need it most as a tonic to soothe the pressures of the world. So buy a copy for yourself.<br /><br />This movie should have a major re-release, and it would, if I were Queen of Hollywood.<br /><br />-- Figgy Jones"
+21,plume,summarization,prose.full,qwen,5961,imdb,21,1,"Ladies and gentlemen, gather 'round your wireless sets, for what we have here is a tale of television trickery, a veritable slapdash of staged shenanigans masquerading as reality! Picture this: a program that purports to portray the noble art of law enforcement, yet delivers a slap in the face to those brave souls who don the badge. Imagine, if you will, a cacophony of cheesy sirens—whoop whoop!—looped endlessly, like a broken record spinning in the night. The citizens of Muncie, bless their hearts, have seen through the charade, outing this spectacle as staged, a mere shadow play of true police work. 
+
+Oh, the indignity! Picture a police academy that resembles a high school gym, with editing so poor you’d think the same Taco Bell was the only landmark in town. And the safety issues, dear listeners, are more numerous than you could shake a stick at! It’s a farce, a folly, a flimflam of the highest order. Why, if I wanted to see such manufactured mayhem, I’d tune into RENO 911 and be done with it. So, I implore you, show a little respect for the real men and women of the force, and let us not be bamboozled by this televisual tomfoolery.","Welcome, dear reader, to a whirlwind exploration of a television series that promises reality but delivers a mirage. Imagine stepping into a carnival funhouse, where mirrors distort the truth and every corner holds a new illusion. This series, much like a magician's sleight of hand, attempts to cloak itself in the garb of reality TV, yet leaves us questioning the authenticity of its portrayal of law enforcement.
+
+Picture this: a world where police work is reduced to a high school gym class, complete with cheesy siren effects that loop endlessly like a broken record. It's as if the creators took a page from a satirical playbook, offering us a spectacle that feels more like a parody than a tribute to the brave men and women who serve and protect. The citizens of Muncie, much like a chorus in a Greek tragedy, have raised their voices to reveal the staged nature of this production.
+
+But let's pause for a moment of introspection. What does this say about our consumption of media? Are we content with surface-level entertainment, or do we yearn for a deeper connection, a genuine portrayal of the challenges and triumphs faced by real officers? This series, with its poor editing and safety oversights, serves as a reminder to seek out narratives that respect the gravity of law enforcement.
+
+So, dear reader, I ask you: Are you ready to demand more from your viewing experience? To seek out stories that honor the truth and complexity of real-life heroes? If you're looking for authenticity, perhaps it's time to turn the channel and explore other avenues that offer a more genuine reflection of reality. After all, isn't it time we showed a little respect?","start summaries with a welcoming and engaging introduction, use vivid metaphors and analogies, maintain a conversational and enthusiastic tone, emphasize personal growth and introspection, highlight the film's themes and messages clearly, include emotional responses and personal connections, encourage the audience to take action or seek out the film, use call-and-response or rhetorical devices to engage the reader.
+",write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"Not an altogether bad start for the program -- but what a slap in the face to real law enforcement. The worst part of the series is that it attempts to bill itself as reality fare -- and is anything but. Men and women that dedicate their lives to the enforcement of laws deserve better than this. What is next, medical school in a minute? Charo performing lipo? Charles Grodin assisting on a hip replacement? C'mon...show a little respect. Even the citizens of Muncie are outing the program as staged. Police Academy = High School Gym? Poor editing (how many times can they use the car-to-car shot of the Taco Bell in the background?), cheesy siren effects (the same loop added ad nauseum to every 'call' whether rolling code or not), and last, but not least -- more officer safety issues than you could shake a stick at.<br /><br />If I want to see manufactured police work and wise-ass fake cops, I would watch RENO 911."
+22,plume,summarization,prose.full,qwen,5961,imdb,22,2,"Ladies and gentlemen, gather 'round, gather 'round, for a tale of love and pixels in the bustling, bustling Big Apple! Picture this: a shy videographer, camera in hand, click-click, and an artist, brush poised, swish-swish, both lost in the vast sea of New York City. They find each other not through the chatter-chatter of voices but through the silent whispers of the internet, a digital dance of notes and videos, flicker-flicker on the screen. 
+
+Ah, but this is no ordinary romance, no sirree! It's a tale spun from the very lives of its creators, Arin Crumley and Susan Buice, who step into the spotlight as the stars of their own show. With a sprinkle of avant-garde flair and a dash of docudrama, the film flutters like a leaf in the wind, caught between the realms of narcissism and self-indulgence. 
+
+But alas, dear listeners, as the reel unwinds, the story stumbles, falters, like a record skipping, skipping, as the couple's unique communication grows weary, and reality's harsh light dims their once vibrant connection. The narrative, oh the narrative, it trudges along, lacking the spark of originality or the punch of poignancy. A subplot, an external conflict, a third act, where art thou? Nowhere to be found, just a montage of melodrama, leading to an unsatisfying, open-ended finale, leaving us with more questions than answers.
+
+Yet, amidst the clamor, there lies beauty, a silver lining, if you will. The film boasts animation that dances, twirls, and a soundtrack that hums, sings, one of its more captivating charms. So, dear audience, the choice is yours. Watch the film, let it wash over you, and decide for yourself. Will it be a masterpiece or a misstep? Only time will tell, only time will tell.","Welcome, dear film enthusiasts, to a cinematic journey that promises to be as intriguing as a whispered secret in a bustling city! ""Four Eyed Monsters"" invites you into the quirky world of a shy videographer and a struggling artist, both navigating the concrete jungle of New York City. Imagine a romance that blooms not through spoken words but through the silent poetry of notes and videos—how fascinating is that?
+
+This film, crafted by the talented duo Arin Crumley and Susan Buice, who also star as the leads, is a tapestry woven with threads of avant-garde flair and docudrama realism. Yet, like a painting that loses its vibrancy over time, the narrative struggles to maintain its initial allure. The story, much like a ship without a compass, drifts aimlessly through the seas of inner conflict and relationship woes, leaving us yearning for a more structured journey.
+
+But wait! Before you dismiss it entirely, consider the film's beautiful animation and moving soundtrack, which are like hidden gems in a rocky terrain. These elements add a splash of color to an otherwise monochrome narrative. However, the film's descent into reality without a satisfying conclusion might leave you feeling like you've reached the end of a novel with the last chapter missing.
+
+So, what do you think? Are you ready to dive into this unique cinematic experience and form your own opinion? I urge you to watch ""Four Eyed Monsters"" and decide for yourself. After all, isn't personal growth and introspection what makes us truly human? Let's embark on this journey together and see where it leads us!","start summaries with a welcoming and engaging introduction, use vivid metaphors and analogies, maintain a conversational and enthusiastic tone, highlight the film's themes and messages clearly, include emotional responses and personal connections, use direct address and exclamations for emphasis, encourage the audience to take action or seek out the film, emphasize personal growth and introspection, use strong and assertive language to convey criticism, use call-and-response or rhetorical devices to engage the reader.
+",write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"Four Eyed Monsters follows the relationship of a shy, reclusive videographer and an equally estranged struggling artist, who, both living in the Big Apple, develop an unlikely romance with the help of an internet dating site. This in itself is not so unusual, but what is, is their method of communication. Foregoing the verbal, they take to writing notes and later communicating through video.<br /><br />The film is based upon the creator's (Arin Crumley & Susan Buice) own relationship, who besides writing and directing, take to acting as the lead characters as well. With elements of avant-garde, anti-plot, and docudrama, the film scatters itself to the wind with an undecided structure nestled neatly between narcissism and self-indulgence.<br /><br />As the movie wears on, a brief separation and deterioration of their once intriguing form of communication grow old as the couple face the hardship of reality. Focusing solely on inner conflict, or the woes of relationship, the film struggles through a stagnant narrative that is neither original, nor poignant. This could have been easily circumvented with the addition of subplot and external conflict, and a third act, to which there is none - just a montage of melodrama that leads nowhere.<br /><br />What is even more aggravating is the film's descent from story into reality that abruptly concludes with an open ended and unsatisfying finish. This would have been all fine and dandy, but there is no question asked and no meaning to be discovered or pondered.<br /><br />(On a side note, the film contains beautiful animation and a vivid and moving soundtrack, one of the more interesting aspects of the production.)<br /><br />But as always, watch the film and decide for yourself."
+23,plume,summarization,prose.full,qwen,5961,imdb,23,3,"Ladies and gentlemen, gather 'round your wireless sets, for we have a tale of the silver screen that crackles and pops like a vintage phonograph spinning its merry tune! Picture, if you will, the enigmatic Sarah Silverman, a siren of comedy, a tempest of talent, a veritable whirlwind of wit and whimsy! She's a dangerous dame, a beautiful, sexy, funny, and oh-so-talented vixen with a dark and demonic flair that sends shivers down the spine like the eerie howl of a distant train in the night. 
+
+Now, folks, this ain't your run-of-the-mill television fare, no siree! This is a show crafted with the precision of a master watchmaker, every tick and tock deliberate, every scene a carefully orchestrated dance of absurdity. It's a cacophony of laughter and lunacy, a symphony of silliness that echoes the zany antics of Pee-Wee's Playhouse, but with a twist—a twist, mind you, for the maladjusted, slacker twenty-somethings, those glue-sniffing, future pornstars of America from the Valley, if you catch my drift.
+
+The cast, oh the cast, is a kaleidoscope of characters, each one a vibrant brushstroke on this canvas of chaos. The scenarios unfold with the precision of a well-oiled machine, each action a cog in the grand design. And who, pray tell, plays Sarah's sister? A mystery, a conundrum, a riddle wrapped in an enigma, not listed on the show's home page, yet a presence that lingers like the sweet scent of nostalgia.
+
+So, dear listeners, let us hope this show finds its footing, for Comedy Central has been known to pull the plug on promising ventures, as they did with the illustrious David Spade. And if anyone out there knows of her upcoming show dates or DVDs floating in the ether, do share, for the world is eager to bask in the glow of her comedic genius. Stay tuned, stay curious, and keep those dials tuned to the frequency of fun!","Welcome, dear reader, to a whirlwind tour of the delightfully chaotic world of Sarah Silverman! Imagine a rollercoaster ride through a carnival of comedy, where every twist and turn is designed to jolt you out of your comfort zone and into a realm of laughter and introspection. Sarah Silverman, the maestro of mischief, crafts her show with the precision of a master puppeteer, pulling strings that dance between the absurd and the profound.
+
+Now, let's dive into the heart of the matter. Why is this show a beacon of brilliance cloaked in the guise of stupidity? Because Sarah Silverman wants it that way! Like a painter splashing vibrant colors onto a canvas, she deliberately chooses to embrace the juvenile, the bizarre, and the wonderfully weird. It's a calculated chaos, much like Pee-Wee's Playhouse for the modern misfit, the slacker, the dreamer who dares to sniff the glue of life's oddities.
+
+The cast? Oh, they're not just actors; they're the vibrant threads in this tapestry of hilarity. Each scenario, each action, is a well-paced dance that keeps you on your toes, eagerly anticipating the next move. And who can forget the musical numbers? They're not just songs; they're anthems of the absurd, serenading the audience with a melody of madness.
+
+But wait, there's more! Who plays Sarah's sister, you ask? A mystery wrapped in an enigma, not listed on the show's homepage, yet leaving us yearning for more. Her stand-up? A treasure trove waiting to be discovered. So, dear reader, I urge you to seek out this show, to embrace its eccentricities, and to revel in the personal growth it inspires. Let Sarah Silverman's world be your playground, where laughter is the key to unlocking the doors of introspection and action. Go forth, explore, and let the comedy commence!","start summaries with a welcoming and engaging introduction, use vivid metaphors and analogies, maintain a conversational and enthusiastic tone, highlight the film's themes and messages clearly, include emotional responses and personal connections, use call-and-response or rhetorical devices to engage the reader, incorporate a rhythmic structure with repeated phrases for emphasis, include more narrative details and descriptive language, maintain a balance between critique and appreciation, use direct address and exclamations for emphasis, use strong and assertive language to convey criticism, emphasize personal growth and introspection, encourage the audience to take action or seek out the film.
+",write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"Sarah Silverman is a dangerous Bitch! She's beautiful, sexy, funny and talent, dark and demonic. I read the other 'comment' on this show as well as the message board stuff and people just don't get it. Nothing that appears on T.V. is an accident. Too much money, time and work is put into the production of a T.V. show for there to be mistakes. This show is stupid because Sarah wanted it to be stupid. This show is juvenile because Sarah wanted it to be juvenile. I thought the jokes were great and the theme show as well as the other musical numbers are wonderfully bizarre. It's a lot like Pee-Wee's Playhouse for maladjusted, slacker twenty-something glue sniffing, Future Pornstars of America from the Valley. The cast is awesome. The scenarios and action is well-paced. I hope this show succeeds since Comedy Central didn't let David spade keep his show. Who plays Sarah's sister? She not in the cast listing on the show's home page. I would love to see her stand-up. Does anyone know about her up-coming show dates or DVDs that may be floating around out there?"
+24,plume,summarization,prose.full,qwen,5961,imdb,24,4,"Ladies and gentlemen, boys and girls, gather 'round your radios and lend an ear to the tale of Herbie, the Volkswagen with a mind of its own, vroom-vrooming back into the spotlight! Picture this: Maggie Peyton, played by the ever-youthful Lindsay Lohan, dreams of NASCAR glory, her eyes twinkling like stars in the night sky. But oh, the dastardly Trip Murphy, portrayed by the cunning Matt Dillon, stands in her way, a villain with a sneer that could curdle milk!
+
+Now, let's take a trip down memory lane, shall we? The original love bug, bless its little engine, never quite revved up the excitement for this humble narrator, and alas, the sequel sputters along the same track. The cast, a constellation of talent, shines brightly in the trailer, promising a joyride of fun and frolic. But oh, dear listeners, the reality is a sputtering engine, chug-chugging along with nary a laugh to be found.
+
+The film, a kaleidoscope of colors and sounds, is a feast for the young ones, their laughter echoing like the tinkling of bells. But for those of us with a few more miles on the odometer, it’s a bumpy ride, lacking the spark to ignite our imaginations. Lindsay Lohan, bless her heart, gives it her all, but her performance is a mere shadow of her past triumphs in Freaky Friday and Mean Girls. Matt Dillon, the shining star, delivers a villainous performance that crackles like a live wire, yet even he is shackled by a script as flimsy as a paper kite in a storm.
+
+Angela Robinson, the captain of this cinematic ship, steers with a steady hand, but the screenplay by Thomas Lennon and Ben Garant is a leaky vessel, struggling to stay afloat. Their previous works, Taxi and The Pacifier, echo in the background, a reminder of missed opportunities and unfulfilled potential.
+
+In the end, dear listeners, Herbie is a safe, predictable family film, a gentle breeze for the young and a whisper of nostalgia for the rest. A 4 out of 10, it’s a ride best suited for the kiddies, while the rest of us might find more excitement in the static of an untuned radio. So, tune in next time for more tales from the silver screen, and remember, the road to entertainment is paved with both triumphs and tribulations!","Hey there, movie buffs and nostalgia seekers! Buckle up and get ready for a ride down memory lane with Herbie, the Volkswagen that thinks like a man, making a comeback in ""Herbie: Fully Loaded."" Picture this: Maggie Peyton, played by the ever-charming Lindsay Lohan, dreams of NASCAR glory, steering Herbie through the twists and turns of ambition and rivalry. But standing in her way is the formidable Trip Murphy, portrayed by Matt Dillon, who’s as determined as a cat on a hot tin roof to keep his champion title.
+
+Now, let's talk turkey. The original Herbie flicks might not have been the bee's knees, and this sequel, well, it’s like a lukewarm cup of cocoa on a winter's day—comforting for the kiddos but lacking that zing for the grown-ups. The film tries to rev its engines, but it sputters out, leaving us yearning for more laughs and less predictability. It's like a rollercoaster that never quite reaches the thrilling peak.
+
+Lindsay Lohan, bless her heart, gives it a go as Maggie, but we know she can shine brighter, like she did in ""Freaky Friday"" and ""Mean Girls."" Matt Dillon, though, he’s the silver lining, playing the villain with a twinkle in his eye, even if the script doesn’t give him much to chew on. And let's not forget Justin Long, Breckin Meyer, and Michael Keaton—they’re there, but they’re like wallpaper, blending into the background.
+
+Angela Robinson directs with a steady hand, but she’s steering a ship with a leaky hull, thanks to a script by Thomas Lennon and Ben Garant that’s as flat as a pancake. These guys have penned light-hearted tales before, but this one doesn’t quite hit the mark. It’s a safe, predictable family film, perfect for the little ones but a bit of a snooze fest for the rest of us.
+
+So, if you’re feeling nostalgic or have a young one eager for some car capers, give it a whirl. But if you’re seeking something with more depth and excitement, you might want to steer clear. Remember, every film is a journey, and sometimes, the road less traveled offers the most rewarding adventures. Happy watching!","start summaries with a welcoming and engaging introduction, use vivid metaphors and analogies, maintain a conversational and enthusiastic tone, highlight the film's themes and messages clearly, include emotional responses and personal connections, incorporate a rhythmic structure with repeated phrases for emphasis, include more narrative details and descriptive language, maintain a balance between critique and appreciation, use strong and assertive language to convey both excitement and criticism, use colloquial language and informal expressions, employ historical or nostalgic references, include specific character details and mysteries, use direct address and exclamations for emphasis, encourage the audience to take action or seek out the film, emphasize personal growth and introspection.
+",write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"Herbie, the Volkswagen that thinks like a man, is back, now being driven by Maggie Peyton (Lindsay Lohan), a young woman who hopes to become a NASCAR champion. The only thing standing in her way is the current champion, Trip Murphy (Matt Dillon), who will do anything to stop them.<br /><br />The original love bug wasn't that good. Even as a kid, I remember not liking it very much. I had some hope for the sequel though. I mean the cast is pretty good and the trailer makes it seem like a pretty fun movie. Unfortunately, Herbie is no better now than he was before. The film is defiantly weak for people over the age of 12. It will probably entertain the kids but that's all.<br /><br />I realize it's a kids film and all but they could have made the film a little more interesting. There were very few laughs and it got boring near the end. Most of the actors seemed dead in their roles too. Lindsay Lohan was alright as Maggie Peyton. She usually gives better performances like in Freaky Friday and Mean Girls. Matt Dillon gave the best performance out of everyone. He was very good as the bad guy even though he didn't have a lot to work with. Justin Long, Breckin Meyer and Michael Keaton are really just there and they don't do anything special.<br /><br />Angela Robinson directs and she does an okay job. She tries to keep the film interesting but she's working with a weak script. Thomas Lennon and Ben Garant wrote the screenplay and would it be any surprise to you that they were also responsible for Taxi and The Pacifier? These two make light films yet they fail to really make the stories interesting or enjoyable. It's not completely their fault but hopefully next time they will try harder. In the end, Herbie is a safe, predictable family film that's worth watching if you're a kid. Everyone else is better off skipping it. Rating 4/10"

@@ -1,0 +1,9 @@
+torch>=2.0.0
+transformers>=4.35.0
+pandas>=2.0.0
+numpy>=1.24.0
+tqdm
+evaluate
+rouge_score
+bert_score
+openai>=1.0.0

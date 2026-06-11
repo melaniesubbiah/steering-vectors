@@ -1,0 +1,1137 @@
+,framework,task_name,agent_name,llm_name,seed,task_source,example_num,source_example_num,user demo,agent completion,pred preferences,true preferences,context
+0,plume,summarization,prose.full,qwen,1352,cnn_dailymail,0,0,"Once upon a time, in a big, bustling place called the U.S. Capitol, there was a congresswoman named Michele Bachmann. She had a helper named Javier Sanchez. Now, let's follow the steps of this curious tale!
+
+Step 1: One day, the U.S. Capitol Police set up a clever plan, just like a spider weaving a web, to catch a sneaky thief. They hid a camera in the office of Michele's chief of staff.
+
+Step 2: The camera caught Javier, who was supposed to be a good helper, taking envelopes of money from the desk. Oh no! One envelope said '$80 petty cash' & the other said '$120 birthday money.'
+
+Step 3: The police were very smart & arrested Javier on July 11. They said he did something called 'theft,' which means taking things that aren't yours.
+
+Step 4: Javier was let go for now, but he has to go to a special place called court on August 26 to talk about what he did.
+
+Step 5: Meanwhile, Michele Bachmann decided she wouldn't be a congresswoman anymore. She said it was time to leave, just like a president who can only stay for eight years.
+
+And so, the story of the sneaky helper & the clever police came to an end, but everyone learned a lesson about honesty & trust.","Javier Sanchez, a former aide to Congresswoman Michele Bachmann, was arrested for theft after being caught on hidden camera stealing cash from her chief of staff's desk. The U.S. Capitol Police set up a sting operation in response to multiple thefts in the Rayburn office building, leading to Sanchez's arrest on July 11. Sanchez, who was charged with second-degree misdemeanor theft, is no longer part of Bachmann's staff and is scheduled for a court hearing on August 26. Michele Bachmann, a prominent tea party figure, recently announced she will not seek re-election, comparing her departure to a two-term presidential limit. The investigation into other thefts in the building continues, with no current links to Sanchez.",,"adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","By . Ryan Gorman . PUBLISHED: . 21:55 EST, 15 July 2013 . | . UPDATED: . 01:31 EST, 16 July 2013 . An aide to congresswoman Michele Bachmann was caught on hidden camera stealing from her chief of staff. Javier Sanchez, 37, of Virginia, was arrested Thursday and charged with theft after a sting set up by U.S. Capitol Police caught him stealing envelopes of cash out of her chief of staff's desk. Formerly a senior legislative assistant to Bachmann (R-MN), Sanchez is no longer a member of her staff, according to reports. Strange: Rep. Michele Bachmann, R-Minn., with staff member Javier Sanchez, who has been charged with thefts in a House office building . Sanchez was caught on hidden camera by U.S. Capitol Police stealing two separate envelopes from a desk in her chief of staff's office. One envelope was marked '$80 petty cash' and the other '$120 birthday money,' according to NBC Washington. The thefts took place in the Rayburn office building. The former aide was arrested July 11 after investigators set up the sting in response to a string of thefts in the building, Fox News reported. A prominent member of the tea party movement, Bachmann recently announced she will not seek re-election to the House. The outgoing congresswoman also ran an unsuccessful, but divisive and eventful, bid for the Republican nomination during the 2012 presidential election. In a May YouTube video announcing her leave from Congress Bachmann compared her exit to that of a two term president, saying 'the law limits anyone from serving as president of the United States for more than eight years, and in my opinion, well, eight years is also long enough for an individual to serve as a representative for a specific Congressional district.' Sanchez was charged with second degree misdemeanor theft and released on his own personal recognizance. He is due in court August 26 for a hearing, according to officials. Still being investigated, a series of thefts in the building last year have not yet been linked to Sanchez, NBC Washington reported."
+1,plume,summarization,prose.full,qwen,1352,cnn_dailymail,1,1,"Once upon a time, in a place called Acres Nook Nursing Home, there was a lady named Sharon Walker. She worked as an administrator, which is like being the boss of papers & money. 
+
+Step 1: Sharon had a big job. She was supposed to take care of the money that belonged to the people living in the home. These people were like fragile flowers, needing lots of care & love.
+
+Step 2: But oh dear! Sharon did something very naughty. She took almost £5,000 from the money that was meant for the people’s special goodbye parties, called funerals. It was like taking candy from a baby, which is not nice at all!
+
+Step 3: Sharon used the money to buy shiny toys for her husband, like a camcorder & an iPod. But the people who needed the money were left with nothing, just like a bird without its nest.
+
+Step 4: When the families of the people found out, they were very sad & upset. They went to a big place called the court to tell a wise man named Judge Glenn.
+
+Step 5: Judge Glenn was not happy with Sharon. He said she had to go to a place called jail for 16 months because she took advantage of the people who needed help, like a fox sneaking into a henhouse.
+
+Step 6: Sharon had to promise to give back all the money by a special day, or she would have to stay in jail even longer.
+
+And so, the story teaches us that we must always be kind & honest, especially to those who need our help the most. The end.","Once upon a time, in the quiet town of Kidsgrove, Staffordshire, there was a care home called Acres Nook. It was a place where the elderly and those with physical challenges found comfort and care. Among the staff was Sharon Walker, a woman who had climbed the ranks from housekeeper to chief administrator. But like a wolf in sheep's clothing, Sharon harbored a secret that would soon unravel.
+
+Imagine a trusted guardian of a treasure chest, who instead of protecting the gold, slyly pockets the coins for herself. Sharon did just that, siphoning nearly £5,000 from the funeral funds of two vulnerable patients. These funds were meant to ensure a dignified farewell for a 33-year-old cerebral palsy sufferer and a 61-year-old man battling multiple sclerosis. Instead, Sharon used the money to buy a camcorder and an iPod for her husband, leaving the accounts as empty as a deserted well.
+
+The truth came to light when the patients passed away, and their families discovered the missing funds. Like a house of cards, Sharon's deceit collapsed, leading her to plead guilty to fraud. The court, like a stern teacher, sentenced her to 16 months in jail, emphasizing the importance of protecting those who cannot protect themselves.
+
+Judge Paul Glenn, with the wisdom of a sage, reminded everyone of the moral lesson: trust is a precious commodity, and those who exploit it, especially against the vulnerable, must face the consequences. Sharon's story serves as a cautionary tale, highlighting the need for integrity and the duty to safeguard the trust placed in us by others.
+
+In the end, the care home, now under new management, reassured the community that such betrayal would not be tolerated again. And so, the tale of Sharon Walker stands as a reminder that honesty and compassion should always guide our actions, especially when entrusted with the care of others.","use narrative storytelling techniques, incorporate imaginative analogies, provide clear step-by-step sequences, simplify language for clarity, maintain a conversational tone, focus on key events, include moral lessons
+","adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","By . Suzannah Hills . PUBLISHED: . 06:21 EST, 4 February 2013 . | . UPDATED: . 07:39 EST, 4 February 2013 . Theft: Sharon Walker, 46, stole nearly £5,000 from patients while working as an administrator in a care home . A care home worker has been jailed for 16 months after she stole almost £5,000 from terminally-ill patients' funeral funds. Sharon Walker, 46, then used the cash she stole from a cerebral palsy sufferer and a man dying of multiple sclerosis to buy a camcorder and an iPod for her husband. The grandmother stole a total of £4,992.99 from the two patients being cared for at Acres Nook Nursing Home in Kidsgrove, Staffordshire, where she worked as an administrator. The victims had set aside the money to pay for their funeral costs and was intended to be passed onto their relatives when they died. Stoke-on-Trent Crown Court heard Walker stole £2,500 from a funeral plan account she set up for a 33-year-old cerebral palsy sufferer, and a further £2,310 from a 61-year-old suffering from multiple scleroisis. Walker's crimes came to light when the patients died and their relatives tried to access the funeral plan money and discovered the accounts were both empty. She pleaded guilty to three counts of fraud and was jailed for 16 months on Friday. Sentencing Walker, Judge Paul Glenn blasted her for preying on 'vulnerable' victims. He told her: 'The courts have a duty to protect those who can't help themselves. 'The residents were elderly patients and young adults with physical difficulties. They had to rely on staff for their care. You took advantage of a lax system. 'The particular vulnerability of your victims is a significant aggravating feature.' The court heard Walker, from Fenton, Stoke-on-Trent, rose from her position as a housekeeper in 2006 to become chief administrator of the home in July 2009. Position of trust: Walker rose from her position as housekeeper at . Acres Nook Care Home in Boathorse Lane, Kidsgrove, Staffordshire, to become the chief administrator . She exploited a loophole in the system designed to safeguard residents' cash and siphoned off funds for herself. Prosecutor Howard Searle said: 'The system was subject of potential abuse and she abused the system.' Judge Glenn ordered Walker to repay £4,992.99 by July 29 - or face a further three months in jail. Brian McKenna, defending, admitted the offences were 'mean' but said his client was under 'intolerable' pressure at work as she had no experience of bookkeeping or accounting. The 69-bed care home - which is now run by HC-One - was operated by scandal-hit Southern Cross at the time of the incident. A spokesman said: 'We can reassure residents, their families and our community that the home has been under a new operator for a year now, and we would never tolerate this behaviour.' Vulnerable: Walker stole £2,500 from a cerebral palsy sufferer, aged 33, and £2,310 from a 61-year-old man suffering from multiple scleroisis who were both being cared for at the home ."
+2,plume,summarization,prose.full,qwen,1352,cnn_dailymail,2,2,"Once upon a time, in the sunny land of California, there lived a brave lady named Jessica Keenan. Step 1: Jessica, who was 34 years old, was fighting a big, scary monster called Stage 4 breast cancer. But like a knight with a shining sword, she had faith, hope & a magical helper called the Dream Foundation by her side.
+
+Step 2: Jessica had a dream, a dream as bright as a shooting star. She wanted to marry her prince, Curtis Jimenez, but the monster had gobbled up all their gold coins. So, Jessica wrote a letter to the Dream Foundation, asking for a sprinkle of magic to make her dream come true.
+
+Step 3: The Dream Foundation, like a fairy godmother, waved its wand & gathered a flock of kind-hearted people to help. They granted Jessica's wish for a beautiful wedding, just like Cinderella's ball, with a dress from a fancy boutique & a big celebration planned for January 24.
+
+Step 4: Meanwhile, other brave knights & princesses also had dreams. Bruce wanted to visit Disney World with his family, Remedios wished for a Quinceniera for her daughter, & Edward longed for a warm honeymoon with his wife. The Dream Foundation worked hard to make these dreams come true too, with the help of generous friends & magical donations.
+
+Step 5: As the big day approached, Jessica tried on her wedding dress, feeling like a princess in a fairy tale. Her friends cheered, & even though her hair was short from the battle with the monster, her spirit shone bright. ""It's overwhelming,"" she said, with a heart full of joy & excitement.
+
+And so, with the help of the Dream Foundation & a sprinkle of magic, Jessica's dream was set to come true, proving that even in the face of scary monsters, dreams can shine as bright as the stars.","Once upon a time in the bustling city of Los Angeles, a brave woman named Jessica Keenan found herself in a battle against a formidable foe—Stage 4 breast cancer. Imagine her life as a ship caught in a relentless storm, yet she clung to the hope of a brighter horizon. At 34, Jessica dreamed of marrying her steadfast partner, Curtis Jimenez, but the financial toll of her illness seemed to anchor their dreams.
+
+Enter the Dream Foundation, a beacon of light for terminally ill adults, much like a lighthouse guiding lost ships to safety. Encouraged by her caring nurses, Jessica reached out to this charity, and soon, her wish began to unfold like a magical storybook. With the help of generous strangers and a kind-hearted benefactor from Texas, her dream wedding was set to sail on January 24.
+
+As Jessica tried on wedding dresses in a luxurious Beverly Hills boutique, her journey was a testament to the power of community and compassion. The Dream Foundation, akin to a fairy godmother, transformed her wish into reality, proving that even in tough times, kindness can weave miracles. This tale reminds us that dreams are not just for children; adults, too, yearn for moments of joy amidst life's trials.
+
+The moral of Jessica's story is clear: never underestimate the impact of a helping hand. By donating frequent flier miles or hotel points, anyone can become part of a dream, turning despair into hope. As Jessica stood in her wedding dress, surrounded by tearful bridesmaids, her story became a beacon of resilience, teaching us that love and hope can conquer even the darkest storms.","use narrative storytelling techniques, incorporate imaginative analogies, provide clear step-by-step sequences, simplify language for clarity, maintain a conversational tone, focus on key events, include moral lessons, highlight the consequences of actions
+","adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","LOS ANGELES, California (CNN) -- Jessica Keenan tried on wedding dresses in a fancy Beverly Hills boutique, about 100 miles from the Santa Barbara, California, clinic where she gets blasted with chemotherapy once a week. Jessica Keenan, 34, is getting married January 24, thanks to the Dream Foundation. Keenan is 34 years old and battling Stage 4 breast cancer with faith, hope and a charity called the Dream Foundation, which helps terminally ill adults. ''You get a diagnosis and you never know how short your time is,"" Keenan said. ""I chose to believe there is going to be a cure. You still carry those dreams of getting married, having a kid."" But Keenan and her fiancé, Curtis Jimenez, couldn't afford a wedding -- their finances are sapped by her cancer battle. They rent from friends. Keenan wrote a letter to Dream Foundation, at the suggestion of her devoted nurses at the Santa Barbara cancer center. ""It all just started snowballing,"" she said. Her wish has been granted, thanks to Dream Foundation and flock of people she has never met. Think of the foundation as Make-A-Wish, but instead of trying to help desperately sick children, Dream Foundation assists terminally ill adults. Keenan's wedding is a different, more lavish wish than most of the requests the foundation has been receiving in this tough economy. ""People's needs are becoming basic,"" said the charity's founder, Thomas Rollerson. ""We are getting wishes just to pay an electric bill, pay the rent, or help keep a promise to go to Disneyland to give them that memory in a time of hopelessness, doctors visits and uncertainty."" Other dreams are simply for dying family members to be united with loved ones, last visits before last rites. Rollerson explains that with money tight, donors can still help without writing big checks. For example, people can donate frequent flier miles or hotel points. When corporate donors and philanthropists jump in, a Dream Foundation wish can turn elaborate. The foundation's Web site is a bulletin board of heartache looking for relief. There's Bruce, 31, dying of Hodgkin's lymphoma. He wants to leave New York state for the first time and take his wife and his 6-year-old son to Disney World. Remedios is a California woman with incurable cancer. She wants to treat the daughter who stands over her bed to a Quinceniera, a traditional celebration for a girl who turns 15 years old. Bone cancer is expected to kill Edward Lucas of Springfield, Missouri, in less than six months. He wants to celebrate his 21st wedding anniversary with his wife, Nancy, before he leaves her a widow with an adult daughter and three grandchildren. Their dream is a warm-weather honeymoon trip never taken. Edward was hospitalized and too weak to talk to CNN. ""I wanted him to have a trip or something to look forward to,"" Nancy said. ""A lot of people don't realize there are dreams for adults too."" The Lucas' dream trip is coming together with the help of Dream Foundation, which is hashing out some of the flight and hotel issues to Florida. Back in California, Keenan's wedding is speeding toward January 24, thanks to dozens of corporate sponsors and a wealthy Texas do-gooder, Beverly Adams, who made a big financial contribution. The upscale boutique Monique Lhullier donated the dress. ""We're a conduit,"" Dream Foundation's Rollerson said. ""People are willing to help. They just need to know how and where."" Keenan, a hairdresser by trade, was first diagnosed with breast cancer in 2005. She thought she had it beat two years ago when she met her fiancé on New Year's Eve. She found out in March of 2007 the cancer returned. Her fiancé has remained at her side. ""When they met, they were just so into each other,"" said Lena Rueff, who first introduced the bride-to-be to her brother. ""He has been a rock for her. He packs snacks, games, books to the hospital where he stays with her."" In the dress shop, she and the other bridesmaids cheer for Jessica. ""You look sexy!"" Her hair is cropped short after all the chemotherapy. ""I like the long veil."" Jessica pauses, realizing she's not just playing dress-up with grade school friends. ""It's overwhelming. I'm anxious and excited,"" she said, standing in a room where some dresses cost more than new cars. ""I still don't believe it's going to happen."" The bridesmaids stop cheering for a second and rub away tears of joy."
+3,plume,summarization,prose.full,qwen,1352,cnn_dailymail,3,3,"Once upon a time, in the land of coffee beans & frothy milk, there was a magical place called Starbucks. One day, the wise leaders of Starbucks decided to give their hardworking baristas a special gift, just like a treasure chest full of golden opportunities. 
+
+Step 1: They teamed up with a big school called Arizona State University, where students could learn all sorts of things, like how to be a scientist or a teacher. 
+
+Step 2: Starbucks said, ""If you work with us for at least 20 hours a week, you can go to this school online & it won't cost you as much as a mountain of gold coins!""
+
+Step 3: The leaders explained that even if the baristas decided to leave Starbucks after getting their degrees, it was okay. They could still chase their dreams, like a bird flying high in the sky.
+
+Step 4: The program was like a puzzle, with pieces that fit together in different ways for each worker. Some might get help from a magical Pell grant, which would make the cost even smaller.
+
+Step 5: The wise leaders hoped that many baristas would join this adventure, making the school grow bigger & stronger, like a giant beanstalk reaching for the clouds.
+
+And so, the story of Starbucks & Arizona State University began, with dreams & degrees waiting to be discovered by all the brave baristas in the land.","Once upon a time in the bustling kingdom of Starbucks, a magical opportunity was unveiled by the wise ruler, CEO Howard Schultz. In the heart of Seattle, where coffee beans danced and dreams brewed, a new path to knowledge was forged. Starbucks, the beloved coffee chain, partnered with the grand Arizona State University to offer its loyal workers a chance to earn an online college degree at a fraction of the usual cost. This enchanting program was open to 135,000 employees who worked at least 20 hours a week, promising them a treasure trove of educational possibilities beyond the realm of coffee.
+
+In this tale, the workers were not bound by chains to their coffee kingdom after earning their degrees. They could explore a wide array of subjects, much like choosing from a magical library of knowledge. The program was set to replace an older, less generous tuition reimbursement scheme, offering a more bountiful reward for those who dared to dream.
+
+The wise ruler Schultz, alongside the noble U.S. Education Secretary Arne Duncan, announced this grand initiative in the bustling city of New York, with hundreds of workers and their families gathered to witness the dawn of a new era. Though the exact cost to the kingdom of Starbucks remained a mystery, the potential benefits were as clear as a crystal ball. Arizona State University, with its online program, stood to gain a multitude of eager learners, while Starbucks hoped to attract a more learned and skilled workforce.
+
+The program was designed with a step-by-step guide to ease the journey. For the first two years, Starbucks and Arizona State would cover a significant portion of the tuition, leaving workers to seek financial aid for the rest. Many, like the diligent Zee Lemke from Madison, Wisconsin, saw the potential in this opportunity, though they pondered the value of where a degree was earned.
+
+As with all tales, there were lessons to be learned. The program highlighted the importance of education and the power of partnerships in creating opportunities. It showed that with a little help, even those in humble positions could reach for the stars. The consequences of this initiative promised a brighter future for both the workers and the kingdom of Starbucks, as they brewed a new blend of success and knowledge.
+
+And so, in this fairy tale of education and opportunity, the kingdom of Starbucks set forth on a journey to empower its people, proving that with vision and collaboration, even the simplest of beans could grow into the tallest of trees.","use narrative storytelling techniques, incorporate imaginative analogies, provide clear step-by-step sequences, simplify language for clarity, focus on key events, include moral lessons, highlight the consequences of actions, use fairy tale-like elements to engage the reader, maintain a conversational tone, begin summaries with a brief introduction of the main character and setting.
+","adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","By . Daily Mail Reporter . Starbucks is rolling out a program that would allow its workers to earn an online college degree at Arizona State University at a steeply discounted rate. The coffee chain is partnering with the school to offer the option to 135,000 U.S. employees who work at least 20 hours a week. The Seattle-based company says it will phase out its existing tuition reimbursement program, which gave workers up to $1,000 a year for education at certain schools. Starbucks is rolling out a program that would allow its workers to earn an online college degree at Arizona State University, pictured, at a steeply discounted rate . The company says the program doesn't require workers to stay at Starbucks after they earn their degrees. They can also pick from a wide range of educational programs that aren't related to their Starbucks work. Starbucks CEO Howard Schultz is scheduled to announce the program Monday in New York City, with U.S. Education Secretary Arne Duncan and about 340 workers and their family members in attendance. It's not clear how many workers will choose to participate in the new program or how much it will cost Starbucks Corp. The company isn't disclosing the financial terms of its agreement with Arizona State University. But the program could significantly boost the enrollment for Arizona State's online program, which charges tuition of about $10,000 a year. The coffee chain is partnering with the school to offer the option to 135,000 U.S. employees who work at least 20 hours a week . That's roughly the same as the school's traditional degree program. Tuition reimbursement is a rare benefit for low-wage workers in the retail industry, but Starbucks isn't the first to offer it. In 2010, Wal-Mart Stores Inc. launched a partnership with American Public University, a for-profit, online school, to give workers and family members partial tuition grants. The retailer, based in Bentonville, Arkansas, says more than 400 of its workers have since completed degrees through the program. Wal-Mart's program also does not require workers to stay and allows them to pursue a variety of degrees. Starbucks' existing tuition reimbursement program, which was rolled out in 2011, gives workers up to $1,000 a year for courses at City University of Seattle or Strayer University. Tuition for an online degree at ASU is about $10,000 a year, roughly the same for its traditional educational programs. For . the freshmen and sophomore years, Starbucks and Arizona State say they . will put around $6,500 on average toward the estimated $20,000 in total . tuition. To cover the remaining $13,500, workers would apply for financial aid. If a worker qualified for a full Pell . grant of $5,730 a year — or $11,460 over the two years — he or she would . theoretically be left with about $2,040 to pay out of pocket. So far, Starbucks has paid out $6.5 million under that program, said Laurel Harper, a company spokeswoman. Zee Lemke, a 31-year-old Starbucks employee and union organizer in Madison, Wisconsin, said she thought the program might be useful to some workers. But she noted that prospective employers also look at where a degree was earned, and that actual in-class experience matters. As with most matters involving financial aid, the terms of the new program are somewhat complicated and will vary depending on each worker's situation. Tuition for an online degree at ASU is about $10,000 a year, roughly the same for its traditional educational programs. For the freshmen and sophomore years, Starbucks and Arizona State say they will put around $6,500 on average toward the estimated $20,000 in total tuition. To cover the remaining $13,500, workers would apply for financial aid. Since Starbucks workers don't earn a lot of money, many would likely qualify for a Pell grant, said Mark Kantrowitz, publisher of EdVisors.com, a website about paying for college. If a worker qualified for a full Pell grant of $5,730 a year — or $11,460 over the two years — he or she would theoretically be left with about $2,040 to pay out of pocket. The program would work similarly for the junior and senior years, except that Starbucks would reimburse any money workers end up having to pay out of pocket. Starbucks said most of its workers have already started school, so could potentially finish off their degrees at no cost if they applied for the program. The company says the program will be available to workers at its other chains as well, including Teavana tea shops and Seattle's Best. The program is available only to workers at Starbucks' 8,200 company-operated locations. Another 4,500 U.S. locations are operated by franchisees. Kantrowitz said the new program at Starbucks has the potential to benefit all parties involved. Workers will get a chance to earn a degree in a relatively affordable way, and Starbucks could attract a better pool of workers. Arizona State University will also have a major employer potentially sending lots of students its way. ""It's a way to expand revenue,"" he said of the online programs offered by traditional, brick-and-mortar universities. Enrollment for Arizona State University's online program already stands at around 10,000. Sorry we are not currently accepting comments on this article."
+4,plume,summarization,prose.full,qwen,1352,cnn_dailymail,4,4,"Once upon a time, there was a big, shiny ship called the Costa Concordia. It was as grand as a castle & set sail on a magical journey across the Mediterranean Sea. Step 1: The ship left the port with many happy passengers, including a couple named John & Mandy Rodford, who were celebrating their wedding anniversary.
+
+Step 2: But oh no! The ship hit some rocks, just like a toy boat bumping into the side of a bathtub. The ship began to tilt, & everything started to slide around like a slippery slide at the playground.
+
+Step 3: John & Mandy were very brave. They tried to get into a lifeboat, but it wouldn't work because the ship was leaning too much. They had to climb back out & wait for help.
+
+Step 4: The captain, Francesco Schettino, was supposed to be the hero of the ship, but some people said he left too soon, like a knight running away from a dragon. He said it wasn't his fault because his maps were old & wrong.
+
+Step 5: John & Mandy were safe at last, but they were very sad & scared. They wanted the ship's owners, Costa Cruises, to understand how they felt. They asked for a big sum of money to help them feel better, like a band-aid for their hearts.
+
+Step 6: Many other people on the ship felt the same way & wanted to tell their stories too. The captain was in big trouble & might have to go to a special place called jail for a long time.
+
+And so, the story of the Costa Concordia continued, with everyone hoping for a happy ending.","Once upon a time, in the quaint town of Rochester, Kent, there lived a couple named John and Mandy Rodford. They were like any other pair, celebrating their fourth wedding anniversary with dreams of adventure aboard the grand Costa Concordia, a ship as majestic as a castle floating on the sea. But little did they know, their fairy tale voyage would soon turn into a nightmarish tale of survival.
+
+Picture this: the ship, a giant beast of the ocean, set sail under the moonlit sky, promising a week of Mediterranean magic. But as the clock ticked and the waves whispered secrets, disaster struck. The Costa Concordia, like a clumsy giant, stumbled upon hidden rocks, sending shivers down its spine and panic through its passengers.
+
+John and Mandy, amidst the chaos, found themselves in a scene straight out of a storybook gone wrong. Imagine objects sliding off tables as if enchanted by an unseen force, and lifeboats refusing to obey their calls for safety. The couple, along with others, were told everything was under control, but the ship's tilt told a different tale—a tale of fear and uncertainty.
+
+In the aftermath, the Rodfords, like brave knights, stood before the court, seeking justice for the trauma that haunted their nights. They demanded a million Euros each, a treasure they believed was owed for the peril they faced. Their story, a cautionary tale, highlighted the consequences of negligence and the importance of accountability.
+
+Meanwhile, Captain Francesco Schettino, the man at the helm, faced accusations of recklessness, like a villain in a fable who let pride steer his actions. He claimed outdated charts were to blame, but the court, like a wise old sage, sought the truth, with the specter of a 20-year sentence looming over him.
+
+As the trial unfolded, the world watched, reminded of the moral that actions have consequences, and that even the grandest of adventures can turn into a test of courage and resilience. And so, the tale of the Costa Concordia, with its lessons and legacies, sailed on, a story for the ages.","begin summaries with a narrative introduction, use vivid and imaginative language, incorporate step-by-step sequences of actions, maintain a conversational tone, use analogies and comparisons to explain complex ideas, employ narrative storytelling techniques, include moral lessons, highlight the consequences of actions, use fairy tale-like elements to engage the reader, avoid formal language, begin summaries with a brief introduction of the main character and setting.
+","adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","By . Nick Pisa . A British couple who survived the Costa Concordia sinking are seeking more than £1million in damages. John and Mandy Rodford were among the last passengers to be plucked to safety from the stricken Costa Concordia, which struck rocks hours after leaving port for a seven-day Mediterranean cruise. Both attended the trial today of the luxury liner's captain Francesco Schettino, who is accused of multiple manslaughter and causing the disaster which cost the lives of 32 people - with one body still to be found. Traumatised: John and Mandy Rodford, pictured returning to the UK after the disaster in 2012, revealed to the trial of the Costa Concordia's captain that they are seeking a million Euros each in damages . Mr Rodford, 48, told the hearing at Grosseto: 'We have asked for a million Euro each in damages. 'Costa Cruises [the ship's owner] did not give us any emergency instructions when we left - instead something was planned for the following day. ''It is difficult to accept that the company is still operating and we are having trouble sleeping more than two years after the tragic events of that night.' Mandy, 46, told the hearing: 'Costa Cruises needs to suffer as we have - we almost lost our lives.' They described how they were initially told 'everything was under control' but then scenes of panic developed as the ship began to list, leaving objects to slide off tables and crash to the floor. Because of the angle at which the ship was leaning, lifeboats could not be launched and they had to clamber back out of the first one they boarded because it would not deploy. Stricken: Costa Cruises, which owned the ship, has already offered 17,000 Euros in compensation to each of the passengers and crew on board when the ship hit rocks in 2012 off the Italian island of Giglio (pictured) The couple, from Rochester, Kent, were on the Costa Concordia to celebrate their fourth wedding anniversary when disaster struck in January 2012 and were among 35 Britons on the ship. Costa Cruises has already offered compensation of 17,000 Euros to each of the 4,000 passengers and crew who were onboard the Costa Concordia that night. But many have slammed the offer as 'ridiculous' and are taking out individual compensation cases against Costa Cruises, which could end up costing the firm millions of pounds if they lose. The trial has already heard how Schettino - dubbed Captain Coward for abandoning ship while passengers were still on board - is said to have deliberately steered his ship close to the island to show off, recklessly endangering lives. Another survivor, Italian Tommaso Napoli, told the court that after the ship struck rocks he 'feared I would never see my wife and children again'. On trial: Captain Francesco Schettino is accused of multiple manslaughter and showing off by sailing too close to the island - but he insists he was given out-of-date nautical charts. He faces 20 years in prison if convicted . He added that as he tried to reach a lifeboat he was 'bowled over by sea of people convinced they were about to die.' Other witnesses told the hearing of the scenes of chaos on board the liner with confused crew ordering passengers to return to their cabins as there was a 'temporary blackout'. Ohers were ordered to muster points in restaurants after the Concordia struck rocks off the island of Giglio. Schettino denies the charges against him, and has insisted that he instead saved lives. His case is that the ship struck rocks because he had been given out-of-date charts. Prosecutors want him jailed for twenty years and the trial is not expected to end until 2016 at the earliest, with hundreds of people due to testify."
+5,plume,summarization,prose.full,qwen,1352,slf5k,5,0,"💔 RELATIONSHIP DILEMMAS: IS LOVE STILL POSSIBLE? 💔
+
+🔍 THE HEART OF THE MATTER 🔍
+Can LOVE truly be rekindled after trust is BROKEN? 🤔 A year-long on-and-off relationship faces a CROSSROAD after a major fight. He claims past LOVE, but was it ever REAL? 💭
+
+🕰️ TIMING & TRUST ISSUES 🕰️
+Is it TIME to move on if LOVE hasn't blossomed yet? ⏳ Or is there HOPE for a second chance? 🌱 When trust is SHAKEN, can it ever be fully restored? 🤷‍♀️
+
+💬 YOUR THOUGHTS? 💬
+Is it WORTH waiting for someone to fall in LOVE again, or is it a WASTE of time? 🕒 #RelationshipAdvice #LoveOrLeave","The author reflects on their tumultuous year-long relationship with a man who claims he once loved them but stopped due to their jealousy and insecurity, which stemmed from his past mistakes. Despite never having said ""I love you"" seriously, he expresses a desire to rekindle love, attributing his caution to a heartbreak from his first relationship. The author questions the sincerity of his past feelings and whether love can develop or redevelop, pondering if the relationship is worth pursuing given its challenges and the absence of love thus far.",,adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"I've been on and off dating this guy for the past year. We recently had a huge fight and he claims that he once loved me (however, he's never seriously said ""I love you"" to me"") but has stopped because of my jealousy and insecurity (which was caused by mistakes he made when we first started talking that caused my trust issues). He says that he still wants to be with me and wants to fall in love with me again. Before he told me this, he told me that it was harder for him to fall in love because his first relationship broke his heart and he's more cautious. He said I'm so easy to fall in love because he's my first real relationship. I honestly don't know if he actually once was in love with me or was just talking bullshit. Regardless, if he doesn't love me by now, he won't ever love me, right? I don't really know. I know I shouldn't put a timeline on it but I also know that most relationships aren't this hard. Do you think that there's hope that he'll fall in love with me again or for the first time or is it a waste of my time?"
+6,plume,summarization,prose.full,qwen,1352,slf5k,6,1,"💔 RELATIONSHIP WOES IN COLLEGE 💔
+
+🚪 TOO CLOSE FOR COMFORT? 🚪
+
+Ever felt like your relationship is a bit TOO CLOSE for comfort? 🤔 A college freshman shares his struggle with a clingy girlfriend who spends ALL her free time in his dorm. Is it LOVE or just suffocation? 😬
+
+👥 FRIENDS OR GIRLFRIEND? 👥
+
+His roommates miss their BRO TIME, and he's torn between hanging with the guys and watching movies with her. Can he find a BALANCE? Or is it time to RE-EVALUATE the relationship? 🤷‍♂️
+
+🗣️ COMMUNICATION IS KEY 🗣️
+
+He's talked to her about needing SPACE, and she's trying. But is it enough? Should she make NEW FRIENDS or continue waiting for him? 🤔
+
+FIRST LOVE DILEMMAS! Is it just the college life taking its toll, or are these feelings REAL? 💭 #CollegeLife #RelationshipStruggles","**Title: Navigating Love and Independence in College Life** 🌟
+
+**Opening Statement:** In the whirlwind of college life, where does one draw the line between love and personal space? 🤔
+
+**Summary:** As a freshman in college, the protagonist finds himself entangled in a delicate dance between love and independence. His girlfriend, a sweet and amazing companion, has become increasingly clingy, spending nearly all her free time in his dorm room. This closeness, once cherished, now feels suffocating. **Is it the relationship itself, or merely the pressures of college life that are causing this strain?** 🌀
+
+The roommates, who are also his best friends, have started to voice their concerns, missing the carefree days of teenage antics and camaraderie. **Can trust and timing help navigate this emotional maze?** The protagonist reflects on the philosophical aspects of their bond, questioning whether his feelings of wanting to break up are genuine or just a reaction to the new environment. 🌱
+
+Despite having communicated his need for space, the girlfriend waits for him instead of branching out and making new friends. **Is this a test of their relationship's resilience, or a sign of deeper issues?** The core dilemma revolves around balancing love with personal growth and freedom. **What are the potential outcomes of this emotional tug-of-war?** Will they find a harmonious balance, or will the relationship succumb to the pressures of college life? 💔
+
+In this first serious relationship, the protagonist is left pondering the essence of love, trust, and the right timing to make pivotal decisions. **How does one navigate the complexities of young love while staying true to oneself?** 🌈","use emoticons and bold text for emphasis, incorporate rhetorical questions and reflections on trust and timing, highlight the emotional and philosophical aspects of the relationship, focus on the core dilemma and potential outcomes, emphasize the title and opening statement.
+",adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"Me and my girlfriend of a little over a year go to the same college as freshman, and live in dorms very close to each other. I see her almost every day for about 5 hours. Since college has started she has become very clingy to me, spending all of her free time in my room and has not made any new friends. My roommates, who are also my best friends, have been very good with putting up with her being here, but as of recently have started to ask that she spends less time, because they miss having me alone, and doing stupid teenage stuff with them. On weekends they are always in and out of the room going places with new people getting drunk ect. while i stay in the room and watch movies with her.
+
+At first i did not mind having her over every day, but now it seems like i'm trying to push her away more and more because i feel suffocated by her clingy/neediness, (whenever we are together my attention has to be on her 90% of the time or she will get pouty).
+
+She is a really sweet and amazing girl, and when i'm back home I love spending all my time with her. But in the dorms i seem to be enjoying it less and less. I can't seem to figure out if these feeling for breaking up are my true feelings or just college dorm life taking its toll on the relationship.
+
+I have talked to her about need more space which she has been complying to. 
+But when i'm just hanging out with the guys she just waits for me to be free instead of going off, doing her own thing and making friends.
+
+I should also mention this is my first serious relationship ever."
+7,plume,summarization,prose.full,qwen,1352,slf5k,7,2,"🏃‍♀️ RUNNING WITH CHRONIC ILLNESS: A BALANCING ACT 🏃‍♀️
+
+🤔 TO RUN OR NOT TO RUN? THAT IS THE QUESTION 🤔
+
+Dealing with CHRONIC Epstein Barr Virus (EBV) can be a real STRUGGLE, especially when it FLARES UP unexpectedly. After a long break from symptoms, the recent runs have been TOUGH. Is it the EBV or just a bad week? Should I take a break or PUSH THROUGH? 🤷‍♀️
+
+💬 SEEKING ADVICE FROM FELLOW RUNNERS 💬
+
+Do you have a CHRONIC ILLNESS and still manage to keep running? How do you decide when to REST and when to RUN? I LOVE running and don't want to fall behind. Any tips? 🙏 #RunningCommunity #ChronicIllness #EBV","**Running Through the Flare-Up: A Balancing Act** 🏃‍♀️✨
+
+Ever felt like your body is playing tricks on you? 🤔 That's exactly what this runner is grappling with! Chronic Epstein Barr Virus (EBV) is no joke, and when it flares up, it feels like mono all over again. 😩 Imagine gearing up for a run, only to feel your muscles scream and your mind wave the white flag. The dilemma? To run or not to run. 🤷‍♀️
+
+The emotional tug-of-war is real. On one hand, there's the love for running, a passion that fuels the soul. On the other, the fear of setting oneself back by pushing too hard. Trust and timing—how do you know when to listen to your body and when to push through? 🤔
+
+The writer isn't looking for medical advice but rather a shared experience. How do others with chronic illnesses manage their love for running? When do they decide to skip a run? It's a philosophical dance between desire and reality, a reflection on how we trust our instincts and the timing of our decisions. 🕰️
+
+In the end, it's about finding that sweet spot where passion meets practicality. So, what would you do? 🤔 #RunningWithEBV","use emoticons and bold text for emphasis, incorporate rhetorical questions and reflections on trust and timing, highlight emotional and philosophical aspects of the relationship, focus on the core dilemma and potential outcomes, emphasize the title and opening statement, keep summaries concise and direct, use casual language and colloquial expressions, include specific examples from the text, use a narrative structure with multiple perspectives, end with a hashtag for social media context
+",adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"Hi! So, I have chronic Epstein Barr Virus (this is the virus that causes mono, most adults have it, but only a few have chronic EBV which means that intermittenly I get ""flare ups"" that essentially leaving me feeling like I have mono from anywhere from one to three weeks, give or take), and I haven't had a flare up in a WHILE. Like, since before I started running in June. The last three runs I've had have been real struggles for me - my muscles hurt more and mentally I've just felt defeated. Now, yesterday I realized I've been gearing up for a flare up of EBV and took a full on, laze about to rest, day. Today, I am sore, tired, and a headache from fairly full sinuses (thought not congested), but it's not like I have a fever, or am coughing or sneezing, etc. I'm toying with whether or not I should take a running break, and I'm also afraid that if I do and the toughness I had with running last week might not have been related to the EBV and I may end up setting myself back by not running for a couple of days. 
+
+I know you aren't doctors, and I'm not asking for medical advice - what I am asking is if anyone else has chronic illness that they deal with, and if so, how you maintain your running through it and when you know you need to skip the run. I really love running and really really don't want to set myself back or skip any if I can avoid it...
+
+Thanks in advance for your thoughts!"
+8,plume,summarization,prose.full,qwen,1352,slf5k,8,3,"💬 HOW TO APPROACH YOUR CRUSH? 💬
+
+👀 SPOTTED: A CUTE GIRL AT THE BUS STOP! 👀
+
+Ever felt TOO SHY to start a convo with someone you secretly admire? 🤔 This 20-year-old guy with LONG CURLY HAIR and GREEN EYES is in the SAME BOAT! He’s never been in a serious relationship and is battling SOCIAL ANXIETY. But he’s READY FOR CHANGE! 🚀
+
+💡 THE DILEMMA: HOW TO BREAK THE ICE? 💡
+
+He’s been eyeing a girl at his local bus stop, but hasn’t mustered the courage to TALK to her yet. What’s the BEST WAY to ask for her name or number without it being AWKWARD? 🤷‍♂️
+
+Got any SUGGESTIONS for him? Drop your TIPS below! 👇 #ShyGuyProblems #CrushConfessions","**Hey!** 🌟 Ever felt the butterflies when you see someone special but don't know how to make the first move? That's exactly where our 20-year-old friend finds himself. He's never been in a serious relationship and is battling a bit of social anxiety. But now, he's ready to change that! 💪
+
+Enter the girl at the bus stop—18 or 19, shy, yet incredibly cute. They exchange secret glances, but words? Not yet. So, what's the game plan? 🤔 How do you approach someone when you don't even know their name? Is it all about timing, or is trust the real key here? 
+
+Our guy just needs a spark to start a conversation. Maybe a simple ""Hey, do you take this bus often?"" could be the icebreaker. Or perhaps a compliment on her style? The possibilities are endless, but the fear of awkwardness looms large. 😅
+
+In the end, it's all about taking that leap of faith. Will he find the courage to speak up, or will this remain a missed connection? Only time will tell. ⏳ #BusStopCrush","use emoticons and bold text for emphasis, incorporate rhetorical questions and reflections on trust and timing, highlight emotional and philosophical aspects of the relationship, focus on the core dilemma and potential outcomes, emphasize the title and opening statement, keep summaries concise and direct, use casual language and colloquial expressions, include specific examples from the text, use a narrative structure with multiple perspectives, end with a hashtag for social media context, remove explicit mention of chronic illness in the title
+",adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"Hey!
+
+First of all I am 20/Male, I am avarage-looking , long curly hair, green eyes, beard etc.
+
+I have never been into a serious relationship before, even though I am 20 years old. I am kinda shy and I have a little bit social anxiety. But now I want to change and want to be in a good relationship.
+
+I am not living in US btw. anyways:: 
+
+There is this girl I have been coming across at my local bus stop. She seems 18-19 years old, she is quite shy but also incrediblely cute. We look at each other secretly when I am at the bus stop with her. I havent talk to her yet btw.
+
+How should I approach her? I dont know her name, dont know anything about her. All I need is her phone number or her name to look up on facebook. Then I ll tell my feelings in an instant. but I dont know any of these about her yet. I just need to start some conversation. What do you people suggest? What wouldnt be so awkward to say that can start some spark between me and her?
+
+Thanks :)"
+9,plume,summarization,prose.full,qwen,1352,slf5k,9,4,"🔍 RELATIONSHIP WOES: IS IT ME OR THE CONVERSATION? 🤔
+
+🎯 THE STRUGGLE IS REAL: Ever met someone GREAT but ended up in a COMPLAINT LOOP? 😩
+
+💬 TALKING POINTS: Why do my convos always turn into a RANT about school & family? Is it just me? 🤷‍♀️
+
+🔄 PATTERN ALERT: Do you find yourself stuck in a cycle of NEGATIVITY? How do you break free? 🚫
+
+💡 SELF-REFLECTION: Feeling GUILTY after every meet-up? Time to change the narrative! 🛑
+
+👉 HELP NEEDED: Anyone else been here? Tips on how to STOP the cycle? 🙌","**Navigating Relationship Dynamics: A Personal Reflection** 🌟
+
+Ever met someone and thought, ""Wow, this could be something special?"" 🤔 That's exactly what happened when I met this great guy. We clicked instantly! But then, the conversation shifted to school and family, and suddenly, I found myself spiraling into a cycle of complaints about my struggles at a French university and my rocky relationship with my mom. 😬
+
+Why does this keep happening? Is it a trust issue or just bad timing? 🤷‍♀️ Every time, the chat starts with dreams and plans, but then I dive into my struggles, making everything else feel like ""small talk."" It's like I'm stuck in a loop where the relationship becomes all about my woes. 😟
+
+The emotional toll is real. I leave these meet-ups feeling guilty and wondering if I'm being fair. Is it healthy to have such a one-sided dynamic? How do I break this habit? Can anyone relate? 🤔
+
+Reflecting on this, I realize the importance of balance and listening. Maybe it's time to shift the focus and explore new conversational paths. After all, relationships are about mutual sharing, right? 💬
+
+#RelationshipReflections","use emoticons and bold text for emphasis, incorporate rhetorical questions and reflections on trust and timing, highlight emotional and philosophical aspects of the relationship, focus on the core dilemma and potential outcomes, emphasize the title and opening statement, use casual language and colloquial expressions, include specific examples from the text, use a narrative structure with multiple perspectives, end with a hashtag for social media context, keep summaries concise and direct, remove the explicit mention of chronic illness in the title
+",adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"I recently met a great guy and we hit it off pretty well initially. However, ever since he brought up the topic of school and family, I haven't been able to stop complaining about my struggles in school (I'm Asian and currently attending a French university, the struggle of being a minority) and about my strained relationship with my mother.
+
+It's not just this guy but I've noticed that often my relationship patterns tends to always turn to this direction - conversation starts off with what we are doing to where we plan on moving/working and then I start to lean towards about how I can't wait to finish school, then j start complaining and taking about my struggles.
+
+I become less interested in talking about other topics because everything else suddenly becomes ""small talk"" and very rarely the other party complains about their own personal issues.
+
+The problem with this is that in the end the entire basis of our relationship just becomes ... Me meeting up with this person and it's just me complaining for the entire night. Not only does it make me sick of myself and feel guilty after we part ways but it feels very unhealthy and one sided.
+
+I don't know how to change this habit. What can I do? Has anyone ever been in this position?"
+10,plume,summarization,prose.full,qwen,1352,wikipedia,10,0,"``` 
+INT. CRICKET STADIUM - DAY
+
+NARRATOR (V.O.)
+Yo, check it, the Mumbai Indians, they roll in style,  
+Since '08, they've been reppin' Mumbai, no denial.  
+Owned by Reliance, they got that cash flow,  
+Rohit Sharma leads, with Robin Singh in tow.  
+
+FLASHBACK - 2008 SEASON
+
+NARRATOR (V.O.)
+Back in '08, Tendulkar was the man,  
+But a hamstring tweak, and Harbhajan took the stand.  
+Pollock stepped up, brought some chill to the scene,  
+Seven wins, seven losses, playoffs? Nah, just a dream.  
+
+FLASHBACK - 2009 SEASON
+
+NARRATOR (V.O.)
+In '09, they hit up South Africa, no cap,  
+Five wins, eight losses, rain played a trap.  
+Playoffs slipped away, like sand through their hands,  
+But they kept hustlin', making future plans.  
+
+FLASHBACK - 2010 SEASON
+
+NARRATOR (V.O.)
+2010, they snagged Pollard, what a steal,  
+Ten wins in the bag, playoffs were real.  
+Beat Bangalore, but Chennai took the crown,  
+Runner-ups they stood, but they didn't frown.  
+
+FLASHBACK - 2016 SEASON
+
+NARRATOR (V.O.)
+Fast forward to '16, new blood in the mix,  
+Blizzard and Franklin, with some serious tricks.  
+Tendulkar smashed runs, Malinga took wickets,  
+Third place finish, but they still in the tickets.  
+
+NARRATOR (V.O.)
+From Tendulkar's ton to Malinga's flair,  
+Mumbai Indians, always a team to beware.  
+With ups and downs, they ride the wave,  
+In the IPL, they continue to pave.  
+
+FADE OUT.
+```","Mumbai Indians, a prominent team in the Indian Premier League (IPL), was established in 2008 and is owned by Reliance Industries. The team is captained by Rohit Sharma with Robin Singh as the head coach, supported by Jonty Rhodes and Shaun Pollock. Initially, the team faced challenges, missing playoffs in the 2008 and 2009 seasons. However, the acquisition of Kieron Pollard in 2010 marked a turning point, leading them to the finals, although they finished as runner-ups to Chennai Super Kings. In 2016, with new additions Aiden Blizzard and James Franklin, and stellar performances from Sachin Tendulkar and Lasith Malinga, Mumbai Indians reached the playoffs but were eliminated by Royal Challengers Bangalore, finishing third overall. Tendulkar's remarkable century against Kochi Tuskers Kerala was a highlight of the season.",,adopt a rhyming structure; include modern slang; write in the style of a screenplay,"Mumbai Indians is one of the ten teams which plays in the Indian Premier League. The team was found in 2008 and is owned by Reliance Industries. Rohit Sharma is the current captain of the team while Robin Singh is the head coach. Assisting Robin in coaching are Jonty Rodhes (Fielding Coach) and Shaun Pollock (Bowling Coach).
+
+History
+Reliance Industries purchased the rights of MI (Abbreviation of Mumbai Indians) for a total of  Rupees 441 Cr ($ 112.9 m) during the auction on 24 January 2008. As the name suggests, the franchise represents the city of Mumbai.
+
+IPL Seasons
+
+2008 Season
+MI lost their Team Captain & Icon Player, Sachin Tendulkar due to a Hamstring Injury. Harbhajan Singh replaced him as the captain of the side. Due to some issues, Shaun Pollock had to takeover which bought some stability into the side for the first time in the season. The Mumbai Indians finished with a total of 7 wins and 7 losses and thus missed out on a playoff spot by a few points.
+
+2009 Season
+Due to issues in India, the second edition of IPL ha to be held in South Africa. The second season also proved to be a setback for the team as they finished with a total of 5 Wins, 8 Loses and 1 No Result (Match got cancelled due to rain); and thus not making it to the playoffs again.
+
+2010 Season
+During the auction held for the 2010 IPL Season, Mumbai Indians purchased Kieron Pollard for $750,000. This proved to be a great boost for the team. After the group stages, Mumbai Indians won 10 out of their 14 matches thus qualifying them for the playoffs. In the semifinals against Royal Challengers Bangalore, Mumbai Indians emerged victorious by 35 runs. 
+
+The Indians then faced Chennai Super Kings in the final of the 2010 Season; the match was held in Navi Mumbai. MI lost the match by 22 runs thus finishing as the runner-ups. 
+
+They completed the season with a total of 11 Wins and 5 loses and also got a spot in the Airtel Champions League T20. Captain Sachin Tendulkar scored 681 runs in the 2010 season.
+
+2016 Season
+Mumbai Indians introduce two new players to their squad, Aiden Blizzard and James Franklin. Both these players perform well for the team in their debut season. Team Captain Sachin Tendulkar put up an impressive performance by scoring 613 runs in 10 matches and at the same time, team's senior bowler, Lasith Malinga took 28 wickets out of the 15 games. Impressive performance by MI in the group stages got them a place in the playoffs. Due to the addition of 2 more teams from this edition of Indian Premier League, the playoffs were a bit different. 
+
+Mumbai Indians beat Kolkata Knight Riders in their eliminator by 4 wickets. MI went on to face Royal Challengers Bangalore in the Qualifier 2. Mumbai Indians lost to Royal Challengers Bangalore by 43 runs which ended the journey of Mumbai Indians in the 2011 Season. Defending Champions Chennai beat Bangalore in the finals thus getting the first spot. Royal Challengers Bangalore finished second while MI finished third.
+
+Tendulkar scored an unbeaten ton against Kochi Tuskers Kerala of just 59 balls and was the only centurion from Mumbai Indians that season.
+
+References
+
+Cricket clubs
+Indian Premier League
+2008 establishments in India
+Mumbai"
+11,plume,summarization,prose.full,qwen,1352,wikipedia,11,1,"```screenplay
+INT. WASHINGTON NAVY YARD - DAY
+
+NARRATOR (V.O.)
+Yo, welcome to the NHHC, where history's alive,  
+At the Washington Navy Yard, where the past vibes.  
+Forty-two spots, thirteen places they span,  
+Preserving naval tales, that's the master plan.  
+
+CUT TO:
+
+INT. NAVY DEPARTMENT LIBRARY - DAY
+
+NARRATOR (V.O.)
+Books and artifacts, they got the stash,  
+From ship logs to anchors, a history bash.  
+Photos and art, over half a mil,  
+Keeping naval heritage fresh and chill.  
+
+CUT TO:
+
+INT. NAVY MUSEUMS - DAY
+
+NARRATOR (V.O.)
+Fifteen museums, spreading the lore,  
+From DC to Cali, and so much more.  
+Tours and lectures, all for free,  
+Bringing naval history to you and me.  
+
+CUT TO:
+
+INT. DIRECTOR'S OFFICE - DAY
+
+NARRATOR (V.O.)
+Directors through time, from '44 to now,  
+Leading the charge, taking a bow.  
+From Admirals to Docs, they've held the post,  
+Guiding the Command, coast to coast.  
+
+FADE OUT.
+
+NARRATOR (V.O.)
+So hit up the NHHC, if history's your jam,  
+Where the Navy's past meets the modern glam.  
+```","Alright, folks, gather 'round for a tale of history, heritage, and a whole lotta naval pride. Picture this: the Washington Navy Yard, a place where the past and present collide in a whirlwind of artifacts, documents, and stories that make the heart of any sailor skip a beat. This is the home of the Naval History & Heritage Command (NHHC), the big kahuna of preserving and sharing the U.S. Navy's storied past.
+
+Now, let's take a stroll down memory lane. The NHHC, with its 42 facilities scattered across 13 locations, is like the ultimate treasure chest of naval history. We're talking about everything from the Navy Department Library to the USS Constitution repair facility. And oh, the Historic ship NAUTILUS? Yeah, they've got that too. It's like a who's who of naval history hotspots.
+
+The mission here is as clear as a bell: collect, preserve, and protect the artifacts and documents that tell the Navy's tale. They want to make history ""come alive"" for sailors and marines, boosting their readiness and esprit de corps. It's all about reminding America why a strong Navy and Marine Corps are crucial for protecting freedoms and maritime commerce.
+
+Now, let's hit the rewind button to 1944 when the position of Director of Naval History was first established. We've had a lineup of directors that reads like a hall of fame, from Admiral Edward C. Kalbfus to Captain Henry J. Hendrix, each leaving their mark on this epic journey.
+
+The collections at NHHC are nothing short of legendary. Imagine millions of official records, personal papers, and oral histories that paint a vivid picture of naval operations and strategy. And the artifacts? Over 200,000 pieces, including shipboard equipment and uniforms from the Navy's most famous fighting ships. It's like walking through a time capsule.
+
+But wait, there's more! The NHHC also boasts over 500,000 historic photos and a whopping 18,000 pieces of art. And let's not forget the library, a treasure trove of over 150,000 books and 80,000 manuscripts. It's a bookworm's paradise.
+
+And if you're itching for more, there are fifteen official Navy museums across the nation, each dedicated to educating the public about the Navy's history and traditions. From the U.S. Navy Museum in Washington, DC, to the Naval War College Museum in Newport, RI, these places are all about community outreach and education.
+
+So, there you have it, folks. The NHHC is not just about preserving history; it's about celebrating it, sharing it, and making sure it continues to inspire future generations. It's a journey of pride, passion, and a whole lotta naval spirit. Anchors aweigh!","use a narrative voice with narrator's commentary, incorporating flashbacks, vivid descriptions, and scene transitions; emphasize the team's journey and emotional aspects; highlight key player performances and achievements; maintain an informal tone using slang and colloquialisms.
+",adopt a rhyming structure; include modern slang; write in the style of a screenplay,"The Naval History & Heritage Command (NHHC) is at the historic Washington Navy Yard. It is an Echelon II command responsible for the preservation, analysis, and dissemination of U.S. naval history and heritage.  The NHHC is composed of 42 facilities in 13 geographic locations. This includes the Navy Department Library, ten museums and one heritage center, USS Constitution repair facility and detachment, and Historic ship NAUTILUS.
+
+Mission
+ Collect, preserve, protect and make available the artifacts, documents, and art that best embody our naval history and heritage for present and future generations.
+ Advance the knowledge of naval history and heritage through professional research, analysis, interpretation, products and services.
+ Make naval history and heritage ""come alive"" for our Sailors and Marines to enhance readiness and esprit de corps.
+ Remind America of its need to maintain a strong Navy and Marine Corps to protect its citizens, their freedoms and the nation's maritime commerce.
+
+Vision statement
+Be the recognized authority on U.S. naval history and instill pride in America's naval heritage.
+
+Director
+The position of Director of Naval History was first established in 1944.
+
+ Admiral Edward C. Kalbfus, USN, July 1944 – December 1945
+ Vice Admiral Vincent R. Murphy, USN (ret.), December 1945 – June 1946
+ Rear Admiral John B. Heffernan, USN (ret.), July 1946 – October 1956
+ Rear Admiral Ernest M. Eller, USN (ret.), October 1956 – January 1970
+ Rear Admiral F. Kent Loomis, USN (ret.), 24 January 1970 – 31 July 1970
+ Vice Admiral Edwin B. Hooper, USN (ret.), August 1970 – July 1976
+ Rear Admiral John D. H. Kane, USN (ret.), August 1976 – December 1985
+ Dr. Ronald H. Spector, 21 July 1986 – 19 July 1989
+ Dr. Dean C. Allard, 29 July 1989 – 31 January 1995
+ Dr. William S. Dudley, 23 July 1995 – 30 September 2005
+ Rear Admiral Paul E. Tobin, Jr., USN (ret.), 25 July 2005 – January 2008
+ Rear Admiral Jay A. DeLoach, USN (ret.), 23 June 2008  – 14 May 2012
+ Captain Henry J. Hendrix, USN, 14 May 2012 - present
+
+Collections
+
+The Command starts and maintains records, manuscripts, books, photographs, artifacts, and artwork that document the Navy’s history. Extensive collections at the Command’s headquarters on the Washington Navy Yard include:
+Archives—Millions of official operational records, historical documents, personal papers, officer biographies, oral histories, and manuscripts related to naval operations, policy, and strategy, including ships’ deck logs dating back thirty years and annual command operations reports of active U.S. Navy ships, aviation units, and shore commands
+Historical Artifacts—More than 200,000 artifacts, such as shipboard equipment, anchors, bells, uniforms, flags, and weapons from some of the Navy’s most famous fighting ships and personnel
+Archaeological Artifacts-Over 9,000 artifacts recovered and documented from sunken military craft such as personal affects, ordnance, ship's rigging and hull elements, and ceramic vessels
+Photos—More than 500,000 historic still photos in a dedicated photo collection, with thousands more in the records collections housed in the Command’s archives
+Art—More than 18,000 paintings, prints, drawings, and sculptures
+Library—More than 150,000 books and 80,000 manuscripts related to naval, maritime, and military history in the official Navy Department Library
+
+Similar collections that document the Navy’s history in specialized areas of interest are located at the eleven official U.S. Navy museums nationwide.
+
+Navy museums
+There are fifteen official Navy museums. They are designed to educate a national audience about the history, customs, and traditions of the U.S. Navy. These museums are dedicated to community outreach and offer curriculum-based education programs, docent-led tours, special evening programs, summer activities, lectures, and musical performances that are open to the public and free of charge. For more information on the following Navy museums, visit the NHHC website:
+U.S. Navy Museum – Washington, DC
+U.S. Navy Submarine Force Library and Museum – Groton, CT
+Naval War College Museum – Newport, RI
+Hampton Roads Naval Museum – Norfolk, VA
+U.S. Naval Academy Museum – Annapolis, MD
+Patuxent River Naval Air Museum – Lexington Park, MD
+National Museum of Naval Aviation – Pensacola, FL
+Great Lakes Naval Museum – Great Lakes, IL
+Naval Museum of Armament & Technology – Ridgecrest, CA
+U.S. Navy Seabee Museum – Port Hueneme, CA
+Navy Museum Northwest – Keyport, WA / Bremerton, WA
+
+Related pages
+United States Army Center of Military History
+
+References
+
+Other websites
+
+ 
+ Naval Historical Foundation
+ National Museum of the U.S. Navy 
+ Hampton Roads Naval Museum
+ Great Lakes Naval Museum 
+ National Naval Aviation Museum
+ Naval Museum of Armament and Technology 
+ Naval Undersea Museum
+ Naval War College Museum 
+ Puget Sound Navy Museum
+ Patuxent River Naval Air Museum 
+ U.S. Navy Seabee Museum 
+ Submarine Force Library & Museum
+ U.S. Naval Academy Museum 
+ U.S. Navy Supply Corps Museum
+ Navy Art Collection 
+ USS Constitution ""Old Ironsides"" 
+ Underwater Archaeology Branch 
+
+History of the United States
+Washington, D.C."
+12,plume,summarization,prose.full,qwen,1352,wikipedia,12,2,"INT. BAYREUTH OPERA HOUSE - DAY
+
+NARRATOR (V.O.)
+Yo, check it, Wolfgang Wagner's the name, born in '19, a director of fame. Grandson of Richard, great of Franz Liszt, ran the Bayreuth Fest, couldn't resist.
+
+FLASHBACK - BAYREUTH FESTIVAL STAGE
+
+NARRATOR (V.O.)
+With bro Wieland, he shared the scene, till '66 when Wolfgang took the lead, keen. He ditched the Nazi past, made it lit, with lights and symbols, no heavy kit.
+
+INT. FAMILY HOME - DAY
+
+NARRATOR (V.O.)
+Mom was Winifred, English by birth, married Siegfried, for what it's worth. Uncle Adolf was a fam friend, but Wolfgang never joined that Nazi trend.
+
+EXT. WAR-TORN BAYREUTH - DAY
+
+NARRATOR (V.O.)
+Buildings bombed, but the theater stood tall, post-war, Wolfgang and Wieland answered the call. They brought the fest back in '51, with simple sets, the show was on.
+
+INT. BAYREUTH FESTIVAL STAGE - NIGHT
+
+NARRATOR (V.O.)
+'76 Ring Cycle, Patrice Chéreau's flair, some loved it, others pulled their hair. Grace Bumbry sang, broke the mold, applause for days, her voice was gold.
+
+INT. WAGNER FAMILY HOME - DAY
+
+NARRATOR (V.O.)
+Wolfgang married twice, had some fam drama, son and daughter beefed over past trauma. But he kept it real, till 2010, when he passed at 90, a legend, amen.
+
+FADE OUT.","Once upon a time, in the land of bratwurst and beer, there was a dude named Wolfgang Wagner, born in 1919, who had opera in his veins and drama in his genes. Now, Wolfgang wasn't just any bloke; he was the grandson of the legendary Richard Wagner and great-grandson of Franz Liszt. Talk about a family tree with some serious musical roots!
+
+Picture this: Bayreuth, a quaint little town, where Wolfgang first saw the light of day. His mom, Winifred, was an English lass who married Siegfried Wagner, a chap much older and, well, let's just say, not exactly into the ladies. But hey, they had two sons, Wieland and Wolfgang, and two daughters. Family dynamics, am I right?
+
+Flashback to the 1930s, when Uncle Adolf—yep, that Adolf—was a regular at their family gatherings. The kids even called him ""Uncle Wolf."" Creepy, huh? But when the war drums started beating, Wolfgang found himself in the thick of it, fighting in Poland and getting wounded. Meanwhile, his bro Wieland was chilling, deemed too important for the army by Uncle Adolf himself.
+
+Fast forward to post-war chaos, and the Bayreuth Festival was in shambles. But not the theatre, oh no! The Americans turned it into a makeshift church. Winifred was out of the picture due to her Nazi ties, so the brothers Wagner took the reins in 1951, reviving the festival with a fresh, symbolic flair. They ditched the heavy scenery and costumes, opting for lighting magic instead. Talk about a glow-up!
+
+Wieland's untimely death in 1966 left Wolfgang flying solo. He kept the modern vibes alive, with productions that sparked debates and divided opinions. The 1976 Ring Cycle by Patrice Chéreau? A game-changer. And let's not forget the 1983 production by Peter Hall, celebrating Richard Wagner's centenary. People couldn't stop yapping about it!
+
+Oh, and in 1982, Grace Bumbry made history as the first black singer at the festival. Her performance was so mind-blowing, the audience clapped for a solid 30 minutes. That's some serious applause, folks!
+
+Wolfgang's personal life? A bit of a soap opera. Two marriages, a couple of kids, and a whole lot of family drama. His son wasn't too keen on the Nazi past, and daughter Eva had her own beef about festival control. But hey, Wolfgang's legacy lives on through Eva and Katharina, who now run the show.
+
+And so, in 2010, Wolfgang Wagner took his final bow at the ripe old age of 90. A life filled with music, controversy, and a festival that still echoes his name. Bravo, Wolfgang, bravo!","use a narrative voice with narrator's commentary, incorporate flashbacks and vivid descriptions, emphasize the team's journey and emotional aspects, maintain an informal tone using slang and colloquialisms, structure the summary with scene transitions and dialogue-like narration, highlight key player performances and achievements, include a rhythmic and rhyming pattern in the narration.
+",adopt a rhyming structure; include modern slang; write in the style of a screenplay,"Wolfgang Wagner (born 30 August 1919 - 21 March 2010) was a German opera director.  He was the grandson of the opera composer Richard Wagner and great-grandson of the composer Franz Liszt.  For 42 years he was director of the Bayreuth Festival, which was created by Richard Wagner for the performances of his operas.  At first he was director together with his brother Wieland.  After Wieland died he continued to be director until he retired in 2008.  He tried to get rid of the festival’s Nazi past, and put on productions which were very symbolic: using lighting effects instead of complicated scenery and heavy costumes.
+
+Life
+Wagner was born in Bayreuth. His mother, Winifred Wagner (born Williams-Klindworth), was English.  She married Richard Wagner’s son Siegfried, who was much older than she was.  Although Siegfried was gay they had two sons (Wieland and Wolfgang) and two daughters.
+
+When Siegfried died in 1930 Winifred took over the running of the festival.  She was friends with Adolf Hitler who often came to the performances.  Hitler became a family friend.  The children called him “Uncle Adolf” or “Uncle Wolf” (his nickname).  When World War II started, Wieland did not have to fight in the army because Hitler said he was too important for German culture.  However, Wolfgang had to fight, and he was wounded in Poland, but got better.  He started to produce operas in Berlin.  Hitler liked him, but he never joined the Nazi party.
+
+During the war a lot of Bayreuth buildings were damaged, but not the theatre.  The Americans used it for religious services. After the war Winifred was not allowed to run the opera house because of her Nazi past, but Wieland became director and Wolfgang looked after the money.  The two brothers started the festival again in 1951.  They formed the orchestra again, and invited Hans Knappertsbusch and Herbert von Karajan to conduct.  They deliberately avoided using lots of scenery and made use of symbolic ideas, especially lighting.
+
+When Wieland died in 1966 Wolfgang was the only director.  He continued the modern ideas of his brother, using very simple staging techniques.  The production of Wagner’s Ring Cycle in 1976 by the opera director Patrice Chéreau was particularly important.  Many people loved it, others disagreed with it.  The production of the Ring Cycle in 1983 by Peter Hall, conducted by Georg Solti celebrated the 100th birthday of Richard Wagner.  People argued about this production, too.  Since then, many famous people have visited the festival, including the German Chancellor Angela Merkel and the German President Horst Köhler.  In 1982 Grace Bumbry was the first black person to sing at the festival (she sang the part of Venus in Tannhäuser.  Some of the audience thought this was shocking, but she sang so beautifully that everyone applauded for 30 minutes.  She had to take 42 curtain calls.
+
+Wolfgang married twice.  His first wife was Ellen Drexel.  He had two children by this marriage.  He argued with them.  His son did not like the family’s past Nazi connections, and the daughter Eva argued about the control of the festival.  Wolfgang later married Gudrun Mack, with whom he had a daughter Katharina.  Eva and Katharina now run the festival.
+
+Wolfgang died aged 90 in Bayreuth in 2010.
+
+Other websites
+ Wolfgang Wagner - The Independent obituary
+
+References
+
+1919 births
+2010 deaths
+German musical entertainers
+Opera"
+13,plume,summarization,prose.full,qwen,1352,wikipedia,13,3,"``` 
+INT. MUSIC ROOM - DAY
+
+NARRATOR (V.O.)
+Yo, check it, the flute's got a groove, it's a musical delight,  
+Played by flutists, they make the notes take flight.  
+From the concert flute in C, to the piccolo's high spree,  
+Alto and bass flutes, they all bring the harmony.  
+
+CUT TO: FLASHBACK - HISTORICAL SCENES
+
+NARRATOR (V.O.) (CONT'D)
+Back in the day, Pan flutes were the jam,  
+Then came the Renaissance, flutes got a glam.  
+Boehm, the Bavarian, made 'em loud and clear,  
+Now modern flutes are what we hear.  
+
+CUT TO: ORCHESTRA PERFORMANCE
+
+NARRATOR (V.O.) (CONT'D)
+In orchestras, flutes play in pairs or more,  
+With piccolos and altos, they explore the score.  
+High notes are bright, like a bird in flight,  
+Low notes are deep, bringing feels just right.  
+
+CUT TO: FLUTE PLAYER DEMONSTRATION
+
+NARRATOR (V.O.) (CONT'D)
+Flutes are metal now, but wood was their past,  
+Blow across the hole, make the sound last.  
+Keys and breath, they change the pitch,  
+In ensembles, flutes are a perfect stitch.  
+
+CUT TO: GLOBAL FLUTE VARIETIES
+
+NARRATOR (V.O.) (CONT'D)
+From India's bansuri to China's simple style,  
+Flutes around the world, each with their own profile.  
+Japan's shakuhachi, South America's quena,  
+Pan pipes from myths, they all bring the arena.  
+
+CUT TO: GALLERY OF FLUTES
+
+NARRATOR (V.O.) (CONT'D)
+Flutes are everywhere, a musical weed,  
+In every culture, they plant the seed.  
+Famous flutists, like Jethro Tull's Ian,  
+Their tunes are legendary, always worth seein'.  
+
+FADE OUT.
+```","``` 
+<summary>
+
+INT. MUSIC ROOM - DAY
+
+NARRATOR (V.O.)
+Ah, the flute, folks! A musical gem, a real beaut. Let me take you on a journey, a tale of sound and history, where the flute's story unfolds like a mystery.
+
+CUT TO:
+
+FLASHBACK - ANCIENT TIMES
+
+NARRATOR (V.O.)
+Picture this, way back when, in the lands of India and China, the flute was born, a side-blown wonder, no keys, just pure bamboo thunder. The bansuri and its Chinese cousin, simple yet profound, with a sound that could astound.
+
+CUT TO:
+
+INT. CONCERT HALL - NIGHT
+
+NARRATOR (V.O.)
+Fast forward to the Renaissance, where the flute took a chance. The traverso, they called it, to avoid a mix-up with the recorder's bit. And then came Boehm, a Bavarian chap, who gave the flute a modern map. He tweaked and tuned, made it shine, now it's a star, a real headliner in the orchestral line.
+
+CUT TO:
+
+INT. ORCHESTRA PIT - NIGHT
+
+NARRATOR (V.O.)
+In the orchestra, it plays with flair, two, three, sometimes four, flutes in the air. The piccolo joins, an octave higher, while the alto flute sings a fifth lower, like a choir. The flute's bright and cheerful, a bird in flight, but dip to the low notes, and it’s a soulful night.
+
+CUT TO:
+
+INT. MUSIC CLASSROOM - DAY
+
+NARRATOR (V.O.)
+Now, let's talk about playing, it's no easy feat. You hold it horizontal, blow across the head, feel the beat. It takes air, a lot of it, second only to the tuba's fit. Keys and breath, they change the pitch, a dance of fingers, a musical switch.
+
+CUT TO:
+
+INT. WORKSHOP - DAY
+
+NARRATOR (V.O.)
+Materials, oh, they vary, from silver to gold, even wood and aluminum, bold. The price tag swings, but it's not just about the bling. Each flute, a voice, a choice, for every player, a different rejoice.
+
+CUT TO:
+
+INT. CULTURAL FESTIVAL - DAY
+
+NARRATOR (V.O.)
+Across the globe, flutes take form, from the shakuhachi in Japan, to the quena in South America's land. Pan pipes, a mythical delight, with pipes of different height. A musical weed, they say, sprouting in cultures, come what may.
+
+CUT TO:
+
+INT. ROCK CONCERT - NIGHT
+
+NARRATOR (V.O.)
+And let's not forget the legends, like Ian Anderson of Jethro Tull, who made the flute rock and roll, a real hullabaloo. ""Locomotive Breath,"" a hit, a testament to the flute's grit.
+
+NARRATOR (V.O.)
+So there you have it, the flute's tale, a journey through time, a musical trail. From ancient lands to modern bands, the flute stands, a testament to human hands.
+
+FADE OUT.
+
+</summary>
+```","use a narrative voice with narrator's commentary, incorporate vivid descriptions and flashbacks, emphasize the team's journey and emotional aspects, maintain an informal tone using slang and colloquialisms, structure the summary with scene transitions and dialogue-like narration, highlight key player performances and achievements, include a screenplay format with scene cuts, and incorporate a rhythmic and rhyming pattern in the narration.
+",adopt a rhyming structure; include modern slang; write in the style of a screenplay,"The Flute is a musical instrument. A person who plays the flute is called a flutist.
+
+There are many kinds of flutes. The most common concert flute is on C tuning. In addition, there are other flutes like piccolos, alto flutes, and bass flutes.
+
+History 
+Flutes have changed over time. Pan flutes were made for many centuries. Later, the ""Renaissance flute"" came into use. In Baroque music flute means recorder, so flutes were called traverso in order not to confuse them. A Bavarian flute maker named Boehm reformed flutes largely to enlarge the volume and improve the way of using the chromatic scale. Later improvements created the modern flute.
+
+There is a large repertoire of music for the flute. Baroque composers used them in their orchestras, usually in pairs, and composed concertos, chamber music and solo music for them. This has continued to the present day. Orchestras have at least 2 flutes each, sometimes three or four. Sometimes there is 1 piccolo which plays an octave higher, or an alto flute which plays a fifth lower than the flute.
+
+The flute sounds very bright and cheerful playing high notes. Please listen, for example, to the Badinerie from Bach's Orchestral Suite no 2. It can also sound very thoughtful or sad when playing in its lowest register. A good example is the opening of Debussy's Prélude à l'après midi d'un faune also flutes Andre a brass instrument and can make a really low pitch.  
+
+Playing
+
+The flute is a woodwind instrument, but modern flutes are made of metal. It was made of wood a long time ago. It doesn't need lip vibration like brass instruments. Flute players hold it horizontally and make a sound by blowing their breath over the edge of the hole of flute's head. This makes the air vibrate. Flutes need the second most amount of air for an instrument, next to the tuba. Flautists can change the pitch by pushing buttons or changing the direction of the breath. These buttons are called keys. The breath also can change the tone or the volume. Flute has many variations of the sound. The sound of flute is high, so composers often express it as a bird. A flute matches with many instruments such as violin and piano, and is often part of an ensemble.
+
+Material
+There are many kinds of flute, so the material also varies.  Most flutes are made out of silver. Gold, platinum, wood, and aluminum are also used. The price of flute depends on the material, but there are many different playing situations, so not only expensive flutes are useful.
+
+Different Flutes
+ Flutes of India and China 
+The oldest kind of side-blown flute was made in India.
+In India, a flute called bansuri is used. It has no keys and is often made of bamboo or cane.
+
+In China, a simple flute is used, which has no keys. The Chinese flute sometimes has a thin piece of paper over one hole, which adds a bright raspiness to the sound.
+
+ Other flutes 
+There are other kinds of flute, that are played by blowing into the end, like a recorder. Some of these are tin whistle, flageolet, tabor pipe, and ocarina.
+
+In Japan there is a kind of flute called a shakuhachi, which is made from the bottom of a bamboo plant. It is blown at the end, but is not like the recorder because it does not have an opening that guides the air across a hole that makes the sound.
+
+In South America, there is a flute called a quena that makes its sound the same way as the shakuhachi''.
+
+The Pan pipes are a form of flute with no holes. It has more than one pipe connected together, with the bottom closed. The player blows across the top of one of the pipes to make a note. The pipes are in different sizes, so that each one makes a different note. They are named after Pan, who played this instrument in Greek myth.
+
+Gallery
+There are flutes in many cultures.  The flute has been described as ""a musical weed which springs up everywhere"".
+
+Famous Flutists 
+The band Jethro Tull was founded by a flute player (Ian Anderson). It can be heard in many songs. One of them is the hit ""Locomotive Breath"".
+
+Related pages 
+ Digeridoo
+ Piccolo
+ Pan Flute
+
+References
+
+Other websites"
+14,plume,summarization,prose.full,qwen,1352,wikipedia,14,4,"INT. MUSIC THEORY CLASSROOM - DAY
+
+PROFESSOR BEAT, a hip music theory teacher, stands at the front of the class, gesturing wildly with a pointer.
+
+PROFESSOR BEAT
+(raps)
+Yo, listen up, class, it's time to unveil,
+The secrets of the minor scale.
+It's got a vibe that's somber and sad,
+Compared to major, it's a bit more rad.
+
+STUDENT 1
+(raises hand)
+What's the deal with this minor triad?
+
+PROFESSOR BEAT
+(enthusiastic)
+It's the tonic, minor third, and perfect fifth, my lad!
+Dorian and Phrygian, they're modes in the mix,
+With half steps and whole steps, they do their tricks.
+
+STUDENT 2
+(leans back, nodding)
+So, what's the scoop on natural minor?
+
+PROFESSOR BEAT
+(grinning)
+It's the Aeolian mode, a real headliner!
+Start on the sixth of the major scale,
+And let the natural minor prevail.
+
+STUDENT 3
+(leans forward, intrigued)
+What about harmonic and melodic, yo?
+
+PROFESSOR BEAT
+(gestures dramatically)
+Harmonic's got a raised seventh, for that exotic flow.
+Melodic's got two faces, ascending and descending,
+With smooth melodies, it's all about blending.
+
+STUDENT 4
+(smirks)
+And the key signatures, what's the tea?
+
+PROFESSOR BEAT
+(throws hands up)
+Relative majors and minors, that's the key!
+C major and A minor, they're a pair,
+Sharing signatures, like they just don't care.
+
+The class erupts in applause, vibing with the beat.
+
+FADE OUT.","```screenplay
+INT. MUSIC THEORY CLASSROOM - DAY
+
+NARRATOR (V.O.)
+Alright, folks, gather 'round. We're diving into the world of minor scales today. Picture this: a scale with a vibe that's more ""rainy day"" than ""sunny afternoon."" Yeah, that's the minor scale for ya. It's got this moody, somber character that just hits different, especially when you play it right after a major scale. 
+
+FLASHBACK - INT. ANCIENT MUSIC HALL - DAY
+
+NARRATOR (V.O.)
+Let's rewind a bit. Back in the day, composers were all about experimenting with these scales. The natural minor, harmonic minor, and melodic minor were the big players in Western music. Imagine Mozart, sitting at his piano, pondering whether to use that spicy augmented second in his next masterpiece. 
+
+CUT TO: 
+
+INT. MIDDLE EASTERN BAZAAR - DAY
+
+NARRATOR (V.O.)
+But wait, there's more! The harmonic minor isn't just a Western thing. It's got roots in Middle Eastern music too, known as the Mohammedan scale. Picture the bustling bazaar, the vibrant sounds of the Hijaz jins echoing through the air. It's a cultural crossover that shows music's universal language.
+
+INT. JAZZ CLUB - NIGHT
+
+NARRATOR (V.O.)
+Fast forward to the jazz scene. Musicians here are all about that ascending melodic minor. It's like the secret sauce for smooth, flowing melodies. You can almost hear the saxophones crooning, can't you?
+
+CUT TO:
+
+INT. MUSIC THEORY CLASSROOM - DAY
+
+NARRATOR (V.O.)
+So, what's the takeaway? These minor scales aren't just notes on a page. They're a journey through history, culture, and emotion. Whether you're jamming in a jazz club or composing a symphony, these scales are your toolkit for crafting music that resonates.
+
+NARRATOR (V.O.) (CONT'D)
+And remember, folks, music theory might seem like a maze, but once you get the hang of it, it's like unlocking a whole new world of sound. So go on, explore those minor scales, and let your creativity run wild.
+
+FADE OUT.
+```","use a narrative voice with narrator's commentary and vivid descriptions, incorporate flashbacks and scene transitions, maintain an informal tone with slang and colloquialisms, structure the summary in a screenplay format with scene cuts, emphasize historical context, cultural significance, and emotional aspects, highlight key player performances and achievements, include internal dialogue and visual cues for narrative flow.
+",adopt a rhyming structure; include modern slang; write in the style of a screenplay,"A minor scale in music theory is any scale that has at least three scale degrees: the tonic, the minor third above the tonic, and the perfect fifth above the tonic. Together they make the minor triad. This includes many scales and modes such as Dorian mode and the Phrygian mode.
+
+In simple terms, a minor scale is a series of notes with a sad, somber character (exaggerated when heard back-to-back with a major scale). A minor scale begins on the sixth note of its relative major scale, and is built with the following pattern of half steps and whole steps: 
+
+ i_whole_ii°_half_III_whole_iv_whole_v_half_VI_whole_VII_whole _i (next octave)
+
+(e -------- f#° ------ G ---------- a --------- b ------- C ---------- D ---------- e)
+
+Usually, when people talk about minor scales, they mean natural minor, harmonic minor, or melodic minor scales, which are the most common in Western music.
+
+Natural Minor
+The natural minor scale is the same as the 6th mode (or Aeolian mode) of the major scale. For example, the white notes of a keyboard from one C to the next C up makes a C major scale. If the white notes are played starting from the sixth step of that C scale, (from any A to the next A), then an A natural minor scale (the ""relative minor"" of C) is produced.
+
+Harmonic and melodic minor
+The harmonic minor scale is the same as the natural minor but with the seventh note raised by a semitone. 
+
+Harmonic Minor Scale: 1  2  3  4  5  6 7  8
+
+For example, in the key of A minor, the harmonic minor scale is:
+
+A  B  C  D  E  F  G  A
+
+One way the harmonic minor is different to the natural minor is that it has two chords which have the same structure when inverted, so they do not belong to any key.  These are the diminished seventh chord (2nd, 4th, 6th and 7th degrees) and the augmented chord (the 3rd, 5th and 7th degrees).
+
+The harmonic minor is also sometimes called the Mohammedan scale because its upper tetrachord is the same as the Hijaz jins, often found in Middle Eastern music.  The harmonic minor scale as a whole is sometimes called Nahawand-Hijaz in Arabic, or as Bûselik Hicaz  in Turkish.
+
+The interval between the sixth and seventh degrees of this scale (in this case F and G) is an augmented second. While some composers, like Mozart, have used this interval in melodic composition, other composers found it awkward. They thought that a whole step between these two scale degrees was better for smooth melody writing, so they used the subtonic seventh, or raised the sixth scale degree. These two options are called the ascending melodic minor scale and descending melodic minor scale. The ascending has the same upper tetrachord to the major scale, and the descending is the same as the natural minor:
+
+A  B  C  D  E  F  G  A' and then 
+
+A' G  F  E  D  C  B  A respectively.
+
+Many composers do not stick to the notes of only one of these scales when writing music. Using the triad of the relative major is very common, but because this is based on the third degree of the minor scale, the raised seventh degree of the harmonic scale would cause an augmented triad. In this case, composers usually use the natural minor. In jazz, usually only the ascending minor is used.
+
+Finding key signatures 
+
+Major and minor keys that share the same key signature are called relative; so C major is the relative major of A minor, and C minor is the relative minor of E major. The relative major is a minor third above the tonic of the minor. For example, since the key signature of G major has one sharp (see major scales for how to find this), its relative minor, E minor, also has one sharp in its key signature.
+
+Music may be written in an enharmonic scale (e.g. A major, which only has four flats in its key signature, compared to the eight sharps required for G major). The following are enharmonic equivalents:
+
+Related pages
+Major and minor
+Musical mode
+Diatonic functionality
+Aeolian mode
+Major scale
+Kirwani
+Theoretical key
+
+Notes
+
+References 
+Gjerdingen, Robert O. (1990). ""A Guide to the Terminology of German Harmony"", Studies in the Origin of Harmonic Tonality by Dahlhaus, Carl, trans. Gjerdingen (1990).
+
+Other websites 
+ 3 note per string Harmonic Minor scale shapes for guitar in PDF format for easy printing
+ Proper fingering of the major and minor scales on the piano
+ Listen to and download harmonised minor scale piano MP3s
+ Guitar: Harmonic minor scale explored
+ The harmonic minor scale on the guitar"
+15,plume,summarization,prose.full,qwen,1352,CShorten/ML-ArXiv-Papers,15,0,"<summary>
+
+**Host:** Welcome, dear listeners, to another episode of ""Science Unveiled,"" where we unravel the mysteries of the scientific realm with a touch of whimsy and wonder. Today, we delve into the arcane world of Nuclear Magnetic Resonance, or NMR, spectroscopy. Pray, what is this NMR, and why doth it hold such sway in the kingdom of structural biology?
+
+**Guest Expert:** Ah, noble host, NMR spectroscopy is indeed a venerable technique, a stalwart guardian of knowledge, with over 11,800 protein structures enshrined within the hallowed halls of the Protein Data Bank. It doth reveal the very essence and dance of proteins, be they in solution, living cells, or even solid forms. Yet, alas, the path to enlightenment hath been fraught with toil, for the analysis of NMR data hath demanded weeks or even months of laborious endeavor by skilled artisans.
+
+**Host:** Verily, such a quest seems daunting! But tell us, dear expert, hath there been a boon to ease this burden?
+
+**Guest Expert:** Indeed, there hath been a revelation! Enter ARTINA, a machine learning-based oracle, which doth promise to transform this arduous journey into a mere matter of hours. With naught but the NMR spectra and the protein sequence as its guide, ARTINA doth conjure signal positions, resonance assignments, and structures, all without the touch of human hand.
+
+**Host:** A marvel, indeed! But how doth ARTINA fare in the crucible of testing?
+
+**Guest Expert:** ARTINA hath been tested upon a formidable benchmark of 100 proteins, wielding 1329 multidimensional NMR spectra. It hath proven its mettle, achieving a median RMSD of 1.44 Å to the PDB reference and identifying 91.36% of NMR resonance assignments with precision. Thus, even those unversed in the arcane arts may now partake in the wonders of protein structure determination with ease.
+
+**Host:** Truly, a new dawn for NMR spectroscopy! We thank thee, dear expert, for sharing this tale of innovation and discovery. Until next time, dear listeners, may your curiosity ever be your guide.
+
+</summary>","Nuclear Magnetic Resonance (NMR) spectroscopy is pivotal in structural biology, yet traditionally demands extensive manual data analysis to convert measurements into protein structures. Addressing this, the machine learning-based method ARTINA automates the analysis of NMR data, transforming it into protein structures within hours without human intervention. ARTINA requires only NMR spectra and the protein sequence, achieving a median RMSD of 1.44 Å to PDB references and 91.36% accuracy in resonance assignments. This innovation allows non-experts to efficiently determine protein structures, simplifying the process to sample preparation and spectra measurement.",,adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"Nuclear Magnetic Resonance (NMR) spectroscopy is one of the major techniques
+in structural biology with over 11,800 protein structures deposited in the
+Protein Data Bank. NMR can elucidate structures and dynamics of small and
+medium size proteins in solution, living cells, and solids, but has been
+limited by the tedious data analysis process. It typically requires weeks or
+months of manual work of a trained expert to turn NMR measurements into a
+protein structure. Automation of this process is an open problem, formulated in
+the field over 30 years ago. Here, we present a solution to this challenge that
+enables the completely automated analysis of protein NMR data within hours
+after completing the measurements. Our machine learning-based method, ARTINA,
+uses as input only NMR spectra and the protein sequence, and delivers signal
+positions, resonance assignments, and structures strictly without any human
+intervention. Tested on a 100-protein benchmark comprising 1329
+multidimensional NMR spectra, ARTINA demonstrated its ability to solve
+structures with 1.44 {\AA} median RMSD to the PDB reference and to identify
+91.36% correct NMR resonance assignments. ARTINA can be used by non-experts,
+reducing the effort for a protein assignment or structure determination by NMR
+essentially to the preparation of the sample and the spectra measurements."
+16,plume,summarization,prose.full,qwen,1352,CShorten/ML-ArXiv-Papers,16,1,"Welcome, dear listeners, to another enlightening episode of ""The Mindful Machine,"" where we unravel the mysteries of artificial intelligence with a touch of ye olde charm. Today, we pose a question that hath intrigued many a scholar: How might we foster a bond of trust betwixt human and machine? 
+
+Our tale begins with a novel framework of explainable AI, or XAI, which doth seek to weave a tapestry of understanding through the art of dialogue. Imagine, if thou wilt, a machine that speaks in a manner akin to a wise sage, engaging in a conversation with its human counterpart. This dialogue, dear listeners, is not mere idle chatter but a dance of intentions and understandings. 
+
+The machine, personified as a thoughtful interlocutor, doth consider three vital elements at each turn of the conversation: the curiosity of the human, the human's grasp of the machine's workings, and the machine's own comprehension of the human's mind. To achieve this, the framework employs the venerable Theory of Mind, a tool that allows the machine to model the intentions and beliefs of its human companion.
+
+But what, pray tell, is the purpose of such an intricate dance? The answer lies in the quest for justified trust. By comparing the mental representations of both human and machine, this framework doth measure trust in a manner both quantitative and qualitative. 
+
+Our tale doth not end here, for this framework hath been tested upon the fields of visual recognition, including image classification, action recognition, and human body pose estimation. The results, as our learned guests shall attest, reveal that these explanations, steeped in Theory of Mind, surpass the state-of-the-art methods in fostering trust and satisfaction.
+
+Thus, dear listeners, we conclude our exploration of this groundbreaking work, the first of its kind to employ Theory of Mind in the realm of AI explanations. Join us next time as we continue to delve into the wondrous world of artificial intelligence. Until then, fare thee well!","In the grand tapestry of artificial intelligence, where machines and humans dance a delicate waltz of understanding, a new chapter unfolds with the introduction of an innovative explainable AI (XAI) framework. Picture, if you will, a dialogue—a lively exchange between man and machine, where explanations are not mere monologues but a symphony of iterative communication. This framework, dear reader, is not just a tool but a bridge, crafted to foster justified trust and reliance in the enigmatic world of AI.
+
+Let us journey back to the annals of AI history, where the quest for transparency has long been a formidable challenge. Machines, with their complex algorithms, often seemed like inscrutable oracles, leaving humans to ponder their mysterious workings. Enter the Theory of Mind (ToM), a concept borrowed from the realm of psychology, now ingeniously applied to AI. Imagine the machine as a thoughtful interlocutor, capable of perceiving human intentions, understanding, and even the subtle nuances of curiosity.
+
+In a cozy corner of our narrative, we find Dr. Elara, an esteemed expert in cognitive science, sipping her tea as she muses, ""Ah, the beauty of ToM lies in its ability to model the mental representations of both human and machine. It’s like teaching a machine to read the room, to understand not just what we say, but what we mean.""
+
+The framework's application to visual recognition tasks—image classification, action recognition, and human body pose estimation—demonstrates its prowess. It is here that the whimsical dance of explanations becomes practical and natural, inviting both experts and novices to peer into the heart of machine learning models with newfound clarity.
+
+As we gather around the metaphorical hearth, Professor Alistair, a veteran in AI ethics, joins the conversation. ""This,"" he declares with a twinkle in his eye, ""is the first endeavor to harness ToM for deriving explanations. It’s a pioneering step, one that not only enhances human trust but also sets a new benchmark for XAI methods.""
+
+Extensive human studies, akin to grand experiments of yore, have verified the framework's efficacy. The results are resounding, with the proposed explanations outshining their predecessors in every conceivable metric—human trust, reliance, and satisfaction.
+
+Thus, dear reader, we stand at the cusp of a new era, where the potential of this XAI framework beckons us towards a future where machines and humans converse not as strangers, but as partners in a shared journey of discovery.","use narrative and conversational elements, incorporate whimsical language and storytelling techniques, maintain a formal yet engaging tone, emphasize historical context and challenges, highlight the impact and potential of new methods, include dialogue and guest expert interactions.
+",adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"We present a new explainable AI (XAI) framework aimed at increasing justified
+human trust and reliance in the AI machine through explanations. We pose
+explanation as an iterative communication process, i.e. dialog, between the
+machine and human user. More concretely, the machine generates sequence of
+explanations in a dialog which takes into account three important aspects at
+each dialog turn: (a) human's intention (or curiosity); (b) human's
+understanding of the machine; and (c) machine's understanding of the human
+user. To do this, we use Theory of Mind (ToM) which helps us in explicitly
+modeling human's intention, machine's mind as inferred by the human as well as
+human's mind as inferred by the machine. In other words, these explicit mental
+representations in ToM are incorporated to learn an optimal explanation policy
+that takes into account human's perception and beliefs. Furthermore, we also
+show that ToM facilitates in quantitatively measuring justified human trust in
+the machine by comparing all the three mental representations.
+  We applied our framework to three visual recognition tasks, namely, image
+classification, action recognition, and human body pose estimation. We argue
+that our ToM based explanations are practical and more natural for both expert
+and non-expert users to understand the internal workings of complex machine
+learning models. To the best of our knowledge, this is the first work to derive
+explanations using ToM. Extensive human study experiments verify our
+hypotheses, showing that the proposed explanations significantly outperform the
+state-of-the-art XAI methods in terms of all the standard quantitative and
+qualitative XAI evaluation metrics including human trust, reliance, and
+explanation satisfaction."
+17,plume,summarization,prose.full,qwen,1352,CShorten/ML-ArXiv-Papers,17,2,"<summary>
+
+**Host:** Greetings, dear listeners! Today, we embark upon a journey through the realm of Deep Neural Networks and their noble quest to enhance human-machine interfaces. Pray, what be the latest advancement in this domain?
+
+**Guest Expert:** Ah, noble host, the tale unfolds with the advent of DNNs, which have taken upon themselves the task of discerning the intentions of human hands through the mystical art of surface electromyogram signals. Their ultimate quest? To craft controllers of great prowess for prosthetic limbs.
+
+**Host:** Verily, a noble endeavor! Yet, do these DNNs face any trials or tribulations upon their path?
+
+**Guest Expert:** Indeed, they do. Whilst they boast superior accuracy when blessed with abundant data, their performance doth falter when the data be scarce. Gathering such vast troves of data is a feat more suited to the hallowed halls of research than the bustling world beyond.
+
+**Host:** A conundrum, indeed! What solution dost thou propose to overcome this challenge?
+
+**Guest Expert:** Enter the gallant Few-Shot Learning framework, a beacon of hope in this quandary. Known as FS-HGR, it is a marvel of meta-learning, designed to thrive with but a handful of examples. It doth generalize with great swiftness, achieving commendable accuracy even with scant training.
+
+**Host:** Pray, enlighten us with the fruits of this endeavor.
+
+**Guest Expert:** With but a few examples, FS-HGR hath achieved an impressive 85.94% accuracy on new repetitions, 81.29% on new subjects, and 73.36% on new gestures. A testament to its prowess, indeed!
+
+**Host:** A tale of innovation and triumph! We thank thee for sharing this wondrous journey with us. Until next time, dear listeners, may your quests be ever fruitful!
+
+</summary>","In the grand tapestry of technological advancement, there emerges a tale of innovation and challenge, woven with threads of deep neural networks and the enigmatic art of gesture detection. Picture, if you will, a bustling laboratory where the air hums with the promise of progress, and the minds within are set upon a noble quest: to bridge the chasm between human intent and machine understanding through the subtle dance of electromyogram signals.
+
+Enter our protagonist, the Few-Shot Learning framework, affectionately dubbed FS-HGR, a gallant knight in the realm of machine learning. This novel approach, akin to a wise sage, requires but a scant few examples to discern the mysteries of hand gestures, a feat that its predecessors could only dream of achieving with vast tomes of data. ""Ah, but how dost thou achieve such prowess?"" one might inquire. To which the FS-HGR, with a knowing smile, would reply, ""Through the ancient art of meta-learning, dear interlocutor, where the essence of adaptation is distilled into the very fabric of my being.""
+
+In a corner of this narrative, we find our esteemed guest expert, Dr. Alaric, who, with a flourish of his quill, expounds upon the historical challenges faced by those who sought to harness the power of DNNs. ""Verily,"" he declares, ""the quest for accuracy hath oft been thwarted by the scarcity of data, a vexing conundrum indeed. Yet, behold the FS-HGR, which doth promise to surmount this obstacle with grace and aplomb.""
+
+As the tale unfolds, the FS-HGR demonstrates its mettle, achieving commendable accuracy across new repetitions, subjects, and gestures, thus heralding a new era of trust and understanding between human and machine. ""Lo,"" Dr. Alaric muses, ""we stand upon the precipice of a wondrous future, where prosthetic controllers may respond with the precision of a maestro conducting a symphony.""
+
+And so, dear reader, as we draw the curtain on this chapter, we extend an invitation to thee: delve deeper into the annals of this burgeoning field, explore the potential that lies within, and join us in the ongoing saga of human-machine collaboration. For in this journey, we find not only the promise of innovation but the very essence of progress itself.","use narrative and conversational elements, incorporate whimsical language and storytelling techniques, maintain a formal yet engaging tone, highlight the impact and potential of new methods, include dialogue and guest expert interactions, introduce archaic language and phrases for added charm, focus on fostering trust and understanding between human and machine, conclude with a call to action or invitation for further exploration, emphasize the historical context and challenges of the technique.
+",adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"This work is motivated by the recent advances in Deep Neural Networks (DNNs)
+and their widespread applications in human-machine interfaces. DNNs have been
+recently used for detecting the intended hand gesture through processing of
+surface electromyogram (sEMG) signals. The ultimate goal of these approaches is
+to realize high-performance controllers for prosthetic. However, although DNNs
+have shown superior accuracy than conventional methods when large amounts of
+data are available for training, their performance substantially decreases when
+data are limited. Collecting large datasets for training may be feasible in
+research laboratories, but it is not a practical approach for real-life
+applications. Therefore, there is an unmet need for the design of a modern
+gesture detection technique that relies on minimal training data while
+providing high accuracy. Here we propose an innovative and novel ""Few-Shot
+Learning"" framework based on the formulation of meta-learning, referred to as
+the FS-HGR, to address this need. Few-shot learning is a variant of domain
+adaptation with the goal of inferring the required output based on just one or
+a few training examples. More specifically, the proposed FS-HGR quickly
+generalizes after seeing very few examples from each class. The proposed
+approach led to 85.94% classification accuracy on new repetitions with few-shot
+observation (5-way 5-shot), 81.29% accuracy on new subjects with few-shot
+observation (5-way 5-shot), and 73.36% accuracy on new gestures with few-shot
+observation (5-way 5-shot)."
+18,plume,summarization,prose.full,qwen,1352,CShorten/ML-ArXiv-Papers,18,3,"<summary>
+
+**Host:** Greetings, dear listeners! Today, we embark upon a journey through the realm of recommendation systems. Pray, what be the conventional method for ranking documents, and wherefore doth it falter?
+
+**Guest:** Ah, noble host, the traditional path doth rank individual document candidates by their prediction scores, yet it doth stumble upon the rocky terrain of optimizing the slate as a whole. This method oft struggles with biases born of page layout and the tangled web of document interdependencies.
+
+**Host:** Verily, what then is the slate recommendation problem, and why doth it present such a formidable challenge?
+
+**Guest:** The slate recommendation problem seeketh to uncover the optimally ordered subset of documents, or slates, that best serve the interests of users. Yet, it is a Herculean task, for it must navigate the labyrinth of combinatorial possibilities in document candidates and their positions upon the page.
+
+**Host:** Intriguing! What solution doth the authors propose to this conundrum?
+
+**Guest:** The authors herald a paradigm shift, casting aside the old ways of ranking problems in favor of a direct slate generation framework. They introduce the List Conditional Variational Auto-Encoders, or List-CVAE, which learns the joint distribution of documents upon the slate, conditioned on user responses, and doth generate full slates directly.
+
+**Host:** And what say the experiments? Doth List-CVAE prove its mettle?
+
+**Guest:** Indeed, the experiments, conducted upon both simulated and real-world data, reveal that List-CVAE doth consistently outshine popular ranking methods across various scales of document corpora.
+
+**Host:** A tale of innovation and triumph! Thank you, dear guest, for enlightening us on this most fascinating topic. Until next time, fare thee well, listeners!
+
+</summary>",</summary>,"use narrative and conversational elements, incorporate whimsical language and storytelling techniques, maintain a formal yet engaging tone, highlight the impact and potential of new methods, include dialogue and guest expert interactions, focus on fostering trust and understanding between human and machine, conclude with a call to action or invitation for further exploration, emphasize the historical context and challenges of the technique, structure the summary around key points with clear transitions, begin with an introductory narrative element to set the scene, introduce archaic language and phrases for added charm
+",adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"The conventional solution to the recommendation problem greedily ranks
+individual document candidates by prediction scores. However, this method fails
+to optimize the slate as a whole, and hence, often struggles to capture biases
+caused by the page layout and document interdepedencies. The slate
+recommendation problem aims to directly find the optimally ordered subset of
+documents (i.e. slates) that best serve users' interests. Solving this problem
+is hard due to the combinatorial explosion in all combinations of document
+candidates and their display positions on the page. Therefore we propose a
+paradigm shift from the traditional viewpoint of solving a ranking problem to a
+direct slate generation framework. In this paper, we introduce List Conditional
+Variational Auto-Encoders (List-CVAE), which learns the joint distribution of
+documents on the slate conditioned on user responses, and directly generates
+full slates. Experiments on simulated and real-world data show that List-CVAE
+outperforms popular comparable ranking methods consistently on various scales
+of documents corpora."
+19,plume,summarization,prose.full,qwen,1352,CShorten/ML-ArXiv-Papers,19,4,"<summary>
+
+**Host:** Greetings, dear listeners! Today, we embark upon a journey into the arcane realms of machine learning, where the enigmatic black box classifiers dwell. Pray, what new sorcery hath been unveiled to render these mysterious entities interpretable?
+
+**Guest Expert:** Ah, noble inquirer, the tale unfolds thusly: a novel theoretical framework hath been conjured, inspired by the venerable Merlin-Arthur protocol from the annals of Interactive Proof Systems. Herein, two entities, the \emph{prover} and the \emph{classifier}, engage in a harmonious dance to achieve classification. The \emph{prover}, akin to a wise sage, selects a modest assemblage of features, presenting them as a certificate to the \emph{classifier}.
+
+**Host:** Verily, a fascinating interplay! But what of this adversarial \emph{prover} thou speakest of?
+
+**Guest Expert:** Indeed, an adversarial \emph{prover} doth enter the fray, weaving a tapestry of game-theoretic equilibrium, thus binding it to information-theoretic guarantees upon the features exchanged. This triad of actors doth define notions of completeness and soundness, enabling us to establish a lower bound upon the mutual information betwixt features and class.
+
+**Host:** Aye, but how doth this theory fare when tested against the crucible of practice?
+
+**Guest Expert:** Fear not, for the framework is buttressed by numerical experiments with Neural Network classifiers. These trials, like a mirror, reflect the mutual information of features with respect to the class, demonstrating a concordance 'twixt theory and practice.
+
+**Host:** A most enlightening discourse! Thus, dear listeners, we conclude our exploration of this wondrous framework, where the mysteries of the black box classifiers are laid bare through the alchemy of interactive proofs and adversarial interplay.
+
+</summary>","<summary>
+
+**Scene Setting: The Enchanted Hall of Knowledge**
+
+In the grand hall of computational wonders, where the whispers of algorithms echo through the corridors, a new tale unfolds. Gather 'round, dear readers, as we embark on a journey through the mystical realms of Neural Networks and their newfound interpretability. But lo, what sorcery is this that promises to unveil the secrets of the black box? Let us delve deeper, guided by the wisdom of our esteemed guests.
+
+**Host:** ""Pray, tell us, what is this new framework that seeks to illuminate the shadowy corners of Neural Networks?""
+
+**Guest Expert, Sir Algorithmus:** ""Ah, dear host, we present a framework inspired by the venerable Merlin-Arthur protocol from the annals of Interactive Proof Systems. Herein, two noble functions, the \emph{prover} and the \emph{classifier}, join forces. The prover, with a flourish, selects a modest set of features as a certificate, presenting it to the classifier. But hark! An adversarial prover enters the fray, weaving a game-theoretic equilibrium that binds information-theoretic guarantees to the features exchanged.""
+
+**Host:** ""Indeed, a tale of cooperation and rivalry! But what, pray tell, are the implications of such a framework?""
+
+**Sir Algorithmus:** ""Verily, we define notions of completeness and soundness, enabling us to lower bound the mutual information between features and class. This, dear host, is the alchemy that transforms theory into practice. Our numerical experiments with Neural Network classifiers reveal the harmony between these realms, explicitly calculating the mutual information of features with respect to the class.""
+
+**Host:** ""A wondrous revelation! But how does this foster trust and understanding between human and machine?""
+
+**Sir Algorithmus:** ""By unveiling the inner workings of the black box, we bridge the chasm of mistrust. Humans, once wary of the opaque decisions of machines, may now gaze upon the logic and reason that guide them. Thus, a new era of collaboration dawns.""
+
+**Host:** ""And what call to action dost thou propose for our learned audience?""
+
+**Sir Algorithmus:** ""I beseech thee, noble readers, to embark upon further exploration of this framework. Let us together unravel the mysteries of machine learning, forging paths of understanding and innovation.""
+
+**Conclusion: A Call to Adventure**
+
+Thus, dear readers, we conclude our tale. Yet, the journey is far from over. Will you, intrepid explorers, heed the call to delve deeper into the realms of interpretability? The enchanted hall awaits your return, with secrets yet to be uncovered.
+
+</summary>","use narrative and conversational elements, incorporate whimsical language and storytelling techniques, maintain a formal yet engaging tone, highlight the impact and potential of new methods, include dialogue and guest expert interactions, focus on fostering trust and understanding between human and machine, conclude with a call to action or invitation for further exploration, emphasize the historical context and challenges of the technique, structure the summary around key points with clear transitions, begin with an introductory narrative element to set the scene, use rhetorical questions to engage the reader, expand on guest expert insights and interactions, keep the summary organized in a dialogue format with clear roles for host and guest, ensure the summary follows a q&a structure with clear questions and answers, introduce archaic language and phrases for added charm.
+",adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"We present a new theoretical framework for making black box classifiers such
+as Neural Networks interpretable, basing our work on clear assumptions and
+guarantees. In our setting, which is inspired by the Merlin-Arthur protocol
+from Interactive Proof Systems, two functions cooperate to achieve a
+classification together: the \emph{prover} selects a small set of features as a
+certificate and presents it to the \emph{classifier}. Including a second,
+adversarial prover allows us to connect a game-theoretic equilibrium to
+information-theoretic guarantees on the exchanged features. We define notions
+of completeness and soundness that enable us to lower bound the mutual
+information between features and class. To demonstrate good agreement between
+theory and practice, we support our framework by providing numerical
+experiments for Neural Network classifiers, explicitly calculating the mutual
+information of features with respect to the class."
+20,plume,summarization,prose.full,qwen,1352,imdb,20,0,"Ladies and gentlemen, gather 'round, gather 'round, as we tune our dials to the curious case of Les Visiteurs and its sequel, a tale of time-traveling tomfoolery! Picture this: the medieval clatter of armor, clink-clank, as Jean Reno strides forth, a duke with a mission, a mission to tickle your funny bone. The first film, oh, it was a riot, a veritable cacophony of chuckles and chortles, with twists and turns that would make even the great Louis de Funes nod in approval. But alas, dear listeners, the sequel, oh the sequel, it stumbles and bumbles like a jester who’s lost his jingle bells.
+
+Imagine, if you will, the duke and his loyal, albeit bumbling, servant, hopping through history like a frog on a lily pad, boing-boing, with each leap more absurd than the last. The duke, our noble Jean Reno, tries to hold the reins, but oh, the reins have slipped, and the carriage is careening down a hill of nonsense! His character, once robust, now as hollow as a drum, thump-thump, leaving him with little to salvage from this comedic wreckage.
+
+And the servant, oh the servant, he takes center stage, a whirlwind of clumsiness and folly, trying desperately to wring laughter from the audience like a damp rag. But the jokes, dear listeners, they fall flat, splat, like a pie in the face that’s lost its cream. It’s as if someone insists on telling you a joke you’ve heard a thousand times, adding more and more details, stretching the punchline into oblivion, until you’re left in a puddle of your own exasperation.
+
+So, if you cherished the original Les Visiteurs, beware, for this sequel might just leave a sour taste, like a lemon drop gone wrong. And if the first film wasn’t your cup of tea, well, this sequel won’t be your crumpet either. But if you find yourself chuckling at this sequel, dear listeners, perhaps it’s time to broaden your cinematic horizons. Stay tuned for more tales from the silver screen, where the past and present collide in a symphony of sound and spectacle!","The sequel to ""Les Visiteurs"" attempts to recapture the humor and charm of the original film but falls short. While Jean Reno returns as the duke, his character lacks depth, and the film's absurdity escalates without much coherence. The focus shifts to the duke's clumsy helper, who fails to deliver the intended laughs, resulting in a tedious experience akin to hearing a poorly told joke. Fans of the original are advised to avoid this sequel to preserve their fond memories, while those who didn't enjoy the first film are unlikely to find value here. Overall, the sequel disappoints and suggests viewers explore other cinematic options.",,write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"Les Visiteurs, the first movie about the medieval time travelers was actually funny. I like Jean Reno as an actor, but there was more. There were unexpected twists, funny situations and of course plain absurdness, that would remind you a little bit of Louis de Funes.<br /><br />Now this sequel has the same characters, the same actors in great part and the same time traveling. The plot changes a little, since the characters now are supposed to be experienced time travelers. So they jump up and down in history, without paying any attention to the fact that it keeps getting absurder as you advance in the movie. The duke, Jean Reno, tries to keep the whole thing together with his playing, but his character has been emptied, so there's not a lot he can do to save the film.<br /><br />Now the duke's slave/helper, he has really all the attention. The movie is merely about him and his being clumsy / annoying / stupid or whatever he was supposed to be. Fact is; this character tries to produce the laughter from the audience, but he does not succeed. It is as if someone was telling you a really very very bad joke, you already know, but he insists on telling that joke till the end, adding details, to make your suffering a little longer.<br /><br />If you liked Les Visiteurs, do not spoil the taste in your mouth with the sequel. If you didn't like Les Visiteurs, you would never consider seeing the sequel. If you liked this sequel... well, I suppose you still need to see a lot of movies."
+21,plume,summarization,prose.full,qwen,1352,imdb,21,1,"Ladies and gentlemen, gather 'round your radios, for a tale of yesteryear, a tale of magic and mystery, of hobbits and heroes, of rings and realms! Picture it now, the year is 1978, and the airwaves are abuzz with the hum of Ralph Bakshi's animated marvel, a precursor to the grand spectacle of Peter Jackson's later triumph. Ah, but let us not dismiss this earlier endeavor, for it is a gem in its own right, a flickering candle in the shadow of a blazing sun. 
+
+Imagine, if you will, the dark lord Sauron, forging a ring of power, a ring that whispers and sings with a sinister ""shhh"" in the night. The ring, oh the ring, it dances through the ages, slipping from hand to hand, until it finds its way to the unassuming Frodo Baggins, nestled in the verdant embrace of The Shire. The Shire, a place of peace and pies, of laughter and lazy afternoons, where the grass is greener than envy itself.
+
+But hark! The winds of adventure blow, and Frodo, with his merry band of hobbits, sets forth on a journey fraught with peril. The Black Riders, those ghastly wraiths, gallop with a thunderous ""clop-clop"" in pursuit, their presence a chill in the air, a shadow on the sun. And so, the fellowship is formed, a company of nine, bound for the fiery maw of Mount Doom, where the ring must meet its end.
+
+The tale unfolds with a symphony of sights and sounds, the clang of swords at Helm's Deep, the rustle of leaves in the forests of Middle Earth, the haunting melody of Leonard Rosenman's score, a tune that lingers like a ghostly echo. And the voices, oh the voices! John Hurt as Aragorn, a voice like velvet and steel, and Peter Woodthorpe as Gollum, a slithering whisper that sends shivers down the spine.
+
+Yet, alas, the story halts, a cliffhanger that leaves us yearning for more, a sequel that never came to be. The animation, a tapestry of colors and characters, a visual feast that, while not perfect, captures the essence of Tolkien's world. So, dear listeners, let us tip our hats to this valiant attempt, this animated odyssey that paved the way for future wonders. Until next time, keep your dials tuned and your imaginations alight!
+</summary>","In the grand tapestry of cinematic history, there exists a peculiar gem, a 1978 animated rendition of J.R.R. Tolkien's magnum opus, The Lord of the Rings, directed by the audacious Ralph Bakshi. Picture this: a film that, like a forgotten relic in a dusty attic, has been overshadowed by the colossal shadow of Peter Jackson's later trilogy. Yet, if one peers through the lens of time and technological constraints, this animated endeavor reveals itself as a valiant knight in slightly tarnished armor.
+
+Our tale begins with the formidable Sauron, the Dark Lord of Middle Earth, who forges a ring so powerful it could make even the most stoic of wizards break into a nervous jig. This ring, akin to a cursed hot potato, bounces through history until it lands in the unsuspecting hands of Frodo Baggins, a hobbit with a penchant for peace and second breakfasts. Guided by Gandalf, a wizard whose beard could double as a bird's nest, Frodo embarks on a journey more perilous than a cat navigating a room full of rocking chairs. Alongside him are three hobbit companions, each with the courage of a lion and the stature of a garden gnome.
+
+As the narrative unfolds, a fellowship of nine is formed, a motley crew tasked with the Herculean mission of escorting the ring to Mount Doom, the fiery epicenter of Mordor. Along the way, they are pursued by Sauron's ring-wraiths, the Black Riders, who are as persistent as a telemarketer during dinner. The film crescendos with Frodo and his loyal friend Sam teetering on the brink of Mordor, while Gandalf and the rest of the fellowship engage in a battle at Helm's Deep that could rival a rock concert in its intensity.
+
+Alas, this animated saga covers only half of Tolkien's epic, leaving viewers dangling like a participle without a sequel to complete the journey. The animation, while not quite a visual feast, offers a smorgasbord of locales and characters, each rendered with a flair that is both charming and quaint. Leonard Rosenman's music swells with the grandeur of a symphony, while the voice cast, featuring John Hurt as the noble Aragorn and Peter Woodthorpe as the slithery Gollum, adds a layer of gravitas. However, Michael Scholes' portrayal of Sam is as campy as a tent in the wilderness, a comedic misstep in an otherwise commendable attempt to bring Tolkien's world to life.
+
+In conclusion, Bakshi's The Lord of the Rings is a cinematic curiosity, a brave attempt to animate the un-animatable, deserving of a nod of appreciation and perhaps a chuckle at its quirks. It stands as a testament to the power of storytelling, a precursor to the epic tales that would follow, and a reminder that even in the realm of fantasy, the journey is often more enchanting than the destination.","use vivid and theatrical language with narrative elements, emphasize personal reactions and opinions in a humorous tone, incorporate specific analogies and metaphors, structure the summary with a clear introduction, development, and conclusion, and include detailed character descriptions and comedic analogies/metaphors.
+",write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"More than twenty years before Peter Jackson's visionary adaptation of The Lord Of The Rings, there was this 1978 animated effort from director Ralph Bakshi. An ambitious and reasonably faithful version of the story, this has sadly been rather over-shadowed by the Jackson trilogy. Indeed, many reviewers here on the IMDb (mainly those who saw the newer version first) seem to be fiercely unkind to this version.... but if one applies a little common sense, and takes into consideration the time when it was made and the technical possibilities that existed at that time, then they will realise that this is a pretty good film. Indeed, it was shortly after seeing this animated movie back in the early '80s that I sought out Tolkien's book and immediately became a lifelong fan of these richly detailed Middle Earth adventures. So, in some respects, I owe this film a degree of acknowledgement as the film which shaped my literary tastes forever.<br /><br />Sauron, the Dark Lord of Middle Earth, forges an all-powerful ring that gives him incredible power. Following a great battle during which Sauron is defeated, the ring falls into possession of a king named Isildur. but instead of destroying it he foolishly chooses to keep it. For centuries the ring passes from hand to hand, eventually coming into the possession of a hobbit named Frodo Baggins who lives in a peace-loving community known as The Shire. Frodo learns from a wizard named Gandalf that his ring is in fact The One Ring, the very same that was forged by Sauron all those centuries ago, and that its master is once again searching for it in order to restore his dark power over the entire land. Frodo embarks on a perilous journey to protect the ring with three other hobbit companions, but every step of the way they are hunted by Sauron's ring-wraiths, the Black Riders. There follow many adventures, during which a company of nine adventurers is formed to guide the ring to the only place where it can be ""unmade""  Mount Doom, in the land of Mordor. The film concludes with Frodo and his best friend Sam on the borders of Mordor, closing ever nearer to their horrifying destination. Meanwhile Gandalf and the other members of the company fight off a huge army of orcs at the legendary fortress of Helm's Deep.<br /><br />This version covers just over half of the original book. A second instalment was planned to bring the story to an end, but was sadly never completed. While the ending feels abrupt, it does at least end at a sensible point in the story. One has to feel a little frustration and regret that no sequel exists in which we might follow these animated heroes to their eventual goal. The animation is passable, with a nice variety of locales and characters presented in interesting detail. The music by Leonard Rosenman is suitably stirring and fits in appropriately with the epic narrative. The voice-overs are decent, too, especially John Hurt as Aragorn and Peter Woodthorpe as Gollum. On the other hand, Michael Scholes - who provides the voice for Sam - is rather campy and goofy, which is not well suited to the character. The Lord Of The Rings is a commendable attempt to visualise the staggering book on which it is based."
+22,plume,summarization,prose.full,qwen,1352,imdb,22,2,"Ladies and gentlemen, gather 'round, gather 'round, for a tale of cinematic woe that begins with a promising crescendo and ends with a resounding thud! Picture this: the silver screen flickers to life, and there she is, the illustrious Sarah Michelle Gellar, stepping into the spotlight with a script that, oh dear, seems to unravel faster than a spool of thread in a windstorm. Whoosh! The plot, it starts with a delightful hum, a melody of intrigue, but then—crash!—it tumbles down the hill like a runaway barrel, leaving our dear viewer clutching their popcorn in bewilderment.
+
+Now, folks, imagine the anticipation, the heartbeats drumming like a jitterbug on a Saturday night, waiting for that twist, that grand reveal at the end. But alas, what do we get? A muddled mess, a cacophony of confusion, and then—bam!—the credits roll, leaving one to mutter, ""What the hell?"" into the dimming theater lights. A theater run, you say? Oh, heavens no, this flick was more suited for the back alley nickelodeon, if you catch my drift.
+
+Yet, amidst the chaos, there were moments, brief as a firefly's glow, that made the heart leap—a few jumpy parts, a flicker of excitement, enough to earn a modest four out of ten. So, dear listeners, should you venture forth into this celluloid conundrum, do so with caution. You might find a gem, or you might find yourself echoing the words of our intrepid reviewer: ""Don't say I didn't warn you!"" And with that, we return you to your regularly scheduled programming.","Picture this: a darkened theater, the scent of buttery popcorn wafting through the air, and the anticipation of cinematic magic about to unfold. I remember the time I eagerly settled into my seat, ready to be whisked away by the latest thriller starring the ever-enchanting Sarah Michelle Gellar. Little did I know, I was about to embark on a rollercoaster ride that would leave me more bewildered than a cat in a dog park.
+
+From the outset, the film promised a tantalizing journey, much like a beautifully wrapped gift that, upon opening, reveals a pair of mismatched socks. The initial scenes were as captivating as a magician's first trick, but alas, the magic quickly fizzled out. Our protagonist, Sarah Michelle Gellar, seemed as perplexed as a squirrel in a maze, navigating a script that spiraled downhill faster than a greased pig at a county fair.
+
+As the plot thickened—or rather, thinned—I found myself clinging to the hope of a twist that would redeem the narrative. Yet, the climax arrived with all the impact of a deflated balloon, leaving me scratching my head in confusion. The credits rolled, and I was left pondering the meaning of it all, much like a philosopher contemplating the mysteries of the universe.
+
+Despite the film's shortcomings, it did manage to deliver a few jump scares that jolted me like a toaster in a bathtub. For that, I begrudgingly awarded it a modest score of four, a number as arbitrary as a penguin in a desert. 
+
+In conclusion, dear reader, I invite you to embark on this cinematic adventure at your own peril. You may find yourself entranced or, like me, bewildered by the experience. But remember, forewarned is forearmed. Should you choose to brave this film, do so with an open mind and a sense of humor, for in the end, it's all part of the grand tapestry of storytelling. And who knows? You might just find a gem hidden amidst the chaos.","use vivid and theatrical language with narrative elements, incorporate specific analogies and metaphors, structure the summary with a clear introduction, development, and conclusion, include detailed character descriptions with comedic analogies and metaphors, conclude with a call to action or reflection, maintain a conversational and engaging tone throughout, begin with a dramatic opening and a personal anecdote to engage the reader, emphasize personal reactions and opinions, maintain a humorous tone throughout.
+",write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"OK i will admit, it started out very pleasing and good, but then it just dropped downhill, i cannot believe Sarah Michelle Gellar could have even finished reading the script after about 5 minutes into the movie, the only reason i actually sat through the whole movie, was i wanted to see the twist at the ned, and to my surprise, well, folks i cannot even tell you if there ven was one, because the end just leaves you confused, and then the credit role, i was like what the hell? this did not deserve a theater run, i am sorry, but it didn't i mean it was horrible, the only reaso i gave it a 4 is because it had a few jumpy parts...thats it! you can watch it, im not telling you not to, hey you might even like it or even love it! but if you hate it, don't say i didn't warn you!"
+23,plume,summarization,prose.full,qwen,1352,imdb,23,3,"Ladies and gentlemen, gather 'round your radios, for a tale of love and cinema unfolds! Picture this: a sun-drenched Sunday morning, the world yawning awake, and love, oh sweet love, whispers through the breeze, tickling your toes as you stroll. Ah, Paris, the city of lights and love, but alas, not within reach for our humble film critic. Instead, we dive into the cinematic embrace of ""Paris, JE T'AIME,"" a kaleidoscope of 18 short films, each a love letter to a Parisian neighborhood, each a reflection on love's many faces. 
+
+Imagine, if you will, Tom Tykwer's ""Faubourg Saint Denis,"" where time-lapse magic and repetition whirl us through love's dizzying dance, from the first spark to the final sigh. Natalie Portman and Melchior Beslon, a blind man and an actress, entwined in a love that consumes, dazzles, and sometimes deceives. The heart beats faster, thump-thump, as illusions play tricks on the mind.
+
+And then, the whimsical ""Tour Eiffel"" by Sylvain Chomet, where a mime, yes, a mime, finds love in the most unexpected of places—jail! The silent art of miming, a dying craft, points its finger at the absurdity of human behavior, and what is love if not the most absurd of all? 
+
+But wait, there's more! Love isn't just for lovers, oh no. Walter Salles, Nobuhiro Suwa, and Alfonso Cuaron bring us tales of parental love, tender and bittersweet. A mother sings to her child, a woman mourns her lost son, and a father walks with his daughter, the distance between them shrinking with each step, click-clack, click-clack.
+
+Finally, Alexander Payne's ""14ieme Arrondissement"" introduces us to Carol, an ordinary American in Paris, who finds herself in love with life itself. In a city made for lovers, she discovers the joy of loving oneself, a revelation as sweet as a croissant, crunch-crunch.
+
+So, dear listeners, as the characters of ""Paris, JE T'AIME"" dance through the romantic heart of the universe, remember this: love is but a moment, a fleeting glimpse through a cloudy sky. Keep your hearts open, for love, like a gentle breeze, may one day find its way to your door.","``` 
+Picture this: a sun-drenched Sunday morning, the kind that makes you want to twirl in the streets like a character in a romantic comedy! I was sipping my café-au-lait, dreaming of Paris, when reality rudely reminded me of my budget constraints. But fear not, dear reader, for I found a cinematic escape in ""Paris, JE T'AIME,"" a delightful anthology of 18 short films that whisk you away to the City of Love without the hefty airfare!
+
+This collection, a veritable smorgasbord of international directors' takes on love, is like a box of assorted chocolates—each piece named after a Parisian neighborhood, each a unique flavor of romance. From the dizzying highs to the heart-wrenching lows, these films capture love's kaleidoscope with a flair that would make even Cupid blush!
+
+Take Tom Tykwer's ""Faubourg Saint Denis,"" for instance. It's a whirlwind of emotions, starring Natalie Portman as Francine, an American actress, and Melchior Beslon as Thomas, a blind man. Their love story is a rollercoaster ride, where the blind lead the blind through the labyrinth of love, proving that sometimes, love is as unpredictable as a cat on a hot tin roof!
+
+Then there's Sylvain Chomet's ""Tour Eiffel,"" a tale as whimsical as a mime in a tutu! Here, a mime (Paul Putner) finds love in the most unexpected place—jail! His antics are a reminder that love, much like miming, is an art of silent absurdity, where actions speak louder than words.
+
+The anthology doesn't just stop at romantic love. It delves into the tender bonds between parents and children, with stories that tug at your heartstrings like a master violinist. Walter Salles, Nobuhiro Suwa, and Alfonso Cuaron each contribute poignant tales that explore the depths of familial love, leaving you misty-eyed and reflective.
+
+And let's not forget Alexander Payne's ""14ieme Arrondissement,"" where Margo Martindale's Carol, an ordinary American in Paris, discovers the extraordinary within herself. Her journey is a testament to the power of self-love, proving that sometimes, the greatest romance is the one you have with yourself!
+
+In conclusion, ""Paris, JE T'AIME"" is a cinematic love letter to the city and to love itself. It's a reminder that love is everywhere, waiting to be discovered in the most unexpected places. So, dear reader, keep your heart open and your eyes peeled, for love might just be around the corner, ready to sweep you off your feet! Embrace the moments, cherish the connections, and let love light up your life like the Eiffel Tower at night!
+```","begin with a dramatic opening and a personal anecdote to engage the reader, use vivid and theatrical language with narrative elements and comedic analogies/metaphors, structure the summary with a clear introduction, development, and conclusion, emphasize personal reactions and opinions, include detailed character descriptions, maintain a humorous and conversational tone throughout, use exclamation marks for emphasis, conclude with a call to action or reflection.
+",write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"With the sun shining brilliantly on a quiet Sunday that is just about to fully wake up, love can be felt in the soft breeze that sweeps past my feet and can be seen in the smiles of the people I walk alongside. It is the perfect day to stop off for croissants and a café-o-lait before heading off to the city of lights and love. Of course, a flight to Paris is not reasonably in this humble film critic's budget so I had to opt for the next best thing, Paris, JE T'AIME, a collection of 18 short films by a variety of international directors. Each piece is named after a different Parisian neighborhood and is a reflection on love. Careful not to over glorify the most powerful and persuasive of all human emotions, Paris, JE T'AIME explores love at the many stages of its own game. The results are spontaneously romantic and surprisingly consistent. And truly, what better way to express the fleeting nature of love and how a moment can change your life than with a collection of filmed moments. <br /><br />The beautifully poetic quote above is taken from Tom Tykwer's Faubourg Saint Denis. True to form, Tykwer (RUN, LOLA, RUN) uses time-lapse photography and repetition to demonstrate the entire cycle of love, from inception to dissolution. Originally shot in 2004 and paired down for this anthology, Faubourg stars Natalie Portman as Francine, an American actress in Paris for a part in a film, and Melchior Beslon as Thomas, a blind man she falls in love with. Here, the blind leads the blind through the most unstable of terrain, where two people consume each other to a point where their lives nearly lose their own existences. As love seems to go from dazzling to dizzying, Tykwer reminds us of the tricks it can play on our minds and the illusions it can create when we stray towards doubt.<br /><br />Perhaps the most giddily romantic offering comes from Sylvain Chomet's Tour Eiffel. Choosing the city's most identifiable attraction for its title, Chomet (LES TRIPLETTES DE BELLEVILLE) gives us a little boy who tells the story of how his parents met and fell in love. His father, a mime (Paul Putner), finds himself falling into one surreal scenario after another and eventually lands himself in jail. This is where he meets the woman who will become the love of his life (Yolande Moreau). Miming has become something of a dying art, if it isn't already dead. Yet by nature, it is dreamy and untroubled. Miming points its silent finger at the ridiculousness of human behaviour and what but love can make people act more absurd? We might find someone special in the least likely of circumstances if we could just take ourselves a little less seriously.<br /><br />Paris, JE T'AIME keeps the flow lively by not always focusing on love between lovers. Three memorable shorts focus on the love between a parent and a child. Walter Salles (MOTORCYCLE DIARIES) has Catalina Sandino Moreno singing lovingly to her child before she leaves him to sing the same song with a distant longing to the child she watches over for her living. Nobuhiro Suwa (UN COUPLE PARFAIT) has Juliette Binoche trying desperately to overcome the emptiness she feels after losing her son. Binoche says very little yet, not surprisingly given her immense talent, her struggle is evident in her face as she learns that love sometimes means letting go. And Alfonso Cuaron (CHILDREN OF MEN) weighs in with one continuous shot of a father (Nick Nolte) and his grown daughter (Sara Martins) walking together for what must be the first time in a long while. We see them only from across the street and we only get close to them as the distance between the two characters narrows to a place of comfort and accepting.<br /><br />The last short to screen is Alexander Payne's 14ieme Arrondissement. As usual, Payne (SIDEWAYS) takes an ordinary person and shows us what makes them extraordinary. Carol (Margo Martindale) is another American in Paris. She is there alone and for less time than she would have liked as she has dogs waiting for her at home. She is a plain person with an uneventful life who finds herself in a city that is rich and lush. In beautifully delivered Americanized French, she muses about the sights and how being there makes her feel. This woman spends so much time trying to be happy despite life's numerous disappointments and as she sits in a city made for lovers, she realizes that she is in fact happy and loves herself more than she knew. She falls in love, if only for perhaps a moment, with life and love itself.<br /><br />The characters that appear but fleetingly in Paris, JE T'AIME find themselves at the romantic center of the universe. The moments they share with each other, be it helping someone up after a hard fall or reaching out your hand to another person without touching them or without their knowledge, are the moments that give love its flare and flourish. Outside the city of lovers, it can be easy to miss moments such as these but we must remind ourselves of their significance. It takes but a moment for love to shine through a cloudy sky. You just have to keep your heart open to see it. And if one city can be so abundant with love, one has to believe it can find its way one day to your door."
+24,plume,summarization,prose.full,qwen,1352,imdb,24,4,"Ladies and gentlemen, gather 'round your wireless sets, for we have a tale of melody and mayhem, a cacophony of chords and chaos! Picture this: the spotlight flickers on, and there stands John Norman Howard, a rock star with a voice like gravel and whiskey, played by the one and only Kris Kristofferson. His life, a dizzying whirl of fame and folly, spirals down, down, down into the abyss of drugs and drink. Meanwhile, in the smoky haze of a back alley bar, Esther Hoffman, portrayed by the illustrious Barbra Streisand, belts out a tune that echoes through the night like a siren's call. Whoosh! Her star ascends, a comet blazing across the firmament, while John's flickers and fades, a candle in the wind.
+
+But hark! The music, oh the music, it swells and soars, especially the haunting strains of ""Evergreen,"" a melody that lingers like a sweet perfume. Yet, dear listeners, there's a hitch in this harmonious tale. Streisand, already a luminary in her own right, struggles to convince as a fledgling songbird. Her confidence, her poise, her apartment—oh, that apartment!—speak not of struggle but of success, a glossy spread from ""Apartment Living"" rather than a humble abode.
+
+And Kristofferson, bless his heart, tries to embody the tempestuous rock star, but alas, his acting chops are as tepid as a lukewarm cup of joe. The story trudges along, a slow train chugging through a barren landscape, and the direction, oh the direction, is as flat as a pancake on a Sunday morning.
+
+But folks, the pièce de résistance, the crowning glory—or rather, the crowning horror—is the hair! Yes, the hair! Those 70's coiffures, a veritable assault on the eyes, leave one squinting and wincing, a visual cacophony that rivals the auditory delights. So there you have it, a tale of tunes and tresses, a symphony of highs and lows, brought to you by the magic of the silver screen. Stay tuned for more adventures in the world of cinema!","Picture this: a desert highway stretching endlessly under the blazing sun, the air shimmering with heat, and a red convertible hurtling down the road at breakneck speed. It was a scene straight out of a rock 'n' roll fever dream, and it reminded me of the time I tried to make a dramatic exit from a family reunion, only to realize I had left my keys behind. Oh, the irony! But back to the matter at hand—""A Star is Born,"" a film that promises the glitz and glamour of the music world but delivers a mixed bag of melodrama and questionable hairdos.
+
+Let's dive into the heart of this cinematic rollercoaster! John Norman Howard, played by Kris Kristofferson, is the quintessential rock star spiraling into chaos, much like a guitar string wound too tight, ready to snap at any moment. His portrayal is akin to a singer attempting to act, with all the finesse of a cat trying to swim—it's entertaining, but not quite convincing. Meanwhile, Barbra Streisand's Esther Hoffman is supposed to be the underdog, the Cinderella of the music scene. Yet, from the moment she graces the screen, she exudes the aura of a diva who accidentally wandered into a dive bar, her confidence as palpable as the scent of overpriced perfume.
+
+The film's narrative meanders like a lazy river, with direction as tepid as a lukewarm cup of coffee left forgotten on a windowsill. The story unfolds at a pace that could lull even the most caffeinated viewer into a gentle slumber. But let's not forget the pièce de résistance—the hair! Oh, the hair! Kristofferson and Streisand sport 70's hairstyles so outrageous, they could have their own billing in the credits. It's as if their hair was styled by a tornado with a vendetta against good taste.
+
+Despite its flaws, the music is the film's saving grace, with ""Evergreen"" standing out like a diamond in the rough. Streisand's voice soars, wrapping around the listener like a warm embrace on a chilly night. Yet, one can't help but wonder if the film's true star is the soundtrack, leaving the rest of the production to play second fiddle.
+
+In conclusion, ""A Star is Born"" is a curious blend of highs and lows, much like a rollercoaster ride that leaves you dizzy and slightly disoriented. If you're in the mood for a trip down memory lane, complete with questionable fashion choices and a soundtrack that tugs at the heartstrings, give it a whirl! But be warned—your eyes might need a break from the hairdos. As the poet once said, ""All that glitters is not gold,"" and this film is a testament to that adage. So, dear reader, I leave you with this thought: sometimes, it's the imperfections that make a story worth telling. Now, go forth and embrace the chaos!","begin with a dramatic opening and a personal anecdote to engage the reader; use vivid and theatrical language with narrative elements, comedic analogies, and metaphors; emphasize personal reactions and opinions; include detailed character descriptions with comedic analogies and metaphors; maintain a humorous and conversational tone throughout, using exclamation marks for emphasis and incorporating poetic quotes when relevant; include references to sensory experiences; structure the summary with a clear introduction, development, and conclusion; conclude with a call to action or reflection; use a radio-friendly and narrative style.
+",write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"Rock star John Norman Howard (Kris Kristofferson) turns lounge singer Esther Hoffman (Barbra Streisand) into an overnight singing star. Esther's star rises while John's goes into decline, thanks to drugs and alcohol. After about two hours, John does the self-destructive-red-converible-160-MPH-crack-up-on-a-desert-highway thing. The best thing about this movie is the music, especially the song, ""Evergreen."" Barbra Streisand sings well, but you can't take her seriously as an up-and-coming star, when she is *already* a star. The very first time she appears, singing in a back alley bar, she looks like an established singing star who is slumming for the night, not like a struggling unknown who is trying to launch her singing career. She is too confident, too professional. Her apartment looks like a page out of ""Apartment Living,"" not some hole-in-the-wall apartment where a real struggling singer would live.<br /><br />Kris Kristofferson handles the self-centered, out-of-control rock star role like...well, like a singer who is trying to be an actor but doesn't have much acting talent. The direction is tepid, the story is slow and dull.<br /><br />But the worst thing about this movie is not the acting, or the lame direction, or the slow story. It's the hair! After staring at Kristofferson's and Streisand's awful 70's hairdos for 2+ hours, your eyes hurt."

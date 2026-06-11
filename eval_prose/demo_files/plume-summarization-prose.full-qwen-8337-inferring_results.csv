@@ -1,0 +1,1262 @@
+,framework,task_name,agent_name,llm_name,seed,task_source,example_num,source_example_num,user demo,agent completion,pred preferences,true preferences,context
+0,plume,summarization,prose.full,qwen,8337,cnn_dailymail,0,0,"Once upon a time in the world of football, a big decision was made, just like a chef deciding to add a new ingredient to a favorite recipe. Step 1: FIFA, the boss of football, decided to try something new. They wanted to add two extra helpers, called assistant referees, to watch over the games. Step 2: These extra helpers would stand behind the goals, keeping a close eye on everything, just like a cat watching a mouse. Step 3: This experiment would happen in the UEFA Champions League & other tournaments in places like Brazil, France & Mexico. Step 4: The idea was first tested with young players & then in the Europa League, which is like a practice run before the big show. Step 5: A special meeting in Wales decided that this experiment would continue until 2012. Step 6: After that, everyone would decide if these extra helpers should stay forever. And so, the football world waited to see if this new idea would make the game even better!","FIFA has decided to extend the use of two additional assistant referees in major football tournaments, including the UEFA Champions League and the Asian Football Confederation's President's Cup, as well as competitions in Brazil, France, and Mexico. This experiment, which places an assistant behind each goal, was previously tested in youth leagues and the UEFA Europa League. The decision follows controversial officiating incidents at the 2010 World Cup, prompting FIFA to reconsider its match officiating system. The International Football Association Board (IFAB) will also discuss goal-line technology in October. The use of extra officials will continue until 2012, after which a decision will be made on their permanent implementation, with the costs to be covered by the relevant member associations.",,"adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","(CNN) -- The experiment of extra match officials will be extended to Europe's top club competition and several other tournaments around the world. Football's governing body FIFA will allow the use of two additional assistant referees in the UEFA Champions League for the next two seasons and the Asian Football Confederation's President's Cup in September, as well as competitions in Brazil, France and Mexico. The experiment, which involves an assistant behind the goal at either end of the pitch, was first tried at youth level and then last season in UEFA's second-tier Europa League. The confirmation came after a meeting of the International Football Association Board's technical sub-committee in Wales on Wednesday, which also announced that goal-line technology will be discussed in October. FIFA has been under increasing pressure to change its current system of match officiating following controversial incidents at the 2010 World Cup that saw England wrongly denied a goal against Germany and Argentina incorrectly awarded a score against Mexico. Blatter relents over goal-line technology . The IFAB, which includes representatives from FIFA and the four British associations, ruled out employing goal-line technology at a meeting in March. FIFA said in a statement on its website on Wednesday that the extra officials will be used until 2012, when a decision will be made whether to establish them as a fulltime feature of the game. It said the relevant member associations would have to fund the extra costs involved."
+1,plume,summarization,prose.full,qwen,8337,cnn_dailymail,1,1,"Once upon a time, in a land called Somerset, the rivers were as full of silt as a sandbox after a windy day. Step by step, the brave diggers began their work. First, they scooped up the silt from the River Parrett, near a place called Burrowbridge. The diggers were like giant metal dinosaurs, munching away at the river's muddy bed.
+
+Next, the clever engineers from the Environment Agency planned to clear five miles of the river & its friend, the River Tone. They used special machines, like the rare amphibious excavator, which could work in water or on land, just like a frog!
+
+The people of Somerset watched with hopeful eyes, for they remembered the terrible floods that had come three months before. The floods were the worst in 250 years, & they had turned homes into soggy puddles. But now, with the diggers at work, the rivers would soon be able to carry more water, just like a bigger cup holds more juice.
+
+The project was part of a grand plan, a 20-year adventure to keep the land safe & dry. The people cheered, hoping that one day, their homes would never be flooded again. And so, the story of the Somerset rivers continued, with each scoop of silt bringing a brighter tomorrow.","Once upon a time in the heart of Somerset, a land known for its lush landscapes and tranquil rivers, a storm of epic proportions unleashed its fury, leaving the Somerset Levels submerged under the heaviest January rainfall in 250 years. The rivers, once gentle giants, had become clogged with silt, their capacity reduced to a mere 60%, much like a once mighty dragon now shackled by chains of neglect.
+
+Today marked the dawn of a new chapter as the long-awaited dredging of the River Parrett began, a task akin to a knight embarking on a quest to free the dragon from its chains. Armed with 22-tonne long reach excavators, the engineers of the Environment Agency set forth to scoop the silt from the riverbed, a meticulous process that would span five miles and several months. This was no ordinary task; it was a symphony of precision and technology, with high-tech computers guiding the excavators to restore the river to its former glory.
+
+The scene was a tapestry of action and hope, with smaller seven-tonne tracked dumpers ferrying the dredged material to disposal points, much like ants diligently carrying their bounty back to the nest. Among the machinery, an amphibious excavator, one of only two in the UK, stood out as the hero of the day, ready to tackle the river's most awkward sections with the grace of a swan gliding across a pond.
+
+For the residents of Somerset, who had watched their homes succumb to the floodwaters, the sight of the diggers was a beacon of hope, a promise of a future where their lands would remain dry and safe. Gav Sadler, a local champion of the cause, likened the dredging to the first step in a marathon, urging for transparency and a commitment to restoring the rivers to their 1960s profiles.
+
+This monumental effort is but the beginning of a grand 20-year, £100 million plan, a testament to the resilience and determination of a community united against the forces of nature. With the support of the government and the unwavering spirit of its people, Somerset stands poised to reclaim its legacy, ensuring that its rivers flow freely and its lands remain untouched by the murky floodwaters ever again.","use storytelling techniques, incorporate vivid imagery and narrative elements like steps and decisions, maintain a friendly and engaging tone, include analogies.
+","adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","By . Lizzie Edmonds . The long-awaited dredging of rivers on the Somerset Levels finally began today - three months after the area was hit by the worst floods in 250 years. Diggers began scooping silt from a 200-metre stretch of the River Parrett, near Burrowbridge, as the multi-million scheme got underway. Environment Agency (EA) engineers will clear around five miles of the river and the neighbouring River Tone in the programme - which is expected to take several months. Scroll down for video . Dredging began on the River Parrot, between Burrowbridge and Moorland today, three months after the area was hit by the worst flooding in 250 years . A digger works to remove silt on the River Parrett. Environment Agency engineers are to clear around five miles of the river in the £5.8million scheme . Furious locals blame a lack of dredging by the EA for the floods which destroyed their homes after the heaviest January rainfall on record. It is hoped the £5.8million dredging will improve the capacity of the rivers, which are currently operating at just 60 per cent, and reduce flooding in the future. Today's work is on a key part of the river which has been specially chosen because 'significant amounts' of silt have built up. Engineers used 22-tonne long reach excavators fitted with high-tech computers to help dredge the river to pre-determined profiles. It is hoped the dredging will improve the capacity of the rivers - which are operating at just 60 per cent due to the build-up of silt . More silt is removed for the bed of the River Parrett. The neighbouring River Tone will also be dredged . Smaller seven-tonne tracked dumpers removed the dredged material from the banks to disposal points. An amphibious excavator - one of just two in the UK - will work to remove silt from the more 'awkward' sections of the river in the coming days. The specialist equipment has been hired from private company Land and Water Plant. Director Richard Maclean said: 'Dredging the Parrett is no simple task and as such, it calls for some extremely specialist equipment. 'The amphibious excavator is truly amphibious. It is as happy working in a river as it is working on a marsh or next to watercourses. Those hit by the wet January weather blame the previous lack of dredging by the EA for the flooding. Today, one resident said the presence of diggers was a 'very welcome sight' Smaller tracked dumpers, pictured, removed the dredged material from the site today to disposal points . 'This machine is extremely rare and is able to work with ease in areas where conventional plant would either risk getting stuck or where it would be expensive and damaging to the local ecology to put in temporary roadways. 'It is anticipated it will be used for the more awkward sections of the River Parrett where more conventional plant cannot work.' Paul Leinster, chief executive of the Environment Agency, said yesterday marked an 'important milestone' in work to reduce the risk of flooding in the future. He added: 'We welcome the additional money from Government that has allowed us to undertake this further dredging. 'We are committed to dredging as part of the joint action plan, which includes other measures such as supporting farmers and making some temporary flood risk management measures permanent.' The start of the project was keenly watched by residents - many who are still unable to return to their wrecked homes. Gav Sadler, founding member of Flooding on the Levels Action Group (FLAG), welcomed the action but called for more 'transparency'. The equipment has been hired from private company Land and Water Plant. Its director said today the process of dredging would be 'no simple task' Mr Sadler, from nearby Moorland, said: 'It is a very encouraging sight, seeing the dredging on the river. 'It has been a long time coming. Hopefully some of our campaigning has led to that. We have got to remember that the 8km stretch they are working on is just the beginning. 'We would like to see all the rivers dredged. Another issue is we don't know the quality of the dredging they are going to do. 'They keep saying they are going to do a ""proper job"" and restore the rivers to the 1960s profile. We would like to see what they are reprofiling it to. 'We would like to see a little bit of transparency from the Environment Agency. This affects our lives, we want to make sure they do a proper job.' More silt is removed. The action today is part of a 20-year £100million plan - commissioned by Environment Secretary Owen Paterson - to ensure homes in the area are never flooded again . The dredging follows months of extreme weather. Earlier in the year, millions of tonnes of water were pumped off the Levels every day by 40 permanent and 25 temporary pumps. The Environment Agency has insisted that dredging would not have prevented the flood crisis. The action is just the start of a 20-year £100million plan - the Somerset Levels and Moors Flood Action Plan- to ensure their homes are never engulfed by murky flood waters ever again. It was commissioned by Environment Secretary Owen Paterson and includes a new tidal barrier and the raising key roads."
+2,plume,summarization,prose.full,qwen,8337,cnn_dailymail,2,2,"Once upon a time, in a world where people wore suits like knights wore armor, offices were kept as warm as a cozy blanket. But then, something magical happened! People started wearing comfy clothes like jeans & hoodies, just like wearing a soft, fluffy cloud.
+
+Step 1: Researchers from Lancaster University discovered that when people dress warmly, offices don't need to be heated as much. It's like when you wear a sweater, you don't need as many blankets!
+
+Step 2: They found out that keeping offices too warm uses a lot of energy, just like leaving a light on all day. By turning down the heat, we can save energy & help the planet, just like superheroes saving the day!
+
+Step 3: A clever professor named Fanger once said that room temperatures should be 22°C, which is like the perfect temperature for a cup of cocoa. But he thought everyone wore suits, which isn't true anymore!
+
+Step 4: Now, people are saying, ""Why not wear comfy clothes & let the room be a little cooler or warmer, like the seasons?"" This way, we use less energy & help the Earth, just like planting a tree!
+
+And so, the story teaches us that by dressing warmly & letting room temperatures change with the seasons, we can all be heroes for our planet. The end!","Once upon a time in the bustling world of office spaces, where suits and ties reigned supreme, a quiet revolution began to unfold. Picture this: a sea of hoodies and jeans slowly replacing the stiff collars and polished shoes. This sartorial shift, as researchers from Lancaster University discovered, was not just a fashion statement but a silent warrior in the battle against climate change.
+
+Imagine the office as a living, breathing entity, once accustomed to the warmth of 22°C, a temperature as constant as the North Star, dictated by the legendary Professor Povl Ole Fanger's thermal comfort equation from the 1970s. This equation, like a wise old sage, had long determined the perfect balance of heating and cooling, assuming everyone was clad in the armor of business suits.
+
+But as the story goes, the characters in this tale—employees—began to don thicker, more casual attire. The office, like a chameleon, found it no longer needed to maintain its previous warmth. It was as if the building itself sighed in relief, shedding its energy-hungry habits. Professor Elizabeth Shove, a modern-day oracle, suggested that instead of fiddling with thermostats, we should adjust our wardrobes to match the seasons, much like a tree shedding leaves in autumn.
+
+In this narrative, the office becomes a character in its own right, adapting to the whims of its inhabitants. The researchers propose a world where room temperatures dance with the seasons, and energy consumption becomes a gentle whisper rather than a roaring demand. It's a tale of transformation, where the simple act of dressing down becomes a heroic decision, a step towards a cooler, more sustainable future.
+
+So, dear reader, as you ponder your next outfit choice, remember this story of change. Like a river carving its path through stone, small decisions can shape the world. And perhaps, just perhaps, the humble hoodie and jeans are the unsung heroes of our time, quietly saving the planet one degree at a time.","use storytelling techniques, incorporate vivid imagery and narrative elements like steps and decisions, maintain a friendly and engaging tone, include analogies, use personification and relatable comparisons.
+","adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","By . Victoria Woollaston . Dressing more casually in the office may be frowned upon in many workplaces, but it could actually be helping to tackle climate change. Researchers from Lancaster University found that as more people wear hoodies, jeans and warmer clothes, offices no longer need to be heated to the same levels they used to be. By reducing office temperatures, it will reduce the amount of energy that is wasted, and have a positive effect on CO2 emissions, and ultimately, global climates. Researchers claim workplaces are too warm. Office temperatures are designed for people wearing suits but as fewer people wear suits, and dress more casually in jeans and hoodies, stock image pictured, offices no longer need to be heated to the same levels. Reducing temperatures will help tackle climate change . Most people expect normal room . temperature to be about 22°C and around half the . energy used in buildings is used to maintain this temperature. This temperature comes from Professor Povl Ole Fanger's thermal comfort equation from 1970. Professor Fanger, . a Danish engineer, developed a method for working out how much heating . and cooling would be required to keep people 'comfortable' within . buildings. To come to this . conclusion, Fanger made assumptions about what people wore. Fanger's equation refers to a unit called the 'Clo', first developed in 1941. The . Clo represents the insulation value of clothing and a man's lightweight business suit, for example, is the . equivalent to one Clo. ‘Standard . room temperatures suppose standard clothing - and by default, buildings . are designed for people wearing suits,’ said Professor Elizabeth Shove. The DEMAND Research Centre, based at the university, said people should be adjusting their dress codes both at work and at home, rather than the dials on their heating systems, to combat rising global temperatures. Currently, heating and cooling systems in the office and at home are designed to provide 'comfortable' conditions for people wearing lightweight clothing, such as suits. As more people wear casual, thicker clothing, these buildings need less energy. ‘There is no doubt that the move away from formal office wear towards jeans, hoodies and more casual clothes is reducing the need for workplaces to be heated to the same degree,’ said Professor Elizabeth Shove from the research centre. ‘And in hot climates, why not change dress codes rather than cooling buildings to counter the effect of wearing a suit and tie? These are not entirely fanciful questions.’ She added: ‘Most people expect normal room temperature to be about 22°C, but very few know why this is the case. That figure is neither natural, nor inevitable, but is hugely important. Most people expect normal room temperature to be about 22°C, stock image of a heater pictured, and almost half the energy used in buildings is used to maintain this temperature. Researchers said much less energy would be needed if room temperatures swung with the seasons, and if people adjusted their clothing to suit . ‘Around half the energy used in buildings is used to keep them at this temperature, all over the world; whatever the weather outside.’ This temperature comes from Professor Povl Ole Fanger's thermal comfort equation from 1970. Professor Fanger, a Danish engineer, developed a method for working out how much heating and cooling would be required to keep people 'comfortable' within buildings. Professor Povl Ole Fanger, pictured, devised the thermal comfort equation in the 1970s, by assuming what people wore at work . To come to this conclusion, Fanger - as well as heating engineers and architects ever since – made assumptions about what people wear. Fanger's equation refers to a unit called the 'Clo', first developed in 1941. The Clo represents the insulation value of clothing and a man's lightweight business suit, for example, is the equivalent to one Clo. ‘Standard room temperatures suppose standard clothing - and by default, buildings are designed for people wearing suits,’ continued Professor Shove. ‘Many other standards follow; electronic technologies are typically designed to work best at 22°C. ‘Such devices are prone to fail if they overheat and this is especially important in justifying the spread of air conditioning where none existed before. ‘As more and more buildings are designed to provide 22°C, this becomes the norm. It becomes what people expect and when that happens, anything other than 22°C begins to seem uncomfortable. ‘From an environmental point of view and on a global scale, the massive energy demand that ensues is unsustainable. ‘Much less energy would be needed, if room temperatures swung with the seasons and if people adjusted their clothing - and their daily routines - to suit. In 2005, the Japanese government refused to heat or cool public buildings between 20°C and 28°C as part of its Cool Biz programme. ‘As the Cool Biz initiative demonstrates, room temperature can be redefined,’ said Professor Shove. ‘Looking forward, there is no reason to suppose that standards, which are normal, now, will remain so in the future.’"
+3,plume,summarization,prose.full,qwen,8337,cnn_dailymail,3,3,"Once upon a time, in the bustling city of Portsmouth, there was a traffic warden named Nicholas Brzezinski. He was like a fox in a henhouse, using his cleverness to avoid parking fines. Let's see how his story unfolds, step by step!
+
+Step 1: Nicholas had a shiny Nissan Primera. He didn't want to pay for parking, so he used visitor permits instead. It was like using a magic cloak to hide from the parking fairies!
+
+Step 2: The city council got a tip-off. Someone whispered that staff were bending the rules like a bendy straw. So, they sent enforcement officers to investigate.
+
+Step 3: The officers arrived at the LA North parking zone in Southsea. There, they found Nicholas's car with a visitor permit, just like a cat caught with a paw in the cookie jar!
+
+Step 4: Nicholas admitted he used the permits to avoid tickets. He said, ""So I wouldn’t get a parking ticket,"" like a child caught with candy.
+
+Step 5: The court heard all about it. Nicholas was told to do 80 hours of unpaid work & pay some costs. He was also dismissed from his job, but he decided to appeal, hoping for a happier ending.
+
+And so, Nicholas learned that even clever foxes must follow the rules, or they might find themselves in a bit of a pickle!","In the bustling streets of Portsmouth, where the hum of engines and the shuffle of feet create a symphony of city life, a tale of choices and consequences unfolded. Picture Nicholas Brzezinski, a seasoned traffic warden, navigating the intricate dance of parking regulations like a sailor steering through a sea of rules. Yet, even the most experienced sailors can be tempted by shortcuts.
+
+Brzezinski, with his trusty Nissan Primera, found himself at a crossroads. Faced with the looming specter of parking fines, he chose a path less honorable, using visitor permits as a shield against the relentless tick of the parking meter. It was as if he had donned an invisibility cloak, hoping to slip unnoticed through the watchful eyes of the law.
+
+But the city, much like a vigilant guardian, was not to be deceived. A whisper of misconduct reached the ears of Portsmouth City Council, setting in motion a chain of events that would unravel Brzezinski's secret. Enforcement officers, akin to detectives in a mystery novel, descended upon the LA North parking zone, uncovering the truth hidden in plain sight.
+
+As the courtroom drama unfolded, Brzezinski stood before the magistrates, his actions laid bare like pages in an open book. His defense painted him not as a villain seeking riches, but as a man caught in the web of his own decisions. The permits, once lawfully obtained, had become tools of deception, a testament to the slippery slope of bending rules.
+
+In the end, Brzezinski's story serves as a reminder of the ripple effect of individual choices. His decision to sidestep the rules not only cost him his job but also highlighted the delicate balance between personal gain and communal responsibility. As he embarks on 80 hours of unpaid work, the lesson echoes through the streets of Portsmouth: every choice, no matter how small, contributes to the larger tapestry of community integrity.","use storytelling techniques, incorporate vivid imagery and narrative elements like steps and decisions, maintain a friendly and engaging tone, include analogies, use personification and relatable comparisons, simplify complex ideas into digestible steps, emphasize practical actions and real-world examples, highlight the impact of individual choices on a larger scale.
+","adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","A traffic warden has been sacked after he was caught using visitor permits to avoid a parking fine. Nicholas Brzezinski, 64, used the permits on his Nissan Primera while working as a parking warden in Portsmouth. He was investigated  when Portsmouth City Council were tipped off that staff were abusing parking rules, and enforcement officers were sent to the LA North parking zone in Southsea to investigate. Flouting the rules: Nicholas Brzezinski, 64, used visitor permits on his Nissan Primera while working as a parking warden in Portsmouth so he didn't get a parking ticket . Used his inside knowledge: Brzezinski was investigated when Portsmouth City Council were tipped off that staff were abusing parking rules, and enforcement officers were sent to investigate . When they arrived,they saw Brzezinski’s Nissan Primera parked there . displaying a visitor permit, Portsmouth Magistrates’ Court, Hampshire, . heard. It . was later discovered that on several occasions, he was dishonestly . using a visitors parking permit when tasked with working as a parking . warden. When asked why he had flouted parking rules in Portsmouth, Hampshire, he said: 'So I wouldn’t get a parking ticket.' Victoria Putnam, prosecuting, said: 'The defendant was a fully-trained, experienced civil enforcement officer who undoubtedly used his knowledge to take advantage of the parking restrictions.' Brzezinski admitted four counts of using a device with intent to deceive between November last year and February. Caught: Brzezinkski was caught out when enforcement officers were sent to the LA North parking zone in Southsea (one of the streets is pictured) to see if staff were parking their cars there . He admitted one count of possessing an item for use in connection with fraud. Marie de Redman, defending, said: 'He knew he was breaching the terms of the permits. 'But he wasn’t trying to do so in such a way that he was trying to cheat anybody out of any money or gain anything for himself.' The court heard the permits were lawfully obtained and that Brzezinski, from Portsmouth, had used them lawfully previously. Brzezinkski, who was in the Merchant Navy and had been due to retire in February next year, has been dismissed from his job at the city council. He is appealing the decision. He was ordered to do 80 hours of unpaid work in the next year and told to pay £529.70 costs and a £60 victim surcharge."
+4,plume,summarization,prose.full,qwen,8337,cnn_dailymail,4,4,"Once upon a time, in the lovely land of Eastwell, Leicestershire, there was a magical farm called Crossroads Farm. Step 1: Farmer Alan Hewson, who was as wise as an old owl, decided to install a special vending machine. This machine was like a treasure chest, offering the freshest milk straight from the cow!
+
+Step 2: The milk, produced by Alan's 60 Red Poll cows, was pasteurised to make sure it was safe & sound. It was then stored in a big tank, ready for anyone who wanted a taste of this creamy delight.
+
+Step 3: Visitors, like Clara & her mother Eleanor, could fill up their bottles with milk for just £1 a litre. If they didn't have a bottle, they could buy a shiny, re-usable one for £2. The machine was clever too! It knew exactly how much milk was taken & even gave change.
+
+Step 4: Farmer Alan & his wife Jane were thrilled to see so many people enjoying their milk. It was like a secret spreading through the village, with people coming from near & far to try it.
+
+Step 5: Most of the milk was used to make a special cheese called Colwick, invented long, long ago in 1660. But with the vending machine, nothing went to waste, & everyone could enjoy the freshest milk, just like magic!
+
+And so, the farm was filled with happy visitors, all enjoying the nutritious & wonderful milk, straight from the cow. The end.","Once upon a time, in the picturesque countryside of Eastwell, Leicestershire, a farmer named Alan Hewson embarked on a journey to bring the freshest milk to his community. Imagine a place where the morning dew still clings to the grass, and the gentle mooing of Red Poll cows fills the air. Alan, alongside his wife Jane, decided to cut out the middleman and offer milk straight from the source, much like a fresh apple plucked directly from the tree.
+
+The couple installed a unique vending machine at Crossroads Farm, a contraption that transformed the way locals experienced milk. Picture this: a gleaming machine, standing proudly amidst the rolling fields, offering a creamy delight for just £1 a litre. The process was simple yet revolutionary. The milk, once pasteurized to ensure safety, flowed into the machine's tank, ready for eager customers to fill their bottles. It was as if Alan had opened a portal to a bygone era, where milk was as fresh as the morning sun.
+
+Visitors, like Clara Ceney and her mother Eleanor, found themselves enchanted by this novel experience. They could choose their desired amount of milk, much like selecting the perfect amount of sugar for a cup of tea. And if they fancied a semi-skimmed version, they simply skimmed the cream off the top, a delightful nod to the past when milk was a personal affair.
+
+Alan's decision to introduce this vending machine was not just about convenience; it was a step towards sustainability. By offering milk directly, he ensured that none of it went to waste, much like a chef using every part of an ingredient to create a masterpiece. The machine became a beacon of freshness, drawing in curious travelers and locals alike, spreading its fame through whispers at the local pub.
+
+In this tale of innovation and tradition, Alan and Jane's choices rippled through the community, reminding everyone of the simple joys of life and the power of individual actions. Their story is a testament to how a single decision can transform a small farm into a hub of freshness and sustainability, one litre at a time.","use storytelling techniques, incorporate vivid imagery and narrative elements like steps and decisions, maintain a friendly and engaging tone, include analogies and relatable comparisons, simplify complex ideas into digestible steps, highlight the impact of individual choices on a larger scale, emphasize practical actions and real-world examples.
+","adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","Published: . 04:11 EST, 25 April 2014 . | . Updated: . 05:31 EST, 25 April 2014 . A farm is letting customers pump milk straight from the cow after installing a new vending machine that cuts out the milkman. Farmer Alan Hewson, 56, who runs Crossroads Farm in Eastwell, Leicestershire, installed the machine to give his customers the freshest milk possible. The only process the milk goes through to get from the udder to the mouth is pasteurisation, which kills bacteria. Scroll down for video . Milk-lover Clara Ceney fills up a bottle at the new 'straight from the cow' vending machine at Crossroads Farm, Leicestershire . The milk is pasteurised before being stored in a tank so customers to remove however much they want . Farmer Alan Hewson says the new machine offers his customers the freshest milk available . The freshly pumped liquid, once pasteurised, is transferred into the tank of the vending machine, which visitors to the farm can use to fill up their bottle. Mr Hewson, who runs the farm and creamery with his wife Jane, 57, is allowing customers to pour themselves milk, produced by Alan's 60 Red Poll cows, which graze just yards away, for just £1 a litre. Father of five Mr Hewson said: 'You can't get much fresher than this. The milk isn't homogenised so the cream will separate naturally from the milk. 'People can either shake the milk to mix it all back up, or if they fancy semi-skimmed simply take the cream from the top.' Visitors can choose how much milk they want by pressing the 'stop' button when they have enough and if they haven't got a traditional pint bottle they can buy a re-usable container for £2. The mechanism within the machine automatically calculates how much milk has been drained and it also gives out change. Mr Hewson, who runs the farm with his wife Jane, 57, hopes the machine will mean almost none of his milk is wasted . Most of the farm's milk, produced by their Red Polls cow herd, is used to make a cheese called Colwick . Clara and her mother Eleneanor take advantage of the machine, which charges just £1 per litre . Mr Hewson said: 'It has been amazing how popular the vending machine has been. It has just spread by word of mouth. 'We had two girls come to sample the milk after they heard people talking about it down the local pub. We are out of the way in location but there is a steady stream of motorists who travel in this area. 'We are happy to offer milk straight from the cow - a nutritious and wonderful tasting milk which a lot of people have never experienced before.' The Hewsons use most of the milk from their Red Polls herd to make a historic and popular cheese called Colwick, which was invented in 1660 in the village of Colwick, Nottinghamshire. But as the couple found they had lots of excess milk, they decided the perfect thing to do was introduce their vending machine, so nothing went to waste. Mr Hewson said: 'We are happy for people to come and help themselves. Lots of younger people have been coming to sample our fresh milk which is great, as it's so nutritious.'"
+5,plume,summarization,prose.full,qwen,8337,slf5k,5,0,"BREAKUP BLUES: WHEN HONESTY HURTS
+
+Was it REALLY a breakup we both wanted? 🤔 Three nights ago, I opened up about feeling stuck in my relationship of 6 months. She took it as a sign to END things. Did I make a mistake? 💔
+
+THE AFTERMATH: MOVING ON OR MOVING TOO FAST?
+
+She moved on QUICKLY, hooking up with someone else the very next day. Was it just confusion, or did our relationship mean LESS to her than I thought? 😢
+
+WHERE DO WE GO FROM HERE?
+
+I'm left wondering: Was honesty the BEST policy? And how do I deal with the blame game when I was just trying to be truthful? HELP! #BreakupBlues #RelationshipWoes","The author recounts a recent breakup with his girlfriend of six months, which stemmed from a conversation about feeling stuck in their relationship. Although he suggested a breakup as a potential solution, he was unsure and confused about his feelings. His girlfriend, interpreting his words as a breakup, left in tears. After a few days of reflection, the author realized he didn't truly want to end the relationship. However, upon meeting again, his girlfriend revealed she had already hooked up with another guy, claiming it was due to confusion and hurt. The author struggles to reconcile her actions with her professed feelings for him and feels unfairly blamed for the breakup, despite his initial honesty. He is left questioning what to do next.",,adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"Three nights ago, my girlfriend (6 months) and I had a conversation about our relationship that resulted in a break up. I was completely honest with her about how I felt like we were in a rut. She said something along the lines of, ""it sounds like you're telling me we should break up."" Although the thought of time apart had crossed my mind as a possible solution, I was really just confused and didn't know what to do. She cried and told me she loved me but that if I was unhappy that we should break up. I agreed, at the time, and she walked out without saying another word. 
+
+It took me a few days of wandering around confused, but I finally realized that this break up was something that neither of us really wanted - or so I thought. We met up to talk and she admitted to hooking up with another guy the night before - and all day long. She claims she was confused and hurt and that it meant nothing, but I'm having a really hard time buying the fact that this relationship really meant a lot to her given the fact that she wasted absolutely no time finding another guy to have sex with. 
+
+I know the breakup hurt her a lot, but it hurt me too! Just because I was the one who ""technically"" decided that we should break up, she's been blaming this whole situation on me. I was just trying to be honest with her... What do I do?"
+6,plume,summarization,prose.full,qwen,8337,slf5k,6,1,"🚀 WEIGHT LOSS JOURNEY: CHALLENGES & DISCOVERIES 🚀
+
+🔍 Struggling with Weight Gain
+Ever felt like you're fighting a losing battle with the scale? This user shares their journey of gaining 50-60 pounds, reaching 205 pounds at 5'10"". Could a diagnosis of polycystic ovarian syndrome be the reason weight loss feels IMPOSSIBLE?
+
+💔 Body Image & Self-Perception
+Remember when you LOVED how you looked? This user reminisces about their freshman year of college, now feeling uncomfortable with their current self. Is it time for a CHANGE?
+
+🏃‍♀️ Attempts at Weight Loss
+Tried counting calories but can't keep track? Hate running but attempted a 5k? This user shares their struggle with finding the WILLPOWER to start and stick to a weight loss plan. What's the SECRET to success?
+
+💡 Seeking Solutions
+With a goal to lose 40-50 pounds, this user is searching for a way to BEGIN their journey. Could the support of a community be the KEY to unlocking their potential?","Struggling with weight gain and self-image can feel like an emotional rollercoaster! Have you ever looked in the mirror and felt a pang of discomfort, longing for the days when you felt confident and carefree? This is the fiery and tender reality for someone grappling with a 50-60 pound weight gain and the daunting diagnosis of polycystic ovarian syndrome. The urgency to reclaim their former self is palpable, yet the path forward is shrouded in uncertainty. Despite attempts at calorie counting and exercise, the struggle to find willpower is real and relatable. The emotional aftermath of each decision—whether to push forward or give in—leaves a lingering question: How do you find the strength to start anew when the journey feels so overwhelming? The battle is not just physical but deeply emotional, and the stakes are high. Can they overcome this challenge and rediscover the person they once loved? The journey is fraught with challenges, but the hope for transformation burns brightly!","use emotive language and questions to engage the reader, highlight the 火热和温柔 to create a sense of urgency and relatability, emphasize the aftermath and emotional struggles with decisions, start with a bold statement to grab attention, use exclamation points for emphasis.
+",adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"[F]irst time even knowing about this sub, seems like an awesome place!
+
+I've been gaining weight since last school year and have managed to pack on about 50-60 pounds, leaving me at 5'10"" and around 205 pounds. I also found out from a recent doctor's visit (through various blood and insulin tests) that I might have polycystic ovarian syndrome. Essentially means that weight loss may be a bit more of a problem to lose weight than I've been hoping.
+
+I go through days at a time where I really hate how I look; I loved how I looked freshman year of college, but with the extra weight I'm very uncomfortable with myself. I've been trying off-and-on to lose weight - 40 to 50 pounds would be ideal - but I simply have no idea how to even start. I've tried counting calories (am shit at it and never keep track for more than 2 days at a time), I've ""tried"" exercising (boyfriend and I ran a 5k earlier this summer - didn't make it the whole through and I HATE running distances longer than a mile). I simply have no willpower."
+7,plume,summarization,prose.full,qwen,8337,slf5k,7,2,"🤔 FRIENDSHIP DILEMMA: OLD VS. NEW 🤔
+
+🔹 OLD FRIENDS 🔹  
+Do you ever feel like your OLD friendships just aren't the SAME anymore? This person LOVES their childhood friends but finds hanging out with them a CHORE. Why is it so HARD to tell them the truth without hurting feelings?
+
+🔹 NEW CONNECTIONS 🔹  
+Isn't it AMAZING how NEW friends can feel like FAMILY so quickly? This person shares EVERYTHING with their newer friends, but how do they balance time without DISAPPOINTING the old crew?
+
+🔹 THE BIG QUESTION 🔹  
+How do you navigate the tricky waters of FRIENDSHIP when your heart is PULLED in two directions? 🤔 #FriendshipGoals #LifeChoices","**Is it possible to love someone and yet feel trapped by their expectations?** This is the impossible dilemma faced by a young adult torn between two worlds: the comforting familiarity of old friendships and the vibrant allure of new connections. How do you choose when your heart is split in two? The emotional struggle is real, as the secret longing for change clashes with the fear of hurting those who have been there since the beginning. The aftermath of such decisions can be overwhelming, leaving one to wonder if it's ever truly possible to balance the 紫色和蓝色 of life. The urgency to find a solution is palpable, as time spent with older friends feels like a shadow of what once was, while the new friendships offer a fresh, exciting perspective. How do you navigate this emotional labyrinth without losing a part of yourself? #FriendshipDilemma #EmotionalStruggles #LifeChoices #紫色和蓝色","start with a bold statement to grab attention, use emotive language and questions to engage the reader, emphasize the aftermath and emotional struggles with decisions, incorporate a sense of urgency or importance using words like 'impossible', 'change', and 'secret', highlight the 紫色和蓝色 to create a sense of urgency and relatability, include relevant hashtags to categorize the content.
+",adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"I have 2 groups of friends essentially. For the most part we are all 22. My older friends from way back when in elementary/high school, and my newer friends who I have met in my time after high school. I have become very close with most of the latter group and end up talking to them about all of my issues, and end up sharing very little with my older friends. I just don't feel that trust, or bond there.
+
+The problem is, I don't enjoy hanging out with my older friends. I have nothing against them as people, in fact, I still love them as they are my oldest friends. But something about when we do things just isn't enjoyable. They always expect to hang out on weekends all day every day, and they get disappointed when I split my time.
+
+How do I win this situation reddit? I feel like I can't tell them I don't like hanging out with them as it may hurt their feelings, but honestly, I don't enjoy spending time with them..."
+8,plume,summarization,prose.full,qwen,8337,slf5k,8,3,"💔 RELATIONSHIP WOES: WHEN INSECURITY TAKES THE WHEEL 💔
+
+🔍 THE ROOT OF THE PROBLEM
+Ever felt like you're TOO GOOD for someone? This guy's GF thinks so, and it's tearing them apart. Is insecurity the REAL villain here?
+
+🤔 WHAT'S NEXT?
+They've got a DEEP connection, but can love survive when one feels INADEQUATE? What would YOU do in his shoes?
+
+#RelationshipStruggles #InsecurityIssues #LoveDilemma","**Is love enough when insecurity looms large?** 💔
+
+Navigating the tricky waters of a relationship where one partner feels ""not good enough"" can feel impossible. This emotional struggle is a \u77db\u76fe\u548c\u56f0\u60d1 that many face, leaving hearts in shades of \u7d2b\u8272\u548c\u84dd\u8272. The aftermath of such feelings can be \u706b\u70ed\u548c\u6e29\u67d4, a mix of fiery passion and gentle warmth, yet fraught with confusion.
+
+- **Connection**: Met at 20 & 17, a bond that grew stronger over 5 yrs.
+- **Conflict**: Serious issues arose in '14, leading to a 3-month silence.
+- **Root Cause**: Her insecurity—""You're just better than me.""
+- **Dilemma**: Despite the love, she feels she has ""very little to offer.""
+
+What do you do when love feels impossible to sustain? Can change happen when insecurity is the root? 🤔
+
+This story is a reminder of the tricky balance between love and self-worth. How do you navigate such a complex emotional landscape? 💭
+
+#LoveStruggles #Insecurity #RelationshipDilemmas #HeartVsMind 💔✨","start with a bold or thought-provoking statement, use emotive language and questions, emphasize emotional struggles and aftermath, incorporate urgency using words like 'impossible', 'change', 'tricky', and 'navigate', highlight \u7d2b\u8272\u548c\u84dd\u8272, \u706b\u70ed\u548c\u6e29\u67d4, and \u77db\u76fe\u548c\u56f0\u60d1 to create relatability, include relevant hashtags, use bullet points for clarity, use abbreviations and emojis for brevity, and enhance engagement with exclamation points and emojis.
+",adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"I'm not sure how to succinctly explain this.
+
+Right after I turned 20 I met a girl who was 17 going on 18. We had a very deep connection, right away and it only got stronger over our five years together. At the end of '14 we started having serious problems...stuff on both sides, she began to abuse me and we stopped talking for 3 months.
+
+After talking some stuff over at length, it became clear to me (and she verbatim confirmed) that the root cause of our problems is her insecurity. Quite simply, she thinks I'm too good for her. This sounds like a huge humblebrag, but it's not. It scares me because it's not some problem with a broken part...it's complex.
+
+""I have very little to offer you. I'm nice, of average intelligence, and mildly attractive...you're great.""
+
+She says she just can't understand why I want to be with her, or love her, and that the insecurity behind that is the root cause of our problems.
+
+I say this only because it's pertinent: on paper, she's 'right'. I know for example that she's insecure about the disparity in our looks. 
+
+""You're just better than me.""
+
+At the same time, we have something incredible and unique and special. She must have said to me twenty times:
+
+""I don't know what to do""
+
+What do *I* do!?"
+9,plume,summarization,prose.full,qwen,8337,slf5k,9,4,"💞 BEST FRIENDS OR SOMETHING MORE? 💞
+
+🔍 THE DILEMMA OF FRIENDSHIP AND LOVE 🔍
+
+Can a friendship survive the leap to romance? 🤔 We've been BEST FRIENDS for 5 YEARS, sharing EVERYTHING from breakups to birthdays. He describes his PERFECT GIRL, and it sounds like ME. 😳 But is it worth risking our friendship? Would he feel the SAME WAY? 💔
+
+🔗 THE CONNECTION 🔗
+
+He COMPARES every date to ME and says I'm one of the ONLY people he can COUNT ON. Is this a sign? Should I take the plunge or stay SAFE in the friend zone? 🤷‍♀️
+
+#FriendshipGoals #LoveOrFriendship #RiskOrReward","**Is it possible to risk everything for love?** 💔💚
+
+Navigating the tricky waters of friendship and love can feel impossible. When the lines between deep friendship and potential romance blur, the emotional struggle is real and intense. 🌊💙
+
+- **Core Conflict**: Best friends for 5 years, both 26, sharing life's ups and downs. 🎂🎉
+- **Emotional Complexity**: He describes his perfect girl, and it sounds like her. Yet, he fears jeopardizing their bond. 😟
+- **Personal Dilemma**: She feels a pull towards exploring more than friendship but fears rejection and losing him. 💔
+- **Urgency & Relatability**: The contrast between the warmth of their connection and the deep fear of change is palpable. 🌈🖤
+
+The aftermath of such a decision could paint their world in vibrant colors or leave it in shades of gray. 🌈⚫️
+
+- **Questions to Ponder**: 
+  - Can they navigate this emotional maze without losing each other? 🤔
+  - Is the risk worth the potential reward? 💭
+
+The emotional journey is fraught with deep reflections and tricky decisions. The stakes are high, and the heart is on the line. ❤️‍🔥
+
+#FriendshipVsLove #EmotionalJourney #RiskAndReward #HeartOnTheLine #NavigateLove 💬❤️","start with a bold or thought-provoking statement, use emotive language and questions, emphasize emotional struggles and aftermath, incorporate urgency using words like 'impossible', 'change', and 'navigate', highlight 绿色和蓝色, 黑色和红色, 灰色和鲜艳色彩 to create relatability, include relevant hashtags, use bullet points for clarity, use abbreviations and emojis for brevity, enhance engagement with exclamation points and emojis, focus on the core conflict and emotional journey, incorporate personal reflections and dilemmas, highlight the 蓝色和绿色 to create a sense of urgency and relatability, include relevant hashtags to categorize the content, start with a thought-provoking question, emphasize the contrast between old and new friendships, highlight the struggle and emotional complexity, incorporate a sense of urgency or importance using words like 'tricky' and 'navigate', use bullet points for clarity and structure, highlight the 鲜艳色彩和灰色 to create a sense of urgency and relatability, use exclamation points for emphasis, use emojis to enhance engagement, highlight the 深邃和温暖 to create a sense of urgency and relatability, emphasize the aftermath and the struggle with emotions and decisions, use emotive language and straightforward statements to reflect the user's style.
+",adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"Long story short, we've been best friends for going on five years. I am a female age 26 and he is a male age 26. We've been there for each other through breakups, family troubles, birthdays, holidays, we know each others' families. We can talk on the phone or in person for hours on end and see each other multiple times a week.
+
+When I was dating someone else this summer, we had a drunk conversation at the beach where he described his perfect girl, and it sounded like he was describing me, but he was quick to say he'd never want to do anything to jeopardize our friendship.
+
+He compares all the girls that he goes on dates with to me.
+
+Just a few days ago he told me that I was one of the only people he could count on, and I feel the same way about him.
+
+I feel a huge desire to explore things with him as more than friends, but I'm terrified of being rejected by him and also losing our friendship."
+10,plume,summarization,prose.full,qwen,8337,wikipedia,10,0,"```screenplay
+INT. TIME TRAVELER'S LOUNGE - DAY
+
+A group of TIME TRAVELERS, dressed in a mix of modern and 17th-century attire, gather around a holographic display. The year 1683 flashes on the screen.
+
+TIME TRAVELER #1
+(raps)
+Yo, check it, 1683, a year that’s lit,
+Ashmolean Museum opens, first uni hit.
+Rye House Plot, they tried to off the king,
+But got busted, man, that’s a crazy thing.
+
+TIME TRAVELER #2
+(chimes in)
+Shi Lang sails with his massive crew,
+To Taiwan, Qing Dynasty’s debut.
+Ottomans at Vienna, they thought they’d win,
+But Sobieski’s cavalry, they did them in.
+
+TIME TRAVELER #3
+(enthusiastically)
+Germantown’s founded, a future celebration,
+And New York’s split into twelve, a new formation.
+The Thames froze over, a frost fair’s delight,
+While wild boars in Britain, they said goodnight.
+
+TIME TRAVELER #4
+(adding)
+Births and deaths, a roll call of fame,
+From King George II to Rameau’s name.
+Shaftesbury and Colbert, they took their leave,
+While new stars like Réaumur began to weave.
+
+TIME TRAVELER #5
+(closing)
+So there you have it, 1683’s scene,
+A year of plots, battles, and a museum dream.
+From Vienna’s siege to Germantown’s birth,
+This year’s got stories of epic worth.
+
+The TIME TRAVELERS nod in agreement, the holographic display fades, and they prepare for their next adventure.
+
+FADE OUT.
+```","The year 1683 marked significant historical events and notable births and deaths. The Ashmolean Museum opened as the first university museum, and the Rye House Plot to assassinate Charles II was uncovered. The Qing Dynasty, led by Admiral Shi Lang, successfully quelled the Kingdom of Tungning, incorporating it into the Qing Empire. The Battle of Vienna was a turning point against the Ottoman Empire, with Polish, Austrian, and German forces breaking the siege. Germantown, Pennsylvania was founded, later celebrated as German-American Day. The year also saw the extinction of wild boars in Britain. Notable births included René Antoine Ferchault de Réaumur, Caroline of Ansbach, and King George II of Great Britain. Prominent deaths included Anthony Ashley-Cooper, 1st Earl of Shaftesbury, and Jean-Baptiste Colbert, French minister of finance.",,adopt a rhyming structure; include modern slang; write in the style of a screenplay,"Year 1683 was a common year that started on Friday when using the Gregorian calendar.
+
+Events 
+
+ June 6 – The Ashmolean Museum opens as the world's first university museum.
+ June 12 – The Rye House Plot to assassinate Charles II of England is discovered.
+ July 8 – The Qing Dynasty Chinese admiral Shi Lang led 300 ships with 20,000 troops out of Tongshan, Fujian and sailed towards the Kingdom of Tungning, in modern-day Taiwan and the Pescadores in order to quell the kingdom in the name of Qing.
+ July 14 – A 140,000-man Ottoman force arrives at Vienna in June and starts to besiege the city. The siege is broken at the Battle of Vienna on September 12 with the arrival of a force of 70,000 Polish, Austrians and Germans under Polish-Lithuanian king Jan III Sobieski, whose cavalry turns their flank. Considered to be the turning point in the Ottoman Empire's fortunes.
+ July 16 and July 17 – Battle of Penghu, the Qing Chinese admiral Shi Lang defeats the naval forces of Zheng Keshuang in a decisive victory.
+ September 5 – the Qing Chinese admiral Shi Lang receives the formal surrender of Zheng Keshuang, ushering in the collapse of the Kingdom of Tungning, which was then incorporated into the Qing Empire. Shi Lang reached Taiwan on October 3 and occupied present day Kaohsiung.
+ October 6 – Germantown, Pennsylvania is founded, leading in 1983 to U.S. President Ronald Reagan declaring a 300th Year Celebration, and in 1987, it became an annual holiday, German-American Day.
+ November 1 – The  British crown colony of New York is subdivided into 12 counties.
+ December – The River Thames freezes, allowing a frost fair to be held.
+
+Undated 
+ Wild boars are hunted to extinction in Britain.
+
+Births 
+ February 28 – René Antoine Ferchault de Réaumur, French scientist (died  1757)
+ March 1 – Caroline of Ansbach, queen of George II of Great Britain (died 1737)
+ April 3 – Mark Catesby, English naturalist (died 1749)
+ June 23 – Etienne Fourmont, French orientalist (died 1745)
+ September 11 – Farrukhsiyar, Mughal Emperor (died 1719)
+ September 25 – Jean-Philippe Rameau, French composer (died 1764)
+ October 25 – Charles FitzRoy, 2nd Duke of Grafton, British politician (died 1757)
+ November 10 – King George II of Great Britain (died 1760)
+ November 30 – Ludwig Andreas Graf Khevenhüller, Austrian field marshal (died 1744)
+ December 19 – King Philip V of Spain (died 1746)
+ December 27 – Conyers Middleton, English minister (died 1750)
+
+Deaths 
+ January 21 – Anthony Ashley-Cooper, 1st Earl of Shaftesbury, British politician (born 1621)
+ February 18 – Nicolaes Pieterszoon Berchem, Dutch painter (born 1620)
+ March 19 – Thomas Killigrew, English dramatist (born 1612)
+ March 29 – Yaoya Oshichi, a young girl burned at the stake for arson in 17th Century Japan (born 1667)
+ July 10 – François-Eudes de Mézeray, French historian (born 1610)
+ July 13 – Arthur Capell, 1st Earl of Essex, English statesman (born 1631)
+ July 30 – Marie-Thérèse, first wife of Louis XIV of France (born 1638)
+ August 18 – Charles Hart, English actor (born 1625)
+ August 24 – John Owen, English non-conformist theologian (born 1616)
+ September 6 – Jean-Baptiste Colbert, French minister of finance (born 1619)
+ September 12 – King Afonso VI of Portugal (born 1643)
+ October 25 – William Scroggs, lord chief justice of England (born c.1623)
+ December 7 – John Oldham, English poet died from smallpox (born 1653)
+ December 7 – Algernon Sydney, English politician (born 1623)
+ December 15 – Izaak Walton, English writer (born 1593)
+
+References"
+11,plume,summarization,prose.full,qwen,8337,wikipedia,11,1,"INT. POLITICAL STAGE - DAY
+
+NARRATOR (V.O.)
+Yo, gather 'round, let me drop some facts,  
+About Jean Charest, who led with tact.  
+Born in '58, in Sherbrooke he grew,  
+A lawyer first, then politics he pursued.
+
+CUT TO: FLASHBACK - 1984
+
+NARRATOR (V.O.)
+At twenty-six, he joined the Conservative crew,  
+Elected in Sherbrooke, making moves, it's true.  
+Youngest in the Cabinet, Minister of Youth,  
+Charest was on fire, that's the truth.
+
+CUT TO: 1995 REFERENDUM
+
+NARRATOR (V.O.)
+In '95, Quebec's fate was on the line,  
+Charest said, ""Stay with Canada, we'll be fine.""  
+The vote was tight, but Quebec stayed,  
+Charest's federalist stance was displayed.
+
+CUT TO: 1998 - LIBERAL PARTY OF QUEBEC
+
+NARRATOR (V.O.)
+In '98, he switched to the Liberal side,  
+Leader of the party, with federalists' pride.  
+By 2003, he was Premier, no doubt,  
+With 76 seats, he had clout.
+
+CUT TO: PREMIERSHIP CHALLENGES
+
+NARRATOR (V.O.)
+Housing and funding, crises in his reign,  
+Couldn't lower taxes, causing some pain.  
+Re-elected in '08, but popularity waned,  
+By 2012, his political game was strained.
+
+CUT TO: POST-POLITICS
+
+NARRATOR (V.O.)
+After politics, he chilled with his fam,  
+Back to law, where he started his jam.  
+Five firms wanted him, Toronto was keen,  
+Charest's legal skills were still on the scene.
+
+FADE OUT.
+
+NARRATOR (V.O.)
+And that's the tale of Jean Charest,  
+A political journey, come what may.","INT. TIME TRAVELER'S HUB - DAY
+
+A sleek, futuristic room buzzes with energy. Two TIME TRAVELERS, JAZZ and RICO, stand before a holographic timeline, their eyes wide with excitement.
+
+JAZZ  
+(enthusiastically)  
+Yo, Rico, check this out, a tale of political flair,  
+Jean Charest, the dude who rocked Quebec's chair!
+
+RICO  
+(grinning)  
+Born in '58, in Sherbrooke he did rise,  
+From lawyer to leader, he reached for the skies.
+
+JAZZ  
+(spoken word style)  
+In '84, he joined the Conservative crew,  
+Youngest in the Cabinet, making moves like whoa!  
+Minister of Youth, then Fitness and Sport,  
+Charest was the man, a political fort.
+
+RICO  
+(dramatically)  
+The '95 referendum, a pivotal scene,  
+Quebec's fate in balance, a nation caught between.  
+Charest stood firm, a federalist knight,  
+Kept Quebec in Canada, a legacy of might.
+
+JAZZ  
+(rhyming couplets)  
+In '98, he switched to the Liberal side,  
+Led the party with passion, a political ride.  
+By '03, he was Premier, the top of the game,  
+Though crises hit hard, he held onto his name.
+
+RICO  
+(enthusiastically)  
+But yo, the housing and funding, they took a toll,  
+His promises faltered, couldn't reach the goal.  
+Yet in '08, he still snagged the vote,  
+Though popularity waned, he stayed afloat.
+
+JAZZ  
+(vividly)  
+By 2012, the winds had changed,  
+Charest stepped down, his career rearranged.  
+Back to law, with family in tow,  
+A legacy of impact, his story aglow.
+
+RICO  
+(modern slang)  
+And let's not forget, his partner in crime,  
+Michèle Dionne, his rock through time.  
+Three kids, a family strong and tight,  
+Charest's journey, a political flight.
+
+JAZZ  
+(excitedly)  
+So there you have it, a tale of grit and grace,  
+Jean Charest, a legend in the political race!
+
+The holographic timeline fades, leaving Jazz and Rico in awe of the legacy they've just explored.
+
+FADE OUT.","use rhyming couplets and spoken word style, incorporate modern slang and references, include dramatic and enthusiastic dialogue, highlight key events with vivid descriptions, focus on historical figures' impact and legacy, structure the summary as a screenplay with time travelers discussing historical events
+",adopt a rhyming structure; include modern slang; write in the style of a screenplay,"John James ""Jean"" Charest (born 24 June 1958) is a French Canadian politician. He was Premier of Quebec from 2003 until 2012 under the Quebec Liberal Party.
+
+Early life
+Charest was born and grew up in Sherbrooke. Before politics, he worked as a lawyer. He received his diploma from the University of Sherbrooke in 1981, and was admitted to the Bar of Quebec the same year.  After 3 years of working in court, Charest decided to join the Conservative Party of Canada in 1984. He was only 26 years old when he was elected as the representative of Sherbrooke.
+
+Conservative Party of Canada
+Jean Charest had joined the Conservative Party of Canada in 1984. In the same year, he was appointed as Assistant Deputy Chair of Committees of the House of Commons. On June 1986, he joined the Cabinet of Prime Minister Brian Mulroney. He was the youngest person to serve in the Cabinet. He was given the job of Minister of State for Youth. Charest was re-elected in 1988, and served as Minister of State for Fitness and Amateur Sport.
+
+In 1984, the Prime Minister of Canada, Brian Mulroney, promised that Quebec would sign the Canadian Constitution, which every other province had already signed two years before. Jean Charest was very involved in this project, but it did not succeed.
+
+Referendum of 1995
+In 1995, Quebec was governed by the Parti Québécois, who started a referendum about whether Quebec should stay as a part of Canada. In others words, the population had the choice of staying or leaving the country.  Jean Charest was against the idea of Quebec leaving the union. The results were very close, but Quebec stayed as part of the country.
+
+Liberal Party of Quebec
+
+During the 1990s, the sovereignty movement was at its height. Jean Charest, who was a big part of the No campaign in 1995, had won the support of many federalists from Quebec. This is why he joined the Liberal Party of Quebec in 1998, as the leader of the party. In 1998, Charest participated at his first election as a leader of a party. He received more votes than his opponent, but did not reach the majority. He stayed as official Leader of the Opposition until 29 April 2003.
+
+Charest won the next election and became Premier of Quebec on the 29 April 2003 by receiving 45.99% of the votes from the electors. Mario Dumont from the Action Démocratique du Québec and Bernard Landry from the Parti Quebecois were his opponents. The Liberal Party won 76 out of 125 seats.
+
+Premiership
+During his government, there were crises with the housing industry and university funding. Charest was not able to lower taxes as he had promised during his campaign. In the 2008 election, the Liberal Party under Jean Charest got re-elected as the government, with 66 out of 125 seats and 42% of the votes from Quebec's electors. Charest himself was less popular in this election than the other one before. He gained 33.08% of the votes from the electors.
+
+The popularity of Jean Charest dropped down very quickly. On 4 September 2012, Charest had been defeated and he decided to quit.
+
+After his resignation, Jean Charest decided to give more time to his family and begin working again as lawyer.  At least five law firms have shown interest in his services, especially one in Toronto.
+
+Family
+
+At the age of 18 years old, Jean Charest met Michèle Dionne who became his wife.  They met while they were studying in Sherbrooke. Michèle Dionne had been considerate as a big part of his career, she has supported and has influenced many of his choices while he was in politics.  Amélie, Antoine and Alexandra are their 3 children.
+
+References
+
+1958 births
+Living people
+Premiers of Quebec
+Deputy Prime Ministers of Canada
+Members of the House of Commons of Canada from Quebec
+Privy Councillors (Canada)"
+12,plume,summarization,prose.full,qwen,8337,wikipedia,12,2,"INT. MATH CLASSROOM - DAY
+
+NARRATOR (V.O.)
+Yo, gather 'round, let's talk 'bout rings,  
+In math, they're like the bling of things.  
+Addition and multiplication, they gotta play,  
+Follow the rules, or they can't stay.  
+
+PROFESSOR
+(gesturing to the board)
+Check it, closure's the name of the game,  
+Add or multiply, the result's the same.  
+Additive identity, zero's the dude,  
+Add it up, and it won't change the mood.  
+
+STUDENT 1
+(raising hand)
+So, like, commutativity's the vibe, right?  
+Order don't matter, left or right.  
+
+PROFESSOR
+(nodding)
+You got it, kid, that's the scene,  
+Associativity keeps it clean.  
+Inverse is key, flip it back,  
+Add 'em up, zero's on track.  
+
+STUDENT 2
+(leaning back)
+And what's this 'bout special rings, yo?  
+Commutative, unity, division, let's go!  
+
+PROFESSOR
+(enthusiastic)
+Commutative rings, they swap with ease,  
+Unity's got that one, like a breeze.  
+Division rings, inverse in play,  
+Integral domains, zero's outta the way.  
+
+NARRATOR (V.O.)
+Fields are the champs, they got it all,  
+In the world of rings, they stand tall.  
+So that's the scoop, the math bling bling,  
+Rings in algebra, they do their thing.","```screenplay
+INT. TIME TRAVELER'S HUB - DAY
+
+A sleek, futuristic room filled with holographic displays. Two TIME TRAVELERS, JAY and KAI, stand before a swirling portal, ready to dive into the world of mathematics.
+
+JAY
+(enthusiastically, with a rhythmic flow)
+Yo, Kai, you ready to explore the ring?
+Not the bling, but the math kind of thing.
+
+KAI
+(nodding, matching the rhythm)
+Yeah, let's dive into Hilbert's mind,
+Where numbers and operations intertwine.
+
+The portal shimmers, revealing a scene from the past.
+
+CUT TO:
+
+EXT. GERMANY - LATE 19TH CENTURY
+
+DAVID HILBERT, a visionary mathematician, scribbles furiously on a chalkboard. The word ""Zahlring"" stands out.
+
+JAY (V.O.)
+Hilbert's legacy, Zahlring's birth,
+A concept that shook the mathematical earth.
+
+KAI (V.O.)
+Integers, rationals, reals, and complex,
+All part of the ring, no need to flex.
+
+BACK TO:
+
+INT. TIME TRAVELER'S HUB
+
+JAY
+(gesturing to a holographic display)
+Check it, Kai, the rules are tight,
+Closure, identity, and inverse in sight.
+
+KAI
+(enthusiastically)
+Associativity and commutativity, they reign,
+In this algebraic domain, they maintain.
+
+The holographic display shifts, showing vivid animations of mathematical operations.
+
+JAY
+(leaning in, with dramatic flair)
+But wait, there's more, special rings to see,
+Commutative, unity, and division, oh gee!
+
+KAI
+(grinning)
+Integral domains where zero can't hide,
+Fields where all these properties collide.
+
+The portal swirls again, showing a montage of mathematicians through history, each building on Hilbert's foundation.
+
+JAY
+(voice rising with excitement)
+From Hilbert's chalk to modern day,
+Rings in math have paved the way.
+
+KAI
+(raising a fist triumphantly)
+Their impact's vast, their legacy grand,
+In the world of numbers, they firmly stand.
+
+The portal closes, leaving the time travelers in awe of the mathematical journey they've witnessed.
+
+FADE OUT.
+```","use rhyming couplets and spoken word style, incorporate modern slang and references, highlight key events with vivid descriptions, focus on historical figures' impact and legacy, structure the summary as a narrative with clear transitions between events, use visual cues and narrative cuts to enhance storytelling, include dramatic and enthusiastic dialogue, structure the summary as a screenplay with time travelers discussing historical events.
+",adopt a rhyming structure; include modern slang; write in the style of a screenplay,"In mathematics, a ring is an algebraic structure consisting of a set together with two operations: addition (+) and multiplication (•). These two operations must follow special rules to work together in a ring. 
+
+Mathematicians use the word ""ring"" this way because a mathematician named David Hilbert used the German word Zahlring to describe something he was writing about. The integers, the rational numbers, the real numbers and the complex numbers are all famous examples of rings. There are other, more unusual examples of rings, however they all obey the special rules below.
+
+Rules
+The operations are used to combine two elements to form a third element. There are a few rules the set and the operations must obey to qualify as a ring. These are called ring axioms:
+
+ Closure: It is required to check if the suggested operations are actually operations on the set. If an operation is used on any elements in the ring, the element that is formed will also be part of the ring.
+ For all a, b in R, the result of the operation a + b is also in R.
+ For all a, b in R, the result of the operation a • b is also in R.
+ Additive Identity element: One element of the ring is special. It is called the additive identity element. If addition is used with the identity element and another element, the other element will not change.
+ There exists an element 0 in R, such that for all elements a in R, the equation 0 + a = a + 0 = a holds.
+ Associativity of Addition: When addition is done many times, it does not matter how it is grouped, the result will be the same.
+ For all a, b and c in R, the equation (a + b) + c = a + (b + c) holds.
+ Commutativity of Addition: When addition is done, it does not matter which element is on the right and left, the result will be the same.
+ For all a and b in R, the equation a + b = b + a holds.
+ Additive Inverse element: Every element in the ring has another element in the group when addition is performed between them, the result is the additive identity element. This is known as its additive inverse.
+ For each a in R, there exists an element -a in R such that a + (-a) = 0, where 0 is the additive identity element.
+ Associativity of multiplication: When multiplication is done many times, it does not matter how it is grouped, the result will be the same.
+ For all a, b and c in R, the equation (a • b) • c = a • (b • c) holds.
+ Distribution: When multiplication and addition are both done, certain rules apply.
+ For all a, b and c in R, the equation (a + b) • c = (a • c) + (b • c) holds.
+ For all a, b and c in R, the equation a • (b + c) = (a • b) + (a • c) holds.
+
+Special Kinds of Rings 
+Some rings have additional properties from those mentioned above, these rings get special names:
+
+Commutative Ring: If x • y = y • x holds for every x and y in the ring, then the ring is called a commutative ring.
+
+Ring with Unity: If there is a multiplicative identity element, that is an element e such that for all elements a in R, the equation e • a = a • e = a holds, then the ring is called a ring with unity. This element is usually written as 1.
+
+Division Ring: If every element of the ring has a multiplicative inverse, that is for each a in R, there exists an element a-1 in R such that a • a-1 = 1, where 1 is the multiplicative identity element, then the ring is called a division ring.
+
+Integral Domain: In a ring, it may be possible to multiply two things which are not zero and get zero as a result. If this is impossible in a certain ring, then the ring is called an integral domain.
+
+Field: A ring with all of the above properties is called a field.
+
+Algebra"
+13,plume,summarization,prose.full,qwen,8337,wikipedia,13,3,"``` 
+INT. TRAIN DEPOT - DAY
+
+NARRATOR (V.O.)
+Yo, check it, folks, here's the scoop,  
+On Singapore's trains, the latest troop.  
+Kawasaki and CRRC, they teamed up tight,  
+To bring the C151C into the light.  
+
+CUT TO: 
+
+EXT. TRAIN TRACKS - DAY
+
+NARRATOR (V.O.)
+Twelve new trains, they rolled in style,  
+From '17 to '19, they went the extra mile.  
+First one landed in October, twenty-seventeen,  
+By '19, they were all on the scene.  
+
+INT. TRAIN INTERIOR - DAY
+
+NARRATOR (V.O.)
+Fold-up seats and a map display,  
+Rumors of Wi-Fi? Nah, no way.  
+Black and white with a stripe of red and green,  
+These trains are the freshest you've ever seen.  
+
+EXT. TRAIN YARD - DAY
+
+NARRATOR (V.O.)
+From 186 to 198, the train count grew,  
+On the NSEWL, they're the latest crew.  
+First three hit the tracks in September '18,  
+By early '19, all twelve were keen.  
+
+INT. TRAIN CABIN - DAY
+
+NARRATOR (V.O.)
+DT-M1-M2, that's the formation,  
+With LEDs up front, it's a train sensation.  
+Car numbers start with a three, one, or two,  
+Kawasaki and CRRC, they knew what to do.  
+
+FADE OUT.
+```","``` 
+INT. TIME TRAVELER'S HUB - DAY
+
+A sleek, futuristic room filled with holographic displays and buzzing gadgets. Two TIME TRAVELERS, JESS and MAX, are lounging on bean bags, sipping on neon-colored drinks.
+
+JESS
+(enthusiastically)
+Yo, Max! Check this out. We're diving into the world of Singapore's MRT trains today. Ever heard of the Kawasaki Heavy Industries & CRRC Qingdao Sifang C151C?
+
+MAX
+(grinning)
+Oh, totally! Those are the sixth-gen trains, right? They hit the tracks on the East West and North South Lines. I heard they started rolling out between 2017 and 2019.
+
+JESS
+(nods)
+Exactly! Picture this: 12 shiny new trains, all tested and ready to rock by 2019. The first one made its grand entrance on October 27, 2017. And by September 30, 2018, three of these bad boys were already cruising on the North-South Line.
+
+MAX
+(raising an eyebrow)
+Wait, so how many trains are we talking about on the NSEWL now?
+
+JESS
+(gesturing with excitement)
+A whopping 198 trainsets, up from 186! It's like a train party on the tracks. And get this, the C151C is the first to have fold-up seats and a snazzy new Route Map Display.
+
+MAX
+(leaning forward)
+No way! I heard rumors about onboard Wi-Fi, though. Is that true?
+
+JESS
+(shaking head)
+Nah, just a myth. But the design is still lit. It's got this sleek black and white look with a red and green stripe. Totally on-brand for the NSEWL colors.
+
+MAX
+(visualizing)
+So, it's like a moving piece of art. And the train formation?
+
+JESS
+(gesturing with hands)
+Picture this: DT-M1-M2-M2-M1-DT. It's like a dance of driving trailers and motor cars. Each train's got its own ID, like 705/706. It's all about that unique train identity.
+
+MAX
+(impressed)
+Man, these trains are like the rockstars of the MRT world. Who's behind this masterpiece?
+
+JESS
+(grinning)
+Kawasaki Heavy Industries & CRRC Qingdao Sifang. They're the legends crafting these sets, from 701 to 724. It's like a legacy of engineering brilliance.
+
+MAX
+(raising his drink)
+To the C151C and its epic journey on Singapore's tracks!
+
+They clink their drinks, the holographic display showing a C151C train zooming by with a futuristic whoosh.
+
+FADE OUT.
+```","use a conversational and casual tone, incorporating modern slang and references; highlight key concepts with simple explanations; structure the summary as a narrative with clear transitions; include enthusiastic and engaging dialogue; use visual and auditory cues to enhance understanding; incorporate student interactions and reactions for dynamic content; focus on historical figures' impact and legacy; structure the summary as a screenplay with time travelers discussing historical events.
+",adopt a rhyming structure; include modern slang; write in the style of a screenplay,"The Kawasaki Heavy Industries & CRRC Qingdao Sifang C151C is the sixth generation of rolling stock to be introduced on the existing East West Line and North South Line of Singapore. 12 trains were purchased and were delivered between 2017 and 2019, where the trains were tested before starting full service in 2019.
+The first of the 12 trains was delivered on 27 October 2017. The interior design was shown on 28 February 2018 at the Tuas Depot with two trains on display.
+When all trainsets start running on the NSEWL, it will bring the total number of trains running on the NSEWL to 198 trainsets, up from the previous 186 trainsets. The first 3 C151C trainsets started running on 30 September 2018 on the North-South Line. 3 more commenced service by end-2018, and the remaining 6 started services in early 2019.
+
+Design 
+The C151C will be the first MRT rolling stock on the NSEWL to be fitted with fold-up seats, and a new Route Map Display also found in the CT251 on the Thomson-East Coast Line. Rumours were spread saying that the C151Cs will have built-in onboard free Wi-Fi have been deemed untrue when the final design of the C151Cs was unveiled on 28 February 2018 at the Tuas West Depot.
+
+The C151C retains most of the features of the C151B trains but with a different livery. It's the second train to follow the LTA's livery rules (the first was the C951) and the first train on the North South & East West Lines to use it. Unlike the C151B before it , it is finished in black for the upper body and white for the lower body, separated by a red and green stripe, which are the NSEWL colours. Unlike the C151A and C151B which has the SMRT Logos on the front, the C151C trains has the Land Transport Authority logos on its body. The front headlights have been replaced by LEDs but retained the placement like the C151B, but the C151C sports a black front from the older trains before C151A trains, albeit in a straight line like the C751B for the C151C.
+
+Train Formation 
+The configuration of a C151C in revenue service is DT-M1-M2-M2-M1-DT
+
+The car numbers of the trains range from x701 to x724, where x depends on the carriage type. Individual cars are assigned a 4 digit serial number. A complete six-car trainset consists of an identical twin set of one driving trailer(DT) and two motor cars(M1 & M2) permanently coupled together. For example, set 705/706 consists of carriages 3705, 1705, 2705, 2706, 1706 and 3706.
+
+ The first digit identifies the car number, where the first car has a 3, the second has a 1 & the third has a 2.
+ The second digit is always a 7, part of the identification numbers
+ The third digit and fourth digit are the train identification numbers. A full length train of 6 cars have 2 different identification numbers. For example, 705/706 (normal coupling) or 705/720 (cross coupling).
+ Kawasaki Heavy Industries & CRRC Qingdao Sifang built sets 701-724.
+
+Related pages
+Kawasaki Heavy Industries C151 
+Kawasaki Heavy Industries & CSR Qingdao Sifang C151A 
+Kawasaki Heavy Industries & CSR Qingdao Sifang C151B
+Siemens C651
+Kawasaki Heavy Industries & Nippon Sharyo C751B
+
+References 
+
+Rolling stock"
+14,plume,summarization,prose.full,qwen,8337,wikipedia,14,4,"INT. HOCKEY RINK - DAY
+
+NARRATOR (V.O.)
+Yo, check it, fam, in Port Arthur's icy domain,  
+The Marrs hit the rink, chasing that hockey fame.  
+Named for W.H. Marr, they skated with flair,  
+In '67, they faced the Marlboros, but lost the dare.  
+
+CUT TO:  
+A MONTAGE OF HOCKEY ACTION
+
+NARRATOR (V.O.) (CONT'D)
+In the Thunder Bay League, they made their mark,  
+From '70 to '71, they lit up the park.  
+The Eagles they became, soaring high in the game,  
+But in '80, the league folded, ending their claim.  
+
+CUT TO:  
+A SERIES OF TROPHY SHOTS
+
+NARRATOR (V.O.) (CONT'D)
+They snagged the Jack Adams, won the league with pride,  
+But the Hewitt-Dudley semi was where dreams died.  
+From '71 to '80, they had their ups and downs,  
+Winning some, losing some, wearing those crowns.  
+
+CUT TO:  
+A WALL OF FAME WITH PLAYER PHOTOS
+
+NARRATOR (V.O.) (CONT'D)
+Legends like Lee Fogolin and Benny Woit,  
+Skated with swagger, bringing the noise.  
+From the Flyers to the North Stars, they left their trace,  
+In the annals of hockey, they found their place.  
+
+FADE OUT.","``` 
+INT. CLASSROOM - DAY
+
+The classroom is buzzing with energy as students gather around a large screen displaying vintage hockey footage. MR. JONES, the history teacher, stands at the front, ready to dive into the tale of the Port Arthur Marrs.
+
+MR. JONES
+(enthusiastically)
+Alright, team! Today, we're diving into the icy world of junior hockey with the legendary Port Arthur Marrs. Picture this: it's the 1960s, and these guys are skating their hearts out in Port Arthur, Ontario—now part of Thunder Bay. They were named after their sponsor, W.H. Marr, Ltd., a trucking company. Talk about a cool name, right?
+
+STUDENT 1
+(grinning)
+Sounds like they were trucking along the ice!
+
+MR. JONES
+(laughs)
+Exactly! Now, the Marrs were part of the Thunder Bay Junior Hockey League, and they had quite the journey. In 1967, they made it all the way to the Memorial Cup finals but lost to the Toronto Marlboros. Bummer, right?
+
+STUDENT 2
+(leaning forward)
+So close! What happened next?
+
+MR. JONES
+Well, they didn't stop there. They became the Thunder Bay Marrs in 1970 and then the Thunder Bay Case Eagles in 1971. They kept battling it out on the ice, winning league titles and the TBAHA Jack Adams Trophy multiple times. But, alas, they often fell short in the Hewitt-Dudley Memorial Trophy semi-finals. It's like they were the underdogs who just couldn't catch a break!
+
+STUDENT 3
+(raising hand)
+Did they ever win anything big?
+
+MR. JONES
+Oh, for sure! They were TBJHL Champions numerous times, from way back in 1932 to 1980. And in 1967, they snagged the Abbott Cup. They were Memorial Cup finalists that same year. Not too shabby, huh?
+
+STUDENT 4
+(excitedly)
+Who were the stars on the team?
+
+MR. JONES
+Ah, the legends! Players like Lee Fogolin Sr., Fred Page, and Steve Black skated for the Marrs. And let's not forget the North Stars alumni like John Adams and Bruce Gamble. These guys left a mark on hockey history.
+
+STUDENT 5
+(impressed)
+Wow, they really had some big names!
+
+MR. JONES
+(nodding)
+Absolutely! The Marrs may have folded in 1980, but their legacy lives on. They were a testament to grit and determination, always pushing forward despite the odds. So, next time you hit the ice, channel a bit of that Marrs spirit!
+
+The students nod, inspired by the tale of the Port Arthur Marrs, as the bell rings, signaling the end of class.
+
+FADE OUT.
+```","use a conversational and casual tone with modern slang and references, structure the summary as a narrative with clear transitions and vivid descriptions, include enthusiastic and engaging dialogue, incorporate student interactions and reactions for dynamic content, highlight key concepts and events with simple explanations and visual cues, focus on technical details and historical figures' impacts, and structure the summary as a screenplay with characters discussing historical events.
+",adopt a rhyming structure; include modern slang; write in the style of a screenplay,"The Port Arthur Marrs were a junior ice hockey team that played in Port Arthur, Ontario (now part of the city of Thunder Bay).  They were named for trucking company and sponsor W.H. Marr, Ltd., and contested the 1967 Memorial Cup, which they lost to the Toronto Marlboros.
+
+History
+The Marrs played out of the Thunder Bay Junior Hockey League of Hockey Northwestern Ontario.  They became the Thunder Bay Marrs in 1970 and then the Thunder Bay Case Eagles in 1971.
+
+The North Stars folded on July 6, 1980, when the TBAHA left them with no league to play in.
+
+Season-by-season standings
+
+Playoffs
+1971 Won League, Won TBAHA Jack Adams Trophy, Lost Hewitt-Dudley Memorial Trophy semi-final
+Thunder Bay Marrs defeated Westfort Hurricanes 4 games to 1 TBJHL CHAMPIONS
+Thunder Bay Marrs defeated Fort Frances Royals (Independent) 3 games to none JACK ADAMS TROPHY CHAMPIONS
+Thunder Bay Marrs defeated Sudbury Wolves (NOJHA) 4 games to 3
+Charlottetown Islanders (MJAHL) defeated Thunder Bay Marrs 4 games to 1
+1972 DNQ
+1973 Lost Final
+Fort William Canadians defeated Thunder Bay Eagles 3 games to none
+1974 Lost TBAHA semi-final
+Thunder Bay Hurricanes (MWJHL) defeated Thunder Bay Eagles 3 games to none
+1975 Won League, Lost Hewitt-Dudley Memorial Trophy semi-final
+Thunder Bay Eagles defeated Fort William Canadians 4 games to 2
+Thunder Bay Eagles defeated Thunder Bay Hurricanes 4 games to 1 TBJHL CHAMPIONS
+Guelph CMC's (SOJHL) defeated Thunder Bay Eagles 4 games to 1
+1976 Won League, Lost Hewitt-Dudley Memorial Trophy quarter-final
+Thunder Bay Eagles defeated Fort William Canadians 4 games to none
+Thunder Bay Eagles defeated Thunder Bay Beavers 4 games to none TBJHL CHAMPIONS
+Guelph Platers (SOJHL) defeated Thunder Bay Eagles 4 games to 1
+1977 Won League, Won TBAHA Jack Adams Trophy, Lost Hewitt-Dudley Memorial Trophy semi-final
+Thunder Bay Eagles defeated Fort William Canadians 3 games to none
+Thunder Bay Eagles defeated Degagne Hurricanes 4 games to 1 TBJHL CHAMPIONS
+Thunder Bay Eagles defeated Thunder Bay Blades 4 games to none JACK ADAMS TROPHY CHAMPIONS
+North York Rangers (OPJHL) defeated Thunder Bay Eagles 4 games to 1
+1978 DNQ
+1979 Won League, Lost Dudley Hewitt Cup Semi-final
+Thunder Bay North Stars defeated Rural Voyageurs 3 games to none
+Thunder Bay North Stars defeated Degagne Buccaneers 4 games to 1 TBJHL CHAMPIONS
+Guelph Platers (OPJHL) defeated Thunder Bay North Stars 4 games to none
+1980 Won League, Lost Dudley Hewitt Cup Semi-final
+Thunder Bay North Stars defeated Degagne Buccaneers 4 games to none with 1 tie TBJHL CHAMPIONS
+North York Rangers (OPJHL) defeated Thunder Bay North Stars 4 games to none
+
+Championships
+TBJHL Champions:
+1932, 1933, 1935, 1937, 1940, 1941, 1944, 1946, 1956, 1962, 1965, 1967, 1971, 1975, 1976, 1977, 1979, 1980
+Abbott Cup Champions:
+1967
+Abbott Cup Finalists:
+1944, 1956
+Memorial Cup Finalists:
+1967
+
+Notable alumni
+Juniors
+Lee Fogolin, Sr.
+Fred Page
+Flyers
+Steve Black
+Ray Ceresino
+Steve Hrymnak
+Pentti Lund
+Calum MacKay
+Rudy Migay
+Dennis Olson
+Benny Woit
+North Stars
+John Adams
+Bruce Gamble
+Stu McNeill
+Dennis Olson
+Ralph Stewart
+Gary Veneruzzo
+PA Marrs
+John Adams
+Bill Fairbairn
+Gerry Hart
+Bob Kelly
+Vic Venasky
+Juha Widing
+TB Marrs
+Lee Fogolin Jr.
+Nelson Pyatt
+
+References
+
+Other websites
+Hockey Thunder Bay website 
+SIJHL website
+
+Ice hockey teams in Ontario
+Thunder Bay"
+15,plume,summarization,prose.full,qwen,8337,CShorten/ML-ArXiv-Papers,15,0,"<summary>
+
+**Host:** Greetings, dear listeners! Today, we embark upon a journey through the realm of hyperspectral image classification. Pray, what is the crux of this tale?
+
+**Guest Expert:** Ah, noble host, the tale unfolds thus: in the world of hyperspectral images, spatial context hath long been a beacon of hope for achieving commendable performance. Yet, lo, conventional methods oft stumble, assuming that neighboring pixels must share the same land-cover class. This assumption, alas, leads them astray in complex terrains, particularly at the boundaries of classes.
+
+**Host:** Indeed, a conundrum most perplexing! How doth one remedy such a plight?
+
+**Guest Expert:** Enter the valiant Graph Convolutional Network, or GCN, a knight of recent renown. Unlike its predecessors, this GCN doth wield two novel strategies to unravel the contextual relations with greater precision. Firstly, it extends its reach beyond the confines of traditional GCNs, capturing long-range relations by weaving a region-induced graph from the original image grids. Secondly, it refines the graph's connective sinews by learning an improved adjacency matrix and an 'edge filter', thus allowing the graph to evolve and adapt with each convolutional layer.
+
+**Host:** A strategy most cunning! And what fruits hath this endeavor borne?
+
+**Guest Expert:** The fruits, dear host, are bountiful indeed. Experiments upon three real-world benchmark datasets reveal that this method doth surpass the performance of many a state-of-the-art approach, heralding a new dawn in the realm of hyperspectral image classification.
+
+**Host:** A tale of triumph and innovation! We thank thee, noble expert, for sharing this saga with our listeners. Until next time, fare thee well!
+
+</summary>","The article discusses a novel approach to hyperspectral image (HSI) classification that addresses the limitations of traditional spatial context-based methods, which often struggle with complex pixel relationships in irregular regions. The proposed method leverages a Graph Convolutional Network (GCN) to better encode non-Euclidean data structures. It introduces two key strategies: capturing long-range contextual relations through successive graph convolutions on a region-induced graph, and refining graph edge weights and connectivity with an improved adjacency matrix and 'edge filter'. These innovations enhance the accuracy of region representations, leading to superior classification performance, as demonstrated by experiments on three benchmark datasets.",,adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"In hyperspectral image (HSI) classification, spatial context has demonstrated
+its significance in achieving promising performance. However, conventional
+spatial context-based methods simply assume that spatially neighboring pixels
+should correspond to the same land-cover class, so they often fail to correctly
+discover the contextual relations among pixels in complex situations, and thus
+leading to imperfect classification results on some irregular or inhomogeneous
+regions such as class boundaries. To address this deficiency, we develop a new
+HSI classification method based on the recently proposed Graph Convolutional
+Network (GCN), as it can flexibly encode the relations among arbitrarily
+structured non-Euclidean data. Different from traditional GCN, there are two
+novel strategies adopted by our method to further exploit the contextual
+relations for accurate HSI classification. First, since the receptive field of
+traditional GCN is often limited to fairly small neighborhood, we proposed to
+capture long range contextual relations in HSI by performing successive graph
+convolutions on a learned region-induced graph which is transformed from the
+original 2D image grids. Second, we refine the graph edge weight and the
+connective relationships among image regions by learning the improved adjacency
+matrix and the 'edge filter', so that the graph can be gradually refined to
+adapt to the representations generated by each graph convolutional layer. Such
+updated graph will in turn result in accurate region representations, and vice
+versa. The experiments carried out on three real-world benchmark datasets
+demonstrate that the proposed method yields significant improvement in the
+classification performance when compared with some state-of-the-art approaches."
+16,plume,summarization,prose.full,qwen,8337,CShorten/ML-ArXiv-Papers,16,1,"<summary>
+
+**Host:** Greetings, noble listeners! Today, we embark upon a journey through the realm of decision-making agents. Pray, what hath been the triumph of these agents in the ancient games of Chess, Shogi, and Go?
+
+**Guest:** Indeed, these agents, with their planning prowess, have conquered these venerable games. Yet, the question arises: how might they extend their dominion to more general tasks where the environment's secrets are not laid bare?
+
+**Host:** Ah, a most intriguing query! Enter the MuZero algorithm, a valiant creation by researchers. What doth this algorithm seek to achieve?
+
+**Guest:** The MuZero algorithm, dear listeners, doth endeavor to learn the very dynamical model of its environment through interaction, much like a curious traveler learning the lay of the land.
+
+**Host:** And how might this algorithm fare in more generalized environments with continuous action space?
+
+**Guest:** Verily, the authors of this scholarly parchment have extended the MuZero algorithm to such realms. They have provided the necessary theoretical results, akin to a map guiding explorers through uncharted territories.
+
+**Host:** And what of the results, pray tell? How doth this algorithm compare to the soft actor-critic (SAC) algorithm?
+
+**Guest:** In the numerical trials conducted upon two MuJoCo environments, the proposed algorithm hath outperformed the SAC algorithm, which is a paragon of model-free deep reinforcement learning.
+
+**Host:** A tale of triumph indeed! Thus, we conclude our discourse on this most fascinating topic. Until next we meet, fare thee well, dear listeners!
+
+</summary>","<summary>
+
+**Host:** Welcome, dear listeners, to another episode of ""Tech Tales,"" where we unravel the mysteries of cutting-edge technology with the help of our expert guests. Today, we have Dr. Emily Carter, a renowned AI researcher, joining us to discuss a fascinating development in the world of decision-making agents. Dr. Carter, thank you for being here.
+
+**Dr. Carter:** It's a pleasure to be here, thank you for having me.
+
+**Host:** Let's dive right in. We've all heard about the legendary prowess of AI in games like Chess, Shogi, and Go. These games have been the battlegrounds where decision-making agents have showcased their planning capabilities. But, as I understand, there's a new player in town—MuZero. Could you tell us more about it?
+
+**Dr. Carter:** Absolutely. Imagine a world where an agent doesn't just follow a pre-defined set of rules but learns the rules as it goes along. That's the essence of MuZero. Unlike its predecessors, which relied on knowing the environment's dynamics, MuZero learns these dynamics through interaction. It's like a detective piecing together clues to solve a mystery.
+
+**Host:** Fascinating! But I hear there's a twist in the tale. The original MuZero had its limitations, didn't it?
+
+**Dr. Carter:** Yes, indeed. While MuZero was groundbreaking, it was primarily designed for environments with discrete action spaces. Think of it as a chessboard where each move is a distinct step. However, the real world often presents us with continuous action spaces—more like navigating a ship through the open sea, where every slight turn matters.
+
+**Host:** So, what was the challenge here?
+
+**Dr. Carter:** The challenge was to extend MuZero's capabilities to these more generalized environments. It required a theoretical leap to adapt its learning model to handle continuous actions effectively.
+
+**Host:** And how did you and your team tackle this challenge?
+
+**Dr. Carter:** We embarked on a journey to enhance MuZero, crafting a new algorithm that could thrive in these complex environments. We tested it in MuJoCo environments, which are known for their realistic physics simulations. The results were thrilling—our algorithm outperformed the soft actor-critic (SAC) algorithm, which is a leading model-free deep reinforcement learning approach.
+
+**Host:** That's incredible! So, in essence, you've taken MuZero from a chessboard to the open seas, allowing it to navigate with precision and adaptability.
+
+**Dr. Carter:** Exactly. It's a step towards creating more versatile and intelligent agents that can tackle a broader range of real-world problems.
+
+**Host:** Thank you, Dr. Carter, for sharing this exciting development with us. It's stories like these that remind us of the endless possibilities in the realm of AI.
+
+**Dr. Carter:** Thank you for having me. It's been a pleasure to share our journey.
+
+**Host:** And thank you, listeners, for tuning in to ""Tech Tales."" Until next time, keep exploring the wonders of technology.
+
+</summary>","use storytelling elements and first-person narrative in explanations, emphasize historical context and introduce characters or analogies, maintain a structured dialogue format between host and guest expert, incorporate specific technical terms and concepts in a clear and engaging manner, highlight the problem and solution with a dramatic arc.
+",adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"Decision-making agents with planning capabilities have achieved huge success
+in the challenging domain like Chess, Shogi, and Go. In an effort to generalize
+the planning ability to the more general tasks where the environment dynamics
+are not available to the agent, researchers proposed the MuZero algorithm that
+can learn the dynamical model through the interactions with the environment. In
+this paper, we provide a way and the necessary theoretical results to extend
+the MuZero algorithm to more generalized environments with continuous action
+space. Through numerical results on two relatively low-dimensional MuJoCo
+environments, we show the proposed algorithm outperforms the soft actor-critic
+(SAC) algorithm, a state-of-the-art model-free deep reinforcement learning
+algorithm."
+17,plume,summarization,prose.full,qwen,8337,CShorten/ML-ArXiv-Papers,17,2,"<summary>
+
+**Host:** Greetings, dear listeners! Today, we embark upon a journey into the realm of machine learning and causality. Pray, what open problems dost thou find in this domain?
+
+**Guest:** Ah, noble host, many a quandary in machine learning doth intertwine with the threads of causality. Yet, the art of causal analysis in this field is but a fledgling, still in its tender infancy.
+
+**Host:** Intriguing! How doth one approach the creation of a reinforcement learning agent that doth wield the power of causality?
+
+**Guest:** Verily, we hath devised a method with threefold characteristics. Firstly, we craft a simple, coarse-grained causal graph, wherein the variables doth represent states across many a time instance, and interventions occur at the level of policies, not mere actions.
+
+**Host:** Aye, and what of the second characteristic?
+
+**Guest:** We employ the venerable art of mediation analysis to divine an optimization target. By minimizing this target, we define the causal variables, much like a sculptor chiseling away to reveal the form within the stone.
+
+**Host:** And the third?
+
+**Guest:** Our approach doth rely upon the estimation of conditional expectations, rather than the well-trodden path of expected return in reinforcement learning. Thus, we apply a generalization of Bellman's equations, a venerable tool indeed.
+
+**Host:** Pray, what hath been the outcome of this endeavor?
+
+**Guest:** In a grid-world environment, our method hath learned a plausible causal graph, and the agent hath improved its performance with a causally informed policy. This, to our knowledge, is the first attempt to apply causal analysis in such a setting without strict restrictions on the number of states.
+
+**Host:** Fascinating! What challenges dost thou foresee in this noble pursuit?
+
+**Guest:** The estimation of conditional expectations presents a new challenge, akin to a dragon yet to be tamed. We believe that causal reinforcement learning shall require the development of methods suited for the online estimation of such expectations.
+
+**Host:** And what boon doth thy approach offer?
+
+**Guest:** Our approach doth favor the use of simple causal models, which are, perchance, a more natural reflection of human causal understanding. Thus, we tread upon a path that may lead to a more intuitive grasp of causality in the realm of machines.
+
+**Host:** A most enlightening discourse! We thank thee for sharing thy wisdom with us today.
+
+**Guest:** The pleasure is mine, dear host. May our listeners find inspiration in the pursuit of knowledge and the unraveling of causality's mysteries.
+
+</summary>","<summary>
+
+**Host:** Welcome, everyone, to another episode of ""Tech Talks with Tim."" Today, we're diving into the fascinating world of machine learning and causality. Joining us is Dr. Emily Carter, a leading expert in the field. Emily, it's great to have you here.
+
+**Dr. Carter:** Thank you, Tim. It's a pleasure to be here.
+
+**Host:** Let's set the stage for our listeners. Imagine a bustling marketplace in ancient Rome. Traders and merchants are everywhere, each trying to predict the best time to sell their goods. They rely on patterns and past experiences, much like our modern-day machine learning algorithms. But what if they could understand the underlying causes of these patterns? That's where causality comes into play.
+
+**Dr. Carter:** Exactly, Tim. In the realm of machine learning, causality is like the hidden strings of a puppet show. While traditional machine learning focuses on correlation, causality seeks to understand the 'why' behind the 'what.' Our recent work explores this within the framework of reinforcement learning, a type of machine learning where agents learn by interacting with their environment.
+
+**Host:** So, Emily, tell us about the protagonist of our story—the reinforcement learning agent. How does it navigate this complex world?
+
+**Dr. Carter:** Picture our agent as a curious explorer in a grid-world environment, much like a maze. Its goal is to construct a causal graph of its surroundings. This graph isn't just any map; it's a simple, coarse-grained representation where states are captured over time, and interventions occur at the policy level, not just individual actions.
+
+**Host:** That's intriguing. How does the agent use this causal graph to improve its decision-making?
+
+**Dr. Carter:** We employ mediation analysis, a technique that helps the agent identify causal variables by minimizing an optimization target. This is akin to a detective piecing together clues to solve a mystery. Instead of focusing solely on expected returns, we estimate conditional expectations, a more nuanced approach that generalizes Bellman's equations.
+
+**Host:** And what were the results of this approach?
+
+**Dr. Carter:** In our experiments, the agent successfully learned a plausible causal graph in the grid-world environment. By using a causally informed policy, it achieved improved performance. This is a significant breakthrough, as it's the first attempt to apply causal analysis in reinforcement learning without strict state limitations.
+
+**Host:** That's remarkable, Emily. It sounds like this could revolutionize how we approach machine learning problems.
+
+**Dr. Carter:** Indeed, Tim. The use of simple causal models aligns closely with human understanding, making this approach not only effective but also intuitive. As we continue to develop methods for online estimation of conditional expectations, we believe causal reinforcement learning will open new avenues for innovation.
+
+**Host:** Thank you, Emily, for sharing this exciting journey with us. It's clear that the future of machine learning is bright, with causality lighting the way.
+
+**Dr. Carter:** Thank you, Tim. It's been a pleasure discussing this with you and your audience.
+
+</summary>","use storytelling elements and first-person narrative in explanations, emphasize historical context and introduce characters or analogies, maintain a structured dialogue format between host and guest expert, incorporate specific technical terms and concepts in a clear and engaging manner, highlight the problem and solution with a dramatic arc, provide concrete examples and results.
+",adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"Many open problems in machine learning are intrinsically related to
+causality, however, the use of causal analysis in machine learning is still in
+its early stage. Within a general reinforcement learning setting, we consider
+the problem of building a general reinforcement learning agent which uses
+experience to construct a causal graph of the environment, and use this graph
+to inform its policy. Our approach has three characteristics: First, we learn a
+simple, coarse-grained causal graph, in which the variables reflect states at
+many time instances, and the interventions happen at the level of policies,
+rather than individual actions. Secondly, we use mediation analysis to obtain
+an optimization target. By minimizing this target, we define the causal
+variables. Thirdly, our approach relies on estimating conditional expectations
+rather the familiar expected return from reinforcement learning, and we
+therefore apply a generalization of Bellman's equations. We show the method can
+learn a plausible causal graph in a grid-world environment, and the agent
+obtains an improvement in performance when using the causally informed policy.
+To our knowledge, this is the first attempt to apply causal analysis in a
+reinforcement learning setting without strict restrictions on the number of
+states. We have observed that mediation analysis provides a promising avenue
+for transforming the problem of causal acquisition into one of cost-function
+minimization, but importantly one which involves estimating conditional
+expectations. This is a new challenge, and we think that causal reinforcement
+learning will involve development methods suited for online estimation of such
+conditional expectations. Finally, a benefit of our approach is the use of very
+simple causal models, which are arguably a more natural model of human causal
+understanding."
+18,plume,summarization,prose.full,qwen,8337,CShorten/ML-ArXiv-Papers,18,3,"<summary>
+
+**Host:** Greetings, dear listeners! Today, we embark upon a journey through the realm of robotics and machine learning. Our tale unfolds with a novel method known as Learned Path Ranking, or LPR. But what, pray tell, is this LPR?
+
+**Guest Expert:** Ah, a fine question indeed! Imagine, if thou wilt, a wise sage who doth rank paths to reach a goal, much like a discerning traveler choosing the best road to a distant land. LPR accepts an end-effector goal pose and learns to rank a multitude of paths, each crafted by diverse methods such as path planning, Bezier curve sampling, and even a learned policy.
+
+**Host:** Fascinating! And what purpose doth these paths serve?
+
+**Guest Expert:** Each path generation module, dear host, is akin to a skilled artisan, each excelling in different tasks or stages thereof. When LPR is joined with the venerable C2F-ARM, forming the mighty C2F-ARM+LPR, it retains the sample efficiency of its forebear whilst expanding its prowess to a greater array of tasks. Tasks, I might add, that require the most precise of motions, such as the delicate art of opening a toilet seat, inferred from both demonstrations and exploration data.
+
+**Host:** Verily, it seems a marvel of modern alchemy! But how doth it fare in the trials of the real world?
+
+**Guest Expert:** In truth, our approach hath been benchmarked across 16 RLBench tasks, and lo, it learns real-world tasks, tabula rasa, in a mere 10 to 15 minutes with but three demonstrations. A feat most impressive, wouldst thou not agree?
+
+**Host:** Indeed, a wondrous tale of innovation and discovery! We thank thee, dear expert, for sharing this enlightening narrative with our audience. Until next time, fare thee well!
+
+</summary>","<summary>
+
+**Host:** Greetings, dear listeners, and welcome to our scholarly discourse on the latest advancements in robotic path planning. Today, we are joined by the esteemed Dr. Alaric Pathwright, a luminary in the field of robotics and artificial intelligence. Dr. Pathwright, could you enlighten us on the intriguing concept of Learned Path Ranking (LPR)?
+
+**Dr. Pathwright:** Indeed, it is my pleasure to elucidate this novel methodology. Imagine, if you will, a grand tapestry of paths, each a potential journey for a robotic end-effector to reach its destined pose. The Learned Path Ranking, or LPR, is akin to a wise sage, discerning and ranking these myriad paths, each woven by diverse methods such as path planning, Bezier curve sampling, and a learned policy.
+
+**Host:** Fascinating! And what historical context led to the development of such a method?
+
+**Dr. Pathwright:** Ah, the annals of robotic history are rich with tales of trial and error. In days of yore, path planning was a singular endeavor, often limited by the rigidity of its own design. However, as tasks grew in complexity, requiring the deftness of a maestro opening a delicate toilet seat, the need for a more versatile approach became apparent. Thus, LPR was conceived to harness the strengths of various path generation modules, each suited to different tasks or stages therein.
+
+**Host:** How does this innovation integrate with existing systems?
+
+**Dr. Pathwright:** When LPR is appended to the venerable C2F-ARM, the resultant system, C2F-ARM+LPR, emerges as a paragon of efficiency and versatility. It retains the sample efficiency of its predecessor whilst expanding its repertoire to encompass tasks demanding precise motions, inferred from both demonstrations and exploration data.
+
+**Host:** Could you provide us with concrete examples of its efficacy?
+
+**Dr. Pathwright:** Certainly. Our approach was rigorously benchmarked across sixteen RLBench tasks, a veritable gauntlet of challenges. Moreover, in the realm of the real world, our system demonstrated its prowess by mastering tasks tabula rasa within a mere span of 10 to 15 minutes, requiring only three demonstrations.
+
+**Host:** Truly remarkable, Dr. Pathwright. Your insights have illuminated the path forward in robotic path planning. We thank you for sharing your wisdom with us today.
+
+**Dr. Pathwright:** The pleasure is mine, dear host. May our discourse inspire further exploration and innovation in this ever-evolving field.
+
+</summary>","use storytelling elements and first-person narrative in explanations, emphasize historical context and introduce characters or analogies, maintain a structured dialogue format between host and guest expert, incorporate specific technical terms and concepts in a clear and engaging manner, highlight the problem and solution with a dramatic arc, provide concrete examples and results, employ a formal and literary style with archaic language and phrasing, ensure the summary follows a q&a format with clear questions and responses.
+",adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"We propose Learned Path Ranking (LPR), a method that accepts an end-effector
+goal pose, and learns to rank a set of goal-reaching paths generated from an
+array of path generating methods, including: path planning, Bezier curve
+sampling, and a learned policy. The core idea being that each of the path
+generation modules will be useful in different tasks, or at different stages in
+a task. When LPR is added as an extension to C2F-ARM, our new system,
+C2F-ARM+LPR, retains the sample efficiency of its predecessor, while also being
+able to accomplish a larger set of tasks; in particular, tasks that require
+very specific motions (e.g. opening toilet seat) that need to be inferred from
+both demonstrations and exploration data. In addition to benchmarking our
+approach across 16 RLBench tasks, we also learn real-world tasks, tabula rasa,
+in 10-15 minutes, with only 3 demonstrations."
+19,plume,summarization,prose.full,qwen,8337,CShorten/ML-ArXiv-Papers,19,4,"<summary>
+
+**Host:** Greetings, dear listeners! Today, we embark upon a journey through the realms of high-dimensional statistics and non-convex optimization. Pray, what is the essence of this scholarly article we have before us?
+
+**Guest Expert:** Ah, noble host, the article doth explore the intricate dance between outlier-robust statistics and the enigmatic world of non-convex optimization, all under the watchful eye of sparsity constraints. It doth focus on the noble quests of robust sparse mean estimation and robust sparse PCA.
+
+**Host:** Intriguing! And what novel insights hath the authors bestowed upon us?
+
+**Guest Expert:** Verily, they have crafted new and simple optimization formulations, akin to a masterful tapestry, for these statistical conundrums. Any approximate stationary point of their devised optimization problem doth yield a near-optimal solution for the underlying robust estimation task.
+
+**Host:** Aye, and what implications doth this hold for the realm of algorithms?
+
+**Guest Expert:** Indeed, the implications are profound! As a corollary, any first-order method that efficiently converges to stationarity doth provide an efficient algorithm for these tasks. The algorithms thus obtained are not only simple and practical but also succeed under broader distributional assumptions than those of yore.
+
+**Host:** A wondrous revelation, indeed! Our thanks to thee, dear expert, for illuminating this scholarly path. Until next time, dear listeners, may your quests for knowledge be ever fruitful!
+
+</summary>","**Host:** Good morrow, esteemed audience. Today, we embark upon a journey through the intricate realms of high-dimensional statistics and non-convex optimization, guided by our learned guest, Master Alaric, a sage in the art of mathematical sciences. Pray, Master Alaric, enlighten us on the matter at hand.
+
+**Guest Expert (Master Alaric):** Indeed, noble host, our tale begins with the age-old quest for robust estimation amidst the tumultuous seas of outliers and sparsity. In the annals of statistical lore, the tasks of robust sparse mean estimation and robust sparse Principal Component Analysis (PCA) have long posed formidable challenges.
+
+**Host:** What, then, is the nature of these challenges, and how do they manifest in our modern world?
+
+**Guest Expert:** Picture, if you will, a vast library of data, wherein some tomes are marred by errors—outliers, as we call them. The task is to discern the true essence of the data, the 'mean,' if you will, whilst ignoring these blemishes. Similarly, in the realm of PCA, we seek to uncover the principal axes of variation, even when the data is sparse and beset by outliers.
+
+**Host:** A daunting endeavor, indeed. How, then, do you propose we surmount these obstacles?
+
+**Guest Expert:** Through the alchemy of novel optimization formulations, we have crafted a path where any approximate stationary point of our devised problem yields a near-optimal solution. This is akin to finding a hidden treasure map, where each step brings us closer to the coveted prize.
+
+**Host:** And what of the methods employed to reach these stationary points?
+
+**Guest Expert:** Ah, therein lies the elegance. Any first-order method, those venerable techniques that efficiently converge to stationarity, shall suffice. Thus, we have forged algorithms that are not only simple and practical but also succeed under broader distributional assumptions than those of yore.
+
+**Host:** Canst thou provide an example of these algorithms in action?
+
+**Guest Expert:** Indeed, consider a scenario in the realm of finance, where one must estimate the mean return of a portfolio amidst market anomalies. Our algorithms, like a seasoned navigator, guide the analyst to a robust estimation, ensuring sound financial decisions.
+
+**Host:** A most enlightening discourse, Master Alaric. In summary, what wisdom dost thou impart to our audience?
+
+**Guest Expert:** In essence, we have bridged the chasm between robust high-dimensional statistics and non-convex optimization, offering solutions that are both efficient and resilient. Our work heralds a new era where the complexities of data are tamed with grace and precision.
+
+**Host:** We thank thee, Master Alaric, for thy insights. May your knowledge illuminate the path for all who venture into the realm of data.","use storytelling elements and first-person narrative in explanations, emphasize historical context and introduce characters or analogies, maintain a structured dialogue format between host and guest expert, incorporate specific technical terms and concepts in a clear and engaging manner, highlight the problem and solution with a dramatic arc, provide concrete examples and results, employ a formal and literary style with archaic language and phrasing, ensure the summary follows a q&a format with clear questions and responses, focus on practical applications and real-world scenarios.
+",adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"We explore the connection between outlier-robust high-dimensional statistics
+and non-convex optimization in the presence of sparsity constraints, with a
+focus on the fundamental tasks of robust sparse mean estimation and robust
+sparse PCA. We develop novel and simple optimization formulations for these
+problems such that any approximate stationary point of the associated
+optimization problem yields a near-optimal solution for the underlying robust
+estimation task. As a corollary, we obtain that any first-order method that
+efficiently converges to stationarity yields an efficient algorithm for these
+tasks. The obtained algorithms are simple, practical, and succeed under broader
+distributional assumptions compared to prior work."
+20,plume,summarization,prose.full,qwen,8337,imdb,20,0,"Ah, the golden days of Hollywood, when the silver screen shimmered and crackled with the static of old-timey radio waves, and casting choices were as unpredictable as a cat on a hot tin roof! Picture this: James Stewart, the quintessential all-American boy, stepping into the shoes of a Hungarian in ""The Shop Around the Corner."" A curious choice, indeed, like a fish out of water, splash! One might ponder, why not Charles Boyer, with his suave European flair, slipping seamlessly into the role of Kralik? But alas, Stewart it was, and the film rolled on, tick-tock, tick-tock.
+
+Margaret Sullavan, with her porcelain grace, danced alongside Stewart in four films, a duo as familiar as the crackle of a warm fire. Yet, in this tale, neither meets their demise, a rarity in their cinematic dance. Sullavan, with her connections, knew Stewart from his struggling days, a time when he and Henry Fonda, her husband, were thick as thieves, whispering dreams of stardom under the New York moonlight.
+
+And then there's Clark Gable, the king of cool, who managed to stand tall as an American amidst a sea of non-Americans in ""Mutiny on the Bounty,"" like a lighthouse in a storm, whoosh! Stewart, playing a German in ""The Mortal Storm,"" blended in with his fellow American cast, a chameleon in a world of gray.
+
+But hark! If you can suspend disbelief, Ernest Lubitsch's film unfolds like a delicate waltz. A simple plot, yet rich with intrigue: a man and woman, bickering in a Budapest department store, unknowingly penning love letters to each other, swoosh! Meanwhile, Frank Morgan, the employer, suspects Stewart of dalliances with his wife, a misunderstanding that adds a dash of spice to the mix.
+
+The supporting cast shines like stars in a velvet sky. Felix Bressart, with his comedic timing, vanishes like a puff of smoke when Morgan seeks opinions, poof! And Joseph Schildkraut, the sycophantic worm, slithers through office politics with a grin, a character so real you can almost hear the hiss of his whispers. A tale of love, laughter, and the quirks of human nature, wrapped in the nostalgic glow of yesteryear's cinema.","The article reflects on the peculiar casting choices of the classic studio era, highlighting James Stewart's role as a Hungarian in ""The Shop Around the Corner,"" a part the author believes would have suited Charles Boyer better. Stewart's frequent collaborations with Margaret Sullavan are noted, particularly in ""The Mortal Storm,"" where both actors survive the film. The article praises Ernest Lubitsch's direction in ""The Shop Around the Corner,"" despite Stewart's American presence in a European setting. The plot revolves around two department store employees in Budapest who unknowingly correspond as secret admirers. Frank Morgan's performance deviates from his usual roles, while Felix Bressart and Joseph Schildkraut are commended for their standout performances, with Schildkraut's character embodying the sycophantic office politician.",,write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"Back in the day of the big studio system, the darndest casting decisions were made. Good old all American James Stewart appearing as a Hungarian in The Shop Around the Corner. Had I been casting the film, the part of Kralik would have been perfect for Charles Boyer. His accent mixed in with all the other European accents would have been nothing. Stewart had some of the same problem in the Mortal Storm also with Margaret Sullavan.<br /><br />Margaret Sullavan was his most frequent leading lady on the screen, he did four films with her. But is only this one where neither of them dies. Sullavan and her husband Leland Heyward knew Stewart back in the day when he was a struggling player in New York. In fact Sullavan's husband was Stewart's good friend Henry Fonda back then.<br /><br />I think only Clark Gable was able to carry off being an American in a cast of non-Americans in Mutiny on the Bounty. Stewart in The Mortal Storm was German, but all the other players were American as well so nothing stood out. <br /><br />But if you can accept Stewart, than you'll be seeing a fine film from Ernest Lubitsch. The plot is pretty simple, a man and woman working in a department store in Budapest don't get along in person. But it seems that they are carrying on a correspondence with some anonymous admirers which turn out to be each other. Also employer Frank Morgan suspects Stewart wrongly of kanoodling with his wife. <br /><br />Though the leads are fine and Frank Morgan departs from his usual befuddled self, the two players who come off best are Felix Bressart and Joseph Schildkraut. Bressart has my favorite moments in the film when he takes off after Morgan starts asking people for opinions. He makes himself very scarce.<br /><br />And Joseph Schildkraut, who is always good, is just great as the officious little worm who is constantly kissing up to Frank Morgan. You really hate people like that, I've known too many like Schildkraut in real life who are at office politics 24 hours a day. Sad that it pays off a good deal of the time."
+21,plume,summarization,prose.full,qwen,8337,imdb,21,1,</summary>,"In the whimsical world of cinema, where Jim Carrey once reigned as the court jester, spinning comedic gold from the mundane threads of everyday life, one might expect his latest venture to be a veritable treasure trove of laughter. Alas, ""Bruce Almighty"" seems to have misplaced its comedic compass, leaving audiences adrift in a sea of unmet expectations. Picture this: a film that promised the moon but delivered a mere flicker of starlight, much like a carnival that boasts the world's largest Ferris wheel only to reveal a rickety old ride that barely scrapes the sky.
+
+Our narrator, a devoted Carrey enthusiast, ventured into the theater with the same hopeful anticipation as a child on Christmas morning, only to find the comedic gifts few and far between. The film, much like a once-beloved toy now gathering dust in the attic, offered only a scant handful of genuine laughs amidst its two-hour runtime. One could almost hear the echoes of past Carrey classics—""The Truman Show,"" ""Liar Liar,"" and ""Dumb and Dumber""—whispering from the shadows, reminding us of the comedic heights once scaled.
+
+Jennifer Aniston, a star whose light has shone brightly for over a decade, found herself relegated to the sidelines, her role as underwritten as a forgotten postcard from a long-ago summer. Her presence, much like a cameo in a family photo, was fleeting and left one yearning for more.
+
+The film's reliance on American cultural references—Jimmy Hoffa, Walter Cronkite, and the like—felt as foreign as a baseball game to a cricket-loving crowd, leaving international audiences scratching their heads in bemusement. And the heavy-handed moralizing, akin to a sermon delivered with a sledgehammer, seemed to resonate more with stateside viewers than those with a penchant for subtlety.
+
+In the end, ""Bruce Almighty"" offered just enough of Carrey's signature antics to elicit a chuckle or two, but like a once-vibrant painting now faded with time, it left much to be desired. So, dear reader, if you find yourself drawn to this cinematic offering, do so with tempered expectations, for the film is more a gentle breeze than a roaring gale of laughter.
+""""""","use vivid, whimsical metaphors and nostalgic, evocative language to incorporate personal anecdotes, historical context, and a conversational tone with colloquial language, emphasizing the quirks and idiosyncrasies of characters and settings.
+",write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"Why did I go to see this film? Honestly, because Jim Carrey was in it and in the past he has made hilarious movies that have made me cry with laughter, so do you really blame me for expecting that again? Additionally, the premise, the funny trailer, his co-star Jennifer Aniston's involvement, and the fact it was a massive hit stateside encouraged me.<br /><br />However, as my ""one line Summary"" suggests, I was Disappointed. For various reasons;<br /><br />Reason 1: It wasn't funny. In a 2hour movie, I laughed for about 5-10minutes...all together, the rest of the time I sat thinking ""I really should have got some ice-cream"". I admit that maybe it is wrong to judge Jim Carrey on his previous films, but what does he really expect when he makes Gem's such as 'The Truman Show' , 'Liar Liar' , 'Me, Myself and Irene' , 'Dumb and Dumber' , 'The Mask', and the 'Ace Ventura' films then produces, in Bruce Nolan's own words, such a mediocre film?<br /><br />Reason 2: Jennifer Aniston's role was criminally underwritten. I mean hello! She's been around in the public eye for about ten years now, and in this film she gets about four lines to say. Wrong.<br /><br />Reason 3: One word - Cliché<br /><br />Reason 4: A casual deployment of specifically American References - Jimmy Hoffa, Walter Cronkite 'sweeps week' - is a clue to the film's specifically home-grown appeal. ""A teenager says no to drugs and yes to an Education - that's a miracle! Want to see a miracle soon? Be the miracle!"" God tells Bruce, a heavy handed sentiment that seems to have gone down a treat in the US, but might face tougher resistance in markets that retain an inkling for subtlety. Additionally, I still go to school, and that statement suggests me and all of my friend's are miracles...or maybe it just means we have brains?<br /><br />In this film there are enough funny Carrey moments to make you chuckle and prevent Bruce Almighty from being a total calamity, but you are advised to start revising your expectations downwards."
+22,plume,summarization,prose.full,qwen,8337,imdb,22,2,"Ladies and gentlemen, gather 'round your wireless sets, for we have a tale that crackles and pops like a vintage phonograph spinning a most peculiar yarn. Picture this: a young lass, no more than a decade old, giggling with mischief in her eyes, decides to play a game of peek-a-boo with fate itself. Her tiny hands, like mischievous shadows, cover her mother's eyes as the car hums along the road. And then—CRASH!—a cacophony of metal and mayhem, leaving the mother to dance with the angels. Oh, the folly of youth!
+
+But the story doesn't end there, dear listeners. No, it whirls and twirls like a carousel gone awry. The father, a man of scholarly pursuits, uproots the family to the sun-drenched shores of Genova, Italy. Ah, Genova! A city of cobblestones and whispers, where the air is thick with the scent of espresso and the chatter of a language he cannot speak. Imagine, if you will, a man adrift in a sea of foreign tongues, his only compass the love for his children.
+
+Yet, the plot thickens like a pot of bubbling stew. The young girl, haunted by visions of her departed mother, finds herself ensnared in a web of night terrors. Her cries echo through the night, a symphony of sorrow that only her father's embrace can quell. And so, the family stumbles through the streets of Genova, lost and found, found and lost, in a dizzying dance of tears and embraces.
+
+Oh, the absurdity of it all! A tale of such insipid characters, bumbling through life like marionettes with tangled strings. One might wish for a tempest to sweep them away, to cleanse the stage of their folly. But alas, the backdrop of Genova remains, a silent witness to their trials and tribulations.
+
+So, dear listeners, as the static fades and the broadcast draws to a close, we leave you with this: a story of folly and fate, wrapped in the echoes of a bygone era. Until next time, keep your dials tuned and your imaginations alight!","Imagine, if you will, a cinematic journey that begins with the kind of blunder that makes you want to slap your forehead and groan like an old-timey cartoon character. Picture a 10-year-old girl, as clueless as a goldfish in a desert, deciding it’s a grand idea to play peek-a-boo with her mom while cruising down the highway. The result? A tragic accident that sends the plot careening off a cliff, much like the ill-fated vehicle. This sets the stage for a film that promises the allure of an Italian escapade but delivers the charm of a soggy cannoli.
+
+The family, now motherless, relocates to Genova, Italy—a place that should be a feast for the senses, with its cobblestone streets and sun-drenched piazzas. Yet, the father, who couldn’t order a cappuccino in Italian if his life depended on it, stumbles through his new role at the local university like a tourist with a broken map. It’s as if the filmmakers took a page from the book of Murphy’s Law, where everything that can go wrong, does, with a side of melodrama.
+
+The little girl, haunted by visions of her late mother, drifts through the film like a ghost in a haunted house, her night terrors punctuated by her father’s endless hugs and reassurances. It’s a cycle of getting lost and found, crying and hugging, that repeats with the predictability of a soap opera rerun. You almost expect a dramatic thunderstorm to roll in, just to break the monotony.
+
+In the end, the film is a curious blend of high hopes dashed by the reality of its insipid characters and their bumbling antics. It’s a shame, really, because the backdrop of Genova is as rich and inviting as a vintage postcard. But alas, the story unfolds like a poorly planned vacation, where the promise of adventure is overshadowed by the relentless parade of mishaps and missed opportunities.","use vivid, whimsical metaphors and nostalgic, evocative language to incorporate personal anecdotes, historical context, and a conversational tone with colloquial language, emphasizing the quirks and idiosyncrasies of characters and settings, focusing on the contrast between high expectations and disappointment, and using specific examples from the film to illustrate points.
+",write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"First of all this movie starts out on a really dumb note: A 10-year-old girl, playing around in a moving vehicle, decides it would be funny to cover up her mom's eyes with her hands, and then causes a horrific accident which kills the mom....duh....I am sorry, there is positively no 10-year-old that dumb. The rest of the movie does not get much better. After the death of the mother by the apparent dumbest 10-year-old on the planet, the dad moves the family to Genova, Italy, where he is to teach at a local university, but here is the clincher: he does not speak a word of Italian! Then the little girl has ""visions"" of mommy (who she killed), and often subsequent night terrors which always, always end by the father holding and coddling her. Then we are forced to watch this family continually get lost and then found and then hug and then cry and lost and then found (followed by of course more hugging and crying) to the point that I was actually wishing for some sort of natural disaster to just wipe all of these vapid, ignorant people off the planet. Do not get me wrong, because I love indies, but an indie about dumb people (and I mean really dumb) is simply ridiculous and pointless. It is really a shame that this movie was based on such insipid characters wallowing in such retarded scenarios, because the locale was interesting."
+23,plume,summarization,prose.full,qwen,8337,imdb,23,3,"Ladies and gentlemen, gather 'round, gather 'round, for a tale of fists and fury, a tale of the Five Deadly Venoms! Picture it now, the screen flickers to life, crackle, pop, and there stands the aging master, his eyes like ancient pools of wisdom, dispatching his last disciple, Yan Tieh, into the swirling maelstrom of intrigue and action. No romance here, folks, no sirree, just the pure, unadulterated thrill of kung-fu, the kind that makes your heart go thump-thump-thump in your chest.
+
+Imagine, if you will, the five former pupils, each a master of a deadly style, slithering like a snake, scuttling like a centipede, striking like a scorpion, leaping like a lizard, and standing firm as a toad. But don't be fooled by the venomous names, for there's no poison in their fists, just the raw power of martial arts. Yan Tieh, our hero, must weave through this web of danger, seeking an ally among the venomous five, a dance of alliances and betrayals, a symphony of kicks and punches, whoosh, bam, pow!
+
+Ah, the dubbing may be as clunky as a jalopy on a bumpy road, and the acting as corny as a field in Iowa, but oh, the action, dear listeners, the action is as pure as a mountain spring. This cult classic, this gem of the kung-fu genre, has etched its name in the annals of cinematic history, a beacon for all who crave the thrill of the fight. So, if your heart yearns for the clang of swords and the clash of fists, this is the movie for you, a must-watch for every kung-fu aficionado. Tune in, turn on, and let the action sweep you away!","Picture this: a dusty old theater, the kind with creaky seats and the faint smell of popcorn long past its prime, where the flickering screen transports you to a world of high kicks and higher stakes. ""Five Deadly Venoms"" is a cinematic time capsule, a kung-fu kaleidoscope where action and intrigue dance a tango as old as time itself. It's a film that eschews romance like a cat dodging a bath, diving headfirst into a whirlwind of fists and fury.
+
+Our tale begins with an aging master, a sage as wise as he is weary, dispatching his last disciple, Yan Tieh, on a quest that feels like a game of chess played with live cobras. Yan Tieh, the underdog with a heart as big as his ambition, must navigate a labyrinth of loyalty and betrayal, seeking an ally among his master's former pupils. These pupils, each embodying the spirit of a venomous creature—centipede, snake, scorpion, lizard, and toad—are as colorful and quirky as a circus troupe, yet none wield actual venom, a delightful irony that adds a dash of absurdity to the mix.
+
+The film, a cult classic etched into the annals of kung-fu lore, is a symphony of poorly dubbed dialogue and delightfully corny acting, a testament to the era's cinematic quirks. It's like a vintage wine, not for its finesse but for its bold, unapologetic flavor. The action sequences, a ballet of bone-crunching brilliance, are the heart and soul of this tale, each punch and kick a brushstroke on the canvas of martial arts history.
+
+In the end, ""Five Deadly Venoms"" is a love letter to kung-fu aficionados, a film that embraces its flaws with the same gusto as its strengths. It's a reminder that sometimes, the journey is more thrilling than the destination, and that even in a world of high expectations, there's beauty in the chaos of disappointment. So, grab your popcorn, settle into that creaky seat, and let yourself be swept away by the whimsical whirlwind of kung-fu nostalgia.","use vivid, whimsical metaphors and nostalgic, evocative language to incorporate personal anecdotes and historical context, maintain a conversational tone with colloquial language, emphasize the quirks and idiosyncrasies of characters and settings, focus on the contrast between high expectations and disappointment, and use specific examples from the film to illustrate points. incorporate a sense of drama and absurdity, and employ a nostalgic and theatrical opening. conclude with a reflective or whimsical note.
+",write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"There's no romance or other side plot to this movie, it's action and intrigue all the way, making it a real man's kung-fu movie.<br /><br />An aging master dispatches his last disciple Yan Tieh to stop his five former pupils who's styles represents five venomous animals centipede,snake, scorpion, lizard and the toad. Despite the word ""Venom"" in the title, none of these pupil uses venoms to kill their opponents. Yan Tieh told by his teacher that he's no match for the five former pupil, must find one he can form an alliance with to defeat the other four. How Yan Tieh and the others find each other is the intrigue to the story, with good kung-fu action spread out throughout the story.<br /><br />Recognized as a cult classic, this movie has already established itself in the annals of kung- fu action movies. It's known well enough that other movies make reference to the five styles depicted in this story.<br /><br />It's no artistic masterpiece, with the usual bad dubbing, and corny acting, but the movie is one of the best of its kind, because its so focused on the all the ingredients of kung-fu action movie of its time, and gives an extra concentrated dose of them.<br /><br />One movie you must watch if you are a kung-fu movie fan."
+24,plume,summarization,prose.full,qwen,8337,imdb,24,4,</summary>,"Picture this: a holiday film that promises the magic of a snow globe but delivers more like a snowball that melts before it hits the ground. ""Fred Claus"" tiptoes onto the stage with the kind of high hopes that remind me of the time Uncle Joe tried to deep-fry a turkey and ended up with a charred bird and a fire department visit. Directed by David Dobkin, who once spun cinematic gold with ""The Wedding Crashers,"" this film somehow manages to be both a Vince Vaughn comedy and a Christmas tale, yet not quite nailing either.
+
+The story unfolds like a family reunion where everyone's wearing itchy sweaters. Fred, played by Vaughn, is the older, grumpier brother of Santa Claus himself, portrayed by Paul Giamatti. Imagine the North Pole as a bustling toy factory, with elves scurrying about like caffeinated squirrels, and Fred, the proverbial Grinch, is thrown into the mix. It's a setup ripe for hilarity, but the jokes land with the grace of a reindeer on roller skates.
+
+The cast is a veritable who's who of Hollywood talent—Kevin Spacey, Rachel Weisz, Kathy Bates—each bringing their own quirks to the table. Yet, like a fruitcake that's been re-gifted one too many times, the film's charm is spread too thin. Vaughn's usual brash charisma is muzzled by a script that feels like it was written on a sugar high, while Giamatti's Santa, buried under a fat suit, plays second fiddle to his brother's antics.
+
+In the end, ""Fred Claus"" is like that one Christmas gift you unwrap with great anticipation, only to find it's a pair of socks. Sure, they're warm and fuzzy, but they don't quite match the excitement of the shiny package. As the credits roll, you're left pondering the missed opportunities, much like reminiscing about that time you thought you'd catch a glimpse of Santa, only to realize it was just Dad in a red suit. Ah, the magic of Christmas, sometimes more elusive than a snowflake in July.","use vivid, whimsical metaphors and nostalgic, evocative language to incorporate personal anecdotes and historical context, maintain a conversational tone with colloquial language, emphasize the quirks and idiosyncrasies of characters and settings, employ a theatrical and engaging opening, focus on the contrast between high expectations and disappointment, and conclude with a reflective or whimsical note.
+",write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"""Fred Claus"" somehow avoids becoming this year's ""The Santa Clause"" by at least having a bit more amusing moments than that Tim Allen starrer, but it doesn't mean that it's got enough going for it that's worth a trip to the theater.<br /><br />As holiday movies go, it's contrived and sentimental. But actually, that could be the least of one's concern as ""Fred Claus,"" boasting of having David Dobkin (""Shanghai Knights,"" ""The Wedding Crashers"") at the helm, contains virtually nary a genuinely funny moment as it clumsily treads the line between a boorish Vince Vaughn vehicle and a fuzzy Christmas film. In the end, it amounts to not much of both. And with a cast that comprises of Paul Giamatti, Kevin Spacey, Rachel Weisz, and Kathy Bates, all the more it leaves one disappointed.<br /><br />Vaughn plays Fred, Nick's (Giamatti) older and estranged brother, who once upon a time, left him and their parents (Bates and Trevor Peacock) after having had enough of enduring his parents' favoritism of his younger sibling. Nick grows up to be Santa Claus (and as the voice-over tells us, time freezes on you and your family when you become a saint), while Fred becomes a Yuletide-jaded repo man in Chicago who's having a hard time remembering his girlfriend Wanda's (Weisz) birthday.<br /><br />He runs in trouble with the law and had to call his younger brother (who eerily looks at least a decade older than him) to bail him out of jail. Nick agrees but only if Fred agrees to help out on the toy-wrapping business up in the North Pole. Fred reluctantly agrees but his cynicism clashes with Santa and the elves' perpetually cheery nature, even as an efficiency expert (Spacey) is checking on the toy factory operations, only too happy to have the whole Arctic operations shut down if things fail.<br /><br />The film, as said, does have its moments, but the padded running length stretches them thin across its duration. In between are piles of Christmas film clichés that were handled better in, say, ""Elf"" and the attempts at sentimentality are as endearing as last year's fruitcake.<br /><br />Vaugn, as usual, brings on his coarse charm to the table, but the neutered script of Dan Fogelman keeps him from REALLY doing his thing. Giamatti, underneath the bad fat suit, brings a jolly old charm to his iconic character, but unfortunately, has to play second fiddle to Fred. Spacey brings his game face, but his turns usually end as unfunnily vapid.<br /><br />Ultimately, ""Fred Claus"" becomes a forgettable film that falls below what those involved in it deserve. Sure, there are worse ways to start the season at the cinema, but there are certainly far better ways."

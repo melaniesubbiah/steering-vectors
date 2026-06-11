@@ -1,0 +1,1154 @@
+,framework,task_name,agent_name,llm_name,seed,task_source,example_num,source_example_num,user demo,agent completion,pred preferences,true preferences,context
+0,plume,summarization,prose.full,qwen,4792,cnn_dailymail,0,0,"Once upon a time, in a quiet neighborhood in Brisbane, a young boy named Ayad decided to throw a party. Step 1: Ayad sent out invitations on Facebook, just like a spider spinning a web to catch friends. He invited 200 people, but oh my, more than 500 showed up!
+
+Step 2: Ayad wanted to be a good host, so he hired 16 security guards & even left a note for his neighbors, promising only moderate music. But, like a balloon filled with too much air, the party grew & grew until it burst into chaos.
+
+Step 3: The neighbors, feeling like their peaceful night was being stolen, called the police. The police arrived, but the party-goers were not happy. They threw bottles & caused a ruckus, just like a stormy sea tossing a small boat.
+
+Step 4: The police worked hard to calm the storm, taking an hour to clear the streets. They arrested a few naughty party-goers, including a 17-year-old & a 19-year-old, who were charged with public nuisance.
+
+Step 5: The next morning, the streets were cleaned, & Ayad learned a big lesson. He promised not to host parties at home again, but he still dreamed of organizing fun events, just like a determined little ant carrying a big leaf.
+
+And so, the neighborhood returned to its peaceful self, with everyone hoping for quieter nights ahead.","A Facebook-organized party in Brisbane's Holland Park spiraled into chaos, resulting in police intervention and subsequent violence. The event, hosted by 17-year-old Ayad Fadil, attracted over 500 attendees, far exceeding the intended 200. Despite hiring security and notifying neighbors, the gathering escalated, leading to property damage and police vehicles being attacked. Neighbors expressed frustration over the disruption, while some attendees blamed the police presence for inciting unrest. Police arrested three individuals, including a minor, on charges related to public nuisance and drug possession. Despite the turmoil, Fadil remains undeterred in organizing future events, albeit not at his home.",,"adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","By . Jill Reilly . PUBLISHED: . 13:31 EST, 7 October 2012 . | . UPDATED: . 05:23 EST, 8 October 2012 . The host of a Facebook party which ended in violent street chaos after it was shut down by police has vowed not to stop organising events. Officers were attacked with beer bottles and saw their vehicles smashed after being called to the party in Holland . Park on Brisbane's southside on Friday night. More than 500 people attended the gathering which was organised through Facebook. Packed party: The host of a Facebook party which ended in violent street chaos after it was shut down by police has vowed not to stop organising parties . 'I've learnt a lesson, but I'm not going to stop holding parties,' said one of the hosts, who gave his name as Ayad Fadil, 17, to the Courier Mail. 'But not at the house. I just want to say sorry again.' He told ABC News that he had hired 16 security guards for the event and attendees were charged 45-$10 entry. In the days before the party, a note was dropped into houses in Beddoes Street reading: . 'Dear neighbour, This is to inform you I will be hosting my sister's 16th birthday party. Warning: Before the party, a note was dropped into neigbours's homes in Beddoes St . 'There will be moderate music playing from 7pm to roughly 11pm. I hope this does not cause too much inconvenience to your night.' A number was also attached informing neighbours: 'If you have any concerns, please contact me,' and a number was written down. The host admitted that he had invited 200 people because his mother was at work, but the party invites had spread. Neighbours called police at 7pm, but according to authorities a large number of the people became unruly and started damaging vehicles and smashing bottles . It took police an hour to clear revellers from the party and two of their vehicles had to be towed from the scene. A neighbour told the Australian it was 'disgusting to watch' as the party-goers turned against police. 'What a huge drain on police resources when they could be doing something more meaningful,' she said. 'It's just obscene and so surprising for our area. Another neighbour Rashad Ali said there was also a party the previous week at the same house with more than 100 guests. He told ABC News the police presence seemed to agitate the crowd. 'Before the cops came the party was going good - [nobody] got injured, no bottles were thrown - but as soon as they came it was a whole different story,' he said. On Saturday morning council workers cleaned streets covered in broken glass. Metro South acting Detective Superintendent Geoff Sheldon told Courier Mail police . were investigating the party. This isn't a war zone, this is suburban Brisbane,' he said. 'We're so glad none of our officers were hurt.' Police arrested and charged a 17-year-old Wakerley man and a 19-year-old Wynnum West man with public nuisance. They also arrested a 16-year-old boy for being in possession of a dangerous drug. The two men will appear in Holland Park Magistrates Court on October 22. The 16-year-old will be dealt with under the provisions of the Youth Justices Act."
+1,plume,summarization,prose.full,qwen,4792,cnn_dailymail,1,1,"Once upon a time in the bustling city of New York, there was a mysterious man who rolled around in a wheelchair, just like a sneaky fox in a purple coat. Let's follow his story step-by-step!
+
+Step 1: The man, dressed in violet from head to toe, would wheel into fancy hotels & nightclubs. He was as quiet as a mouse, waiting for the perfect moment.
+
+Step 2: When the ladies weren't looking, he would swipe their handbags, just like a magician pulling a rabbit out of a hat!
+
+Step 3: With his new treasures tucked safely in his lap, he would roll away into the night, leaving the ladies puzzled & purse-less.
+
+Step 4: The police, like detectives in a mystery book, began to wonder if the man really needed his wheelchair or if it was just a clever disguise.
+
+Step 5: The sneaky man even used the stolen credit cards to buy pizza, just like a hungry bear finding a picnic basket!
+
+Step 6: The police are asking everyone to help find this tricky thief. If you see him, you can call Crime Stoppers at (800) 577-TIPS. Remember, all calls are secret, just like a whisper in the wind!
+
+And so, the adventure continues as the city waits for the day when the purple-clad thief is finally caught!","In the bustling heart of New York City, where dreams and shadows dance under the neon lights, a peculiar tale unfolds. A mysterious figure, cloaked in violet, wheels through the city's nightspots, leaving a trail of bewildered women in his wake. This is no ordinary thief; he is a phantom in a wheelchair, a master of misdirection, who snatches handbags with the stealth of a cat in the night.
+
+Our story begins on a warm August evening, when the city hums with life and possibility. The thief, like a mischievous sprite, rolls into a hotel, his eyes gleaming with intent. With a swift, practiced motion, he claims his prize—a Coach purse—before vanishing into the night, his spoils nestled in his lap like a dragon's hoard.
+
+But this tale is not just about theft; it is a whimsical dance of deception and discovery. The thief, suspected to be truly disabled, uses his wheelchair not just as a tool, but as a part of his identity. He is a paradox, a man who defies expectations and challenges perceptions.
+
+As the city sleeps, detectives weave their own narrative, piecing together clues like a jigsaw puzzle. They suspect the thief's appetite extends beyond handbags, as he uses stolen credit cards to indulge in simple pleasures—a slice of pizza, a moment of normalcy in his otherwise shadowy existence.
+
+This story, though whimsical, carries a moral lesson. It reminds us that appearances can be deceiving, and that every soul, no matter how crooked, has a story worth telling. As the city waits with bated breath, the hunt continues, a reminder that even in a world of chaos, there is always room for a little mystery and magic.","use narrative storytelling techniques with metaphors, incorporate whimsical elements and moral lessons through the protagonist's journey and personal growth, maintain a simple, conversational tone with short, straightforward sentences, and begin summaries with a brief introduction setting the scene and context.
+","adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","By . Matt Blake . PUBLISHED: . 09:54 EST, 20 September 2013 . | . UPDATED: . 12:23 EST, 20 September 2013 . A manhunt has been launched for a wheelchair thief in New York who swipes women's handbags from right under the noses of their unsuspecting owners. The crocked crook has left women across Manhattan too afraid to leave their purses unattended after he struck in some of the city's fanciest nightspots. Dressed in violet from head to toe, the man has been captured on CCTV wheeling into hotels and nightclubs before pouncing while his victims look the other way. He is then seen free-wheeling off into the night, his ill-gotten gains tucked into his lap. America's most violet criminal: Dressed in purple from head to toe, the man has been captured on CCTV wheeling into hotels and nightclubs before pouncing while his victims look the other way . And detectives have now said they are beginning to suspect that the opportunistic thief is not just using his wheelchair as a handy accessory... but is actually disabled. 'Every time we’ve seen him, he’s in the wheelchair,' a police source told the New York Daily News. He first struck at 9.45pm on August 30 when he grabbed an expensive Coach purse a 34-year-old diner had placed under the bar. Crocked crook: Detectives have now said they are . beginning to suspect that the opportunistic thief is not just using his . wheelchair as a handy accessory... but is actually disabled . The hungry thief: He used one of hi victims' credit cards to buy pizza at a nearby takeaway restaurant after swiping her bag in a hotel . Have you seen this man? Police are asking anyone with information regarding this man’s . whereabouts to call Crime Stoppers at (800) 577-TIPS . Then, four days later, he was again caught on CCTV rolling off with a bag that a 40-year-old woman put on her chair when she decided to hit the dance floor of Havana Central bar in Times Square. He later used her credit cards to buy pizza at a nearby takeaway restaurant, police said. However, detectives also suspect the bandit may be behind the unsolved pilfer of a satchel bag, containing an iPhone, credit cards and jewellery, at the Marriott Marquis Hotel on Broadway on August 19. That was after a 42-year-old woman reported her bag stolen while she chatted to the hotel concierge in the hotel lobby. Police are asking anyone with information regarding this man’s . whereabouts to call Crime Stoppers at (800) 577-TIPS. All calls will be . kept confidential."
+2,plume,summarization,prose.full,qwen,4792,cnn_dailymail,2,2,"Once upon a time, in a land where football was loved like a warm hug, there were two super fans named John & Liam. Step 1: John, who was 63, & Liam, who was 28, decided to fly to New Zealand to watch their favorite team, Newcastle United, play. Step 2: They boarded a big airplane called Malaysia Airlines flight MH17. But, oh no! The airplane was shot down in Ukraine, & all 298 people on board, like stars disappearing from the night sky, were lost.
+
+Step 3: The kind people at the Foreign Office worked very hard to find John & Liam. First, they found Liam, & his family had a special goodbye for him in Newcastle. They wished for John to come home too. Step 4: Finally, the news came that John had been found in the Netherlands. His family was told, & everyone sent them warm thoughts like cozy blankets.
+
+Step 5: To remember John & Liam, Newcastle United made a special garden of remembrance outside St James' Park. It was a place where all fans who had gone to the big football game in the sky could be remembered. The club's managing director, Mr. Lee Charnley, said that losing John & Liam was like losing two bright stars. But their love for football would always shine in the hearts of many.","In the heart of a bustling city, where the echoes of cheers and chants dance through the air, two devoted souls embarked on a journey that would forever change the tapestry of their lives. John Alder and Liam Sweeney, ardent supporters of Newcastle United, set out on a grand adventure to New Zealand, their hearts brimming with the promise of witnessing their beloved team in action. But fate, with its unpredictable brush, painted a different picture.
+
+The sky, once a canvas of dreams, turned into a stage of tragedy when Malaysia Airlines flight MH17 was struck down over Ukraine. The world paused, holding its breath, as the news of the disaster unfolded. Among the 298 lives lost, the spirits of John and Liam soared into the heavens, leaving behind a trail of memories and a garden of remembrance.
+
+In the weeks that followed, the diligent hands of time worked tirelessly in the Netherlands, piecing together the fragments of a shattered story. The Foreign Office, like a gentle guardian, revealed the bittersweet news: John Alder's body had been identified. A sigh of relief mingled with sorrow swept through the hearts of those who knew him.
+
+Back in Newcastle, a garden bloomed outside St James' Park, a sanctuary for the souls of John, Liam, and countless other fans who had cheered their last. The club's managing director, Lee Charnley, spoke of the profound loss, likening the two men to stars that had guided the club's journey.
+
+As the sun set on this chapter, a moral lesson emerged from the shadows: the bonds of friendship and the love for a shared passion can transcend even the darkest of skies. And so, the garden stands, a testament to the enduring spirit of two super supporters, whispering tales of loyalty and love to all who pass by.","begin summaries with a brief introduction setting the scene and context, use narrative storytelling techniques with metaphors, incorporate whimsical elements and moral lessons through the protagonist's journey and personal growth, include step-by-step explanations of events, use personification and vivid imagery to bring the narrative to life, maintain a simple, conversational tone with short, straightforward sentences.
+","adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","The body of a second football fan who was killed in the MH17 disaster has been identified, the Foreign Office has revealed. Newcastle United super fan John Alder, 63, was travelling to New Zealand with his friend Liam Sweeney, 28, to watch their team play pre-season friendlies when the Malaysia Airlines flight was shot down in the Ukraine five weeks ago. The crash claimed the lives of all 298 people on board. The body of Newcastle United supporter John Alder, killed in the MH17 disaster, has  been formally identified, the Foreign Office has revealed . Mr Sweeney's remains were identified and during his funeral service in Newcastle on August 21 his family expressed the wish that Mr Alder's body could also soon be recovered and brought back to the UK. The identification process has now been completed in the Netherlands. A Foreign and Commonwealth Service spokeswoman said: 'We can confirm the positive identification of another British victim of flight MH17, John Alder. 'The family have been informed and our thoughts are with them at this difficult time. Newcastle United have opened a garden of remembrance outside St James' Park for the two super supporters - and all other fans who have died . During a funeral service for Liam Sweeney, pictured,  his family expressed the wish that Mr Alder's body could also soon be recovered and brought back to the UK . 'We continue to provide consular assistance to the family.' The confirmation came on the day Newcastle United opened a garden of remembrance outside St James' Park for the two super supporters - and all other fans who have died. The club's managing director, Lee Charnley, said: 'The loss of John and Liam was truly devastating news. 'Both men were dedicated supporters of our club and were known to thousands of fans and staff alike.'"
+3,plume,summarization,prose.full,qwen,4792,cnn_dailymail,3,3,"Once upon a time, in the land of football, there was a team called West Brom. They had a player named Saido Berahino, who was as quick as a cheetah & could score goals with ease. One day, during a big match against Gateshead, Saido scored not one, not two, but four goals! But, oh dear, he didn't smile or celebrate, just like a cloud that forgot how to rain.
+
+Step 1: The game began, & West Brom was a bit sleepy, like a bear waking up from a nap. It took them 42 whole minutes to score their first goal!
+
+Step 2: Saido, with his magical feet, scored four times, helping his team win 7-0. But he looked as glum as a rainy day, even when his friends cheered around him.
+
+Step 3: The new manager, Tony Pulis, watched from the director's box. He felt like a captain steering a ship & decided to join the team on the field to help them play better.
+
+Step 4: After the game, Tony said, ""Saido is happy, like a bird in a nest, even if he didn't show it on the field."" He promised to help Saido become even better, despite the whispers of other teams wanting him.
+
+And so, the story of Saido & West Brom continued, with hopes of more goals & smiles in the future.","Once upon a time, in the bustling world of football, where the grass whispered secrets and the goalposts stood tall like ancient sentinels, a young striker named Saido Berahino found himself at the heart of a curious tale. On a chilly afternoon, under the watchful gaze of the football gods, Berahino danced across the field with the grace of a gazelle, scoring not one, not two, but four magnificent goals against Gateshead in the FA Cup. Yet, despite his dazzling performance, his face remained as solemn as a cloud-laden sky.
+
+The whispers in the wind spoke of Berahino's desire to leave West Brom, a club nestled in the heart of The Hawthorns. Rumors fluttered like restless butterflies, suggesting he might soon spread his wings to Liverpool or Tottenham. But Tony Pulis, the wise new manager, assured everyone that Berahino was content, his heart still tethered to the team. ""He's happy,"" Pulis declared, painting a picture of camaraderie and unity in the dressing room.
+
+As the match unfolded, Pulis himself embarked on a journey of discovery. Initially perched in the director's box, he felt the pull of the pitch and descended to the dugout, driven by the sluggish start of his team. It was a tale of transformation, where both player and manager learned to navigate the turbulent seas of expectation and speculation.
+
+In the end, the moral of the story was clear: even amidst the clamor of transfer rumors and the weight of unspoken dreams, true happiness lies in the bonds we forge and the goals we achieve together. And so, the tale of Saido Berahino and Tony Pulis became a whimsical chapter in the ever-turning pages of football lore.","start the summary with a whimsical opening and a brief introduction setting the scene and context, incorporate vivid imagery, personification, and narrative storytelling techniques including metaphors, emphasize the protagonist's journey and personal growth, include whimsical elements and moral lessons, maintain a simple, conversational tone with short, straightforward sentences.
+","adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","Tony Pulis refuted suggestions that Saido Berahino is unhappy at West Brom after the forward refused to celebrate any of his four goals in the 7-0 demolition of Gateshead in the FA Cup. The England forward has been repeatedly linked with a move away from The Hawthorns in the January transfer window and speculation only increased on Friday when technical director Terry Burton admitted that the club had halted contract negotiations with Berahino. On Saturday, Berahino was in terrific form, producing several clinical finishes but his glum reaction to scoring the goals captured the attention. Saido Berahino looks downcast despite scoring four goals in West Brom's 7-0 defeat of Gateshead . The Baggies strikers nets his fourth goal to send his side into the FA Cup fourth round . West Brom team-mates congratulate Berahino - who did not appear in the mood for celebration . His new manager said: ‘Someone said he didn’t celebrate at all. It was lovely to see all the lads go over when we scored a goal as that showed the unity that we’ll need. You should see him in the dressing room, he’s happy in there.’ Pulis insists that despite reported interest from Liverpool and Tottenham, West Brom are still to receive an offer for the striker: ‘I hope he keeps reading the headlines if he scores four every week. There is always going to be transfer speculation and you can see why. ‘He has great pace, great balance and scores goals. But when I came in here the chairman had not received any offer for him and we will try our damnedest to try and improve him.’ New manager Tony Pulis insists Berahino is content, despite being linked with a January move . James Morrison (above), Victor Anichebe and Chris Brunt were also on the scoresheet for the Baggies . Pulis, for his part, can reflect on a successful first match in charge. Victor Anichebe, Chris Brunt and James Morrison added to Berahino’s four to add some gloss to the scoreline but West Brom made a dire start to the match and took 42 minutes to break through. Pulis admits that he felt compelled to swap the director’s box for the dugout on the quarter-hour mark after his side made a sluggish start to the match. He said: ‘I had no intentions of going down. It took me only 15 minutes! We started very apprehensive and they shouldn’t be like that but they were against West Ham too, especially in the final third. They have to eradicate that and play with confidence and belief.’"
+4,plume,summarization,prose.full,qwen,4792,cnn_dailymail,4,4,"Once upon a time, in the magical land of computers, there lived a quiet genius named Dennis Ritchie. Step by step, let's discover his story, like peeling layers of a sweet, juicy onion.
+
+First, Dennis created a special language called C. Imagine C as a magical paintbrush that could draw anything you dreamed of on a computer canvas. With his friend Ken Thompson, Dennis used this brush to paint a masterpiece called UNIX, an operating system that became the foundation for many things we use today, like the Apple gadgets & the internet.
+
+Next, Dennis's work was like a hidden treasure chest. While everyone knew about the shiny jewels made by Steve Jobs, Dennis's treasure was the chest itself, holding everything together. His C language was like the sturdy wood of the chest, strong & reliable.
+
+Then, Dennis's language spread far & wide, like seeds in the wind, reaching universities & companies like Microsoft. It helped grow new languages like C++ & Java, which are like C's children, carrying on its legacy.
+
+Finally, even though Dennis was a quiet man, his work was like a giant's shoulders, lifting everyone higher. People who knew him, like Rob Pike & Brian Kernighan, say we all stand on Dennis's shoulders, reaching for the stars.
+
+And so, Dennis Ritchie, the quiet hero, left a mark on the world as big as a giant's footprint, even if not everyone knows his name.","Once upon a time in the bustling realm of technology, where invisible threads of code wove the fabric of our digital lives, there lived a quiet giant named Dennis Ritchie. Unlike the flamboyant kings of innovation, Ritchie was the unseen architect, crafting the very foundation upon which modern marvels stood. His creation, the C programming language, was the silent symphony that orchestrated the dance of data across the globe.
+
+In the shadowy halls of Bell Labs, Ritchie and his companion, Ken Thompson, embarked on a quest to tame the wild beast of computing. They sought a language that could speak to the machines with both grace and power. Thus, C was born, a language that whispered to the hardware with the elegance of a poet and the precision of a clockmaker. It was the unsung hero, the quiet force behind the curtain, enabling the grand performances of UNIX and, by extension, the digital empires of Apple and Microsoft.
+
+While Steve Jobs dazzled the world with his charismatic flair, Ritchie remained the humble craftsman, content with the knowledge that his work was the bedrock of innovation. His demeanor was as understated as his influence was profound. Those who knew him, like Rob Pike and Brian Kernighan, spoke of his genius with reverence, acknowledging the giant upon whose shoulders they stood.
+
+Ritchie's journey teaches us that true greatness often lies in the unseen, in the quiet dedication to one's craft. His legacy is a testament to the power of subtlety and the enduring impact of those who build the invisible bridges that connect us all. In the end, Dennis Ritchie reminds us that sometimes, the most profound stories are whispered, not shouted.","start the summary with a whimsical opening and a brief introduction setting the scene and context, incorporate vivid imagery and personification to bring the narrative to life, use narrative storytelling techniques including metaphors, highlight the contrast between performance and demeanor, focus on the actions and reactions of key characters, include whimsical elements and moral lessons through the protagonist's journey and personal growth, maintain a simple, conversational tone with short, straightforward sentences.
+","adopt a step-by-step structure; include a simile; use ampersands (&) instead of ""and""s; write in the style of a children's book","(WIRED) -- The tributes to Dennis Ritchie won't match the river of praise that spilled out over the web after the death of Steve Jobs. But they should. And then some. ""When Steve Jobs died last week, there was a huge outcry, and that was very moving and justified. But Dennis had a bigger effect, and the public doesn't even know who he is,"" says Rob Pike, the programming legend and current Googler who spent 20 years working across the hall from Ritchie at the famed Bell Labs. On Wednesday evening, with a post to Google+, Pike announced that Ritchie had died at his home in New Jersey over the weekend after a long illness, and though the response from hardcore techies was immense, the collective eulogy from the web at large doesn't quite do justice to Ritchie's sweeping influence on the modern world. Dennis Ritchie is the father of the C programming language, and with fellow Bell Labs researcher Ken Thompson, he used C to build UNIX, the operating system that so much of the world is built on -- including the Apple empire overseen by Steve Jobs. CNN's GeekOut blog: Without Ritchie, you wouldn't be reading this . ""Pretty much everything on the web uses those two things: C and UNIX,"" Pike tells Wired. ""The browsers are written in C. The UNIX kernel â€” that pretty much the entire Internet runs on -- is written in C. Web servers are written in C, and if they're not, they're written in Java or C++, which are C derivatives, or Python or Ruby, which are implemented in C. And all of the network hardware running these programs I can almost guarantee were written in C. ""It's really hard to overstate how much of the modern information economy is built on the work Dennis did."" Even Windows was once written in C, he adds, and UNIX underpins both Mac OS X, Apple's desktop operating system, and iOS, which runs the iPhone and the iPad. ""Jobs was the king of the visible, and Ritchie is the king of what is largely invisible,"" says Martin Rinard, professor of electrical engineering and computer science at MIT and a member of the Computer Science and Artificial Intelligence Laboratory. ""Jobs' genius is that he builds these products that people really like to use because he has taste and can build things that people really find compelling. Ritchie built things that technologists were able to use to build core infrastructure that people don't necessarily see much anymore, but they use everyday."" From B to C . Dennis Ritchie built C because he and Ken Thompson needed a better way to build UNIX. The original UNIX kernel was written in assembly language, but they soon decided they needed a ""higher level"" language, something that would give them more control over all the data that spanned the OS. Around 1970, they tried building a second version with Fortran, but this didn't quite cut it, and Ritchie proposed a new language based on a Thompson creation known as B. Depending on which legend you believe, B was named either for Thompson's wife Bonnie or BCPL, a language developed at Cambridge in the mid-60s. Whatever the case, B begat C. B was an interpreted language -- meaning it was executed by an intermediate piece of software running atop a CPU -- but C was a compiled language. It was translated into machine code, and then directly executed on the CPU. But in those days, C was considered a high-level language. It would give Ritchie and Thompson the flexibility they needed, but at the same time, it would be fast. That first version of the language wasn't all that different from C as we know it today -- though it was a tad simpler. It offered full data structures and ""types"" for defining variables, and this is what Richie and Thompson used to build their new UNIX kernel. ""They built C to write a program,"" says Pike, who would join Bell Labs 10 years later. ""And the program they wanted to write was the UNIX kernel."" Ritchie's running joke was that C had ""the power of assembly language and the convenience of ... assembly language."" In other words, he acknowledged that C was a less-than-gorgeous creation that still ran very close to the hardware. Today, it's considered a low-level language, not high. But Ritchie's joke didn't quite do justice to the new language. In offering true data structures, it operated at a level that was just high enough. ""When you're writing a large program -- and that's what UNIX was -- you have to manage the interactions between all sorts of different components: all the users, the file system, the disks, the program execution, and in order to manage that effectively, you need to have a good representation of the information you're working with. That's what we call data structures,"" Pike says. ""To write a kernel without a data structure and have it be as consist and graceful as UNIX would have been a much, much harder challenge. They needed a way to group all that data together, and they didn't have that with Fortran."" At the time, it was an unusual way to write an operating system, and this is what allowed Ritchie and Thompson to eventually imagine porting the OS to other platforms, which they did in the late 70s. ""That opened the floodgates for UNIX running everywhere,"" Pike says. ""It was all made possible by C."" Apple, Microsoft and beyond . At the same time, C forged its own way in the world, moving from Bell Labs to the world's universities and to Microsoft, the breakout software company of the 1980s. ""The development of the C programming language was a huge step forward and was the right middle ground ... C struck exactly the right balance, to let you write at a high level and be much more productive, but when you needed to, you could control exactly what happened,"" says Bill Dally, chief scientist of NVIDIA and Bell Professor of Engineering at Stanford. ""[It] set the tone for the way that programming was done for several decades."" As Pike points out, the data structures that Richie built into C eventually gave rise to the object-oriented paradigm used by modern languages such as C++ and Java. The revolution began in 1973, when Ritchie published his research paper on the language, and five years later, he and colleague Brian Kernighan released the definitive C book: The C Programming Language. Kernighan had written the early tutorials for the language, and at some point, he ""twisted Dennis' arm"" into writing a book with him. Pike read the book while still an undergraduate at the University of Toronto, picking it up one afternoon while heading home for a sick day. ""That reference manual is a model of clarity and readability compared to latter manuals. It is justifiably a classic,"" he says. ""I read it while sick in bed, and it made me forget that I was sick."" Like many university students, Pike had already started using the language. It had spread across college campuses because Bell Labs started giving away the UNIX source code. Among so many other things, the operating system gave rise to the modern open source movement. Pike isn't overstating it when says the influence of Ritchie's work can't be overstated, and though Ritchie received the Turing Award in 1983 and the National Medal of Technology in 1998, he still hasn't gotten his due. As Kernighan and Pike describe him, Ritchie was an unusually private person. ""I worked across the hall from him for more than 20 years, and yet I feel like a don't knew him all that well,"" Pike says. But this doesn't quite explain his low profile. Steve Jobs was a private person, but his insistence on privacy only fueled the cult of personality that surrounded him. Ritchie lived in a very different time and worked in a very different environment than someone like Jobs. It only makes sense that he wouldn't get his due. But those who matter understand the mark he left. ""There's that line from Newton about standing on the shoulders of giants,"" says Kernighan. ""We're all standing on Dennis' shoulders."" Additional reporting by Jon Stokes . Subscribe to WIRED magazine for less than $1 an issue and get a FREE GIFT! Click here! Copyright 2011 Wired.com."
+5,plume,summarization,prose.full,qwen,4792,slf5k,5,0,"HEADER: A DAY IN THE LIFE OF A SHOE SALESPERSON
+
+SUB-HEADER: WHEN THE CEO COMES KNOCKING
+
+Ever had a day where EVERYTHING goes wrong? 🤔 Yesterday, I was just an 18-year-old making slightly above minimum wage at InsertnamehereshoeCo. when I unknowingly met the CEO! 😱 While cleaning up a shoe avalanche, I asked a customer if he needed help. He said NO, so I skipped the promo spiel. Guess what? That customer was the CEO, checking if we follow PROTOCOL! 😬 Did I just lose my job? Stay tuned! #RetailLife #OopsMoment","An 18-year-old sales employee at InsertnamehereshoeCo. recounts an unexpected encounter with the company's CEO, who was secretly assessing staff adherence to protocol. While tidying up shoes, the employee offered assistance to a customer, unaware it was the CEO. The employee deviated from the expected promotional script, focusing instead on cleaning. With the realization of the CEO's identity, the employee anticipates potential job repercussions upon returning to work.",,adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"I work for InsertnamehereshoeCo. as a sales person. I am only 18 and make just above minimum wage. Yesterday at work, I was asked to clean up the extra shoes, since they were falling everywhere. In the middle of doing this, a man is looking through shoes on the rack and trying on a few. I walk over and say ""Is there anything I can do to help?"" He is quick to say no, so rather than ramble about our promotions as we are supposed to do, I get right back to cleaning. Turns out that guy was the CEO of this international company, testing to see if his employees were following protocol. I did not follow protocol. This all happened yesterday, so when I go in today, I very well might be out a job. Ho-ray!"
+6,plume,summarization,prose.full,qwen,4792,slf5k,6,1,"💏 RELATIONSHIP DILEMMA: WHEN KISSES GO AWRY
+
+💬 THE PERFECT MARRIAGE... EXCEPT FOR ONE THING?
+
+Ever been in a relationship where EVERYTHING is perfect, but there's just ONE little thing that bugs you? 🤔 This wife LOVES her husband and their sex life is FANTASTIC, but his KISSING technique? Not so much. TOO MUCH SALIVA can turn a passionate moment into a slobbery mess! 😅
+
+💡 HOW TO TALK WITHOUT HURTING FEELINGS?
+
+She can talk to him about ANYTHING, but how do you tell your partner their kisses are a bit... WET without making them feel BAD? 😬 Is there a way to address this without causing hurt feelings or making him feel EMASCULATED? Reddit, she needs your HELP! 🆘
+
+#RelationshipAdvice #KissingProblems #HelpNeeded","### Love and Slobber: A Kissing Conundrum
+
+#### The Perfect Marriage... Almost
+So, here's the scoop: this couple's been living the dream for five years. Everything's peachy—love's in the air, and the bedroom's on fire. 🔥 But there's a tiny hiccup in paradise.
+
+#### The Slobbery Surprise
+Turns out, hubby's kissing style is more ""wet dog"" than ""romantic movie."" 😅 It's not every time, but when it happens, it's like a surprise splash zone. And let's be real, nobody wants to feel like they're at SeaWorld during a make-out session. 🐬
+
+#### The Dilemma
+Our storyteller's in a bit of a pickle. She can chat with her man about anything, but this? This is tricky. She's worried about bruising his ego or making him feel less of a man. #RelationshipGoals #AwkwardConversations
+
+#### What Now?
+She's reaching out to the Reddit community for advice on how to spill the beans without causing a storm. Will she find the magic words? Or will she keep dodging those slobbery smooches? 🤔
+
+#### My Two Cents
+Honestly, I've been there. Sometimes, you just gotta rip the band-aid off and have that chat. Maybe start with a compliment sandwich? ""Babe, you're amazing, but let's tweak the kissing a bit. Also, you're still amazing."" 😜
+
+#### Potential Outcomes
+Best case? They laugh it off, tweak the technique, and live happily ever after. Worst case? A few awkward moments, but hey, love conquers all, right? 💪 #LoveWins","use headers and sub-headers in summaries, incorporate personal anecdotes and reflections, highlight unexpected turns of events, anticipate potential outcomes, maintain a casual and relatable tone using informal language and colloquial expressions, avoid detailed reflections and focus on immediate reactions, use emojis for emphasis and tone, use hashtags for added context.
+",adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"Title is pretty self-explanatory. Husband and I have a wonderful marriage. We have been together for 5 years. I love him very much and sex is fantastic. However, I don't like the way he kisses me. He uses too much saliva so I always feel like a dog is slobbering all over me. I can talk to him about anything, but I am so so so afraid to hurt his feelings and to make him feel emasculated! 
+
+To be honest he doesn't slobber every time, but when I start getting horny I think about having to kiss him during sex and I'm starting to get turned off by it.  
+
+Reddit, please help me find the right words to convey this to him."
+7,plume,summarization,prose.full,qwen,4792,slf5k,7,2,"💔 STRUGGLING WITH TRUST IN MARRIAGE 💔
+
+🔍 THE DILEMMA: Can LOVE survive DISTANCE and DISTRUST? 🤔
+
+After 5 years of marriage, he's unsure about staying together. He's across the country, living solo, and figuring things out. She's left feeling ALONE and DEPRESSED. Is it time to give him SPACE or keep reaching out? Should she keep saying ""I LOVE YOU""? 💬
+
+🔑 THE QUESTIONS: How do you cope when your BEST FRIEND is also your PARTNER? Is it possible to rebuild TRUST when you're miles apart? 🌍
+
+#MarriageStruggles #TrustIssues #LongDistanceLove","### A Marriage on the Rocks: Navigating Uncertainty
+
+#### The Trust Issue
+So, here's the scoop: this person is having a tough time with trust in their marriage. They've been hitched for five years, but things got rocky when their partner returned from a seven-month job stint. 😬
+
+#### The Unexpected Bombshell
+Out of nowhere, the partner drops a bombshell—he's fallen out of love, mainly because of the trust issues. But wait, there's more! He’s not even sure if he wants to stay married. Talk about a curveball! 🎢
+
+#### Living Apart and Figuring It Out
+Now, he's across the country, living solo and trying to sort out his feelings. Meanwhile, the person left behind is struggling big time. They're feeling super lonely and depressed, missing their best friend and confidant. 😢
+
+#### Personal Reflection: Been There, Felt That
+Honestly, I can totally relate to feeling alone when your go-to person is suddenly distant. It's like losing your anchor in a stormy sea. 🌊
+
+#### What Now? The Big Questions
+They're stuck wondering: Should they keep texting him like usual? Should they keep saying ""I love you""? How do they even begin to deal with this mess? 🤔
+
+#### Potential Outcomes
+Who knows where this will lead? Maybe some space will help them both figure things out, or maybe it’s time for a heart-to-heart. Either way, it's a tough spot to be in, and my heart goes out to them. 💔","use headers and sub-headers in summaries, incorporate personal anecdotes and reflections, highlight unexpected turns of events, anticipate potential outcomes, maintain a casual and relatable tone using informal language and colloquial expressions, use emojis for emphasis and tone, focus on immediate reactions and emotional impacts, avoid detailed reflections and concentrate on immediate reactions.
+",adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"I've recent discussed the full issues that we are having. I struggle with trust,  for reasons I can't explain. We've been married 5 years and he just returned from a 7 month job. He's told me that he isn't sure whether he wants to stay married.
+
+He finally blew up and told me he's fallen out of love with me mainly due to my distrust. But still doesn't know what he wants. 
+
+He's across the country now (for his job) and is living life on his own away from our family and me and trying to figure things out. 
+
+I'm trying to give him his space, but I'm having such a hard time I find myself so depressed. He's my best friend,  I talk to him when I'm sad or upset or excited about something.  I'm so introverted and private I clam up anytime I even think about trying to talk to someone. I feel so very alone. 
+I would appreciate any guidance you might have. 
+
+Do I keep texting him throughout the day like I usually do? 
+
+Do I keep telling him I love him? 
+
+How should I go about dealing with this?"
+8,plume,summarization,prose.full,qwen,4792,slf5k,8,3,"🐾 SID THE HERO CAT 🐾
+
+🔹 A BATH TIME COMPANION 🔹  
+Did you know cats could be HEROES? My 12-year-old black cat, Sid, just PROVED it! 🛁🐱
+
+🔹 THE UNEXPECTED PROTECTOR 🔹  
+Ever seen a cat DEFEND its owner? When my boyfriend's temper FLARED, Sid stood his ground! 🐾💪
+
+🔹 LOVE IN ACTION 🔹  
+Isn't it AMAZING how animals sense our distress? Sid's LOUD meows and brave stance were my SHIELD. 🛡️❤️
+
+🔹 A LESSON IN LOYALTY 🔹  
+Can we learn from Sid's COURAGE? Sometimes, the smallest creatures have the BIGGEST hearts. 🐈✨
+
+#CatHero #SidTheProtector #FelineFury","## Sid the Hero Cat 🐱
+
+### A Relaxing Bath Gone Wild 🛁
+So, picture this: I'm chilling in the tub, iPad in hand, with my 12-year-old black cat, Sid, hanging out on the tub's edge. It's our usual chill time. But then, my boyfriend barges in, and things take a wild turn. 😳
+
+### The Unexpected Showdown 😲
+I told him to leave me alone 'cause, well, I was still mad at him. But instead of backing off, he goes full-on rage mode, yelling and causing a scene that could probably be heard from Mars. 🚀 Sid, who had initially bolted, suddenly turns into a feline superhero. He runs back in, hissing and making those deep, scary meows. Who knew cats could be so protective? 🦸‍♂️
+
+### Sid to the Rescue! 🦸‍♀️
+As my boyfriend gets closer, Sid jumps into action, biting and scratching like a tiny, furry ninja. I mean, seriously, who needs a guard dog when you have Sid? 🐾 I get out of the tub, and Sid keeps up his brave act, making sure the boyfriend knows who's boss. #CatHero #UnexpectedProtector
+
+### Emotional Whirlwind 🌪️
+Honestly, I was shaken. I never yell, and loud voices are a major trigger for me. Sid's reaction was both surprising and comforting. It made me wonder: Do our pets sense our emotions more than we realize? 🤔
+
+### Reflecting on Relationships 💭
+Okay, so maybe I wasn't in the right for staying mad, but his reaction was way over the top. Sid's bravery made me rethink a lot about my relationship dynamics. What if Sid hadn't been there? Would things have escalated further? 😬
+
+### What's Next? 🤷‍♀️
+Now, I'm left wondering about the future. Can I really stay with someone who thinks yelling is okay? And how do I make sure Sid feels safe and secure? #RelationshipQuestions #PetLove
+
+### Final Thoughts 💬
+Sid's unexpected heroics have left me in awe. He's not just a pet; he's family. And sometimes, family steps up in the most surprising ways. 🐾❤️","use headers and sub-headers in summaries, highlight unexpected turns of events, maintain a casual and relatable tone using informal language and colloquial expressions, focus on immediate reactions and emotional impacts, include specific questions and uncertainties, incorporate personal anecdotes and reflections, anticipate potential outcomes, use emojis for emphasis and tone, use hashtags for categorization and added context.
+",adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"The love of my life, my 12 year old black cat Sid, just did something I didn't know cats would do.
+
+I've been relaxing in the bath tub reading on my iPad for a couple of hours. Weird, but I do this often. Sid has been sitting on the side of the tub the whole time, which is also not unusual. I just pet him and kiss him and enjoy his company.
+
+My boyfriend came home and into the bathroom to say ""hey"". He must have forgotten our last conversation. I told him to leave me alone, I was still pissed at him. This quickly flipped his rage switch and he began yelling. I never yell, and I'm deeply disturbed/shaken by someone yelling at me. It's a trigger, for sure. I tell him to leave me alone, but he gets louder. He rips at the shower curtain, snatches my ipad, throws my phone, yelling and cussing louder and louder. This, by the way, can be heard from the street on one side of my apartment, as well as in the courtyard on the other side, not to mention neighboring apartments.
+
+Sid had initially run out when this started, but as the boyfriend got closer to me, he came running back in, right in front of the tub, in front of me, and hissing and making those loud, low meows. I've heard him make these sounds only when he was afraid, such as in the car or at the vet, or when a strange dog has been in the apartment. My boyfriend grabbed him by the scruff of the neck, I flipped out and he let go. Sid ran around and began biting and scratching at his leg. I stood up and got out of the tub, and as he began backing out of the bathroom, Sid crept towards him, still yelling those distressed meows at him.
+
+Now, to be clear, I am not in the right for being pissed at him, or for staying pissed instead of resolving the situation. Although he isn't right for the way he reacted. He just has a shitty fucking temper and he thinks yelling is okay and he does it LOUD AS FUCK.
+
+So please no dissecting the relationship or the fight. This is about my amazing Sid who tried to protect me!"
+9,plume,summarization,prose.full,qwen,4792,slf5k,9,4,"🔍 DEALING WITH FAMILY PRESSURE AND STRESS
+
+💬 Who Do You Turn To When Family Dynamics Get TOUGH?
+
+Feeling overwhelmed by family expectations? You're NOT ALONE. An 18-year-old shares their struggle with a condescending mom and a tired dad. Ever felt like you're inheriting NEGATIVITY? 😟
+
+📞 THE COUNSELOR'S ADVICE: THERAPY OR NOT?
+
+Called a hotline for help. The counselor suggests therapy, but is it worth the TIME and MONEY? 🤔 How do YOU cope with stress and self-esteem issues? Let's talk about it! #MentalHealthMatters #FamilyStress","### Family Drama and Stress 😩
+
+**The Family Vibe**  
+So, this person’s family situation is a bit of a rollercoaster. Mom’s got a knack for being condescending, and Dad’s just too tired to care. Living in this environment, they’ve picked up some negativity vibes. #FamilyDynamics
+
+**The Unexpected Call 📞**  
+In a twist, they decided to call a counselor hotline on a whim. Who knew a random call could lead to such a big suggestion? The counselor thinks therapy is the way to go, but our storyteller isn’t buying it. Therapy sounds like a drag, right? #UnexpectedAdvice
+
+**The Stress Factor**  
+At 18, they’re juggling anxiety about losing friends, dreams slipping away, and money worries. Classic teen stuff, but it’s hitting hard. They’re also dealing with the fear of disappointing their parents again. Ouch. 😬 #TeenLife #Stress
+
+**To Therapy or Not to Therapy? 🤔**  
+The counselor’s advice to see a therapist is met with resistance. Who wants to spend time and money on that? But deep down, they know stress is a real issue. What’s the move here? Is therapy the answer, or is there another way to cope? #TherapyDebate
+
+**Personal Reflection**  
+Ever been in a similar spot? It’s tough when you feel like you’re letting people down. Maybe it’s time to explore some stress-busting hacks or find a new perspective. What would you do? #PersonalGrowth #LifeChoices
+
+**Potential Outcomes**  
+If they take the plunge into therapy, it could be a game-changer. But if they stick to their guns, they might need to find other ways to tackle stress. What’s the next chapter in this story? #FutureDecisions","use headers and sub-headers in summaries, highlight unexpected turns of events, maintain a casual and relatable tone using informal language and colloquial expressions, focus on immediate reactions and emotional impacts, include specific questions and uncertainties, incorporate personal anecdotes and reflections, use emojis for emphasis and tone, use hashtags for categorization and added context, keep summaries concise and punchy, avoid long intros and conclusions, anticipate potential outcomes.
+",adopt a header and sub-header structure; include rhetorical questions; use ALLCAPS to emphasize certain words; write in the style of a tweet,"So I got in trouble with my parents and I felt that I needed to talk to someone other than my friends. The thing that you should know about my family is that my Mom can be very condescending, overbearing and negative; Dad is tired from work and he really doesn't want to deal with family issues. I inherited the traits of negativity/pessimism after so many years living here so I decided, on a whim, to call a counselor hotline because I really did need someone to talk to. I told her about my problems: 
+
+I'm 18 and I'm anxious about losing friends, not achieving my dreams, and worrying about money. I guess just normal things, but I have a tendency to overly-stress about situations. I'm also worried because my I will have to face my parents disappointment with me again after I regained their trust and I'm really pissed at myself for that.
+
+Anyways the counselor on the hotline keeps telling me that I need to see a therapist soon to cope with my worries about stress...but I disagree. I really don't want to have to waste time and money to deal with a therapist, but the counselor is right though; I really have some stress issues and they tend to put me down. So what do you guys think and what can I do to cope with stress and self-esteem issues currently?"
+10,plume,summarization,prose.full,qwen,4792,wikipedia,10,0,"``` 
+INT. MUSIC STUDIO - DAY
+
+NARRATOR (V.O.)
+Yo, check it, fam, we're diving deep, 
+Into the banjo's history, a tale to keep. 
+From African roots, it made its way, 
+To the U.S. of A., where it found its sway.
+
+CUT TO:
+
+A montage of AFRICAN SLAVES playing early banjo-like instruments.
+
+NARRATOR (V.O.) (CONT'D)
+The name ""banjo"" might come from ""mbanza,"" 
+Or maybe a bamboo stick, like a musical bonanza. 
+It's got strings and a neck, a sound so sweet, 
+In bluegrass and country, it can't be beat.
+
+CUT TO:
+
+A series of QUICK SHOTS of various banjo styles and players.
+
+NARRATOR (V.O.) (CONT'D)
+From clawhammer to Scruggs, it's got mad styles, 
+With books and vids to learn, you'll be jammin' for miles. 
+Whether five-string or tenor, it's all the rage, 
+The banjo's story is written on history's page.
+
+FADE OUT.
+```","The banjo, a string instrument with roots tracing back to African slaves in the United States, evolved from African instruments. Its name might originate from the Kimbundu word ""mbanza"" or a Senegambian term for the bamboo stick used in its neck. The article provides a comprehensive list of resources for further exploration of the banjo's history, cultural significance, and instructional guides across various styles, including five-string, tenor, and plectrum banjo techniques. It also highlights the banjo's influence in genres like bluegrass and country music.",,adopt a rhyming structure; include modern slang; write in the style of a screenplay,"The banjo is a string instrument, that was first played by African slaves in the United States  a few hundred years ago. The idea came from other African instruments.  
+The name banjo may have come from a Kimbundu word: mbanza, but it could have also come from a Senegambian word for the bamboo stick used for the banjo's neck.
+
+Related pages
+ Bluegrass music
+ Country music
+
+References
+
+Further reading
+
+Banjo history 
+ Conway, Cecelia (1995). African Banjo Echoes in Appalachia: A Study of Folk Traditions, University of Tennessee Press. Paper: ; cloth: . A study of the influence of African Americans on banjo playing throughout U.S. history.
+ Gura, Philip F. and James F. Bollman (1999). America's Instrument: The Banjo in the Nineteenth Century. The University of North Carolina Press. . The definitive history of the banjo, focusing on the instrument's development in the 1800s.
+ Katonah Museum of Art (2003). The Birth of the Banjo. Katonah Museum of Art, Katonah, New York. .
+ Linn, Karen (1994). That Half-Barbaric Twang: The Banjo in American Popular Culture. University of Illinois Press. . Scholarly cultural history of the banjo, focusing on how its image has evolved over the years.
+ Tsumura, Akira (1984). Banjos: The Tsumura Collection. Kodansha International Ltd. . An illustrated history of the banjo featuring the world's premier collection.
+ Webb, Robert Lloyd (1996). Ring the Banjar!. 2nd edition. Centerstream Publishing. . A short history of the banjo, with pictures from an exhibition at the MIT Museum.
+
+Instructional (5-string Banjo)
+Bailey, Jay. ""Historical Origin and Stylistic Development of the Five-String Banjo."" The Journal of American Folklore 85.335 (1972): 58-65.
+Costello, Patrick (2003). The How and the Tao of Old Time Banjo. Pik-Ware Publishing. . Instruction in frailing banjo. Available online under a Creative Commons license on several web sites including ezfolk .
+Scruggs, Earl. ""Earl Scruggs and the 5-String Banjo"". Hal Leonard Corporation. . Instruction in Scruggs or 3 finger style 5 string banjo.
+Seeger, Mike (2005). ""Old-Time Banjo Styles"". Homespun Tapes. Seeger teaches several old-time picking techniques - clawhammer, two-finger, three-finger, up-picking and others.
+Seeger, Pete (1969). How to Play the 5-String Banjo. 3rd edition. Music Sales Corporation. . The seminal instruction book, still in print decades later. Seeger has since recorded an instruction video, available on DVD.
+Wernick, Pete (1985 DVD). Beginning Bluegrass Banjo. Full course in the basics of Scruggs style.
+Wernick, Pete & Trischka, Tony (2000). Masters of the Five-String Banjo. Acutab Publications. .  70 banjo pieces from Scruggs, Reno, Osborne and Crowe to Fleck, Munde, and Cloud. Technique, improvising, set-up, learning, backup, favorite banjos, practice tips, equipment.
+Winans, Robert B. ""The Folk, the Stage, and the Five-String Banjo in the Nineteenth Century."" The Journal of American Folklore 89. 354 (1976): 407-37. 14 Sep. 2006.
+
+Instructional (Tenor Banjo)
+ Bay, Mel (1990). Complete Tenor Banjo Method. Porcupine Press. . An instructional guide.
+ Bay, Mel (1973). Deluxe Encyclopedia of Tenor Banjo Chords. Porcupine Press. . A comprehensive chord dictionary for CGDA or standard tuning.
+ O'Connor, Gerry. 50 solos for Irish tenor banjo: (featuring jigs, reels and hornpipes arranged for E, A, D, G and A, D, G, C tuning). Soodlum, Waltons Mfg. Ltd. .
+ Richards, Tobe A. (2006). The Tenor Banjo Chord Bible: CGDA Standard Jazz Tuning 1,728 Chords. Cabot Books. . A comprehensive chord dictionary in standard jazz tuning.
+ Richards, Tobe A. (2006). The Irish Tenor Banjo Chord Bible: GDAE Irish Tuning 1,728 Chords. Cabot Books. . A comprehensive chord dictionary in Irish tuning.
+ Wachter, Buddy (2005). Learning Tenor Banjo. Homespun. . An instructional guide.
+
+Instructional (Plectrum Banjo)
+ Richards, Tobe A. (2007). The Plectrum Banjo Chord Bible: CGBD Standard Tuning 1,728 Chords. Cabot Books. . A comprehensive chord dictionary in standard tuning.
+
+Instructional (Claw-hammer Banjo) 
+ Koken, Walt (2016) ""Slo-Mo Banjo"" DVD. Mudthumper Music.
+
+Other websites 
+
+ The International Bluegrass Music Museum
+ Banjo Music & Theory
+ Chord finder for 4-string banjos
+ Banjo-L
+ The Banjo Hangout
+ The Banjo Newsletter
+
+Folk instruments
+Bluegrass music
+Plucked string instruments"
+11,plume,summarization,prose.full,qwen,4792,wikipedia,11,1,"```screenplay
+INT. UNITED NATIONS ASSEMBLY HALL - DAY
+
+NARRATOR (V.O.)
+Yo, listen up, here's the scene, 
+A convention from '79, if you know what I mean. 
+CEDAW's the name, fighting the fight, 
+For women's rights, shining bright.
+
+CUT TO:
+
+A montage of countries signing the convention.
+
+NARRATOR (V.O.) (CONT'D)
+189 countries, they made the pledge, 
+To end discrimination, that's the edge. 
+But some still lag, like the U.S. and Iran, 
+Time to step up, join the plan.
+
+CUT TO:
+
+ARTICLE 1 flashes on the screen.
+
+NARRATOR (V.O.) (CONT'D)
+Article 1, it's crystal clear, 
+Discrimination's out, let's make it disappear. 
+From voting rights to education's call, 
+Equality's the goal, for one and all.
+
+CUT TO:
+
+Scenes of women in various professions and roles.
+
+NARRATOR (V.O.) (CONT'D)
+Articles 2 through 16, laying it down, 
+From health to work, no more frown. 
+Maternity leave, equal pay, 
+It's time for change, no delay.
+
+CUT TO:
+
+A committee meeting in progress.
+
+NARRATOR (V.O.) (CONT'D)
+The Committee's got your back, 23 strong, 
+High moral standing, they right the wrong. 
+Reports every four years, keeping it tight, 
+Suggesting changes, shining the light.
+
+CUT TO:
+
+A woman filing a claim under the Optional Protocol.
+
+NARRATOR (V.O.) (CONT'D)
+Optional Protocol, for when things go south, 
+Claim your rights, speak with your mouth. 
+109 countries, they've ratified, 
+Promised to uphold, with pride.
+
+FADE OUT.
+
+NARRATOR (V.O.) (CONT'D)
+So here's the scoop, in modern slang, 
+CEDAW's the jam, let freedom rang. 
+Equality's the mission, let's make it real, 
+For every woman, that's the deal.
+
+THE END.
+```","Alright, picture this: the camera pans over a bustling United Nations assembly hall, filled with delegates from around the world, each representing their nation's commitment to a brighter, more equal future. It's December 18, 1979, and the air is electric with anticipation. This is the day the Convention on the Elimination of All Forms of Discrimination against Women is adopted. Now, let me take you on a journey through this landmark moment in history.
+
+Imagine me as your guide, a voice-over narrating the scene. This convention is like a powerful banjo tune, each article a different string, resonating with the promise of equality. Article 1 sets the stage, defining discrimination against women as any act that limits their human rights. It's like the opening strum of a banjo, setting the tone for the melody to come.
+
+As we delve deeper, Articles 2 through 16 weave a rich tapestry of rights and protections, from prohibiting discrimination in education and work to ensuring women's rights in marriage and health care. It's like listening to a master banjo player, each note building on the last, creating a harmonious blend of justice and equality.
+
+Now, let's spotlight some of the key players in this story. Countries like Iran, Somalia, and the United States are like banjo players who haven't yet joined the ensemble, having not ratified the convention. Meanwhile, 189 nations have picked up their instruments, promising to play their part in this global symphony of change.
+
+The scene shifts to the Committee, a group of 23 members, each with a moral compass as their guide, ensuring countries stay true to their commitments. It's like a band leader keeping everyone in tune, making sure the music of equality plays on.
+
+And then there's the Optional Protocol, a special riff allowing women to claim their rights directly to the United Nations if violated. It's a powerful solo, echoing the voices of those who seek justice.
+
+So there you have it, a story of hope and determination, told through the lens of a global commitment to women's rights. It's a narrative that continues to unfold, with each country, each person, playing their part in this ongoing concert for equality.","use informal first-person perspective and narrative elements like voice-over and visual descriptions to emphasize cultural and historical context through storytelling, highlight different banjo styles and players, and start with an introductory shot or scene setting to convey information visually.
+",adopt a rhyming structure; include modern slang; write in the style of a screenplay,"Convention on the Elimination of All Forms of Discrimination against Women is a convention and one of the international human rights law adopted by United Nations General Assembly on 18 December 1979 and entered into force 3 September 1981 established to prohibit all discrimination against women and to ensure their human rights and freedom on a basis of equality with men. As of 2017, 189 countries had ratified this Convention, that is, have made promise to realize this Convention. Countries which had not ratified it were Iran, Somalia, South Sudan, Tonga, the United States and Vatican City.
+
+Main Contents 
+Article 1 Discrimination against women means any distincting, excluding or limiting all kinds of the human rights and freedoms of women.
+
+Article 2 Countries must prohibit all discrimination against women by anyone, any groups and any companies and must change any law to protect women from discrimination.
+
+Article 4 Special measures to promote real equality between men and women and to protect mother women is not discrimination.
+
+Article 5 Abolishing any prejudices and custom which are out of the idea insisting that either sex is inferior or superior or out of stereotyped roles for men and women.  
+
+Article 6 Protection women from all forms of human trafficking and prostitution.
+
+Article 7 The right to vote of women and to take part in government policy.
+
+Article 8 Rights of women to represent their government and take part in the work of international organisation.
+
+Article 9 Rights of women to change nationality and in marriage to an alien, women are not changed automatically changed her nationality according to that of the husband and have equal right as men about the nationality of her child.
+
+Article 10 Abolishing discrimination against women in the field of education;
+a) The same conditions for career and guidance for profession 
+b) Access to the same education program, the same tests, and teaching staff
+c) To abolish any stereotype of the role of men and women at all levels and all form of education.
+d) The same chance to get scholarships
+g) The same chance to take part in sports
+
+Article 11 
+1. To abolish discrimination against women in the field of working
+
+2. To prevent discrimination against women in marriage motherhood, and ensure their right to work, countries have
+a) to prohibit sanction or dismissal because of being pregnant or maternity leave. 
+b) to give maternity leave with pay or social benefits without loss of former profession.
+d) to protect pregnant women form harmful works.
+
+Article 12 Abolishing discrimination in the field of health care.
+
+Article 13 
+a) The rights to family benefits
+b) The rights to bank loan and credit card
+
+Article 14 Abolishing discrimination in rural areas. 
+
+Article 15 Equality of women with men before law, also in civil matters and legal capacity.
+
+Article 16 
+a) The rights to enter into marriage
+b) The same right freely choose a spouse
+c) The same right and responsibility during marriage
+d) The same rights and responsibility as parents
+e) The same rights to decide freely and with responsibility on the number and spacing of their children
+g) The same personal rights as husband and wife, also the right to choose a family name, a profession and work
+
+From Article 19 to 30, about the Committee that watch the realisation of this Convention by countries. The Committee is composed of 23 members elected by countries. They must be ""of high moral standing"". Countries must submit a national report, at least every four years to the Committee and the Committee submit reports to the United Nations Economic and Social Council.
+
+The committee also give suggestion to the countries on matter about the abolition of discrimination against women.
+
+Optional Protocol 
+This Convention also have the ""Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women"". It admits women whose human rights written in this Convention are violated to claim to the Committee of the United Nations. Until now, September 2017, 109 countries have ratified it, that is, promised to United Nations to realize it.
+
+Related pages
+Woman
+Women's rights
+Discrimination
+Right to education
+United Nations Development Fund for Women
+
+Other websites 
+The full text of the Convention
+The Optional Protocol
+
+History of the United Nations
+Feminism
+Discrimination
+Human rights
+1979"
+12,plume,summarization,prose.full,qwen,4792,wikipedia,12,2,"```screenplay
+INT. MUSIC STUDIO - DAY
+
+NARRATOR (V.O.)
+Yo, check it, fam, it's Iggy's debut jam,
+""The New Classic"" dropped, and it ain't no scam.
+April twenty-one, two-oh-one-four,
+Island and Virgin EMI opened the door.
+
+CUT TO:
+
+A MONTAGE OF ALBUM COVERS
+
+NARRATOR (V.O.)
+""Fancy"" hit the charts, number one, no doubt,
+With Charli XCX, they turned it out.
+Rita Ora and T.I. joined the track,
+Iggy's got the crew, and they got her back.
+
+CUT TO:
+
+IGGY AZALEA IN AN INTERVIEW
+
+IGGY AZALEA
+(enthusiastic)
+A classic's a moment, a time capsule, see?
+""The New Classic"" is what I want it to be.
+
+CUT TO:
+
+CRITICS AT THEIR DESKS
+
+NARRATOR (V.O.)
+Critics were mixed, some loved, some dissed,
+But Iggy's got style, can't be dismissed.
+
+CUT TO:
+
+STUDIO CREDITS ROLLING
+
+NARRATOR (V.O.)
+1st Down on drums, The Arcade on the beat,
+With a crew so stacked, this album's elite.
+From mixing to vocals, they all played a part,
+Iggy's ""New Classic"" is a work of art.
+
+FADE OUT.
+```","``` 
+Alright, picture this: the camera zooms in on a bustling cityscape, neon lights flickering as the sun sets. A voice-over kicks in, ""Yo, welcome to the world of Iggy Azalea's debut album, 'The New Classic.' It's 2014, and this Aussie rapper is about to drop some serious beats under Island in the US and Virgin EMI in the UK.""
+
+Cut to a montage of quick shots: Iggy in the studio, headphones on, vibing to the rhythm. We see her collaborating with Charli XCX, Rita Ora, and T.I., each bringing their own flavor to the mix. The track ""Fancy"" is blasting, and it's climbing the Billboard Hot 100 like it's nobody's business.
+
+Now, let's dive into the cultural vibe. Iggy talks about redefining what a ""classic"" means. She’s like, ""When you hear a classic, you think Nas, Jay-Z, or The Chronic. But I want 'The New Classic' to be that time capsule moment for my fans."" Cue a scene of fans jamming out, remembering where they were when they first heard it.
+
+The critics? Well, they had mixed feelings, but hey, that's the game. The album's got a lineup of talent that reads like a who's who of the music world. From producers like The Arcade and The Invisible Men to vocal engineers and mixers, it's a team effort.
+
+Imagine a quick montage of banjo players, each strumming a different style, symbolizing the diverse influences and sounds that make up the album. It's a visual metaphor for the eclectic mix of talent behind 'The New Classic.'
+
+As the scene fades, the voice-over wraps up, ""So there you have it, folks. Iggy Azalea's 'The New Classic'—a debut that’s all about capturing moments and making them timeless. Whether you love it or hate it, it's a piece of 2014 that’s here to stay.""
+
+And cut. 
+```","use informal first-person perspective and narrative elements like voice-over and visual descriptions to emphasize cultural and historical context through storytelling, include montages or scenes to illustrate the various articles and their implications, highlight different banjo styles and players, focus on quick shots and montages to convey information visually, start with an introductory shot or scene setting, maintain a modern slang tone throughout the summary.
+",adopt a rhyming structure; include modern slang; write in the style of a screenplay,"The New Classic is the debut studio album by Australian rapper Iggy Azalea. The album was released on 21 April 2014, under Island in the US, Virgin EMI in the UK. The album features the Billboard Hot 100 number single ""Fancy"" which features English singer Charli XCX as well as guest appearances from R&B singer Rita Ora and rapper T.I.. Azalea also stated that the reason why she named it ""The New Classic"" by saying ""I think people think of classic and they think of a Nas record or a Jay-Z record or The Chronic, what makes something classic is when you hear it and you have that moment that is a time capsule. When I say 'The New Classic,' I just want to make records that give you that moment for fans that they can remember where they were when they heard it.""
+
+Critical reception
+ 
+The New Classic received  mixed reviews from music critics.
+
+Track listing
+
+Credits and personnel
+Credits for The New Classic adapted from Allmusic.
+
+1st Down – drums, keyboards, producer, programming
+Richard Adlam – keyboards, producer, programming, vocals (background)
+Kishan Amin – vocals
+The Arcade – producer
+George Astasio – drums, guitar, keyboards, programming
+Nasri Atweh – main personnel
+Iggy Azalea – composer, creative director, primary artist, vocals, vocals (background)
+Chris Berdine – packaging
+Tim Blacksmith	– executive producer, production coordination
+Elliot Carter – vocal engineer
+Charli XCX – composer, featured artist, vocals
+Danny D – executive producer, production coordination
+Josh Drucker – assistant
+Joey Dyer – composer, drums, keyboards, producer, programming
+Mikkel Eriksen	– vocal engineer
+Mikkel Storleer Eriksen – composer
+Frank Farian – composer
+Feddaweight – vocal engineer
+Clifford Harris – composer
+Stuart Hawkes – mastering
+Kelli-Leigh Henry-Davila – vocals (background)
+Tor Erik Hermansen – composer
+Sarah Hudson – composer
+The Invisible Men – composer, producer
+Jaycen Joshua – mixing
+Tiffani Juno – vocals (background)
+Ryan Kaul – assistant
+Nadia Khan – management
+Anthony Kilhoffer – mixing
+Raja Kumari – composer, vocals (background)
+Benjamin Levin	– composer
+
+Lovy Longomba – composer
+Mavado	– composer, featured artist, vocals
+Kurtis McKenzie – composer, drums, keyboards, programming
+Daler Mehndi – composer
+The Messengers	– composer, producer
+Adam Messinger	– main personnel
+Jon Mills – composer, drums, guitar, keyboards, programming
+Sean Momberger	– keyboards
+Brooke Nipar – cover photo
+Rita Ora – featured artist, vocals
+Jason Pebworth	– keyboards
+Katy Perry – composer
+Yolanda Quartey – vocals (background)
+Hal Ritson – drums (steel), keyboards, producer, programming
+Daniela Rivera	– assistant
+Trocon Markous Roberts	– composer
+Rock City – composer
+Kyle Ross – assistant
+Jon Shave – drums, keyboards, programming
+Natalie Sims – composer
+Stargate – instrumentation, programming
+Sarah Stennett	– executive producer, management
+T.I. – composer, executive producer, featured artist, vocals
+Phil Tan – mixing
+Jon Turner – composer
+Miles Walker – assistant
+Watch the Duck	– featured artist, producer, vocals
+Eric Weaver – vocal engineer
+Andrew Wuepper	– mixing
+Gabriel Yared – composer
+Daniel Zaidenstadt – vocal engineer
+
+Charts
+
+Weekly charts
+
+Year-end charts
+
+Certifications
+
+Release history
+
+References 
+
+2014 albums
+Debut albums
+Hip hop albums"
+13,plume,summarization,prose.full,qwen,4792,wikipedia,13,3,"INT. MUSIC STUDIO - DAY
+
+NARRATOR (V.O.)
+Yo, check it, Neil Young's the dude, born in '45,  
+Canadian-American, keeps the music alive.  
+Rock and country, he's got the blend,  
+Political vibes, messages he sends.  
+
+FLASHBACK - CONCERT STAGE
+
+NARRATOR (V.O.)
+Buffalo Springfield, Crosby, Stills, Nash & Young,  
+""Heart of Gold,"" ""Helpless,"" his hits are sung.  
+In the '80s, Geffen tried to sue,  
+But Neil won, like a boss, it's true.  
+
+INT. LIVING ROOM - DAY
+
+NARRATOR (V.O.)
+Godfather of Grunge, they call him that,  
+His tunes paved the way, and that's a fact.  
+Married Pegi Young, had kids, then split,  
+Dual citizen now, ain't that lit?  
+
+EXT. FARM AID CONCERT - DAY
+
+NARRATOR (V.O.)
+Activist vibes, he fights for the land,  
+Farm Aid's his jam, with Willie and the band.  
+Didn't vibe with Bush, wrote a song to impeach,  
+Bernie Sanders got his vote, that's his speech.  
+
+INT. RECORD STORE - DAY
+
+NARRATOR (V.O.)
+Albums galore, from '69 to now,  
+Rock Hall of Fame, twice, take a bow.  
+Neil Young's legacy, forever in sight,  
+A legend in music, shining bright.  
+
+FADE OUT.","``` 
+INT. MUSIC STUDIO - DAY
+
+[Quick shots of vinyl records spinning, guitars hanging on walls, and a dusty old banjo in the corner.]
+
+VOICE-OVER (V.O.)
+Yo, so let me take you on a wild ride through the life of Neil Percival Young, the dude who’s basically the Godfather of Grunge. Born in the chilly lands of Canada back in '45, Neil's been rockin' the scene with his country and rock vibes. Picture this: a young Neil, strumming away, crafting tunes that hit you right in the feels and make you think about the world around you.
+
+[Montage of Neil performing with Buffalo Springfield and Crosby, Stills, Nash & Young, intercut with shots of protest rallies and farm fields.]
+
+V.O. (CONT'D)
+Neil's got this knack for mixing personal and political messages in his jams. Like, he’s not just about the music; he’s about making a statement. Remember ""Southern Man"" and ""Alabama""? Yeah, those tracks called out racism in the South, and it was so fire that Lynyrd Skynyrd had to clap back with ""Sweet Home Alabama."" Talk about a musical showdown!
+
+[Quick cuts of Neil in court, winning against Geffen Records, followed by shots of Farm Aid concerts with Willie Nelson and John Mellencamp.]
+
+V.O. (CONT'D)
+And get this, in the '80s, Neil was like, ""Nah, I’m not gonna let a record label tell me what to do,"" and he took Geffen Records to court. Spoiler alert: Neil won. He’s also been a huge advocate for farmers, co-founding Farm Aid to keep those family farms alive and kickin'. 
+
+[Scene shifts to Neil receiving his U.S. citizenship, then supporting Bernie Sanders in rallies.]
+
+V.O. (CONT'D)
+Fast forward to 2020, and Neil’s rocking dual citizenship, still fighting the good fight for equality and justice. He’s been all about Bernie Sanders, backing him in both 2016 and 2020. 
+
+[Montage of Neil’s album covers flashing by, ending with his induction into the Rock and Roll Hall of Fame.]
+
+V.O. (CONT'D)
+With a discography longer than a CVS receipt, Neil’s been inducted into the Rock and Roll Hall of Fame not once, but twice. That’s some legendary status right there. 
+
+[Final shot of the dusty banjo, now being played by a young musician, symbolizing the passing of musical legacy.]
+
+V.O. (CONT'D)
+So, whether it’s rock, country, or even a little banjo twang, Neil Young’s journey is all about breaking barriers and striving for equality. And that, my friends, is how you leave a mark on history.
+
+FADE OUT.
+```","use informal first-person perspective and narrative elements like voice-over and visual descriptions to emphasize cultural and historical context through storytelling, focus on quick shots and montages to convey information visually, start with an introductory shot or scene setting, maintain a modern slang tone throughout the summary, structure the summary in a screenplay format with scene transitions and voice-over narration, highlight different banjo styles and players, emphasize the goal of equality and the journey towards achieving it.
+",adopt a rhyming structure; include modern slang; write in the style of a screenplay,"Neil Percival Young (born November 12, 1945) is a Canadian-American musician and old man. He is known for his country and rock songs. 
+
+Many of his songs have a political and/or personal message. He was also a member of the groups Buffalo Springfield and Crosby, Stills, Nash & Young.
+
+Some of his best-known songs are ""Heart of Gold"", ""Helpless"", ""After the Gold Rush"", ""Rockin' in the Free World"", ""Cinnamon Girl"", ""Southern Man"" and ""Like a Hurricane"".
+
+Young has explored many different styles of music during his career, and not all his records have been popular. During the 1980s, he was sued by his record company, Geffen Records, who believed he was making records that would not sell very many copies on purpose. Young won out over Geffen in court.
+
+Sometimes, people call him the Godfather of Grunge because the style of some of his songs led to the kind of music called grunge music that started to be popular in the early 1990s.
+
+Personal life
+From 1978 until their divorce in 2014, he was married to singer-songwriter Pegi Young. They had two children.
+
+He became a United States citizen, taking dual citizenship on January 22, 2020.
+
+Political views
+
+Young is known as an environmental and political activist and his views can sometimes be found in the lyrics of his songs. He is a long-time supporter of the family farmer. In 1985 Young, along with Willie Nelson and John Mellencamp, co-founded the benefit concert called Farm Aid which has continued every year to help raise money to keep farmers in business. He also did not support George W. Bush when he was the president of the United States, and even wrote a song called ""Let's Impeach the President"" about how he thought Bush should lose his powers.
+
+In the 1970s, Young released two songs (on his After The Gold Rush and Harvest albums) critical of racism in the Southern United States. These songs were called ""Southern Man"" and ""Alabama"". Lynyrd Skynyrd, a band from the Southern United States, made a song in response called ""Sweet Home Alabama"" that has become a very popular rock classic. Young's name is said in the lyrics of ""Sweet Home Alabama"".
+
+In 2016 and in 2020, Young supported Bernie Sanders for President of the United States.
+
+Albums
+
+Neil Young (1969)
+Everybody Knows This Is Nowhere  (1969)
+After the Gold Rush (1970)
+Harvest (1972)
+Time Fades Away (1973)
+On the Beach (1974)
+Tonight's the Night (1975)
+Zuma  (1975)
+Long May You Run  (1976)
+American Stars 'n Bars (1977)
+Comes a Time (1978)
+Rust Never Sleeps  (1979)
+Hawks & Doves (1980)
+Re·ac·tor  (1981)
+Trans (1982)
+Everybody's Rockin' (1983)
+Old Ways (1985)
+Landing on Water (1986)
+Life  (1987)
+This Note's for You (1988)
+Eldorado  (1989)
+Freedom (1989)Ragged Glory  (1990)
+Harvest Moon (1992)
+Sleeps with Angels  (1994)
+Mirror Ball  (1995)
+Broken Arrow  (1996)
+Silver & Gold (2000)
+Are You Passionate?  (2002)
+Greendale  (2003)Prairie Wind (2005)Living with War (2006)Living with War: ""In the Beginning"" (2006)Chrome Dreams II (2007)Fork in the Road (2009)Le Noise (2010)Americana  (2012)Psychedelic Pill  (2012)A Letter Home (2014)Storytone (2014)The Monsanto Years  (2015)Peace Trail (2016)Hitchhiker (2017)The Visitor''  (2017)
+Colorado (album)  (2019)
+Barn (album)  (2021)
+
+Awards
+
+Neil Young has been inducted into the Rock and Roll Hall of Fame twice, first as a solo artist in 1995 and again as a member of Buffalo Springfield in 1997.
+
+References
+
+1945 births
+Living people
+Naturalized citizens of the United States
+Canadian rock guitarists
+Canadian rock singers
+American rock guitarists
+American rock singers
+American country singers
+American country musicians
+Singers from Toronto"
+14,plume,summarization,prose.full,qwen,4792,wikipedia,14,4,"INT. SCREENPLAY - DAY
+
+NARRATOR (V.O.)
+Yo, check it, La Romana's the scene,  
+A province in the DR, if you know what I mean.  
+Southeast vibes, where the sun's always beamin',  
+Capital city shares the name, ain't no dreamin'.  
+
+FLASHBACK - 1959
+
+NARRATOR (V.O.)
+Back in '59, it got its own groove,  
+From El Seibo it moved, made its own move.  
+Borders El Seibo, La Altagracia, and San Pedro,  
+Caribbean Sea to the south, that's the flow.  
+
+CUT TO: HISTORY MONTAGE
+
+NARRATOR (V.O.)
+In '44, it was La Romana, then Altagracia,  
+But in '61, it got its name back, no fantasia.  
+Guaymate joined in '71, Villa Hermosa in '04,  
+Cumayasa and Caleta, municipal districts galore.  
+
+CUT TO: POPULATION SCENE
+
+NARRATOR (V.O.)
+Population's poppin', cities are the place,  
+231k in towns, urban life's the race.  
+Blacks make up 90%, mulattoes the rest,  
+10th most populated, La Romana's the best.  
+
+CUT TO: GEOGRAPHY SHOT
+
+NARRATOR (V.O.)
+Smallest province, but don't get it twisted,  
+Flat lands, few hills, rivers listed.  
+Chavón, Dulce, and Cumayasa flow,  
+Saona and Catalina, islands on show.  
+
+CUT TO: CLIMATE AND ECONOMY
+
+NARRATOR (V.O.)
+Tropical climate, hot all year,  
+Sugar's the OG, industries here.  
+Zona franca's tax-free, exports on blast,  
+Tourism's booming, beaches unsurpassed.  
+
+FADE OUT.","``` 
+INT. LA ROMANA - DAY
+
+[VOICE-OVER: ME, YOUR TRUSTY NARRATOR]
+
+Yo, welcome to La Romana, a chill spot in the Dominican Republic where history and modern vibes collide. Picture this: it's 1959, and La Romana's just been upgraded from a sidekick municipality to a full-on province. Before that, it was just hanging out as part of El Seibo. But now? It's got its own thing going on.
+
+CUT TO: MAP OF LA ROMANA
+
+[VOICE-OVER]
+
+Geographically speaking, La Romana's got some prime real estate. It's nestled in the southeast, with the Caribbean Sea giving it a high-five to the south. It's got neighbors like El Seibo, La Altagracia, and San Pedro de Macorís. It's like the cool kid on the block with a killer view.
+
+FLASHBACK MONTAGE: HISTORICAL TIMELINE
+
+- 1944: La Romana gets its name, then loses it to La Altagracia, only to reclaim it in '61. Talk about an identity crisis, right?
+- 1971: Guaymate joins the party as a municipality.
+- 2004: Villa Hermosa and Cumayasa step up as municipal districts.
+- 2006: Caleta joins the squad.
+
+[VOICE-OVER]
+
+Fast forward to now, and La Romana's got a population that's poppin'. It's one of those places where city life is the norm, with most folks living in urban areas. And get this, 90% of the peeps here are Black, with the rest mostly being mulattoes. It's a melting pot of culture and history, striving for that sweet equality.
+
+CUT TO: SCENIC SHOTS OF LA ROMANA
+
+[VOICE-OVER]
+
+The land here is mostly flat, with a few low hills just chillin'. The Chavón, Dulce, and Cumayasa rivers flow through, adding some serious zen vibes. And let's not forget the islands of Saona and Catalina, perfect for those beachy getaways.
+
+MONTAGE: ECONOMIC HUSTLE
+
+- Sugar production: The OG industry, still going strong.
+- Zona franca: A tax-free zone where industries are living their best lives.
+- Tourism: Beaches, sun, and fun. Enough said.
+
+[VOICE-OVER]
+
+La Romana's got a tropical climate, meaning it's hot, hot, hot most of the year. But hey, that's just part of its charm. It's a place where history meets hustle, and the journey towards equality is as vibrant as the sunsets over the Caribbean.
+
+FADE OUT.
+```","use informal first-person perspective and narrative elements like voice-over and visual descriptions to emphasize cultural and historical context through storytelling, maintain a modern slang tone throughout, structure the summary in a screenplay format with scene transitions and voice-over narration, include montages or scenes to illustrate the various articles and their implications, and emphasize the goal of equality and the journey towards achieving it.
+",adopt a rhyming structure; include modern slang; write in the style of a screenplay,"La Romana is a province of the Dominican Republic. It is in the southeastern part of the country. Its capital city has the same name, La Romana.
+
+It was created in 1959. It was a municipality of the El Seibo province before being elevated to the category of province.
+
+Location
+La Romana province is in the southeast part of the country. It is bordered to the northwest by the El Seibo province, to the northeast and east by the La Altagracia province and to the west by the San Pedro de Macorís province. The Caribbean Sea is to the south.
+
+History
+The province was created in 1944 with the name of La Romana, with two municipalities: La Romana (the capital city) and Higüey; before that date, it was part of the El Seibo province. But that same year, the name of the province was changed to La Altagracia. Its original name was given back to the province in 1961 when the new La Altagracia province was created.
+
+Guaymate was made a municipality of the province in 1971 and Villa Hermosa in 2004. Cumayasa was made a municipal district in 2004 and Caleta in 2006.
+
+Population
+In  (last national census), there were  people living in the La Romana province, and 231,312 () living in towns and cities; it is one of the few provinces of the country where most of the people lives in cities. The population density was  persons/km², one of the highest in the country.
+
+Its population represents  of the total population of the country and the province is ranked as the 10th (out of 31 plus the National District) more populated province.
+
+, the total estimated propulation of the province is 262,551 inhabitants.
+
+The largest city of the province is La Romana, its head municipality or capital, with a population (in ) of 130,426 inhabitants.
+
+Blacks are the main ethnicity of this providence, at 90% of the population. The rest of the 10% is mostly composed of mulattoes.
+
+Geography
+The La Romana province has a total area of . It has   of the area of the Dominican Republic, one of the smallest province of the country, and it is ranked as the 30th (out of 31 plus the National District) largest province.
+
+The altitude of La Romana, provincial capital, is .
+
+There are only a few low hills in the province and almost all the land is flat. The most important rivers are:
+Chavón, in the eastern border of the province;
+Dulce or La Romana, that crosses the capital city; and
+Cumayasa, in the western border of the province.
+
+The small islands of Saona and Catalina are part of the province.
+
+The main protected area in the province is the Parque Nacional del Este (""Eastern National park"").
+
+Climate
+The climate of the province is a tropical climate, hot most of the year.
+
+Municipalities
+There are 3 municipalities and 2 municipal districts (M.D.) in the province. The municipalities and its municipal districts (M.D.) are:
+
+Economy
+There are several important industries in the province; the oldest and one of the most important is the production of sugar. There is also a very important zona franca (""free zone"" where the industries do not pay taxes and all the production is sent to other countries).
+
+Tourism is very important in the province, around the capital city and with many people going to the beaches in the Saona and Catalina islands.
+
+Related pages
+ Provinces of the Dominican Republic
+ Development regions of the Dominican Republic
+
+References
+
+Provinces of the Dominican Republic
+1944 establishments in North America
+1940s establishments in the Dominican Republic"
+15,plume,summarization,prose.full,qwen,4792,CShorten/ML-ArXiv-Papers,15,0,"Welcome, dear listeners, to another episode of ""The Scrolls of Modern Computation,"" where we unravel the mysteries of the digital realm with a touch of antiquity. Today, we pose a question that hath intrigued the minds of many: Can the discretization of action space truly enhance the prowess of continuous control? 
+
+Lo and behold, the answer is a resounding aye! In this scholarly work, the authors have embarked upon a quest to reveal that discretizing action space is not merely a simple endeavor but a powerful technique for on-policy optimization. But how, thou mayest ask, do they tame the wild beast of exploding discrete actions? Fear not, for they wield a policy with a factorized distribution across action dimensions, a cunning stratagem indeed.
+
+The discrete policy, personified as a valiant knight, doth achieve significant performance gains, jousting alongside state-of-the-art on-policy optimization algorithms such as PPO, TRPO, and ACKTR. Particularly in the realm of high-dimensional tasks with complex dynamics, this knight shines brightly.
+
+Furthermore, the authors introduce an ordinal parameterization of the discrete distribution, a wise sage that encodes the natural ordering between discrete actions. This sage, with its inductive bias, doth further enhance the performance of our noble algorithms, PPO and TRPO.
+
+Thus, dear listeners, we conclude that discretizing action space, with its personified knights and wise sages, doth indeed hold the key to unlocking greater performance in the realm of continuous control. Until next time, may your algorithms be ever efficient and your computations swift.","The article presents a novel approach to continuous control by discretizing the action space, which enhances on-policy optimization. By employing a policy with a factorized distribution across action dimensions, the method efficiently manages the increased number of discrete actions. This discrete policy demonstrates substantial performance improvements with leading on-policy optimization algorithms like PPO, TRPO, and ACKTR, particularly in high-dimensional tasks with intricate dynamics. Furthermore, the introduction of an ordinal parameterization of the discrete distribution adds an inductive bias that respects the natural order of actions, further boosting the performance of PPO and TRPO.",,adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"In this work, we show that discretizing action space for continuous control
+is a simple yet powerful technique for on-policy optimization. The explosion in
+the number of discrete actions can be efficiently addressed by a policy with
+factorized distribution across action dimensions. We show that the discrete
+policy achieves significant performance gains with state-of-the-art on-policy
+optimization algorithms (PPO, TRPO, ACKTR) especially on high-dimensional tasks
+with complex dynamics. Additionally, we show that an ordinal parameterization
+of the discrete distribution can introduce the inductive bias that encodes the
+natural ordering between discrete actions. This ordinal architecture further
+significantly improves the performance of PPO/TRPO."
+16,plume,summarization,prose.full,qwen,4792,CShorten/ML-ArXiv-Papers,16,1,"Welcome, dear listeners, to another episode of ""The Archaic Audio Alchemist,"" where we unravel the mysteries of modern speech synthesis with a touch of ye olde charm. Today, we delve into the curious world of prosody control at the phoneme level. Pray, what sorcery doth this entail, you ask? Let us embark on this quest for knowledge.
+
+Firstly, what manner of method doth this paper propose for controlling prosody, thou inquirest? Verily, it presents a novel approach, eschewing the common variational framework. Instead, it extracts phoneme-level F0 and duration features directly from the speech data, much like a diligent scribe extracting wisdom from ancient tomes.
+
+But how, thou wonderest, are these prosodic features wielded? Ah, they are discretized through unsupervised clustering, akin to a wise sage categorizing the stars in the night sky. This yields a sequence of prosodic labels, which, in harmonious tandem with the phoneme sequence, conditions the decoder through the employment of a prosodic encoder and its trusty companion, the attention module.
+
+And what, pray tell, are the fruits of this endeavor? The experimental results, dear listeners, reveal that this method retains the high quality of generated speech whilst granting the speaker the power to control F0 and duration at the phoneme level. Furthermore, by replacing F0 cluster centroids with musical notes, the model bestows upon the speaker the ability to command the note and octave, much like a maestro conducting an orchestra.
+
+Thus concludes our exploration of this fascinating paper. Join us next time as we continue to traverse the realms of speech synthesis and beyond. Until then, fare thee well, noble listeners!","In the hallowed halls of computational innovation, a novel method emerges, wielding the power to orchestrate the symphony of speech with unparalleled precision. This scholarly manuscript unveils a technique for the meticulous manipulation of prosody at the phoneme echelon within an autoregressive attention-based text-to-speech (TTS) system. Eschewing the conventional path of latent prosodic feature learning through a variational framework, this method embarks upon a direct extraction of phoneme-level fundamental frequency (F0) and duration features from the corpus of speech data, akin to a master artisan extracting the finest threads from a tapestry.
+
+In a dance of data, each prosodic feature undergoes discretization via unsupervised clustering, thus birthing a sequence of prosodic labels for each utterance. This sequence, a veritable partner to the phoneme sequence, conditions the decoder through the harmonious collaboration of a prosodic encoder and its attentive module. The experimental results, akin to a crescendo of triumph, reveal that this proposed methodology not only preserves the pristine quality of generated speech but also bestows the boon of phoneme-level control over F0 and duration.
+
+Moreover, in a flourish of creative ingenuity, the F0 cluster centroids may be supplanted with musical notes, thereby granting the model the ability to modulate the note and octave within the speaker's range. Thus, the system transforms into a maestro, conducting a melodious interplay between technology and artistry, where each phoneme dances to the rhythm of innovation and each utterance sings the song of progress.","incorporate formal language and technical terms, emphasize performance gains and algorithmic improvements, highlight specific examples and use cases, use narrative elements and personification, include rhetorical devices such as alliteration and metaphor, adopt a storytelling approach with archaic language.
+",adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"This paper presents a method for controlling the prosody at the phoneme level
+in an autoregressive attention-based text-to-speech system. Instead of learning
+latent prosodic features with a variational framework as is commonly done, we
+directly extract phoneme-level F0 and duration features from the speech data in
+the training set. Each prosodic feature is discretized using unsupervised
+clustering in order to produce a sequence of prosodic labels for each
+utterance. This sequence is used in parallel to the phoneme sequence in order
+to condition the decoder with the utilization of a prosodic encoder and a
+corresponding attention module. Experimental results show that the proposed
+method retains the high quality of generated speech, while allowing
+phoneme-level control of F0 and duration. By replacing the F0 cluster centroids
+with musical notes, the model can also provide control over the note and octave
+within the range of the speaker."
+17,plume,summarization,prose.full,qwen,4792,CShorten/ML-ArXiv-Papers,17,2,"<summary>
+
+**Host:** Greetings, noble listeners! Today, we embark upon a journey through the realm of algorithms and predictions. Pray, what doth this new framework of algorithms with predictions entail?
+
+**Guest:** Ah, dear host, 'tis a wondrous innovation that seeks to vanquish the shadows of pessimistic worst-case bounds in the land of incomplete information. In the noble pursuit of scheduling, recent scholars have harnessed the power of machine-learned predictions to craft algorithms that boast improved approximation ratios, even when the processing times of tasks remain shrouded in mystery.
+
+**Host:** Verily, a tale most intriguing! But what of this speed-robust scheduling problem thou speakest of?
+
+**Guest:** Indeed, 'tis a conundrum where the speeds of the machines, rather than the tasks' processing times, are veiled in uncertainty. Our quest hath led us to augment this problem with the light of predictions, yielding an algorithm of great prowess.
+
+**Host:** And what be the fruits of thy labor, good scholar?
+
+**Guest:** Our chief triumph is an algorithm that achieves a most commendable approximation, expressed as $\min\{\eta^2(1+\epsilon)^2(1+\alpha), (1+\epsilon)(2 + 2/\alpha)\}$, where $\eta$ is the prediction error, and $\alpha, \epsilon$ are constants within the interval (0,1). When the predictions are true, this approximation surpasses the erstwhile best known of $2-1/m$, where $m$ is the count of machines. Yet, even when predictions falter, it maintains a steadfast worst-case approximation.
+
+**Host:** A marvel indeed! And what of special cases and empirical evaluations?
+
+**Guest:** We have also attained improved approximations for the peculiar cases of equal and infinitesimal job sizes. Furthermore, our algorithm hath been tested against existing algorithms for speed-robust scheduling, and the results are most promising.
+
+**Host:** A tale of triumph and innovation, dear listeners! We thank our esteemed guest for sharing this enlightening discourse. Until next we meet, may your algorithms be ever accurate and your predictions ever true.
+
+</summary>","In the grand tapestry of computational conundrums, dear reader, there emerges a tale of triumph and transformation, where algorithms with predictions gallantly stride forth to vanquish the specter of pessimistic worst-case bounds. Within the realm of scheduling, where the enigmatic essence of unknown processing times once reigned supreme, a new dawn breaks with the advent of machine-learned predictions. These predictions, akin to oracles of old, bestow upon us the power to craft algorithms that boast improved approximation ratios, thus heralding a new era of efficiency.
+
+Our narrative unfolds with the introduction of a novel protagonist: the speed-robust scheduling problem. Herein, the speeds of the machines, shrouded in mystery, are unveiled through the lens of predictions. The algorithmic hero of our tale achieves a remarkable approximation, expressed as $\min\{\eta^2(1+\epsilon)^2(1+\alpha), (1+\epsilon)(2 + 2/\alpha)\}$, where $\alpha$ and $\epsilon$ are constants within the interval (0,1), and $\eta$ represents the prediction error. When the predictions align with reality, this approximation surpasses the erstwhile champion of $2-1/m$, where $m$ denotes the number of machines. Yet, even in the face of erroneous predictions, our algorithm maintains a steadfast worst-case approximation of $(1+\epsilon)(2 + 2/\alpha)$.
+
+To further illuminate the prowess of our algorithm, we delve into specific scenarios, such as the special cases of equal and infinitesimal job sizes, where improved approximations are achieved. Our tale is not without its trials, as we present lower bounds that challenge our algorithmic advancements. Moreover, empirical evaluations serve as the crucible in which our algorithm is tested against its predecessors in the domain of speed-robust scheduling.
+
+As we draw the curtain on this narrative, I invite you, esteemed reader, to ponder the implications of these algorithmic advancements. Engage with this burgeoning field, explore the depths of predictions and scheduling, and perhaps contribute your own insights to this ever-evolving saga. The realm of algorithms awaits your curiosity and creativity.","incorporate formal language and technical terms, emphasize performance gains and algorithmic improvements, highlight specific examples and use cases, adopt a storytelling approach with archaic language and personification, use narrative elements and personification, include rhetorical devices such as alliteration and metaphor, maintain a conversational tone with direct address to the reader, conclude with a call to action or invitation for further engagement.
+",adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"Algorithms with predictions is a recent framework that has been used to
+overcome pessimistic worst-case bounds in incomplete information settings. In
+the context of scheduling, very recent work has leveraged machine-learned
+predictions to design algorithms that achieve improved approximation ratios in
+settings where the processing times of the jobs are initially unknown. In this
+paper, we study the speed-robust scheduling problem where the speeds of the
+machines, instead of the processing times of the jobs, are unknown and augment
+this problem with predictions.
+  Our main result is an algorithm that achieves a
+$\min\{\eta^2(1+\epsilon)^2(1+\alpha), (1+\epsilon)(2 + 2/\alpha)\}$
+approximation, for any constants $\alpha, \epsilon \in (0,1)$, where $\eta \geq
+1$ is the prediction error. When the predictions are accurate, this
+approximation improves over the previously best known approximation of $2-1/m$
+for speed-robust scheduling, where $m$ is the number of machines, while
+simultaneously maintaining a worst-case approximation of $(1+\epsilon)(2 +
+2/\alpha)$ even when the predictions are wrong. In addition, we obtain improved
+approximations for the special cases of equal and infinitesimal job sizes, and
+we complement our algorithmic results with lower bounds. Finally, we
+empirically evaluate our algorithm against existing algorithms for speed-robust
+scheduling."
+18,plume,summarization,prose.full,qwen,4792,CShorten/ML-ArXiv-Papers,18,3,"<summary>
+
+**Host:** Greetings, dear listeners! Today, we embark upon a journey through the arcane realms of mathematics and neural networks. Our quest? To unravel the mysteries of a novel Ordinary Differential Equation (ODE) model. But first, a question to ponder: How doth this new model bridge the chasm between ResNets and non-residual Convolutional Neural Networks (CNNs)?
+
+**Guest Expert:** Ah, a most intriguing inquiry! The answer lies within the heart of the model itself, which hath been imbued with a damping term. This addition, akin to a gentle breeze calming a tempestuous sea, allows the model to transform, nay, to metamorphose into either a ResNet or a CNN by the mere adjustment of an interpolation coefficient.
+
+**Host:** Fascinating! But what of stability, dear expert? How doth this model fare against the capricious whims of stochastic noise and adversarial attacks?
+
+**Guest Expert:** Verily, the Lyapunov analysis, a sage of stability, hath spoken. It reveals that our model, like a steadfast knight, stands resolute against perturbations. This robustness is not mere happenstance but a testament to the model's fortified architecture, which hath been proven through rigorous trials on image classification benchmarks.
+
+**Host:** And what sayest thou of the loss landscape? How doth it appear under the scrutiny of this new method?
+
+**Guest Expert:** Picture, if thou wilt, a landscape smoothed by the gentle hand of time. The loss landscape, under our method's influence, reveals a path less treacherous, offering improved robustness along the attack direction. It is as if the very earth beneath our feet hath been made more sure.
+
+**Host:** A tale of innovation and resilience, indeed! We thank thee, dear expert, for thy insights. Until next time, dear listeners, may your neural networks be ever robust and your equations ever elegant.
+
+</summary>","In the grand tapestry of computational chronicles, dear reader, there emerges a tale of mathematical marvel and algorithmic alchemy. Gather 'round as we delve into the depths of differential equations and their enigmatic dance with the realm of convolutional neural networks (CNNs). 
+
+Once upon a time, in the land of algorithms, there existed a conundrum: the elusive connection between ordinary differential equations (ODEs) and the non-residual convolutional neural networks. Yet, fear not, for our intrepid scholars have conjured a novel ODE model, adorned with a damping term, akin to a gentle breeze tempering the tempestuous seas. This model, a veritable chameleon, can transform into both a ResNet and a CNN by the mere adjustment of an interpolation coefficient, thus weaving a unified framework that bridges the chasm between residual and non-residual networks.
+
+The wise Lyapunov, with his analytical acumen, hath revealed the stability of this model, bestowing upon it the gift of robustness. Indeed, the learned networks, like steadfast sentinels, stand resilient against the onslaught of stochastic noise and adversarial attacks. Behold, the experiments on image classification benchmarks, where the proposed model doth shine, enhancing the accuracy of ResNet and ResNeXt, even when besieged by perturbations.
+
+Moreover, the loss landscape, a treacherous terrain, hath been tamed, demonstrating the model's improved robustness along the attack direction. Thus, dear reader, we invite thee to ponder this tale of innovation and exploration. Engage with this narrative, and perhaps, contribute to the ever-evolving saga of machine learning. Let us embark on this journey together, for the realm of algorithms awaits your curiosity and creativity.","incorporate formal language and technical terms, emphasize performance gains and algorithmic improvements, highlight specific examples and use cases, adopt a storytelling approach with archaic language and personification, use narrative elements and personification, include rhetorical devices such as alliteration and metaphor, maintain a conversational tone with direct address to the reader, conclude with a call to action or invitation for further engagement, structure content in a dialogue format, adopt a storytelling approach with archaic language.
+",adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"Although ordinary differential equations (ODEs) provide insights for
+designing network architectures, its relationship with the non-residual
+convolutional neural networks (CNNs) is still unclear. In this paper, we
+present a novel ODE model by adding a damping term. It can be shown that the
+proposed model can recover both a ResNet and a CNN by adjusting an
+interpolation coefficient. Therefore, the damped ODE model provides a unified
+framework for the interpretation of residual and non-residual networks. The
+Lyapunov analysis reveals better stability of the proposed model, and thus
+yields robustness improvement of the learned networks. Experiments on a number
+of image classification benchmarks show that the proposed model substantially
+improves the accuracy of ResNet and ResNeXt over the perturbed inputs from both
+stochastic noise and adversarial attack methods. Moreover, the loss landscape
+analysis demonstrates the improved robustness of our method along the attack
+direction."
+19,plume,summarization,prose.full,qwen,4792,CShorten/ML-ArXiv-Papers,19,4,"Welcome, dear listeners, to another enlightening episode of ""The Quest for Knowledge,"" where we unravel the mysteries of the modern world with a touch of the olden days. Today, we embark upon the intriguing realm of Multi-Goal Reinforcement Learning. 
+
+Pray, what doth this entail, thou asketh? Imagine, if thou wilt, an agent, akin to a valiant knight, striving to conquer not one, but a multitude of quests. This gallant agent employs a goal-conditioned policy, a map of sorts, to navigate its many challenges. But how doth it learn, thou ponder? The agent, much like a scribe, collects its journeys into a tome known as the replay buffer. Yet, herein lies a conundrum: these tales are oft skewed towards the whims of its guiding policies.
+
+From the vantage of a wise sage, or Bayesian perspective, when the agent is bereft of foreknowledge regarding its ultimate quests, it ought to glean wisdom from a tapestry of diverse achievements. Thus, the scholars propose a novel objective, one that is woven with the threads of weighted entropy. This noble aim doth urge the agent to not only seek the highest rewards but also to embrace a variety of goals.
+
+But how, thou inquire, is this lofty objective attained? Enter the maximum entropy-based prioritization framework, a trusty steed to optimize this grand pursuit. Forsooth, the scholars did test this framework upon the multi-goal robotic tasks of the OpenAI Gym, employing the Deep Deterministic Policy Gradient, with and without the aid of Hindsight Experience Replay. The results, dear listeners, were most promising, showing improvements in both performance and the efficiency of samples.
+
+Thus, we conclude our tale for today, leaving thee with much to ponder upon the wonders of Multi-Goal Reinforcement Learning. Until next we meet, fare thee well on thy own quests for knowledge.","In the grand tapestry of Multi-Goal Reinforcement Learning, dear reader, we find ourselves amidst a tale of innovation and algorithmic alchemy. Picture, if you will, an agent, a noble entity tasked with the pursuit of myriad goals, each a beacon of potential achievement. This agent, through the arcane art of goal-conditioned policy, embarks upon a journey, collecting trajectories as a traveler gathers tales, storing them within the hallowed halls of the replay buffer.
+
+Yet, lo and behold, a conundrum arises! The achieved goals, like wayward stars, are oft biased towards the behavior policies, casting a shadow upon the agent's learning path. From the venerable perspective of Bayesian wisdom, when the target goal distribution remains shrouded in mystery, the agent must learn from a diverse array of achieved goals, akin to a scholar perusing a library of varied tomes.
+
+Enter the sage architects of this narrative, who propose a novel multi-goal RL objective, a veritable elixir based on weighted entropy. This objective, dear interlocutor, is designed to embolden the agent to maximize its expected return whilst embracing a cornucopia of diverse goals. Furthermore, a maximum entropy-based prioritization framework is conjured to optimize this objective, a framework that stands as a testament to the ingenuity of its creators.
+
+To evaluate this framework, the experts, those wise custodians of knowledge, have combined it with the Deep Deterministic Policy Gradient, both with and without the mystical Hindsight Experience Replay. Upon the stage of OpenAI Gym's multi-goal robotic tasks, our method, like a valiant knight, is pitted against other baselines, demonstrating promising improvements in both performance and sample-efficiency.
+
+Thus, dear reader, as we conclude this tale of algorithmic advancement, we invite you to delve deeper into this realm of reinforcement learning. Engage with the experts, explore the intricacies of this framework, and perhaps, contribute your own insights to this ever-evolving narrative. The journey of discovery awaits, and the call to action is yours to heed.","incorporate formal language and technical terms, emphasize performance gains and algorithmic improvements, highlight specific examples and use cases, adopt a storytelling approach with archaic language and personification, use narrative elements and personification, include rhetorical devices such as alliteration and metaphor, maintain a conversational tone with direct address to the reader, conclude with a call to action or invitation for further engagement, structure content in a dialogue format, emphasize the role of experts and their insights, adopt a storytelling approach with archaic language
+",adopt a question-answering style structure; include personifications; use archaic language; write in the style of a podcast,"In Multi-Goal Reinforcement Learning, an agent learns to achieve multiple
+goals with a goal-conditioned policy. During learning, the agent first collects
+the trajectories into a replay buffer, and later these trajectories are
+selected randomly for replay. However, the achieved goals in the replay buffer
+are often biased towards the behavior policies. From a Bayesian perspective,
+when there is no prior knowledge about the target goal distribution, the agent
+should learn uniformly from diverse achieved goals. Therefore, we first propose
+a novel multi-goal RL objective based on weighted entropy. This objective
+encourages the agent to maximize the expected return, as well as to achieve
+more diverse goals. Secondly, we developed a maximum entropy-based
+prioritization framework to optimize the proposed objective. For evaluation of
+this framework, we combine it with Deep Deterministic Policy Gradient, both
+with or without Hindsight Experience Replay. On a set of multi-goal robotic
+tasks of OpenAI Gym, we compare our method with other baselines and show
+promising improvements in both performance and sample-efficiency."
+20,plume,summarization,prose.full,qwen,4792,imdb,20,0,"Ladies and gentlemen, gather 'round, gather 'round, for a tale of twists and turns, a veritable rollercoaster of romance and hilarity! Picture this: Paul, our hapless hero, a man of modest ambition, finds himself betrothed to the meticulous Karen, a lady of lists and ledgers, who picks his ties and ticks his tocks. But oh, the plot thickens like a fine stew at the bachelor bash! A night of revelry, a clink-clink of glasses, and whoosh! Paul finds himself in the company of the enchanting Becky, a dancer with a twinkle in her eye and a shimmy in her step. The morning sun peeks through the curtains, and lo and behold, a ring-a-ding-ding from Karen sends Paul into a tizzy! Out goes Becky, but alas, her undergarments remain, a silent witness to the night's escapades.
+
+But wait, dear listeners, the plot doth thicken! At a dinner soiree, amidst the clatter of cutlery and the murmur of polite conversation, Paul spies Becky once more, a cousin to his beloved Karen! Oh, the calamity! The poor lad, caught in a web of his own weaving, retreats to the porcelain sanctuary, feigning a bellyache to escape the impending doom. Will Karen uncover the truth? Will the underpants be the undoing of our underdog?
+
+Fear not, for this cinematic caper is a riotous romp, a chuckle-inducing charmer that promises to lift the spirits and tickle the funny bone. With Jason Lee's comedic flair, Julia Stiles' captivating charm, and Selma Blair's pitch-perfect portrayal of a persnickety paramour, this film is a feast for the senses. The costumes dazzle, the California sun shines bright, and the script, oh the script, is a masterstroke of mirth and merriment. So, dear audience, if your day is dreary and your mood is glum, let this film be your remedy, a guaranteed giggle-fest to turn that frown upside down. Tune in, turn on, and let the laughter commence!","Paul, played by Jason Lee, is an underachiever engaged to the controlling Karen, portrayed by Selma Blair. After a wild bachelor party, Paul wakes up next to a dancer named Becky, played by Julia Stiles, with whom he shares an innocent night. Chaos ensues when Karen, who is on her way to Paul's apartment, calls, prompting Paul to hurriedly usher Becky out, leaving behind her underpants. The plot thickens at a family dinner when Paul discovers Becky is Karen's cousin, leading him to feign illness to avoid confrontation. The film is praised for its humor, with standout performances by Lee, Stiles, and Blair, and a supporting cast including James Brolin and Julie Haggerty. Set against beautiful California backdrops, the movie is lauded for its imaginative script and comedic flair, promising to uplift viewers despite not being Oscar material.",,write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"Paul (Jason Lee) is an underachiever who just happens to be engaged to a type-A princess named Karen (Selma Blair). She chooses his clothes and his daily schedule. At his bachelor party, Paul gets a little too drunk and somehow ends up taking a pretty dancer named Becky (Julia Stiles) back to his digs. ""Nothing happened"", as they say, but the duo do wake up in the same bed. Suddenly Karen telephones. She's on her way to Paul's apartment. Understandably, Paul hustles Becky out of the place, although her underpants are left behind. But, there is even more fun ahead. At a family dinner at Karen's parents' home, Paul runs smack into Becky again, learning that she is Karen's cousin. Talk about some explaining to do! But, instead, Paul chooses to feign a stomach problem and hides out in the bathroom. Will Karen ever find out that Becky spent the night at Paul's place? And, what will be the consequences? I'm sorry for critics who pan movies like this. They should definitely lighten up, for this film is fresh and fun. Of course, it doesn't hurt matters that Lee is a consummate funny man, Stiles is a charming beauty or that Blair is a natural as a pretty but anal fiancée. The rest of the cast, including James Brolin and Julie Haggerty, is also quite nice. The look of the film is wonderful, as are the costumes and California settings. Best of all, the script is imaginative and inspired, creating big laughs for the audience. In short, if you want to tickle the proverbial funnybones, get this movie tonight. It may not be Academy Award material but it is absolutely guaranteed to turn a bad day into a darn good one."
+21,plume,summarization,prose.full,qwen,4792,imdb,21,1,"Ladies and gentlemen, gather 'round, gather 'round, as we dive into the swirling, whirling world of THE GOOD EARTH, a cinematic tapestry woven with threads of drama and destiny! Picture this: a captain, stern and resolute, stands before a restless mob, his voice a crackling whip, snap! snap! apologizing for the lack of time to shoot more looters, as duty calls him back to the front lines. And there, in the eye of the storm, is O-Lan, the former kitchen slave girl, her fate hanging by a thread, played with haunting grace by Luise Rainer, who, at the tender age of 99, still shines like a beacon in the night.
+
+The scene shifts, and we find O-Lan, steadfast and silent, delivering her bag of looted jewels to her husband, Wang Lung, a farmer with dreams as vast as the fields he tills. But oh, the irony! As his pockets grow heavy with wealth, his soul grows light, a feather caught in the winds of moral decline. The air is thick with the scent of ambition and decay, a heady brew that intoxicates and ensnares.
+
+And what a tale it is, dear listeners, a tale of slavery and salvation, of false accusations and fierce loyalty, of starvation and survival. The plot twists and turns like a river in flood, sweeping us along through home invasions and heartaches, through the gnashing teeth of civil war and the quiet despair of infanticide. Yet, amidst the chaos, there is warmth, a flickering flame of hope that refuses to be extinguished.
+
+As we bid farewell to this saga, let us ponder the words of O-Lan, wise and weary, as she retrieves the precious soup bone from the dirt, her voice a soft murmur in the gathering gloom: ""Meat is meat."" A simple truth in a world gone mad, a reminder that even in the darkest times, sustenance and survival go hand in hand. So, tune in next time, folks, for more tales of triumph and tribulation, right here on your favorite old-timey radio show!","In the bustling, chaotic world of *The Good Earth*, where drama dances with destiny, we find ourselves amidst a whirlwind of emotions and events! Picture this: a Chinese revolutionary captain, with a voice as sharp as a sword, apologizes to a mob for not having time to shoot more looters—oh, the irony! The next looter in line? None other than the resilient O-Lan, a former kitchen slave girl, whose portrayal by Luise Rainer earned her a second Oscar! Bravo!
+
+As the plot thickens, O-Lan, with a heart as heavy as her bag of looted jewels, presents her treasure to her husband, Wang Lung. Ah, Wang Lung! A farmer whose financial fortunes rise as his morals tumble—like a seesaw of sin and success! The jewels glisten, but his gratitude? As scarce as hen's teeth!
+
+Now, dear reader, brace yourself for a rollercoaster of calamities! Slavery, starvation, and even insect invasions of biblical proportions buzz through the narrative. Yet, amidst this cacophony of chaos, the film remains surprisingly heartwarming—like a warm hug from a porcupine!
+
+And as we bid adieu, let us savor O-Lan's parting wisdom, delivered with a twinkle in her eye: ""Meat is meat."" A statement as simple as it is profound, echoing through the ages like a culinary conundrum! So, there you have it—a tale of trials, treasures, and timeless truths, wrapped in a package of poignant paradoxes!","use vivid, colorful, and detailed sensory language with emotional and physical reactions, incorporate rhetorical devices like repetition, personification, alliteration, and onomatopoeia, maintain a lighthearted and humorous tone throughout, and enhance narrative with dramatic pauses and exclamations.
+",write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"The quote I used for my summary occurs about halfway through THE GOOD EARTH, as a captain of a Chinese revolutionary army (played by Philip Ahn) apologizes to a mob for not having time to shoot MORE of the looters among them, as his unit has just been called back to the front lines. Of course, the next looter about to be found out and shot is the main character of the film, the former kitchen slave girl O-Lan (for whose portrayal Luise Rainer, now 99-years-old, won her second consecutive best actress Oscar).<br /><br />The next scene finds O-Lan dutifully delivering her bag of looted jewels to her under-appreciative husband, farmer Wang Lung (Paul Muni), setting in motion that classic dichotomy of a man's upward financial mobility being the direct inverse of his moral decline.<br /><br />For a movie dealing with subject matter including slavery, false accusations, misogyny, starvation, home invasion, eating family pets, mental retardation, infanticide, exploited refugees, riots, civil war, summary mass street executions, bigamy, child-beating, adultery, incest, and insect plagues of biblical proportions, THE GOOD EARTH is a surprisingly heart-warming movie.<br /><br />My parting thought is in the form of another classic quote, from O-Lan herself (while putting the precious soup bone her son has just admitted stealing from an old woman back into the cooking pot after husband Wang Lung had angrily tossed it to the dirt floor on the other side of their hut): ""Meat is meat."""
+22,plume,summarization,prose.full,qwen,4792,imdb,22,2,"Ladies and gentlemen, gather 'round, gather 'round, as we dive into the flickering world of celluloid dreams and dashed hopes! Picture this: a film that promised the moon and stars, with Hope Davis shining like a beacon in the night, her talent a lighthouse guiding us through the stormy seas of cinema. But alas, dear listeners, the ship hit the rocks with a resounding crash, bang, boom! The direction, oh the direction, was like a wayward breeze, leading us into the murky waters of daydream sequences that swirled and twirled but never quite landed. Denis Leary, the alter ego, a shadowy figure lurking in the corners, but oh, it just didn't click, didn't clack, didn't snap into place.
+
+Imagine, if you will, a plot that meanders like a lazy river, characters adrift, never quite reaching the shores of transformation. The journey, dear friends, was more of a stroll in circles, leaving us yearning for a crescendo, a climax, a destination that never came. And the editing, oh the editing, a sagging middle like a deflated soufflé, leaving us yawning and stretching in our seats, waiting for the spark, the sizzle, the pop that never arrived.
+
+But hark! The acting, the acting was a silver lining in this cloudy sky, a beacon of consistency in a sea of mediocrity. Yet, despite the valiant efforts of the cast, the film, dear listeners, failed to rise to the occasion, leaving us with a tale of what could have been, a cinematic symphony that played all the wrong notes. And so, we bid adieu to this celluloid dream, with a tip of the hat and a wistful sigh, until next time, when the reels spin anew!","In the grand tapestry of cinema, where characters should dance and dazzle, this film, alas, falters and flounders! Picture, if you will, a stage set for a symphony of storytelling, yet what unfolds is a cacophony of confusion. The direction, dear reader, is akin to a ship adrift in a sea of daydreams, with Denis Leary's character popping up like a jack-in-the-box, an alter ego that echoes but does not enchant. Oh, how it might have thrived upon the boards of a theater, where the whispers of the past and the echoes of the future could have mingled in melodious harmony!
+
+The plot, oh the plot! It meanders like a river without a destination, leaving our characters stranded upon the shores of stagnation. One longs for a journey, a transformation, a metamorphosis! Yet, they remain as static as statues, untouched by the winds of change. The editing, too, is a sluggish serpent, slithering through the middle with a sag so soporific, it could lull even the most ardent cinephile into a slumber.
+
+And yet, amidst this muddle, the actors shine like stars in a cloudy sky, their performances a beacon of brilliance in an otherwise dim domain. Hope Davis, with her talent as timeless as the tales of yore, stands tall amidst the tumult.
+
+In the words of the immortal bard, ""All the world's a stage,"" but this film, dear friends, is a stage where the players have forgotten their lines. Let us reflect with a chuckle and a cheer, for even in folly, there is a lesson to be learned: ""To err is human, to forgive, divine."" Onward, to brighter cinematic shores!","use vivid, colorful, and detailed sensory language with emotional and physical reactions, incorporate rhetorical devices like repetition and onomatopoeia, enhance narrative with dramatic pauses and exclamations, include historical and cultural context, add a theatrical flair with archaic language and metaphors, emphasize storytelling with a sense of drama and destiny, conclude with memorable quotes and reflections, maintain a lighthearted and humorous tone throughout the summary, frequently employ alliteration and onomatopoeia.
+",write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"I tend to like character-driven films. I also think Hope Davis turns in consistently good work, so I had high hopes for this movie. Those hopes were soon dashed.<br /><br />The main flaw with this movie is the direction. There are a lot of scenes that are daydream sequences. The movie makes frequent use of the Denis Leary character as the alter ego of the Campbell Scott character. It doesn't work for me at all. This would have worked better as a play than a movie.<br /><br />There are problems with the plot as well. It is important that the characters in a movie take a journey and end up in a place different from where they started. I didn't feel that the characters grew in the experiences portrayed in the movie.<br /><br />Finally, the editing wasn't well done, either. There was a very big sag in the middle of the movie that was exceptionally boring.<br /><br />Except for acting, which I felt was consistently strong, this movie failed in almost every aspect of cinema."
+23,plume,summarization,prose.full,qwen,4792,imdb,23,3,"Ladies and gentlemen, gather 'round, gather 'round, as we dive into the swirling, whirling world of ""A Thief in the Night,"" a cinematic gem from the days of yore, the 1970s to be precise, where the film reels clickety-clack and the projectors hum with anticipation. Picture this: a young lass named Patty Myers, cynical as a cat in a rainstorm, living life with a carefree whistle, until—bam!—the rapture strikes like a bolt from the blue, snatching her husband and friends into the ether, leaving her in a world turned topsy-turvy. 
+
+Now, some folks, bless their hearts, say these flicks are frightful, scaring the bejeebers out of them, pushing them into the arms of the Almighty. But hark! Our narrator, a sprightly thirteen-year-old, scoffs at such notions, declaring these tales a delightful romp through the end times, a low-budget marvel that tickles the imagination without breaking the bank. 
+
+Imagine, if you will, the world around Patty, a kaleidoscope of believers and non-believers, a tapestry of faith and doubt, where the air crackles with the tension of the unseen. The film, dear listeners, is not just a tale of tribulation but a mirror reflecting the choices we make, the paths we tread. So, before you dismiss it with a huff and a puff, give it a whirl, let it spin its yarn, and perhaps, just perhaps, you'll find a nugget of truth amidst the celluloid shadows. Trust your instincts, dear audience, for something new is always afoot in the world of cinema.","Ah, dear reader, gather 'round and lend me thine ears, for I shall regale thee with the tale of ""A Thief in the Night,"" a cinematic spectacle that hath stirred the souls of many! Picture, if you will, the vibrant, vivid hues of the 1970s—a time when bell-bottoms boogied and disco dazzled. Amidst this kaleidoscope of culture, a film emerged, a film that dared to delve into the depths of destiny and the divine!
+
+Behold, the story of Patty Myers, a young lass with a heart as skeptical as a cat in a room full of rocking chairs. She lived her life with a carefree cadence, until—BAM!—the rapture struck like a bolt from the blue, whisking away her husband and friends in a whirlwind of prophecy and pandemonium! Oh, the drama! Oh, the destiny! Left behind, Patty finds herself in a world turned topsy-turvy, where faith and fear dance a delicate duet.
+
+Now, dear reader, some naysayers—nay, whiners!—have bemoaned this film, claiming it frightened them into faith. But hark! Methinks they protest too much! Forsooth, ""A Thief in the Night"" is not merely a tale of terror, but a tapestry of truth, woven with threads of simplicity and sincerity. Its low-budget charm is but a whisper in the wind, a gentle reminder of the era from whence it came.
+
+And lo, as the film unfolds, we see Patty's world unravel, her heart heavy with the weight of what was lost. Yet, in this crucible of crisis, she finds clarity—a chance to re-embrace the light she once shunned. 'Tis a tale as old as time, a reminder that sometimes, the greatest revelations come in the darkest of nights.
+
+So, dear reader, do not dismiss this delightful drama without a glance! For as the bard once said, ""All the world's a stage,"" and ""A Thief in the Night"" is a performance not to be missed. Trust thine instincts, embrace the unknown, and remember: ""The only thing we have to fear is fear itself!"" With a wink and a nod, I bid thee farewell, until our paths cross again in the realm of storytelling!","use vivid, colorful, and detailed sensory language with emotional and physical reactions, incorporate rhetorical devices like repetition and onomatopoeia, enhance narrative with dramatic pauses and exclamations, emphasize storytelling with a sense of drama and destiny, conclude with memorable quotes and reflections, maintain a humorous and conversational tone throughout the summary, frequently employ alliteration and onomatopoeia, include historical and cultural context, add a theatrical flair with archaic language and metaphors.
+",write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"A Thief in the Night has got to be the best out of all the end times thrillers. I have no clue what people are complaining about what people are whining about when they say that these movies scared them into accepting God. They just needed to find an excuse and blamed A Thief In The Night. Do not listen! These movies do not only tell of one of the many possibilities of the tribulation, but they're also fun to watch in their simplicity. They are in fact low-budget and that is a little obvious, but not all too obvious upon first viewing. I had no clue because I really assumed that a lot of movies like these made in the 70's included low-budgets all the time.<br /><br />A Thief in the night tells the story of young and cynical Patty Myers who lives for what comes her way, until her husband, and nearly all her friends disappear in the prophetic rapture everyone warned her about. At first, the movie isn't all based around her until the rapture happens. What it leads up to are showing that everyone else around her are becoming christians and believing in Christ, which is usually what happens to a lot of people. Everyone around them they once knew and loved will be gone forever, and the one who is left behind is the one who blames everyone but themselves. No one can ever blame themselves because they're always right.<br /><br />Just like these whiners who complain about the movie. These people must be full grown adults. I'm thirteen, and you don't see me whining, especially since I was exactly like Patty before I re-accepted Christ into my heart. For those who haven't seen it, if you want a little bit of everything tossed into a Christian movie instead of stereo-typical everyone else is wrong movies, than you'll enjoy A Thief In The Night. Don't knock it before you try it. Something new is always good. Trust your own instincts."
+24,plume,summarization,prose.full,qwen,4792,imdb,24,4,"Ladies and gentlemen, gather 'round, gather 'round, for a tale that crackles and pops like the static of an old-timey radio broadcast! Picture this: the sultry, shadowy world of Giallo, where the air is thick with suspense and the scent of danger wafts through the cobblestone streets of Athens. Our story begins with a bang—BOOM!—a plane crash that sends ripples through the life of one Lisa Baumer, the widow with a secret, her eyes glinting like polished silver dollars. Her husband, a big shot businessman, leaves behind a cool million in life insurance, and oh, the plot thickens like a rich, dark espresso.
+
+Enter Peter Lynch, the insurance investigator with a nose for trouble, sniffing out the truth like a bloodhound on the scent. But wait! There's more! A masked killer lurks in the shadows, their presence as chilling as a midnight breeze. Whoosh! The plot twists and turns, a rollercoaster of intrigue and deception, with red herrings flapping like flags in the wind.
+
+And who could forget the dazzling Cléo Dupont, the journalist with a pen as sharp as a dagger, joining forces with Lynch to unravel the mystery? Together, they dance through the labyrinth of lies, their footsteps echoing like the tap-tap-tap of a typewriter in a smoky newsroom.
+
+But hush now, dear listeners, for to reveal more would spoil the delicious tension that hangs in the air like a suspenseful symphony. Suffice it to say, this Giallo tale is a feast for the senses, with a score by Bruno Nicolai that hums and thrums in your mind long after the final curtain falls. So tune in, turn up the volume, and let the drama unfold in this first-rate thriller that will keep you on the edge of your seat!","Ah, dear reader, gather 'round and lend me thine ears, for I shall regale thee with a tale of treachery, tumult, and tantalizing twists! Picture, if you will, the vibrant, sun-drenched streets of Athens, Greece, where the air is thick with the scent of olives and intrigue. Our story begins with the beguiling Lisa Baumer, played by the enchanting Ida Galli, whose life takes a tumultuous turn when her husband, a titan of industry, meets his untimely demise in a plane crash—boom! Just like that, a million-dollar insurance windfall lands in her lap, raising eyebrows and suspicions alike.
+
+But lo! The plot thickens! Enter Peter Lynch, the dashing insurance investigator portrayed by George Hilton, who, with a twinkle in his eye and a spring in his step, embarks on a quest to unravel the mystery. Yet, dear audience, beware! For lurking in the shadows is the sinister specter of a masked killer, whose presence sends shivers down the spine and sets hearts racing with fear and fascination.
+
+As the drama unfolds, Lynch finds himself entangled in a web of deceit and danger, aided by the alluring Cléo Dupont, a journalist with a nose for news and a penchant for peril. Together, they navigate a labyrinth of lies and red herrings, each more plausible than the last, in a dance of destiny that keeps us on the edge of our seats.
+
+And what of the music, you ask? Ah, the melodious maestro Bruno Nicolai weaves a score so catchy, so captivating, that it lingers in the mind long after the final curtain falls. A symphony of suspense, if you will, that echoes through the annals of Giallo history.
+
+In the end, dear friends, as the dust settles and the truth is revealed, we are left with a reflection on the capricious nature of fate and fortune. As the bard once mused, ""All the world's a stage, and all the men and women merely players."" So, let us revel in the drama, the destiny, and the delightful dance of deception that is this first-rate Giallo. Until next time, keep your wits sharp and your hearts open to the wonders of the world!","use vivid, colorful, and detailed sensory language with emotional and physical reactions, incorporate rhetorical devices like repetition and onomatopoeia, enhance narrative with dramatic pauses and exclamations, emphasize storytelling with a sense of drama and destiny, conclude with memorable quotes and reflections, maintain a humorous and conversational tone throughout the summary, frequently employ alliteration and onomatopoeia, include direct addresses to the audience, maintain a balance between serious and lighthearted tones, include historical and cultural context, add a theatrical flair with archaic language and metaphors.
+",write using a stream-of-consciousness style; include onomatopoeias; use imagery; write in the style of old timey radio,"Lisa Baumer (Ida Galli) is the adulteress wife of a big businessman who inherits $1million life insurance when her husband is killed in a plane crash while on a business trip.initially she is suspected of being responsible as her husbands will had recently been changed and so she has an insurance investigator Peter Lynch (George Hilton)and an Interpol agent on her tail just to be sure. Baumer travels to Athens, Greece to cash in her inheritance, but insists on having it in cash...a dangerous turn of events. Lynch who's identity is now known to Baumer tries to protect her against a lover of her husband Lara Florakis who nevertheless along with her henchman Sharif tries to kill them both for a share of the money that she deems she is entitled to. And this is where our Masked killer starts his/her brutal killings. Lynch as is customary with our hero is at first suspected by the Greek Police and is warned not to leave Athens by Police Inspector Stavros(Luigi Pistilli a familiar face in Giallo and Spaghettis). Lynch is then aided by the gorgeous Cléo Dupont (Anita Strindberg) a local journalist who helps him investigate the killings.To say any more could ruin the film for anyone who has not seen it, so suffice to say there are enough red herrings and most of them plausible to keep Mystery/Thriller fans happy in this story driven Giallo.The No Shame DVD has a superb transfer with both English and Italian soundtrack. It also has a very catchy score just for good measure by Bruno Nicolai that will stay in your head for a while....all in all a first rate Giallo."
